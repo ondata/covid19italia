@@ -115,5 +115,5 @@ mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinc
 
 # commit e push
 
-#git add .
-#git commit -am "update"
+git add .
+git commit -am "update"
