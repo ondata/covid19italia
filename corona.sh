@@ -111,3 +111,9 @@ mlr --csv join --ul -j provincia -f "$folder"/publication/provinceArchivio.csv t
 cp "$folder"/processing/tmp.csv "$folder"/publication/provinceArchivioISTAT.csv
 
 mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinceArchivioISTAT.csv
+
+
+# commit e push
+
+git add .
+git commit -am "update"
