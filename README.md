@@ -8,7 +8,7 @@ I file sono aggiornati dalla Protezione Civile ogni giorno intorno alle 18:00.
 
 # Nota
 
-Questo sistema potrebbe smettere di funzionare da subito, dopo una modifica che verrà effettuata dai gestori del sito della Protezione Civile.
+Questo sistema potrebbe smettere di funzionare da subito, dopo una modifica effettuata dai gestori del sito della Protezione Civile.
 
 Questa è l'occasione per **chiedere** anche noi **al Ministero della Sanità e alla Protezione Civile di produrre** - oltre a questi necessari file PDF pensati per fare la dovuta e utile rassegna stampa - dei file e/o dei servizi in formato ***machine readable***, con **licenza aperta**, certificati, **completi**, il più possibile **disaggregati**, **aggiornati** e con lo **storico** dei dati nel tempo.
 
