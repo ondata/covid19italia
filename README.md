@@ -14,7 +14,7 @@ Questa è l'occasione per **chiedere** anche noi **al Ministero della Sanità e 
 
 # Output
 
-## File CSV con i dati per provincia
+## File CSV con i dati per provincia (i contagiati)
 
 Dai dati pubblicati ogni giorno, viene prodotto un archivio, con i dati dei vari giorni. Il primo giorno di cui abbiamo raccolto i dati è 2 marzo 2020.
 
