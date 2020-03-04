@@ -16,7 +16,7 @@ Questa è l'occasione per **chiedere** anche noi **al Ministero della Sanità e 
 
 ## File CSV con i dati per provincia
 
-Dai dati pubblicati ogni giorno, viene prodotto un archivio, con i dati dei vari giorni. Il primo giorno di cui abbiamo raccolto i dati è 2 febbraio 2020.
+Dai dati pubblicati ogni giorno, viene prodotto un archivio, con i dati dei vari giorni. Il primo giorno di cui abbiamo raccolto i dati è 2 marzo 2020.
 
 Il file è [questo](./publication/provinceArchivio.csv) e la struttura è quella di sotto:
 
@@ -40,7 +40,7 @@ Ne viene prodotta pura [una copia](./publication/provinceArchivioISTAT.csv) con 
 
 ## File CSV con i dati riepilogo
 
-Dai dati pubblicati ogni giorno, viene prodotto un archivio con i dati dei vari giorni. Il primo giorno di cui abbiamo raccolto i dati è 2 febbraio 2020.
+Dai dati pubblicati ogni giorno, viene prodotto un archivio con i dati dei vari giorni. Il primo giorno di cui abbiamo raccolto i dati è 2 marzo 2020.
 
 Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quella di sotto:
 
