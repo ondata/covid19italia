@@ -1,4 +1,4 @@
 tmp*.*
-*.pdf
 rawdata/downloadList
+rawdata/*.pdf
 processing/downloadList.tsv
