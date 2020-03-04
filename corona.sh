@@ -36,7 +36,8 @@ esempioOutput
 # scarica i PDF
 while IFS=$'\t' read -r URL nome rawname; do
   curl -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36' "$URL" >"$folder"/rawdata/"$nome"
-  cp "$folder"/rawdata/"$nome" "$folder"/pdfArchive/"$rawname".pdf
+  datetime=$(date --iso-8601)
+  cp "$folder"/rawdata/"$nome" "$folder"/pdfArchive/"$datetime"_"$rawname".pdf
 done <"$folder"/processing/downloadList.tsv
 
 # estrai tabelle da PDF province
