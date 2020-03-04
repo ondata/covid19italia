@@ -4,9 +4,13 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 set -x
 
-<<commento
-curl -sL "http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/" | scrape -be "//div/a[contains(text(),'provincia (pdf)') or contains(text(),'nazionale (pdf)')]" | xq -r '("http://www.protezionecivile.gov.it" + .html.body.a[]."@href")' | sed -r 's/(.+)(\/.+)$/\1/g'
-commento
+### requisiti ###
+# Miller https://github.com/johnkerl/miller
+# camelot https://camelot-py.readthedocs.io/
+# csvmatch https://github.com/maxharlow/csvmatch
+# yq https://github.com/kislyuk/yq
+# scrape-cli https://github.com/aborruso/scrape-cli
+### requisiti ###
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
