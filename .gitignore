@@ -2,3 +2,4 @@ tmp*.*
 rawdata/downloadList
 rawdata/*.pdf
 processing/downloadList.tsv
+processing/*-page-*.csv
