@@ -54,7 +54,7 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 ## Archivio dei PDF pubblicati
 
-A partire dal 2 febbraio 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
+A partire dal 2 marzo 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
 
 ## Archiviazione automatica su Web Archive
 
