@@ -66,6 +66,10 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 - <http://www.salute.gov.it/portale/nuovocoronavirus/archivioComunicatiNuovoCoronavirus.jsp>
 - <http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa>
 
+# Dati accessori di riferimento
+
+- "Elenco dei codici e delle denominazioni delle unità territoriali", di ISTAT <https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip>
+
 # Altri progetti a tema
 
 Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
