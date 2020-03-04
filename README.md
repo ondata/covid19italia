@@ -65,3 +65,10 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 - <http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto>
 - <http://www.salute.gov.it/portale/nuovocoronavirus/archivioComunicatiNuovoCoronavirus.jsp>
 - <http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa>
+
+# Altri progetti a tema
+
+Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
+
+- COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy/tree/develop/plots>
+- ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
