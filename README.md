@@ -1,3 +1,13 @@
+- [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
+- [Nota](#nota)
+- [Output](#output)
+  - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
+  - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
+  - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
+- [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
+- [Dati accessori di riferimento](#dati-accessori-di-riferimento)
+- [Altri progetti a tema](#altri-progetti-a-tema)
+
 # Cosa c'è in questo repo
 
 Alla data del 4 marzo 2020 - dopo circa 15 giorni dal primo caso "italiano" - **non c'è** in **Italia** una **fonte** ufficiale che pubblichi i dati in modalità ***machine readable***.
@@ -56,7 +66,7 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 A partire dal 2 marzo 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
 
-## Archiviazione automatica su Web Archive
+# Archiviazione automatica su Web Archive
 
 A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sottostanti e degli URL che ciascuna contiene (quindi anche dei PDF citati sopra):
 
