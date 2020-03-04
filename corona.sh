@@ -96,3 +96,14 @@ mlr -I --csv put -S '
 rm "$folder"/processing/tmp_province*.csv
 rm "$folder"/publication/tmp*.csv
 
+# aggiungi codici ISTAT province
+
+csvmatch -i -a -n "$folder"/publication/provinceArchivio.csv "$folder"/risorse/provinceNomiSensuProtCiv.csv --fields1 "provincia" --fields2 "nome" --join left-outer --output 1.provincia 2."codiceISTAT" >"$folder"/processing/tmp_codiciISTAT.csv
+
+mlr -I --csv uniq -a "$folder"/processing/tmp_codiciISTAT.csv
+
+mlr --csv join --ul -j provincia -f "$folder"/publication/provinceArchivio.csv then unsparsify "$folder"/processing/tmp_codiciISTAT.csv >"$folder"/processing/tmp.csv
+
+cp "$folder"/processing/tmp.csv "$folder"/publication/provinceArchivioISTAT.csv
+
+mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinceArchivioISTAT.csv
