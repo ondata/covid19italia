@@ -4,6 +4,8 @@ Alla data del 4 marzo 2020 - dopo circa 15 giorni dal prima caso "italiano" - **
 
 Questo *repository* sarà aggiornato una volta al giorno - intorno alle 19:30 - per scaricare dal [sito della Protezione Civile](http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/) i 2 file PDF denominati `Dati di riepilogo nazionale (pdf)` e `Dettaglio per provincia (pdf)` e trasformali in formati leggibili in modo diretto da una "macchina".
 
+I file sono aggiornati dalla Protezione Civile ogni giorno intorno alle 18:00.
+
 # Nota
 
 Questo sistema potrebbe smettere di funzionare da subito, dopo una modifica che verrà effettuata dai gestori del sito della Protezione Civile.
