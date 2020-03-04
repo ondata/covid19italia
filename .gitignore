@@ -1,2 +1,4 @@
 tmp*.*
 *.pdf
+rawdata/downloadList
+processing/downloadList.tsv

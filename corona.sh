@@ -11,8 +11,29 @@ commento
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/publication
+mkdir -p "$folder"/pdfArchive
 
 rm -r "$folder"/processing/*
+
+# estrai URL dei PDF dalla pagina protCiv
+curl -sL "http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/" | scrape -be "//div/a[contains(text(),'provincia (pdf)') or contains(text(),'nazionale (pdf)')]" | xq -r '("http://www.protezionecivile.gov.it" + .html.body.a[]."@href")' | sed -r 's/(.+)(\/.+)$/\1/g' >"$folder"/rawdata/downloadList
+
+# crea un file anagrafico dei PDF
+mlr --tsv -N cat then put 'if (tolower($1)=~"province") {$nome="province.pdf"} elif (tolower($1)=~"nazionale") {$nome="riepilogo.pdf"};$rawname=gsub($1,".+/","")' \
+  then unsparsify "$folder"/rawdata/downloadList >"$folder"/processing/downloadList.tsv
+
+<<esempioOutput
++------------------------------------------------------------------------------------------------+---------------+-------------------------------------+
+| http://www.protezionecivile.gov.it/documents/20182/1221364/Dati+Riepilogo+Nazionale+3marzo2020 | riepilogo.pdf | Dati+Riepilogo+Nazionale+3marzo2020 |
+| http://www.protezionecivile.gov.it/documents/20182/1221364/Dati+Province+3marzo2020            | province.pdf  | Dati+Province+3marzo2020            |
++------------------------------------------------------------------------------------------------+---------------+-------------------------------------+
+esempioOutput
+
+# scarica i PDF
+while IFS=$'\t' read -r URL nome rawname; do
+  curl -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36' "$URL" >"$folder"/rawdata/"$nome"
+  cp "$folder"/rawdata/"$nome" "$folder"/pdfArchive/"$rawname".pdf
+done <"$folder"/processing/downloadList.tsv
 
 # estrai tabelle da PDF province
 camelot -p 1-end -f csv -o "$folder"/processing/province.csv lattice -scale 40 "$folder"/rawdata/province.pdf
