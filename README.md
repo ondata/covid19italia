@@ -70,5 +70,5 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 
 Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
 
-- COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy/tree/develop/plots>
+- COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
 - ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
