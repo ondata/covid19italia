@@ -7,6 +7,7 @@
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
 - [Altri progetti a tema](#altri-progetti-a-tema)
+- [Chi usa questi dati](#chi-usa-questi-dati)
 
 # Cosa c'è in questo repo
 
@@ -87,3 +88,7 @@ Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19ital
 - **Coronavirus in Italia**, di Alessio Di Lorenzo (è stato il progetto ispiratore di questo lavoro) https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
 - ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
+
+# Chi usa questi dati
+
+- [rainbowbreeze](https://github.com/ondata/covid19italia/issues/3) <https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641?s=pkXn62iU3rQ>
