@@ -3,6 +3,7 @@
 - [Output](#output)
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
+  - [API](#api)
   - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
@@ -62,6 +63,28 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 | Veneto | 49 | 19 | 229 | 297 | 7 | 3 | 307 | 10176 | 2020-03-03 |
 | Piemonte | 13 | 3 | 40 | 56 |  |  | 56 | 458 | 2020-03-03 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+## API
+
+I dati sono accessibili anche in formato Json attraversso api
+
+es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
+
+dove `reg = nome regione`
+
+consente di ottenere l'ultimo dato disponibile per ogni provincia di quella particolare regione. Omettendo il nome della regione verranno restituiti i dati relativi a tutte le province per cui esiste il dato
+
+https://openpuglia.org/api/?q=getdatacovid-19
+
+La serie storica dei dati disponibili può essere richiesta introducendo mode=ts nella query string.
+
+es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia&mode=ts
+
+Omettendo la regione vengono restituiti tutti i dati disponibili
+
+https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
+
+È un lavoro a cura di [Vincenzo Patruno](https://twitter.com/vincpatruno).
 
 ## Archivio dei PDF pubblicati
 
