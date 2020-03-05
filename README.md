@@ -84,7 +84,7 @@ Omettendo la regione vengono restituiti tutti i dati disponibili
 
 https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
 
-È un lavoro a cura di [Vincenzo Patruno](https://twitter.com/vincpatruno).
+È un lavoro a cura di [**Vincenzo Patruno**](https://twitter.com/vincpatruno). Un grazie a [**#openpuglia**](https://openpuglia.org/) per l'hosting.
 
 ## Archivio dei PDF pubblicati
 
