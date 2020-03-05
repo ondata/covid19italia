@@ -18,6 +18,8 @@ Questo *repository* sarà aggiornato una volta al giorno - intorno alle 19:30 - 
 
 I file sono aggiornati dalla Protezione Civile ogni giorno intorno alle 18:00.
 
+Sul numero di deceduti la Protezione Civile riporta che "potrà essere confermato solo dopo che l’Istituto Superiore di Sanità avrà stabilito la causa effettiva del decesso".
+
 # Nota
 
 Questo sistema potrebbe smettere di funzionare da subito, dopo una modifica effettuata dai gestori del sito della Protezione Civile.
@@ -116,3 +118,4 @@ Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19ital
 # Chi usa questi dati
 
 - [rainbowbreeze](https://github.com/ondata/covid19italia/issues/3) <https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641?s=pkXn62iU3rQ>
+- [Guenter Richter](https://twitter.com/grichter) <https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/app/Viewer/index.html?project=https://gjrichter.github.io/viz/COVID-19/projects/ixmaps_project_OnData_Prov2019_COVID_shape_numbers_curve.json>
