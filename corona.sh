@@ -116,5 +116,10 @@ mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinc
 
 # commit e push
 
-git commit -am "update"
-git push
+. ~/.keychain/$HOSTNAME-sh
+
+cd "$folder"/..
+git -C "$folder"/.. pull
+git -C "$folder"/.. add .
+git -C "$folder"/.. commit -am "update"
+git -C "$folder"/.. push origin master
