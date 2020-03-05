@@ -88,6 +88,7 @@ Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19ital
 - **Coronavirus in Italia**, di Alessio Di Lorenzo (è stato il progetto ispiratore di questo lavoro) https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
 - ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
+- Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository, di Simone Marzola <https://github.com/sarscov2-it/data>
 
 # Chi usa questi dati
 
