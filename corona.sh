@@ -17,7 +17,7 @@ mkdir -p "$folder"/processing
 mkdir -p "$folder"/publication
 mkdir -p "$folder"/pdfArchive
 
-rm -r "$folder"/processing/*
+rm -r "$folder"/processing/*.*
 
 # estrai URL dei PDF dalla pagina protCiv
 curl -sL "http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/" | scrape -be "//div/a[contains(text(),'provincia (pdf)') or contains(text(),'nazionale (pdf)')]" | xq -r '("http://www.protezionecivile.gov.it" + .html.body.a[]."@href")' | sed -r 's/(.+)(\/.+)$/\1/g' >"$folder"/rawdata/downloadList
@@ -116,5 +116,5 @@ mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinc
 
 # commit e push
 
-git add .
 git commit -am "update"
+git push
