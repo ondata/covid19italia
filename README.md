@@ -1,3 +1,15 @@
+- [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
+- [Nota](#nota)
+- [Output](#output)
+  - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
+  - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
+  - [API](#api)
+  - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
+- [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
+- [Dati accessori di riferimento](#dati-accessori-di-riferimento)
+- [Altri progetti a tema](#altri-progetti-a-tema)
+- [Chi usa questi dati](#chi-usa-questi-dati)
+
 # Cosa c'è in questo repo
 
 Alla data del 4 marzo 2020 - dopo circa 15 giorni dal primo caso "italiano" - **non c'è** in **Italia** una **fonte** ufficiale che pubblichi i dati in modalità ***machine readable***.
@@ -5,6 +17,8 @@ Alla data del 4 marzo 2020 - dopo circa 15 giorni dal primo caso "italiano" - **
 Questo *repository* sarà aggiornato una volta al giorno - intorno alle 19:30 - per scaricare dal [sito della Protezione Civile](http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/) i 2 file PDF denominati `Dati di riepilogo nazionale (pdf)` e `Dettaglio per provincia (pdf)` e trasformarli in formati leggibili da una "macchina".
 
 I file sono aggiornati dalla Protezione Civile ogni giorno intorno alle 18:00.
+
+Sul numero di deceduti la Protezione Civile riporta che "potrà essere confermato solo dopo che l’Istituto Superiore di Sanità avrà stabilito la causa effettiva del decesso".
 
 # Nota
 
@@ -52,11 +66,33 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 | Piemonte | 13 | 3 | 40 | 56 |  |  | 56 | 458 | 2020-03-03 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
+## API
+
+I dati sono accessibili anche in formato Json attraversso api
+
+es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
+
+dove `reg = nome regione`
+
+consente di ottenere l'ultimo dato disponibile per ogni provincia di quella particolare regione. Omettendo il nome della regione verranno restituiti i dati relativi a tutte le province per cui esiste il dato
+
+https://openpuglia.org/api/?q=getdatacovid-19
+
+La serie storica dei dati disponibili può essere richiesta introducendo mode=ts nella query string.
+
+es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia&mode=ts
+
+Omettendo la regione vengono restituiti tutti i dati disponibili
+
+https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
+
+È un lavoro a cura di [**Vincenzo Patruno**](https://twitter.com/vincpatruno). Un grazie a [**#openpuglia**](https://openpuglia.org/) per l'hosting.
+
 ## Archivio dei PDF pubblicati
 
 A partire dal 2 marzo 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
 
-## Archiviazione automatica su Web Archive
+# Archiviazione automatica su Web Archive
 
 A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sottostanti e degli URL che ciascuna contiene (quindi anche dei PDF citati sopra):
 
@@ -66,9 +102,20 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 - <http://www.salute.gov.it/portale/nuovocoronavirus/archivioComunicatiNuovoCoronavirus.jsp>
 - <http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa>
 
+# Dati accessori di riferimento
+
+- "Elenco dei codici e delle denominazioni delle unità territoriali", di ISTAT <https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip>
+
 # Altri progetti a tema
 
 Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
 
-- COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy/tree/develop/plots>
+- **Coronavirus in Italia**, di Alessio Di Lorenzo (è stato il progetto ispiratore di questo lavoro) https://alessiodl.github.io/COVID19Dashboard/dist/index.html
+- COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
 - ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
+- Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository, di Simone Marzola <https://github.com/sarscov2-it/data>
+
+# Chi usa questi dati
+
+- [rainbowbreeze](https://github.com/ondata/covid19italia/issues/3) <https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641?s=pkXn62iU3rQ>
+- [Guenter Richter](https://twitter.com/grichter) <https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/app/Viewer/index.html?project=https://gjrichter.github.io/viz/COVID-19/projects/ixmaps_project_OnData_Prov2019_COVID_shape_numbers_curve.json>
