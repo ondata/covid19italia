@@ -79,6 +79,8 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 I dati sono accessibili anche in formato Json attraverso API:
 
+### Casi per provincia
+
 es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
 
 dove `reg = nome regione`
@@ -94,6 +96,26 @@ es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia&mode=ts
 Omettendo la regione vengono restituiti tutti i dati disponibili
 
 https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
+
+
+### Riepilogo
+
+es. https://openpuglia.org/api/?q=getsummarycovid-19&reg=lombardia
+
+dove `reg = nome regione`
+
+consente di ottenere il riepilogo dei dati disponibili per quella regione. Omettendo il nome della regione verranno restituiti i dati relativi a tutte le regioni per cui esiste il dato
+
+https://openpuglia.org/api/?q=getsummarycovid-19
+
+La serie storica dei dati disponibili può essere richiesta introducendo `mode=ts` nella query string. I dati sono cumulativi, ossia si riferiscono ai totali complessivi riferiti alla data indicata
+
+es. https://openpuglia.org/api/?q=getsummarycovid-19&reg=lombardia&mode=ts
+
+Omettendo la regione vengono restituiti tutti i dati disponibili
+
+https://openpuglia.org/api/?q=getsummarycovid-19&mode=ts
+
 
 È un lavoro a cura di [**Vincenzo Patruno**](https://twitter.com/vincpatruno). Un grazie a [**#openpuglia**](https://openpuglia.org/) per l'hosting.
 
