@@ -1,5 +1,6 @@
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [Nota](#nota)
+- [Codice di condotta](#codice-di-condotta)
 - [Output](#output)
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
@@ -25,6 +26,12 @@ Sul numero di deceduti la Protezione Civile riporta che "potrà essere confermat
 Questo sistema potrebbe smettere di funzionare da subito, dopo una modifica effettuata dai gestori del sito della Protezione Civile.
 
 Questa è l'occasione per **chiedere** anche noi **al Ministero della Sanità e alla Protezione Civile di produrre** - oltre a questi necessari file PDF pensati per fare la dovuta e utile rassegna stampa - dei file e/o dei servizi in formato ***machine readable***, con **licenza aperta**, certificati, **completi**, il più possibile **disaggregati**, **aggiornati** e con lo **storico** dei dati nel tempo.
+
+Se verrà attivato qualche servizio ufficiale di stato che farà quanto descritto, è molto molto probabile che questo servizio verrà spento.
+
+# Codice di condotta
+
+È stato creato il [**Codice di Condotta**](CODE_OF_CONDUCT.md) del *repository*. Grazie [Nicola Procopio](https://github.com/nickprock) per essersene occupato.
 
 # Output
 
