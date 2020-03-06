@@ -42,7 +42,9 @@ Il file è [questo](./publication/provinceArchivio.csv) e la struttura è quella
 | in fase di verifica e aggiornamento | 36 | LOMBARDIA | 2020-03-03 |
 | --- | --- | --- | --- |
 
-Ne viene prodotta pura [una copia](./publication/provinceArchivioISTAT.csv) con il codice ISTAT provinciale.
+Ne viene prodotta pura [una copia](./publication/provinceArchivioISTAT.csv) con il codice **ISTAT** provinciale.
+
+**Nota bene**: si tratta del campo `Codice dell'Unità territoriale sovracomunale (valida a fini statistici)` presente nella risorsa ISTAT "[Elenco dei codici e delle denominazioni delle unità territoriali](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip)".
 
 | provincia | numero | regione | datetime | codiceISTAT |
 | --- | --- | --- | --- | --- |
