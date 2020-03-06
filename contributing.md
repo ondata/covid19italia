@@ -1,4 +1,4 @@
-# Come contribuire
+# Come aiutare Covid19Italia
 
 Siamo davvero contenti che stai leggendo questo documento, abbiamo bisogno di volontari per aiutare il progetto a crescere.
 
