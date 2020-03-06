@@ -77,7 +77,7 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 ## API
 
-I dati sono accessibili anche in formato Json attraversso api
+I dati sono accessibili anche in formato Json attraverso API:
 
 es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
 
@@ -87,7 +87,7 @@ consente di ottenere l'ultimo dato disponibile per ogni provincia di quella part
 
 https://openpuglia.org/api/?q=getdatacovid-19
 
-La serie storica dei dati disponibili può essere richiesta introducendo mode=ts nella query string.
+La serie storica dei dati disponibili può essere richiesta introducendo `mode=ts` nella query string.
 
 es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia&mode=ts
 
