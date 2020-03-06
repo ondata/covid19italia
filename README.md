@@ -1,6 +1,6 @@
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [Nota](#nota)
-- [Codice di condotta](#codice-di-condotta)
+- [Come contribuire](#come-contribuire)
 - [Output](#output)
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
@@ -29,9 +29,9 @@ Questa è l'occasione per **chiedere** anche noi **al Ministero della Sanità e 
 
 Se verrà attivato qualche servizio ufficiale di stato che farà quanto descritto, è molto molto probabile che questo servizio verrà spento.
 
-# Codice di condotta
+# Come contribuire
 
-È stato creato il [**Codice di Condotta**](CODE_OF_CONDUCT.md) del *repository*. Grazie [Nicola Procopio](https://github.com/nickprock) per essersene occupato.
+Qui le note su [**come contribuire**](contributing.md) del *repository*. Grazie a [Nicola Procopio](https://github.com/nickprock) per la redazione di queste note.
 
 # Output
 
