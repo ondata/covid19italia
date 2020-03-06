@@ -31,7 +31,7 @@ Se verrà attivato qualche servizio ufficiale di stato che farà quanto descritt
 
 # Come contribuire
 
-Qui le note su [**come contribuire**](contributing.md) del *repository*. Grazie a [Nicola Procopio](https://github.com/nickprock) per la redazione di queste note.
+Qui le note su [**COME CONTRIBUIRE**](contributing.md) al progetto. Grazie a [Nicola Procopio](https://github.com/nickprock) per la redazione di queste note.
 
 # Output
 
