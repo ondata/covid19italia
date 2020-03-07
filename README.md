@@ -79,8 +79,6 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 I dati sono accessibili anche in formato Json attraverso API:
 
-### Casi per provincia
-
 es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
 
 dove `reg = nome regione`
@@ -96,26 +94,6 @@ es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia&mode=ts
 Omettendo la regione vengono restituiti tutti i dati disponibili
 
 https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
-
-
-### Riepilogo
-
-es. https://openpuglia.org/api/?q=getsummarycovid-19&reg=lombardia
-
-dove `reg = nome regione`
-
-consente di ottenere il riepilogo dei dati disponibili per quella regione. Omettendo il nome della regione verranno restituiti i dati relativi a tutte le regioni per cui esiste il dato
-
-https://openpuglia.org/api/?q=getsummarycovid-19
-
-La serie storica dei dati disponibili può essere richiesta introducendo `mode=ts` nella query string. I dati sono cumulativi, ossia si riferiscono ai totali complessivi riferiti alla data indicata
-
-es. https://openpuglia.org/api/?q=getsummarycovid-19&reg=lombardia&mode=ts
-
-Omettendo la regione vengono restituiti tutti i dati disponibili
-
-https://openpuglia.org/api/?q=getsummarycovid-19&mode=ts
-
 
 È un lavoro a cura di [**Vincenzo Patruno**](https://twitter.com/vincpatruno). Un grazie a [**#openpuglia**](https://openpuglia.org/) per l'hosting.
 
@@ -151,4 +129,5 @@ Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19ital
 - [rainbowbreeze](https://github.com/ondata/covid19italia/issues/3) > <https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641?s=pkXn62iU3rQ>
 - [Guenter Richter](https://twitter.com/grichter) > <https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/app/Viewer/index.html?project=https://gjrichter.github.io/viz/COVID-19/projects/ixmaps_project_OnData_Prov2019_COVID_shape_numbers_curve.json>
 - [Alessio Passalacqua](https://twitter.com/alessiopassah2o) > <https://alessiopassalacqua.github.io/covid19_italy/>
-- [Riccardo Tasso](https://twitter.com/riccardotasso) > https://public.flourish.studio/visualisation/1514619/
+- [Riccardo Tasso](https://twitter.com/riccardotasso) > <https://public.flourish.studio/visualisation/1514619/>
+- [Antonio Poggi](https://twitter.com/Pogs_A) > <http://daily.omniscope.me/Demo/Health/Coronavirus.iox/r/Covid-19+Italia/>
