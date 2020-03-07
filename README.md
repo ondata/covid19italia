@@ -163,4 +163,4 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Alessio Passalacqua](https://twitter.com/alessiopassah2o) > <https://alessiopassalacqua.github.io/covid19_italy/>
 - [Riccardo Tasso](https://twitter.com/riccardotasso) > <https://public.flourish.studio/visualisation/1514619/>
 - [Antonio Poggi](https://twitter.com/Pogs_A) > <http://daily.omniscope.me/Demo/Health/Coronavirus.iox/r/Covid-19+Italia/>
-- [Franco Mossotto](https://twitter.com/FMossotto) > <http://bit.ly/ConavirusItaliaDataStudio>
+- [Franco Mossotto](https://twitter.com/FMossotto) > <http://bit.ly/CoronaVirusItaliaDataStudio>
