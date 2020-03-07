@@ -1,3 +1,9 @@
+<hr>
+
+**NOTA BENE**: dopo l'annuncio del [***repository* ufficiale**](https://github.com/pcm-dpc/COVID-19) della Protezione Civile con i dati sul COVID-19, abbiamo **bloccato** l'**aggiornamento** automatico dei dati a partire dai PDF pubblicati sul loro sito.
+
+<hr>
+
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [Nota](#nota)
 - [Come contribuire](#come-contribuire)
@@ -5,6 +11,8 @@
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
   - [API](#api)
+    - [Dati per provincia](#dati-per-provincia)
+    - [Dati di riepilogo](#dati-di-riepilogo)
   - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
