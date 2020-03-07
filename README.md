@@ -99,7 +99,7 @@ https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
 
 ## Archivio dei PDF pubblicati
 
-A partire dal 2 marzo 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
+I PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
 
 # Archiviazione automatica su Web Archive
 
@@ -118,6 +118,8 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 # Altri progetti a tema
 
 Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
+
+Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/)) per lo storico precedente al 2 marzo.
 
 - **Coronavirus in Italia**, di Alessio Di Lorenzo (è stato il progetto ispiratore di questo lavoro) https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
