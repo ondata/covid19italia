@@ -40,14 +40,16 @@ while IFS=$'\t' read -r URL nome rawname; do
   cp "$folder"/rawdata/"$nome" "$folder"/pdfArchive/"$datetime"_"$rawname".pdf
 done <"$folder"/processing/downloadList.tsv
 
+<<commentouno
 # estrai tabelle da PDF province
-camelot -p 1-end -f csv -o "$folder"/processing/province.csv lattice -scale 40 "$folder"/rawdata/province.pdf
+camelot -p 1-end -f csv -o "$folder"/processing/province.csv lattice -scale 60 "$folder"/rawdata/province.pdf
 
 # estrai tabelle da PDF riepilogo
 camelot -p 1-end -f csv -o "$folder"/processing/riepilogo.csv -split lattice -scale 40 -shift b "$folder"/rawdata/riepilogo.pdf
 
 # normalizza le tabelle province, rimuovendo totali e aggiungendo colonna regione
 for i in "$folder"/processing/province*csv; do
+  mlr -I --csv -N filter -x '$1=~"otale" || $2==""' then unsparsify then skip-trivial-records "$i"
   numerorighe=$(wc <"$i" -l)
   #crea una variabile da usare per estrarre nome e estensione
   filename=$(basename "$i")
@@ -58,7 +60,14 @@ for i in "$folder"/processing/province*csv; do
   if [[ $numerorighe -lt 2 ]]; then
     rm "$i"
   else
-    mlr --csv -N cat then filter -x '$1=~"otale"' then put 'if (NR == 1) {$2="valore";$regione=$1;$1="a"}' then unsparsify then fill-down -f regione "$i" | mlr --csv label provincia,numero,regione >"$folder"/processing/tmp_province_"$filename".csv
+    mlr --csv -N cat then filter -x '$1=~"otale"' then unsparsify "$i" | mlr --csv label provincia,numero >"$folder"/processing/tmp_province_"$filename".csv
+  fi
+done
+
+for i in "$folder"/processing/tmp_province_*csv; do
+  numerorighe=$(wc <"$i" -l)
+  if [[ $numerorighe -lt 2 ]]; then
+    rm "$i"
   fi
 done
 
@@ -76,14 +85,14 @@ cat "$folder"/publication/riepilogoArchivio.csv >"$folder"/publication/tmp2_riep
 
 # crea CSV di riepilogo pulito, rimuovi riga con i totali
 mlr --csv -N filter -x '$1=="" || $1=~"(otal|OTAL)"' processing/riepilogo-page-1*1.csv | \
-mlr --csv -N put -S 'if (NR == 1) {for (k in $*) {$[k] = clean_whitespace(gsub($[k], "\n", " "))}}' \
+mlr --csv -N put -S 'if (NR == 1) {for (k in $*) {$((k)) = clean_whitespace(gsub($((k)), "\n", " "))}}' \
 then clean-whitespace | \
 mlr --csv put '$datetime=system("date --iso-8601")' >"$folder"/publication/tmp1_riepilogo.csv
 
 # rimuovi eventuali inutili "a capo"
 mlr -I --csv put -S '
   for (k in $*) {
-    $[k] = gsub($[k], "\n", "");
+    $((k)) = gsub($((k)), "\n", "");
   }
 ' "$folder"/publication/tmp1_riepilogo.csv
 
@@ -93,7 +102,7 @@ mlr --csv uniq -a "$folder"/publication/tmp1_riepilogo.csv "$folder"/publication
 # rimuovi eventuali inutili "a capo"
 mlr -I --csv put -S '
   for (k in $*) {
-    $[k] = gsub($[k], "\n", "");
+    $((k)) = gsub($((k)), "\n", "");
   }
 ' "$folder"/publication/riepilogoArchivio.csv
 
@@ -112,6 +121,7 @@ mlr --csv join --ul -j provincia -f "$folder"/publication/provinceArchivio.csv t
 cp "$folder"/processing/tmp.csv "$folder"/publication/provinceArchivioISTAT.csv
 
 mlr -I --csv sort -r datetime -f regione,provincia "$folder"/publication/provinceArchivioISTAT.csv
+commentouno
 
 
 # commit e push

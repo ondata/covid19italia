@@ -1,3 +1,9 @@
+<hr>
+
+**NOTA BENE**: dopo l'annuncio del [***repository* ufficiale**](https://github.com/pcm-dpc/COVID-19) della Protezione Civile con i dati sul COVID-19, abbiamo **bloccato** l'**aggiornamento** automatico dei dati a partire dai PDF pubblicati sul loro sito.
+
+<hr>
+
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [Nota](#nota)
 - [Come contribuire](#come-contribuire)
@@ -5,6 +11,8 @@
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
   - [API](#api)
+    - [Dati per provincia](#dati-per-provincia)
+    - [Dati di riepilogo](#dati-di-riepilogo)
   - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
@@ -121,7 +129,7 @@ https://openpuglia.org/api/?q=getsummarycovid-19&mode=ts
 
 ## Archivio dei PDF pubblicati
 
-A partire dal 2 marzo 2020 i PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
+I PDF pubblicati verranno archiviati in [questa cartella](./pdfArchive).
 
 # Archiviazione automatica su Web Archive
 
@@ -140,6 +148,8 @@ A partire dal 4 marzo 2020, ogni giorno verrà creata una copia delle pagine sot
 # Altri progetti a tema
 
 Ringraziamo Matteo Brunati per lo [spunto](https://github.com/ondata/covid19italia/issues/1).
+
+Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/)) per lo storico precedente al 2 marzo.
 
 - **Coronavirus in Italia**, di Alessio Di Lorenzo (è stato il progetto ispiratore di questo lavoro) https://alessiodl.github.io/COVID19Dashboard/dist/index.html
 - COVID-19-Italy, di Carlo Torniai <https://github.com/carlotorniai/COVID-19-Italy>
