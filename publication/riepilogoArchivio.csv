@@ -1,64 +1,222 @@
-Regione,Ricoverati con sintomi,Terapia intensiva,Isolamento domiciliare,Totale attualmente positivi,DIMESSI GUARITI,DECEDUTI,CASI TOTALI,TAMPONI,datetime
-Lombardia,877,209,411,1497,250,73,1820,12138,2020-03-04
-Emilia Romagna,256,26,234,516,6,22,544,2500,2020-03-04
-Veneto,76,23,246,345,9,6,360,10515,2020-03-04
-Piemonte,26,13,43,82,,,82,543,2020-03-04
-Marche,34,15,31,80,,4,84,288,2020-03-04
-Campania,11,,20,31,,,31,429,2020-03-04
-Liguria,10,3,8,21,4,1,26,133,2020-03-04
-Toscana,15,2,20,37,1,,38,776,2020-03-04
-Lazio,15,3,9,27,3,,30,995,2020-03-04
-Friuli V.G.,3,,15,18,,,18,376,2020-03-04
-Sicilia,5,,11,16,2,,18,367,2020-03-04
-Puglia,4,,3,7,1,1,9,322,2020-03-04
-Abruzzo,7,,,7,,,7,85,2020-03-04
-Trento,1,,4,5,,,5,122,2020-03-04
-Molise,3,,,3,,,3,19,2020-03-04
-Umbria,1,1,7,9,,,9,58,2020-03-04
-Bolzano,1,,,1,,,1,20,2020-03-04
-Calabria,,,1,1,,,1,46,2020-03-04
-Sardegna,1,,1,2,,,2,42,2020-03-04
-Basilicata,,,1,1,,,1,48,2020-03-04
-Valle d'Aosta,,,,0,,,0,15,2020-03-04
-Lombardia,698,167,461,1326,139,55,1520,9577,2020-03-03
-Emilia Romagna,187,24,187,398,4,18,420,2012,2020-03-03
-Veneto,49,19,229,297,7,3,307,10176,2020-03-03
-Piemonte,13,3,40,56,,,56,458,2020-03-03
-Marche,27,13,19,59,,2,61,200,2020-03-03
-Campania,11,,19,30,,,30,405,2020-03-03
-Liguria,12,2,5,19,4,1,24,121,2020-03-03
-Toscana,10,,8,18,1,,19,697,2020-03-03
-Lazio,10,,1,11,3,,14,877,2020-03-03
-Friuli V.G.,1,,12,13,,,13,354,2020-03-03
-Sicilia,2,,3,5,2,,7,307,2020-03-03
-Puglia,2,,4,6,,,6,298,2020-03-03
-Abruzzo,5,,1,6,,,6,52,2020-03-03
-Trento,1,,3,4,,,4,122,2020-03-03
-Molise,3,,,3,,,3,13,2020-03-03
-Umbria,1,1,6,8,,,8,45,2020-03-03
-Bolzano,1,,,1,,,1,20,2020-03-03
-Calabria,,,1,1,,,1,39,2020-03-03
-Sardegna,1,,,1,,,1,29,2020-03-03
-Basilicata,,,1,1,,,1,42,2020-03-03
-Valle d'Aosta,,,,0,,,0,12,2020-03-03
-Lombardia,478,127,472,1077,139,38,1254,7925,2020-03-02
-Emilia Romagna,148,16,160,324,,11,335,1973,2020-03-02
-Veneto,53,14,204,271,,2,273,9782,2020-03-02
-Piemonte,12,2,37,51,,,51,434,2020-03-02
-Marche,17,6,11,34,,1,35,137,2020-03-02
-Liguria,12,1,5,18,4,,22,121,2020-03-02
-Campania,4,,13,17,,,17,373,2020-03-02
-Toscana,7,,5,12,1,,13,613,2020-03-02
-Friuli V.G.,,,9,9,,,9,269,2020-03-02
-Sicilia,2,,3,5,2,,7,307,2020-03-02
-Lazio,3,,1,4,3,,7,773,2020-03-02
-Abruzzo,3,,2,5,,,5,52,2020-03-02
-Puglia,2,,2,4,,,4,278,2020-03-02
-Umbria,,,2,2,,,2,35,2020-03-02
-Bolzano,1,,,1,,,1,20,2020-03-02
-Calabria,,,1,1,,,1,39,2020-03-02
-Sardegna,,,,0,,,0,29,2020-03-02
-Valle d'Aosta,,,,0,,,0,11,2020-03-02
-Trento,,,,0,,,0,122,2020-03-02
-Molise,,,,0,,,0,13,2020-03-02
-Basilicata,,,,0,,,0,39,2020-03-02
+Regione,Ricoverati con sintomi,Terapia intensiva,Isolamento domiciliare,Totale attualmente positivi,DIMESSI GUARITI,DECEDUTI,CASI TOTALI,TAMPONI,datetime,aggiornamento,fonte
+Lombardia,1622,309,77,2008,469,135,2612,13556,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Emilia Romagna,397,53,366,816,17,37,870,3136,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Veneto,117,27,310,454,22,12,488,13023,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Marche,73,20,62,155,,4,159,585,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Piemonte,57,30,52,139,,4,143,793,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Toscana,35,5,38,78,1,,79,1097,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lazio,26,8,16,50,3,1,54,1373,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Campania,12,,45,57,,,57,471,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Liguria,12,5,7,24,5,3,32,229,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Friuli V.G.,4,,24,28,3,,31,577,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sicilia,7,,15,22,2,,24,367,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Puglia,5,1,9,15,1,1,17,395,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Umbria,2,2,12,16,,,16,110,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Molise,3,2,7,12,,,12,104,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Trento,4,,6,10,,,10,122,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Abruzzo,9,,,9,,,9,96,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sardegna,2,,3,5,,,5,99,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Basilicata,1,,2,3,,,3,63,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Valle d'Aosta,,,7,7,,,7,28,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Calabria,2,,2,4,,,4,99,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Bolzano,4,,,4,,,4,36,2020-03-06,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lombardia,1169,244,364,1777,376,98,2251,12354,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Emilia Romagna,327,32,299,658,10,30,698,2884,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Veneto,92,24,264,380,17,10,407,11949,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Marche,57,19,44,120,,4,124,413,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Piemonte,43,17,46,106,,2,108,543,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Toscana,26,3,31,60,1,,61,776,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lazio,20,7,14,41,3,,44,1175,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Campania,12,,33,45,,,45,471,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Liguria,11,3,7,21,4,3,28,146,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Friuli V.G.,4,,17,21,,,21,397,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sicilia,5,,11,16,2,,18,367,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Puglia,5,1,6,12,1,1,14,359,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Umbria,1,1,7,9,,,9,88,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Abruzzo,8,,,8,,,8,96,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Trento,2,,5,7,,,7,122,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Molise,4,,3,7,,,7,24,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Valle d'Aosta,,,2,2,,,2,21,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Calabria,1,,1,2,,,2,53,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sardegna,2,,,2,,,2,50,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Basilicata,,,1,1,,,1,54,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Bolzano,1,,,1,,,1,20,2020-03-05,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lombardia,877,209,411,1497,250,73,1820,12138,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Emilia Romagna,256,26,234,516,6,22,544,2500,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Veneto,76,23,246,345,9,6,360,10515,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Piemonte,26,13,43,82,,,82,543,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Marche,34,15,31,80,,4,84,288,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Campania,11,,20,31,,,31,429,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Liguria,10,3,8,21,4,1,26,133,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Toscana,15,2,20,37,1,,38,776,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lazio,15,3,9,27,3,,30,995,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Friuli V.G.,3,,15,18,,,18,376,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sicilia,5,,11,16,2,,18,367,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Puglia,4,,3,7,1,1,9,322,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Abruzzo,7,,,7,,,7,85,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Trento,1,,4,5,,,5,122,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Molise,3,,,3,,,3,19,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Umbria,1,1,7,9,,,9,58,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Bolzano,1,,,1,,,1,20,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Calabria,,,1,1,,,1,46,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sardegna,1,,1,2,,,2,42,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Basilicata,,,1,1,,,1,48,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Valle d'Aosta,,,,0,,,0,15,2020-03-04,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lombardia,698,167,461,1326,139,55,1520,9577,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Emilia Romagna,187,24,187,398,4,18,420,2012,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Veneto,49,19,229,297,7,3,307,10176,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Piemonte,13,3,40,56,,,56,458,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Marche,27,13,19,59,,2,61,200,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Campania,11,,19,30,,,30,405,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Liguria,12,2,5,19,4,1,24,121,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Toscana,10,,8,18,1,,19,697,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lazio,10,,1,11,3,,14,877,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Friuli V.G.,1,,12,13,,,13,354,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sicilia,2,,3,5,2,,7,307,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Puglia,2,,4,6,,,6,298,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Abruzzo,5,,1,6,,,6,52,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Trento,1,,3,4,,,4,122,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Molise,3,,,3,,,3,13,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Umbria,1,1,6,8,,,8,45,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Bolzano,1,,,1,,,1,20,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Calabria,,,1,1,,,1,39,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sardegna,1,,,1,,,1,29,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Basilicata,,,1,1,,,1,42,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Valle d'Aosta,,,,0,,,0,12,2020-03-03,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lombardia,478,127,472,1077,139,38,1254,7925,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Emilia Romagna,148,16,160,324,,11,335,1973,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Veneto,53,14,204,271,,2,273,9782,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Piemonte,12,2,37,51,,,51,434,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Marche,17,6,11,34,,1,35,137,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Liguria,12,1,5,18,4,,22,121,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Campania,4,,13,17,,,17,373,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Toscana,7,,5,12,1,,13,613,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Friuli V.G.,,,9,9,,,9,269,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sicilia,2,,3,5,2,,7,307,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lazio,3,,1,4,3,,7,773,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Abruzzo,3,,2,5,,,5,52,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Puglia,2,,2,4,,,4,278,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Umbria,,,2,2,,,2,35,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Bolzano,1,,,1,,,1,20,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Calabria,,,1,1,,,1,39,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Sardegna,,,,0,,,0,29,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Valle d'Aosta,,,,0,,,0,11,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Trento,,,,0,,,0,122,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Molise,,,,0,,,0,13,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Basilicata,,,,0,,,0,39,2020-03-02,pomeridiano,http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus/
+Lombardia,,,,,,,984,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Emilia-Romagna,,,,,,,285,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Veneto,,,,,,,263,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Piemonte,,,,,,,49,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Marche,,,,,,,25,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Liguria,,,,,,,25,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Campania,,,,,,,17,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Toscana,,,,,,,13,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Sicilia,,,,,,,9,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Lazio,,,,,,,6,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Friuli V.G.,,,,,,,6,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Abruzzo,,,,,,,5,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Puglia,,,,,,,3,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Umbria,,,,,,,2,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Calabria,,,,,,,1,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Bolzano,,,,,,,1,,2020-03-01,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Lombardia,,,,,,,615,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Veneto,,,,,,,217,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Emilia-Romagna,,,,,,,191,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Piemonte,,,,,,,11,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Lazio,,,,,,,6,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Toscana,,,,,,,11,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Sicilia,,,,,,,4,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Liguria,,,,,,,42,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Bolzano,,,,,,,1,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Marche,,,,,,,11,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Campania,,,,,,,13,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Abruzzo,,,,,,,2,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Puglia,,,,,,,3,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Calabria,,,,,,,1,,2020-02-29,pomeridiano,http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+Lombardia,,,,,,,531,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,151,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,145,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,11,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,8,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,4,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,19,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Marche,,,,,,,6,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Campania,,,,,,,4,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Abruzzo,,,,,,,1,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Puglia,,,,,,,3,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Calabria,,,,,,,1,,2020-02-28,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1219558?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,403,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,111,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,97,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,2,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,2,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,4,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,19,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Marche,,,,,,,3,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Campania,,,,,,,3,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Abruzzo,,,,,,,1,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Puglia,,,,,,,1,,2020-02-27,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218891?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,305,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,98,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,97,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,2,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,2,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,3,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,11,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Marche,,,,,,,3,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Campania,,,,,,,2,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Abruzzo,,,,,,,1,,2020-02-27,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218473?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,258,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,71,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,47,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,3,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,2,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,3,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,11,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Marche,,,,,,,1,,2020-02-26,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1218121?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,258,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,71,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,30,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,3,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,2,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,3,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,2,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Marche,,,,,,,1,,2020-02-26,diurno,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217683?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,240,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Veneto,,,,,,,43,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Emilia-Romagna,,,,,,,26,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Piemonte,,,,,,,3,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Lazio,,,,,,,3,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Toscana,,,,,,,2,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Sicilia,,,,,,,2,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Liguria,,,,,,,1,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Bolzano,,,,,,,1,,2020-02-25,pomeridiano,http://www.protezionecivile.gov.it/dettaglio/-/journal_content/56/20182/1217087?refererPlid=42041&controlPanelCategory=current_site.content
+Lombardia,,,,,,,212,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20182
+Veneto,,,,,,,38,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20183
+Emilia-Romagna,,,,,,,23,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20184
+Piemonte,,,,,,,3,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20185
+Lazio,,,,,,,3,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20186
+Toscana,,,,,,,2,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20187
+Sicilia,,,,,,,1,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20188
+Bolzano,,,,,,,1,,2020-02-25,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20189
+Lombardia,,,,,,,167,,2020-02-24,pomeridiano,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20190
+Veneto,,,,,,,32,,2020-02-24,pomeridiano,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20191
+Emilia-Romagna,,,,,,,18,,2020-02-24,pomeridiano,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20192
+Piemonte,,,,,,,3,,2020-02-24,pomeridiano,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20193
+Lazio,,,,,,,3,,2020-02-24,pomeridiano,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20194
+Lombardia,,,,,,,167,,2020-02-24,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20195
+Veneto,,,,,,,27,,2020-02-24,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20196
+Emilia-Romagna,,,,,,,18,,2020-02-24,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20197
+Piemonte,,,,,,,4,,2020-02-24,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20198
+Lazio,,,,,,,3,,2020-02-24,diurno,http://www.protezionecivile.gov.it/web/guest/dettaglio/-/journal/rss/351561?doAsGroupId=20182&refererPlid=42041&controlPanelCategory=current_site.content&_15_groupId=20199
