@@ -17,7 +17,7 @@
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
 - [Altri progetti a tema](#altri-progetti-a-tema)
-- [Chi usa questi dati](#chi-usa-questi-dati)
+- [Chi usa (o è stato ispirato da) questi dati](#chi-usa-o-è-stato-ispirato-da-questi-dati)
 
 # Cosa c'è in questo repo
 
@@ -156,7 +156,7 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - ItalianCovidData, di Davide Magno <https://github.com/DavideMagno/ItalianCovidData>
 - Novel Coronavirus SARS-CoV-2 (2019-nCoV) Italian Outbreak Data Repository, di Simone Marzola <https://github.com/sarscov2-it/data>
 
-# Chi usa questi dati
+# Chi usa (o è stato ispirato da) questi dati
 
 - [rainbowbreeze](https://github.com/ondata/covid19italia/issues/3) > <https://datastudio.google.com/u/0/reporting/9f0b865e-bb18-4894-a7f4-acca6467c641?s=pkXn62iU3rQ>
 - [Guenter Richter](https://twitter.com/grichter) > <https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/app/Viewer/index.html?project=https://gjrichter.github.io/viz/COVID-19/projects/ixmaps_project_OnData_Prov2019_COVID_shape_numbers_curve.json>
@@ -164,3 +164,4 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Riccardo Tasso](https://twitter.com/riccardotasso) > <https://public.flourish.studio/visualisation/1514619/>
 - [Antonio Poggi](https://twitter.com/Pogs_A) > <http://daily.omniscope.me/Demo/Health/Coronavirus.iox/r/Covid-19+Italia/>
 - [Franco Mossotto](https://twitter.com/FMossotto) > <http://bit.ly/CoronaVirusItaliaDataStudio>
+- [Salvatore Fiandaca](https://twitter.com/totofiandaca) > <https://pigrecoinfinito.com/2020/03/10/qgis-creare-grafici-con-incrementi-giornalieri>
