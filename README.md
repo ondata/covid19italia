@@ -85,9 +85,30 @@ Il file è [questo](./publication/riepilogoArchivio.csv) e la struttura è quell
 
 ## API
 
+### Dati di riepilogo
 I dati sono accessibili anche in formato Json attraverso API:
 
-### Dati per provincia
+**NOTA**: dopo l'annuncio da parte della protezione civile, le API sono state agganciate ai dati del repository ufficiale
+
+Esempio:
+
+Gli ultimi dati disponibili per ogni soingola regione 
+https://openpuglia.org/api/?q=getdatapccovid-19 
+
+Gli ultimi dati disponibili per la singola regione dove `reg = nome regione`
+https://openpuglia.org/api/?q=getdatapccovid-19&reg=lombardia
+
+Serie storica dei dati disponibili per regione dove `reg = nome regione` e `mode = ts`
+https://openpuglia.org/api/?q=getdatapccovid-19&reg=lombardia&mode=ts
+
+Tutti i dati disponibili
+https://openpuglia.org/api/?q=getdatapccovid-19&mode=ts
+
+<hr>
+
+Per completezza si documentano anche le veccie API che utilizzano i dati raccolti da onData
+
+#### Dati per provincia
 
 es. https://openpuglia.org/api/?q=getdatacovid-19&reg=lombardia
 
@@ -106,7 +127,7 @@ Omettendo la regione vengono restituiti tutti i dati disponibili
 https://openpuglia.org/api/?q=getdatacovid-19&mode=ts
 
 
-### Dati di riepilogo
+#### Dati di riepilogo
 
 es. https://openpuglia.org/api/?q=getsummarycovid-19&reg=lombardia
 
