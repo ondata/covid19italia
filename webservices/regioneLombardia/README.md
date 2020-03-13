@@ -8,6 +8,7 @@ In questo cartella:
 Le risorse scaricate sono 3, ma non sembrano presenti descrizione delle stesse. Sono denominate:
 
 - [COMUNI_COVID19](rawdata/COMUNI_COVID19.geojson), un layer poligonale in formato GeoJSON;
+- [PROVINCE_COVID19](rawdata/PROVINCE_COVID19.geojson), un layer poligonale in formato GeoJSON;
 - [ta_covid19_comuni_time](rawdata/ta_covid19_comuni_time.geojson), un layer puntiforme in formato GeoJSON;
 - [TA_COVID19_RL](rawdata/TA_COVID19_RL.json), una risorsa alfanumerica.
 
