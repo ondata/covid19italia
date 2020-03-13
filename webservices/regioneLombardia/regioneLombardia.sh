@@ -1,5 +1,10 @@
 #!/bin/bash
 
+### requisiti ###
+# gdal/ogr https://gdal.org/index.html
+# miller https://github.com/johnkerl/miller
+### requisiti ###
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
