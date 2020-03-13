@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -x
+
+folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+mkdir -p "$folder"/rawdata
+mkdir -p "$folder"/processing
+
+while IFS=$'\t' read -r nome formato url; do
+    curl -kL "$url" >"$folder"/rawdata/"$nome"."$formato"
+done <"$folder"/risorse
+
+ogr2ogr -f CSV -lco GEOMETRY=AS_XY "$folder"/processing/ta_covid19_comuni_time.csv "$folder"/rawdata/ta_covid19_comuni_time.geojson
+
+<"$folder"/rawdata/TA_COVID19_RL.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/TA_COVID19_RL.csv
