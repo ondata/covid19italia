@@ -14,5 +14,5 @@ Le risorse scaricate sono 3, ma non sembrano presenti descrizione delle stesse. 
 
 `ta_covid19_comuni_time` e `TA_COVID19_RL` sono stati convertiti in CSV e pubblicati in [questa cartella](processing/).
 
-**NOTA BENE**: sono i dati al 13 marzo 2020 e non verranno aggiornati.
+**NOTA BENE**: sono i dati al 13 marzo 2020 e non verranno aggiornati in questo spazio. Sono stati aggiunti per mostrare come accedervi.
 
