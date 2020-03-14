@@ -18,4 +18,8 @@ done <"$folder"/risorse
 
 ogr2ogr -f CSV -lco GEOMETRY=AS_XY "$folder"/processing/ta_covid19_comuni_time.csv "$folder"/rawdata/ta_covid19_comuni_time.geojson
 
+ogr2ogr -f CSV "$folder"/processing/COMUNI_COVID19.csv "$folder"/rawdata/COMUNI_COVID19.geojson
+
+ogr2ogr -f CSV "$folder"/processing/PROVINCE_COVID19.csv "$folder"/rawdata/PROVINCE_COVID19.geojson
+
 <"$folder"/rawdata/TA_COVID19_RL.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/TA_COVID19_RL.csv
