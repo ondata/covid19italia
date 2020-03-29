@@ -6,9 +6,9 @@ Il 29 marzo 2020 [Isaia Invernizzi](https://twitter.com/EasyInve) [ha dato notiz
 
 Il file PDF contiene due allegati tabellari.
 
-Il primo è stato convertito in CSV ed è consultaibile [qui](./allegato_01.csv)
+Il primo è stato convertito in CSV (`allegato_01.csv`) ed è consultaibile [qui](./allegato_01.csv)
 
-## allegato_01 - Note sulla colonna codINT
+## allegato_01.csv - Note sulla colonna codINT
 
 La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una modifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
 
