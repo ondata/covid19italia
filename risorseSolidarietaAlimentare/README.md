@@ -10,5 +10,5 @@ Il primo è stato convertito in CSV (`allegato_01.csv`) ed è consultaibile [qui
 
 ## allegato_01.csv - Note sulla colonna codINT
 
-La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una modifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
+La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una codifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
 
