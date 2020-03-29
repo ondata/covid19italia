@@ -14,9 +14,11 @@ mkdir -p "$folder"/processing
 rm -r "$folder"/processing/*.csv
 rm -r "$folder"/rawdata/*table-2*.csv
 
-#cd "$folder"/processing
+cd "$folder"/processing
 
-#camelot -p 9-85 -f csv -o e.csv stream  "$folder"/rawdata/_contributi.pdf
+# converti il PDF in CSV da pag 9 a 85
+camelot -p 9-85 -f csv -o e.csv stream  "$folder"/rawdata/_contributi.pdf
+
 cp -r "$folder"/rawdata/*.csv "$folder"/processing/
 mv "$folder"/processing/e-page-9-table-1.csv "$folder"/processing/00e-page-9-table-1.csv
 
