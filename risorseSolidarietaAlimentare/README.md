@@ -4,11 +4,15 @@ Il 29 marzo 2020 [Isaia Invernizzi](https://twitter.com/EasyInve) [ha dato notiz
 
 È un documento che dettaglia le risorse da destinare a misure urgenti di solidarietà alimentare, legate alla conseguenze  dell’emergenza  COVID-19.
 
-Il file PDF contiene due allegati tabellari.
+Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 
-Il primo è stato convertito in CSV (`allegato_01.csv`) ed è consultaibile [qui](./allegato_01.csv)
+- [allegato_01.csv](./allegato_01.csv)
+- [allegato_02.csv](./allegato_02.csv)
 
 ## allegato_01.csv - Note sulla colonna codINT
 
 La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una codifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
 
+## allegato_01.csv e allegato_02.csv - Note sulla colonna codBDAP
+
+L'anagrafica dei codici BDAP degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione))
