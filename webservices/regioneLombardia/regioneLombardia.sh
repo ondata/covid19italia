@@ -23,3 +23,13 @@ ogr2ogr -f CSV "$folder"/processing/COMUNI_COVID19.csv "$folder"/rawdata/COMUNI_
 ogr2ogr -f CSV "$folder"/processing/PROVINCE_COVID19.csv "$folder"/rawdata/PROVINCE_COVID19.geojson
 
 <"$folder"/rawdata/TA_COVID19_RL.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/TA_COVID19_RL.csv
+
+# commit e push
+
+. ~/.keychain/$HOSTNAME-sh
+
+cd "$folder"
+git -C "$folder" pull
+git -C "$folder" add .
+git -C "$folder" commit -am "update"
+git -C "$folder" push origin master
