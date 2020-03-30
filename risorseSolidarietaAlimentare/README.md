@@ -15,7 +15,7 @@ La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una co
 
 ## allegato_01.csv e allegato_02.csv - Note sulla colonna codBDAP
 
-L'anagrafica dei codici BDAP degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione), grazie [Giorgia Lodi](https://twitter.com/GiorgiaLodi) per la segnalazione).
+L'anagrafica dei codici BDAP degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione), grazie [Giorgia Lodi](https://twitter.com/GiorgiaLodi) per la segnalazione). Questo contiene i codici ISTAT dei comuni (campo `Codice_ISTAT_Comune`), e può essere usato quindi per associare ai dati sulla solidarietà alimentare, il codice ISTA comunale.
 
 # Se usi questi dati
 
