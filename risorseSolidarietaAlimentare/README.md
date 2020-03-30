@@ -9,13 +9,23 @@ Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 - [allegato_01.csv](./allegato_01.csv)
 - [allegato_02.csv](./allegato_02.csv)
 
+Qui sotto una preview dello schema dati:
+
+| codINT | codBDAP | AREA | REGIONE | ENTE | POP | Quota a) | Quota b) | Contributo spettante | pagina |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1010020010 | 668242930533365502 | NORD | PIEMONTE | ACQUI TERME | 19604 | 103931.86 | 685.87 | 104617.73 | 9 |
+| 1010020020 | 681742930510597001 | NORD | PIEMONTE | ALBERA LIGURE | 300 | 1590.47 | 418.61 | 2009.08 | 9 |
+| 1010020030 | 136842930509823702 | NORD | PIEMONTE | ALESSANDRIA | 93631 | 496390.74 |  | 496390.74 | 9 |
+| 1010020040 | 972642928168076602 | NORD | PIEMONTE | ALFIANO NATTA | 779 | 4129.92 | 933.61 | 5063.53 | 9 |
+
+
 ## allegato_01.csv - Note sulla colonna codINT
 
 La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una codifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
 
 ## allegato_01.csv e allegato_02.csv - Note sulla colonna codBDAP
 
-L'anagrafica dei codici BDAP degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione), grazie [Giorgia Lodi](https://twitter.com/GiorgiaLodi) per la segnalazione). Questo contiene i codici ISTAT dei comuni (campo `Codice_ISTAT_Comune`), e può essere usato quindi per associare ai dati sulla solidarietà alimentare, il codice ISTA comunale.
+L'anagrafica dei codici BDAP (campo `codBDAP` degli allegati) degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (campo `Id_Ente`, fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione), grazie [Giorgia Lodi](https://twitter.com/GiorgiaLodi) per la segnalazione). Questo contiene i codici ISTAT dei comuni (campo `Codice_ISTAT_Comune`), e può essere usato quindi per associare ai dati sulla solidarietà alimentare, il codice ISTAT comunale.
 
 # Se usi questi dati
 
