@@ -20,6 +20,7 @@ Qui sotto un estratto d'esempio dei dati:
 
 `POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` e `Contributo spettante` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
 
+È stato creato un file che mette insieme i due allegati: [allegati.csv](./allegati.csv)
 
 ## allegato_01.csv e allegato_02.csv - Note sulla colonna codINT
 
