@@ -9,7 +9,7 @@ Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 - [allegato_01.csv](./allegato_01.csv)
 - [allegato_02.csv](./allegato_02.csv)
 
-Qui sotto una preview dei dati (`POP` è la popolazione):
+Qui sotto un estratto d'esempio dei dati (`POP` è la popolazione):
 
 | codINT | codBDAP | AREA | REGIONE | ENTE | POP | Quota a) | Quota b) | Contributo spettante | pagina |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
