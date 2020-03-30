@@ -21,7 +21,7 @@ Qui sotto un estratto d'esempio dei dati:
 `POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` e `Contributo spettante` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
 
 
-## allegato_01.csv - Note sulla colonna codINT
+## allegato_01.csv e allegato_02.csv - Note sulla colonna codINT
 
 La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una codifica del Ministero degli Interni.<br>[Salvatore Fiandaca](https://twitter.com/totofiandaca) (grazie mille) ha creato un file con i [codici ISTAT](COD_ISTAT_codINT.csv) corrispondenti.
 
