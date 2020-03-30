@@ -24,6 +24,8 @@ ogr2ogr -f CSV "$folder"/processing/PROVINCE_COVID19.csv "$folder"/rawdata/PROVI
 
 <"$folder"/rawdata/TA_COVID19_RL.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/TA_COVID19_RL.csv
 
+<"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2.csv
+
 # commit e push
 
 . ~/.keychain/$HOSTNAME-sh
