@@ -18,7 +18,7 @@ Qui sotto un estratto d'esempio dei dati:
 | 1010020030 | 136842930509823702 | NORD | PIEMONTE | ALESSANDRIA | 93631 | 496390.74 |  | 496390.74 | 9 |
 | 1010020040 | 972642928168076602 | NORD | PIEMONTE | ALFIANO NATTA | 779 | 4129.92 | 933.61 | 5063.53 | 9 |
 
-`POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
+`POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` e `Contributo spettante` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
 
 
 ## allegato_01.csv - Note sulla colonna codINT
