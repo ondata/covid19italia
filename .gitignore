@@ -5,3 +5,4 @@ processing/downloadList.tsv
 processing/*-page-*.csv
 .~lock*
 ta_covid19_comuni_time.csv
+f-page-*
