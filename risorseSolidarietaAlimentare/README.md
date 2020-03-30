@@ -2,7 +2,7 @@
 
 Il 29 marzo 2020 [Isaia Invernizzi](https://twitter.com/EasyInve) [ha dato notizia](https://www.facebook.com/groups/dataninja/permalink/2261129897526089/) della pubblicazione del [documento in PDF](./rawdata/_contributi.pdf) sulle "**misure e risorse per la solidarietà alimentare**", inviato dal presidente della "Conferenza delle Regioni e delle Province autonome" ai Signori Presidenti delle Regioni e delle Province autonome. Il documento è pubblicato sul [sito dell'ANCI](http://www.anci.it/lordinanza-della-protezione-civile-per-gli-aiuti-alle-famiglie-e-il-dpc-per-lanticipo-del-fsc/) ([qui](https://web.archive.org/web/20200330094145/http://www.anci.it/lordinanza-della-protezione-civile-per-gli-aiuti-alle-famiglie-e-il-dpc-per-lanticipo-del-fsc/) in copia).
 
-È un documento che dettaglia le risorse da destinare a misure urgenti di solidarietà alimentare, legate alla conseguenze  dell’emergenza  COVID-19.
+È un documento che dettaglia le risorse da destinare a misure urgenti di solidarietà alimentare, legate alla conseguenze  dell’emergenza  COVID-19. Non è ancora in Gazzetta Ufficiale.
 
 Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 
