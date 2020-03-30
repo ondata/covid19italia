@@ -9,7 +9,7 @@ Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 - [allegato_01.csv](./allegato_01.csv)
 - [allegato_02.csv](./allegato_02.csv)
 
-Qui sotto un estratto d'esempio dei dati (`POP` è la popolazione):
+Qui sotto un estratto d'esempio dei dati:
 
 | codINT | codBDAP | AREA | REGIONE | ENTE | POP | Quota a) | Quota b) | Contributo spettante | pagina |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,8 @@ Qui sotto un estratto d'esempio dei dati (`POP` è la popolazione):
 | 1010020020 | 681742930510597001 | NORD | PIEMONTE | ALBERA LIGURE | 300 | 1590.47 | 418.61 | 2009.08 | 9 |
 | 1010020030 | 136842930509823702 | NORD | PIEMONTE | ALESSANDRIA | 93631 | 496390.74 |  | 496390.74 | 9 |
 | 1010020040 | 972642928168076602 | NORD | PIEMONTE | ALFIANO NATTA | 779 | 4129.92 | 933.61 | 5063.53 | 9 |
+
+`POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
 
 
 ## allegato_01.csv - Note sulla colonna codINT
