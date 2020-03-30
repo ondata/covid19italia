@@ -16,3 +16,7 @@ La colonna `codINT` contiene l'identificativo numerico dell'ente, secondo una co
 ## allegato_01.csv e allegato_02.csv - Note sulla colonna codBDAP
 
 L'anagrafica dei codici BDAP degli enti si trova nel file [Anagrafe-Enti---Ente.csv](Anagrafe-Enti---Ente.csv) (fonte [OpenBDAP](https://bdap-opendata.mef.gov.it/tema/anagrafe-enti-della-pubblica-amministrazione), grazie [Giorgia Lodi](https://twitter.com/GiorgiaLodi) per la segnalazione).
+
+# Se usi questi dati
+
+Cita per favore l'Associazione onData e questo URL <https://github.com/ondata/covid19italia/blob/master/risorseSolidarietaAlimentare/README.md>.
