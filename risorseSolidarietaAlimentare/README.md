@@ -9,6 +9,8 @@ Il file PDF contiene due allegati tabellari e sono stati convertiti in CSV:
 - [allegato_01.csv](./allegato_01.csv)
 - [allegato_02.csv](./allegato_02.csv)
 
+È stato creato un file che mette **insieme** i **due allegati**: [**allegati.csv**](./allegati.csv)
+
 Qui sotto un estratto d'esempio dei dati:
 
 | codINT | codBDAP | AREA | REGIONE | ENTE | POP | Quota a) | Quota b) | Contributo spettante | pagina |
@@ -19,8 +21,6 @@ Qui sotto un estratto d'esempio dei dati:
 | 1010020040 | 972642928168076602 | NORD | PIEMONTE | ALFIANO NATTA | 779 | 4129.92 | 933.61 | 5063.53 | 9 |
 
 `POP` è la popolazione (sembra essere quella al 2018), i valori dei campi `Quota` e `Contributo spettante` sono in €. La differenza tra `Quota a)` e `Quota b)` si ricava dalla lettura del [PDF sorgente](rawdata/_contributi.pdf).
-
-È stato creato un file che mette insieme i due allegati: [allegati.csv](./allegati.csv)
 
 ## allegato_01.csv e allegato_02.csv - Note sulla colonna codINT
 
