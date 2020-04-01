@@ -11,8 +11,9 @@
   - [File CSV con i dati per provincia (i contagiati)](#file-csv-con-i-dati-per-provincia-i-contagiati)
   - [File CSV con i dati riepilogo](#file-csv-con-i-dati-riepilogo)
   - [API](#api)
-    - [Dati per provincia](#dati-per-provincia)
     - [Dati di riepilogo](#dati-di-riepilogo)
+      - [Dati per provincia](#dati-per-provincia)
+      - [Dati di riepilogo](#dati-di-riepilogo-1)
   - [Archivio dei PDF pubblicati](#archivio-dei-pdf-pubblicati)
 - [Archiviazione automatica su Web Archive](#archiviazione-automatica-su-web-archive)
 - [Dati accessori di riferimento](#dati-accessori-di-riferimento)
@@ -92,8 +93,8 @@ I dati sono accessibili anche in formato Json attraverso API:
 
 Esempio:
 
-Gli ultimi dati disponibili per ogni soingola regione 
-https://openpuglia.org/api/?q=getdatapccovid-19 
+Gli ultimi dati disponibili per ogni soingola regione
+https://openpuglia.org/api/?q=getdatapccovid-19
 
 Gli ultimi dati disponibili per la singola regione dove `reg = nome regione`
 https://openpuglia.org/api/?q=getdatapccovid-19&reg=lombardia
@@ -187,4 +188,4 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Franco Mossotto](https://twitter.com/FMossotto) > <http://bit.ly/CoronaVirusItaliaDataStudio>
 - [Salvatore Fiandaca](https://twitter.com/totofiandaca) > <https://pigrecoinfinito.com/2020/03/10/qgis-creare-grafici-con-incrementi-giornalieri>
 - [Hey, Teacher](https://github.com/heyteacher) > <https://heyteacher.github.io/COVID-19/>
-
+- [Moreno Colaiacovo](https://twitter.com/emmecola) > <https://emmecola.github.io/coronavirus_lombardia/>
