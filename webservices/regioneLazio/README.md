@@ -11,5 +11,6 @@ Le risorse sono 3 file CSV (*encoding* `UTF-8`, separatore `,`):
 - [distretti.csv](./processing/distretti.csv);
 - [zoneurbane.csv](./processing/zoneurbane.csv).
 
+È presente sempre una colonna `tasso`, che fa riferimento al tasso di contagi ogni 10.000 abitanti.
 
 **NOTA BENE**: sono i dati al 8 aprile 2020 e al momento non verranno aggiornati in questo spazio. Sono stati aggiunti per mostrare come accedervi.
