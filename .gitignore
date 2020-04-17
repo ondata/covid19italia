@@ -6,3 +6,4 @@ processing/*-page-*.csv
 .~lock*
 ta_covid19_comuni_time.csv
 f-page-*
+webservices/regioneLombardia/TA_COVID19_RL/*
