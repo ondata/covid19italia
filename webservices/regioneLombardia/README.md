@@ -18,7 +18,7 @@ Vengono giornalmente scaricate e convertite in CSV (*encoding* `UTF-8` e separat
 
 ## TA_COVID19_RL
 
-Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi** con esito positivo registrati da **Regione Lombardia**.<br>Per ciascun tampone sono indicati: **data** di ricevimento del tampone da parte del laboratorio di analisi; **sesso**, **età**, **nazionalità**, **provincia**, **comune** di **residenza** e **domicilio** della persona risultata positiva al test; indicazione dei soggetti deceduti.
+Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi** con esito positivo registrati da **Regione Lombardia**.<br>Per ciascun tampone sono indicati: **data** di ricevimento del tampone da parte del laboratorio di analisi; **sesso**, **età**, **provincia** e **domicilio** della persona risultata positiva al test; indicazione dei soggetti deceduti.
 
 |Nome campo|Descrizione|
 |---|---|
