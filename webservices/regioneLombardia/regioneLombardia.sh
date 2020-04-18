@@ -44,7 +44,7 @@ while [  $DA -lt "$conteggioRisorse" ]; do
 done
 
 # fai il merge
-mlr --csv clean-whitespace "$folder"/TA_COVID19_RL/*.csv >"$folder"/processing/TA_COVID19_RL.csv
+mlr --csv clean-whitespace then cut -x -f "ETÀ","DOMICILIO_COMUNE","NAZIONALITÀ" "$folder"/TA_COVID19_RL/*.csv >"$folder"/processing/TA_COVID19_RL.csv
 
 ### TA_COVID19_RL ###
 
