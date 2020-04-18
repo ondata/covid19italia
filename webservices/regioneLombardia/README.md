@@ -25,8 +25,8 @@ Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi
 |DATA_RICEVIMENTO_TAMPONE|Data in cui il laboratorio ha ricevuto il tampone|
 |FASCIA_DI_ETÀ|Fascia di età|
 |RESIDENZA_COMUNE|Comune di residenza|
+|DOMICILIO_COMUNE|Nome del comune di domicilio|
 |CODICE_COMUNE_DOMICILIO|Codice ISTAT del comune di domicilio|
-|CODICE_COMUNE_RESIDENZA|Codice ISTAT del comune di residenza|
 |CODICE_COMUNE|Codice ISTAT del comune di domicilio|
 |DESCRIZIONE_COMUNE|Descrizione del comune di domicilio|
 |CODICE_PROVINCIA|Sigla della provincia|
