@@ -33,3 +33,10 @@ Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi
 |VIVO_O_DECEDUTO|Vivo o deceduto|
 |SESSO|Sesso|
 |REGIONE|Regione|
+
+
+# Elaborazioni derivate
+
+- "["L’identikit dei contagiati in Bergamasca - Ecco tutti i dati Comune per Comune](https://www.ecodibergamo.it/stories/bergamo-citta/lidentikit-dei-contagiati-in-bergamascaecco-tutti-i-dati-comune-per-comune_1350432_11/)", [Isaia Invernizzi](https://twitter.com/EasyInve) su "L'eco di Bergamo"
+- "[Mappa dei deceduti per #COVID19 in Lombardia (16 aprile 2020)](https://twitter.com/beriapaolo/status/1251788913234116608)", [Paolo Beria](https://twitter.com/beriapaolo)
+- "[Lombardia: tutti i dati del contagio e dei decessi](https://www.facebook.com/globalpolicynews/posts/2058168257661972)", GPN MEDIA CENTER
