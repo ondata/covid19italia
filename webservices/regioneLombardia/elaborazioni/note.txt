@@ -1,0 +1,8 @@
+I due excel sono 
+- i dati originali per singola osservazione con in più il PRO_COM corretto (cioè coerente con lo shapefile per il join)
+- la somma di deceduti e vivi associata al comune
+Ci sono un po' di osservazioni perse, senza procom.
+
+Lo shapefile contiene i comuni lombardi al 2018, con il dato di vivi e morti (l'excel 2). Essendo solo i comuni lombardi, sono esclusi i pochi dati esterni, che comunque sono presenti nell'excel.
+
+Paolo
