@@ -3,10 +3,10 @@
   "error" : 
   {
     "code" : 499, 
-    "message" : "Token Required", 
-    "messageCode" : "GWM_0003", 
+    "message" : "Item does not exist or is inaccessible.", 
+    "messageCode" : "CONT_0001", 
     "details" : [
-      "Token Required"
+      "Item does not exist or is inaccessible."
     ]
   }
 }
