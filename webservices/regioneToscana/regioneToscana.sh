@@ -22,7 +22,7 @@ mlr -I --csv sort -f nome then put '$data_caricamento=int(systime())' "$folder"/
 
 date=$(date '+%Y-%m-%d')
 
-cp "$folder"/rawdata/dati.csv "$folder"/processing/"$date"-Toscana-comuni-casi.csv
+cp "$folder"/rawdata/dati.csv "$folder"/processing/"$date"-Toscana-comuni-decessi.csv
 
 # commit e push
 
