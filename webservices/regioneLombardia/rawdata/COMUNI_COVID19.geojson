@@ -1,1 +1,12 @@
-Bad Request
+
+{
+  "error" : 
+  {
+    "code" : 499, 
+    "message" : "Item does not exist or is inaccessible.", 
+    "messageCode" : "CONT_0001", 
+    "details" : [
+      "Item does not exist or is inaccessible."
+    ]
+  }
+}
