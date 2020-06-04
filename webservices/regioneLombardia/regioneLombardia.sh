@@ -11,6 +11,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
+mkdir -p "$folder"/processing/INCR_DATE_TAMP_RL_v2
 
 while IFS=$'\t' read -r nome formato url; do
     curl -kL "$url" >"$folder"/rawdata/"$nome"."$formato"
@@ -29,6 +30,8 @@ mkdir -p "$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2
 date=$(date '+%Y-%m-%d')
 
 <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2/"$date"-INCR_DATE_PRV_TAMP_RL_v2.csv
+
+<"$folder"/rawdata/INCR_DATE_TAMP_RL_v2.json jq '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_TAMP_RL_v2/"$date"-INCR_DATE_TAMP_RL_v2.csv
 
 
 # commit e push
