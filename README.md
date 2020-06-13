@@ -190,3 +190,4 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Hey, Teacher](https://github.com/heyteacher) > <https://heyteacher.github.io/COVID-19/>
 - [Moreno Colaiacovo](https://twitter.com/emmecola) > <https://emmecola.github.io/coronavirus_lombardia/>
 - [Giuseppe Cillis](https://www.facebook.com/giuseppe.d.cillis) > <https://public.flourish.studio/visualisation/1736281>
+- [Vincenzo Sciascia](https://www.linkedin.com/in/vincenzosciascia/) > covidApp <https://3hy2c.glideapp.io/>
