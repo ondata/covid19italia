@@ -59,3 +59,14 @@ date=$(date '+%Y-%m-%d')
 cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
+
+
+# commit e push
+
+. ~/.keychain/$HOSTNAME-sh
+
+cd "$folder"
+git -C "$folder" pull
+git -C "$folder" add .
+git -C "$folder" commit -am "update"
+git -C "$folder" push origin master
