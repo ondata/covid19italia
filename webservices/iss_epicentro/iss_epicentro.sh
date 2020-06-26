@@ -40,7 +40,7 @@ jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[0].text[]
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemica30gg
 
 # aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
-# dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni e
+# dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni
 jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[1].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemica30gg
 
@@ -59,6 +59,37 @@ date=$(date '+%Y-%m-%d')
 cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
+
+### dashboard inizio ###
+urlinizio="https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html"
+
+# estrai id dei div html
+curl -kL "$urlinizio" >"$folder"/rawdata/Dashboard_finale_dallinizio.html
+scrape <"$folder"/rawdata/Dashboard_finale_dallinizio.html -be '//div[contains(@id,"htmlwidget-")]' |
+    xq -r '.html.body.div[]."@id"' >"$folder"/rawdata/listaDivIdDallInizio
+
+# per ogni div estrai i dati JSON
+while read p; do
+    echo "$p"
+    scrape <"$folder"/rawdata/Dashboard_finale_dallinizio.html -be '//div[@id="'"$p"'"]/following::script[1]' |
+        xq -r '.html.body.script."#text"' | jq . >"$folder"/rawdata/"$p".json
+done <"$folder"/rawdata/listaDivIdDallInizio
+
+# estrai la sezione con i dati dal JSON relativo alla Curva epidemica con data Inizio Sintomi
+# dei casi di COVID-19 diagnosticati in Italia dall'inizio
+jq <"$folder"/rawdata/htmlwidget-389cec01745344e1ffcd.json -r '.x.data[0].text[]' |
+    mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemicaInizio
+
+# aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
+# dei casi di COVID-19 diagnosticati in Italia dall'inizio
+jq <"$folder"/rawdata/htmlwidget-389cec01745344e1ffcd.json -r '.x.data[1].text[]' |
+    mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemicaInizio
+
+# converti curvaEpidemicaInizio in CSV
+mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/rawdata/curvaEpidemicaInizio >"$folder"/rawdata/curvaEpidemicaInizio.csv
+
+# crea file del giorno
+cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/"$date"_curvaEpidemicaInizio.csv
 
 host=$(hostname)
 if [ $host = "ex-machina.ondata.it" ]; then
