@@ -32,7 +32,7 @@ jq <"$folder"/rawdata/htmlwidget-4d57cc3e2f385faa0d5f.json -r '.x.calls[1].args[
 # converti in TSV
 sed -i -r 's/^(.+[a-zA-Z])( +)([0-9]+).*$/\1\t\3/g' "$folder"/rawdata/casi30gg.csv
 # converti in CSV
-mlr -I --t2c --implicit-csv-header label provincia,casi "$folder"/rawdata/casi30gg.csv
+mlr -I --t2c --implicit-csv-header label provincia,casi then sort -f provincia "$folder"/rawdata/casi30gg.csv
 
 # estrai la sezione con i dati dal JSON relativo alla Curva epidemica con data Inizio Sintomi
 # dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni
