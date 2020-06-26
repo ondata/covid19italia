@@ -28,7 +28,7 @@ while read p; do
 done <"$folder"/rawdata/listaDivId30gg
 
 # estrai la sezione con i dati dal JSON relativo ai casi per Provincia di domicilio o di residenza
-jq <"$folder"/rawdata/htmlwidget-ead87425daaaa84ae9fe.json -r '.x.calls[1].args[6][]' >"$folder"/rawdata/casi30gg.csv
+jq <"$folder"/rawdata/htmlwidget-4d57cc3e2f385faa0d5f.json -r '.x.calls[1].args[6][]' >"$folder"/rawdata/casi30gg.csv
 # converti in TSV
 sed -i -r 's/^(.+[a-zA-Z])( +)([0-9]+).*$/\1\t\3/g' "$folder"/rawdata/casi30gg.csv
 # converti in CSV
@@ -36,19 +36,19 @@ mlr -I --t2c --implicit-csv-header label provincia,casi "$folder"/rawdata/casi30
 
 # estrai la sezione con i dati dal JSON relativo alla Curva epidemica con data Inizio Sintomi
 # dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni
-jq <"$folder"/rawdata/htmlwidget-69720a11b118d04d7300.json -r '.x.data[0].text[]' |
+jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[0].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemica30gg
 
 # aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
 # dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni e
-jq <"$folder"/rawdata/htmlwidget-69720a11b118d04d7300.json -r '.x.data[1].text[]' |
+jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[1].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemica30gg
 
 # converti curvaEpidemica30gg in CSV
 mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/rawdata/curvaEpidemica30gg >"$folder"/rawdata/curvaEpidemica30gg.csv
 
 # Estrai dati COVID-19 segnalati in Italia negli ultimi 30 giorni per classe di età
-jq <"$folder"/rawdata/htmlwidget-d6be170f314b4a19d1f6.json -r '.x.data[0].hovertemplate[]' >"$folder"/rawdata/classiEta
+jq <"$folder"/rawdata/htmlwidget-2b4fa6bfd4bfcaaeecc7.json -r '.x.data[0].hovertemplate[]' >"$folder"/rawdata/classiEta
 sed -i -r 's/^(.+?:)(.+)(\|)(.+:)(.+)$/\2\t\5/g' "$folder"/rawdata/classiEta
 
 # converti in CSV
