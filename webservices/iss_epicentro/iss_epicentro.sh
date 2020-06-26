@@ -13,7 +13,7 @@ rm "$folder"/processing/*
 rm "$folder"/rawdata/*
 
 ### dashboard 30 giorni ###
-url30="https://www.epicentro.iss.it/coronavirus/dashboard/Dashboard_finale_30gg.html"
+url30="https://www.epicentro.iss.it/coronavirus/dashboard/30gg.html"
 
 # estrai id dei div html
 curl -kL "$url30" >"$folder"/rawdata/Dashboard_finale_30gg.html
