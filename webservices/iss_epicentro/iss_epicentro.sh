@@ -9,7 +9,7 @@ mkdir -p "$folder"/processing
 mkdir -p "$folder"/risorse
 
 # svuota cartella
-rm "$folder"/processing/*
+#rm "$folder"/processing/*
 rm "$folder"/rawdata/*
 
 ### dashboard 30 giorni ###
