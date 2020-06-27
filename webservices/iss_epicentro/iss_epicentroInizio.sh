@@ -33,7 +33,7 @@ done <"$folder"/rawdata/listaDivIdDallInizio
 
 numeroClassi=$(expr $(jq <"$folder"/rawdata/htmlwidget-0971c37dd630e105e8c2.json '.x.data| length') - 1)
 
-rm "$folder"/tmp_classe_*.csv
+rm "$folder"/rawdata/tmp_classe_*.csv
 for i in $(seq 0 "$numeroClassi"); do
   jq <"$folder"/rawdata/htmlwidget-0971c37dd630e105e8c2.json '.x.data['"$i"']' | mlr --j2c reshape -r "^[xy]:" -o item,value then cut -f item,value then nest --explode --values --across-fields --nested-fs ":" -f item then reshape -s item_1,value then put '$classe='"$i"'' then rename item_2,id >"$folder"/rawdata/tmp_classe_"$i".csv
   numerorighe=$(cat "$folder"/rawdata/tmp_classe_"$i".csv | tail -n +2 | wc -l)
@@ -47,7 +47,7 @@ mlr --csv cat "$folder"/rawdata/tmp_classe_*_out.csv >"$folder"/rawdata/incidenz
 
 numeroClassi=$(expr $(jq <"$folder"/rawdata/htmlwidget-0f53bc84789d52b2599d.json '.x.data| length') - 1)
 
-rm "$folder"/tmp_classe_*.csv
+rm "$folder"/rawdata/tmp_classe_*.csv
 for i in $(seq 0 "$numeroClassi"); do
   jq <"$folder"/rawdata/htmlwidget-0f53bc84789d52b2599d.json '.x.data['"$i"']' | mlr --j2c reshape -r "^[xy]:" -o item,value then cut -f item,value then nest --explode --values --across-fields --nested-fs ":" -f item then reshape -s item_1,value then put '$classe='"$i"'' then rename item_2,id >"$folder"/rawdata/tmp_classe_nc_"$i".csv
   numerorighe=$(cat "$folder"/rawdata/tmp_classe_nc_"$i".csv | tail -n +2 | wc -l)
