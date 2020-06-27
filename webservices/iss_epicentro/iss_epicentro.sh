@@ -28,7 +28,10 @@ while read p; do
 done <"$folder"/rawdata/listaDivId30gg
 
 # estrai la sezione con i dati dal JSON relativo ai casi per Provincia di domicilio o di residenza
-jq <"$folder"/rawdata/htmlwidget-4d57cc3e2f385faa0d5f.json -r '.x.calls[1].args[6][]' >"$folder"/rawdata/casi30gg.csv
+
+nomeCasiProvincia=$(grep -rnli 'casi per pro' "$folder"/rawdata/*.json | grep -Eo 'html.+json')
+
+jq <"$folder"/rawdata/"$nomeCasiProvincia" -r '.x.calls[1].args[6][]' >"$folder"/rawdata/casi30gg.csv
 # converti in TSV
 sed -i -r 's/^(.+[a-zA-Z])( +)([0-9]+).*$/\1\t\3/g' "$folder"/rawdata/casi30gg.csv
 # converti in CSV
@@ -36,19 +39,25 @@ mlr -I --t2c --implicit-csv-header label provincia,casi then sort -f provincia "
 
 # estrai la sezione con i dati dal JSON relativo alla Curva epidemica con data Inizio Sintomi
 # dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni
-jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[0].text[]' |
+
+nomeCurvaEpidemica=$(grep -rnli 'Data prelievo' "$folder"/rawdata/*.json | grep -Eo 'html.+json')
+
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[0].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemica30gg
 
 # aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
 # dei casi di COVID-19 diagnosticati in Italia negli ultimi 30 giorni
-jq <"$folder"/rawdata/htmlwidget-661d16c6fae448ca25f2.json -r '.x.data[1].text[]' |
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemica30gg
 
 # converti curvaEpidemica30gg in CSV
 mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/rawdata/curvaEpidemica30gg >"$folder"/rawdata/curvaEpidemica30gg.csv
 
 # Estrai dati COVID-19 segnalati in Italia negli ultimi 30 giorni per classe di età
-jq <"$folder"/rawdata/htmlwidget-2b4fa6bfd4bfcaaeecc7.json -r '.x.data[0].hovertemplate[]' >"$folder"/rawdata/classiEta
+
+nomeClasseEta=$(grep -rnli '0-18' "$folder"/rawdata/*.json | grep -Eo 'html.+json')
+
+jq <"$folder"/rawdata/"$nomeClasseEta" -r '.x.data[0].hovertemplate[]' >"$folder"/rawdata/classiEta
 sed -i -r 's/^(.+?:)(.+)(\|)(.+:)(.+)$/\2\t\5/g' "$folder"/rawdata/classiEta
 
 # converti in CSV
@@ -62,6 +71,8 @@ cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEp
 
 ### dashboard inizio ###
 urlinizio="https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html"
+
+rm "$folder"/rawdata/*
 
 # estrai id dei div html
 curl -kL "$urlinizio" >"$folder"/rawdata/Dashboard_finale_dallinizio.html
@@ -77,12 +88,15 @@ done <"$folder"/rawdata/listaDivIdDallInizio
 
 # estrai la sezione con i dati dal JSON relativo alla Curva epidemica con data Inizio Sintomi
 # dei casi di COVID-19 diagnosticati in Italia dall'inizio
-jq <"$folder"/rawdata/htmlwidget-389cec01745344e1ffcd.json -r '.x.data[0].text[]' |
+
+nomeCurvaEpidemica=$(grep -rnli 'Data prelievo' "$folder"/rawdata/*.json | grep -Eo 'html.+json')
+
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[0].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemicaInizio
 
 # aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
 # dei casi di COVID-19 diagnosticati in Italia dall'inizio
-jq <"$folder"/rawdata/htmlwidget-389cec01745344e1ffcd.json -r '.x.data[1].text[]' |
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemicaInizio
 
 # converti curvaEpidemicaInizio in CSV
