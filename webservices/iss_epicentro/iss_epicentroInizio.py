@@ -16,7 +16,7 @@ date_start = datetime.datetime.strptime(first_day, "%y-%m-%d")
 f2 = open('./processing/incidenzaInizio.csv', 'w')
 f2.write('data,regione,classe_incidenza\n')
 
-with open('./rawdata/incidenzaInizio.csv') as csv_file:
+with open('./processing/raw_incidenzaInizio.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
