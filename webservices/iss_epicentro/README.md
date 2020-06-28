@@ -7,7 +7,7 @@ L'Istituto Superiore di Sanità pubblica due *dashboard* contenente dati proveni
 In questa cartella:
 
 - due script bash ([iss_epicentro.sh](./iss_epicentro.sh) e [iss_epicentroInizio.sh](./iss_epicentroInizio.sh)) per estrarre alcuni dei dati contenuti nelle *dashboard*;
-- [uno script python](iss_epicentroInizio.py) per elaborare i dati delle *heatmap* contenuti nella dashboard "[dall'inizio](https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html)";
+- [uno script python](iss_epicentroInizio.py) per elaborare i dati grezzi estratti dalle *heatmap* contenute nella dashboard "[dall'inizio](https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html)";
 - [una cartella](./processing) con i dati di *output* in formato CSV (*encoding* `UTF-8` e separatore la `,`) frutto dell'elaborazione degli *script*.
 
 I dati estratti sono organizzati nei seguenti file:
