@@ -1,5 +1,12 @@
 #!/bin/bash
 
+### requisiti ###
+# jq https://stedolan.github.io/jq/
+# xq https://github.com/kislyuk/yq
+# scrape https://github.com/aborruso/scrape-cli
+# miller https://github.com/johnkerl/miller
+### requisiti ###
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
