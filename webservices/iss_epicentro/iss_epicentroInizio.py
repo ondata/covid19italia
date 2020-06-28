@@ -14,7 +14,7 @@ classi_casi = ['1-10', '11-50', '51-100',
 classi_inc = ['0.01-1', '1.01-5', '5.01-10',
               '10.01-15', '15.01-20', '20.01-40', '40+']
 
-first_day = "20-02-19"
+first_day = "20-02-20"
 date_start = datetime.datetime.strptime(first_day, "%y-%m-%d")
 
 today=datetime.datetime.now().strftime("%Y-%m-%d")
