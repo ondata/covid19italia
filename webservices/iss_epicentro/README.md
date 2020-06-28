@@ -19,6 +19,10 @@ I dati estratti sono organizzati nei seguenti file:
 - `2020-MM-GG_incidenzaInizio.csv` - Numero di casi di COVID-19 segnalati in Italia per Regione/Provincia Autonoma per data di prelievo o diagnosi;
 - `2020-MM-GG_numeroCasiInizio.csv` - Incidenza di COVID-19 segnalati in Italia per Regione/Provincia Autonoma per data di prelievo o diagnosi.
 
+## Nota del 28 giugno 2020
+
+Non abbiano ancora pienamente testato la bontà dell'output; se risconto qualche problema, aggiunti per favore un commento [qui](https://github.com/ondata/covid19italia/issues/53), grazie.
+
 ## Credits
 
 La conversione dei dati grezzi estratti dalle *heatmap* in dati leggibili, si deve a [Paolo Milan](https://twitter.com/OpencovidM) (grazie).
