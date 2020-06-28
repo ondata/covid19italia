@@ -21,7 +21,7 @@ I dati estratti sono organizzati nei seguenti file:
 
 ## Nota del 28 giugno 2020
 
-Non abbiano ancora pienamente testato la bontà dell'output; se risconto qualche problema, aggiunti per favore un commento [qui](https://github.com/ondata/covid19italia/issues/53), grazie.
+Non abbiano ancora pienamente testato la bontà dell'output; se riscontri qualche problema, aggiungi per favore un commento [qui](https://github.com/ondata/covid19italia/issues/53), grazie.
 
 ## Credits
 
