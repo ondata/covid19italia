@@ -9,6 +9,8 @@
 
 set -x
 
+debugMode="off"
+
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 date=$(date '+%Y-%m-%d')
@@ -86,7 +88,7 @@ cp "$folder"/rawdata/incidenzaInizio.csv "$folder"/processing/raw_incidenzaInizi
 python3 "$folder"/iss_epicentroInizio.py
 
 host=$(hostname)
-if [ $host = "ex-machina.ondata.it" ]; then
+if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
     # commit e push
 
     . ~/.keychain/$HOSTNAME-sh

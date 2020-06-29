@@ -9,6 +9,8 @@
 
 set -x
 
+debugMode="off"
+
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/rawdata
@@ -113,7 +115,7 @@ mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/ra
 cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/"$date"_curvaEpidemicaInizio.csv
 
 host=$(hostname)
-if [ $host = "ex-machina.ondata.it" ]; then
+if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
     # commit e push
 
     . ~/.keychain/$HOSTNAME-sh
