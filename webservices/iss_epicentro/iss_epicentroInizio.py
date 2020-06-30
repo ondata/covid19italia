@@ -30,19 +30,19 @@ with open(abspath+'/processing/raw_incidenzaInizio.csv') as csv_file:
     line_count = 0
     for row in csv_reader:
         if line_count == 0:
-            print(f'Intestazione {", ".join(row)}')
+            # print(f'Intestazione {", ".join(row)}')
             line_count += 1
         elif row[0] == '1' and int(row[4]) < 7:
             day = (int(row[2])-1582113600)/86400
             id_regione = int((float(row[3])-0.5))
             my_classe = int(row[4])
             my_date = date_start + datetime.timedelta(days=day)
-            print(
-                f'\t{my_date.day}/{my_date.month} \t {regioni[id_regione]} \t {classi_inc[my_classe]}')
+            # print(
+            #     f'\t{my_date.day}/{my_date.month} \t {regioni[id_regione]} \t {classi_inc[my_classe]}')
             f_i.write('{:%y-%m-%d}'.format(my_date)+',' +
                      regioni[id_regione]+','+classi_inc[my_classe]+'\n')
             line_count += 1
-    print(f'Elaborate {line_count} righe.')
+    # print(f'Elaborate {line_count} righe.')
 
 
 f_i.close()
@@ -55,19 +55,19 @@ with open(abspath+'/processing/raw_numeroCasiInizio.csv') as csv_file:
     line_count = 0
     for row in csv_reader:
         if line_count == 0:
-            print(f'Intestazione {", ".join(row)}')
+            # print(f'Intestazione {", ".join(row)}')
             line_count += 1
         elif row[0] == '1' and int(row[4]) < 7:
             day = (int(row[2])-1582113600)/86400
             id_regione = int((float(row[3])-0.5))
             my_classe = int(row[4])
             my_date = date_start + datetime.timedelta(days=day)
-            print(
-                f'\t{my_date.day}/{my_date.month} \t {regioni[id_regione]} \t {classi_casi[my_classe]}')
+            # print(
+            #     f'\t{my_date.day}/{my_date.month} \t {regioni[id_regione]} \t {classi_casi[my_classe]}')
             f_c.write('{:%y-%m-%d}'.format(my_date)+',' +
                      regioni[id_regione]+','+classi_casi[my_classe]+'\n')
             line_count += 1
-    print(f'Elaborate {line_count} righe.')
+    # print(f'Elaborate {line_count} righe.')
 
 
 f_c.close()
