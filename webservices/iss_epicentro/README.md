@@ -1,4 +1,4 @@
-L'Istituto Superiore di Sanità pubblica due *dashboard* contenente dati provenienti dal [Sistema di sorveglianza integrata COVID-19](https://covid-19.iss.it/):
+L'Istituto Superiore di Sanità pubblica due *dashboard* contenenti dati provenienti dal [Sistema di sorveglianza integrata COVID-19](https://covid-19.iss.it/):
 
 - "ultimi 30 giorni", https://www.epicentro.iss.it/coronavirus/dashboard/30gg.html
 - "dall'inizio", https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html
