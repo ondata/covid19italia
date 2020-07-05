@@ -115,6 +115,7 @@ mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/ra
 
 # crea file del giorno
 cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/"$date"_curvaEpidemicaInizio.csv
+commento
 
 host=$(hostname)
 if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
@@ -128,4 +129,3 @@ if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
     git -C "$folder" commit -am "update"
     git -C "$folder" push origin master
 fi
-commento
