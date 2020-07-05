@@ -78,8 +78,8 @@ cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
 
-# dal 4 luglio i dati della dashboad inizio non sono più disponibili
 <<commento
+commento
 ### dashboard inizio ###
 urlinizio="https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html"
 
@@ -115,7 +115,6 @@ mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/ra
 
 # crea file del giorno
 cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/"$date"_curvaEpidemicaInizio.csv
-commento
 
 host=$(hostname)
 if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
