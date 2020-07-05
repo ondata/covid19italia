@@ -78,6 +78,8 @@ cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
 
+# dal 4 luglio i dati della dashboad inizio non sono più disponibili
+<<commento
 ### dashboard inizio ###
 urlinizio="https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html"
 
@@ -126,3 +128,4 @@ if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
     git -C "$folder" commit -am "update"
     git -C "$folder" push origin master
 fi
+commento
