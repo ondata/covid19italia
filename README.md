@@ -191,3 +191,5 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Moreno Colaiacovo](https://twitter.com/emmecola) > <https://emmecola.github.io/coronavirus_lombardia/>
 - [Giuseppe Cillis](https://www.facebook.com/giuseppe.d.cillis) > <https://public.flourish.studio/visualisation/1736281>
 - [Vincenzo Sciascia](https://www.linkedin.com/in/vincenzosciascia/) > covidApp <https://3hy2c.glideapp.io/>
+- [@OpencovidM](https://twitter.com/OpencovidM) > "Erreti (leggermente) maggiore di uno" <https://web.archive.org/web/20200810105626/https://opencoviditaly.netsons.org/erreti-leggermente-maggiore-di-uno/>
+- [@OpencovidM](https://twitter.com/OpencovidM) > "Cosa succede quando si utilizzano dati non consolidati?" <https://opencoviditaly.netsons.org/cosa-succede-quando-si-utilizzano-dati-non-consolidati/>
