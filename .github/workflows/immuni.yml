@@ -25,7 +25,7 @@ jobs:
     - name: scarica i dati e crea feed
       run: |-
         export PATH=$PATH:~/bin
-        cd ./webservices/immuni/immuni.sh
+        cd ./webservices/immuni/
         chmod +x ./immuni.sh
         ./c_a965.sh
     - name: Committa e pusha se ci sono variazioni nei dati
