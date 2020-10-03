@@ -1,10 +1,10 @@
 name: aggiorna dati immuni
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '0 14 */1 * *'
+    - cron:  '0 12 */1 * *'
 
 jobs:
   scheduled:
