@@ -22,12 +22,12 @@ jobs:
         cd ~/bin
         chmod +x mlr
         chmod +x scrape
-    - name: scarica i dati e crea feed
+    - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
         cd ./webservices/immuni/
         chmod +x ./immuni.sh
-        ./c_a965.sh
+        ./immuni.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
