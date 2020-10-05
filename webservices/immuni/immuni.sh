@@ -7,7 +7,6 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
-
 URL="https://www.immuni.italia.it"
 
 # leggi la risposta HTTP del sito
@@ -23,8 +22,11 @@ if [ $code -eq 200 ]; then
   # scarica file
   curl -kL "$URL/$jsPath" >"$folder"/rawdata/tmp.html
   # estrai dati immuni
-  grep <"$folder"/rawdata/tmp.html -oP '\{"nOfDownload":.+?\}' | mlr --ijson cat then put '$date="'"$oggi"'"' >>"$folder"/processing/immuni.dkvp
+  grep <"$folder"/rawdata/tmp.html -oP "'{\".+\"positiveUsers\".+?}'" | sed "s/'//g" | mlr --ijson cat then put '$date="'"$oggi"'"' >>"$folder"/processing/immuni.dkvp
+  grep <"$folder"/rawdata/tmp.html -oP '{"202.+?{.+"android".+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChart.dkvp
   # converti dati in CSV
-  mlr --ocsv cat "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
+  mlr --ocsv unsparsify "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
+  mlr -I uniq -a "$folder"/processing/immuniChart.dkvp
+  mlr --ocsv cat "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
 
 fi
