@@ -21,8 +21,9 @@ if [ $code -eq 200 ]; then
   jsPath=$(curl -kL "$URL/dashboard.html" | scrape -e '//script[contains(@src,"main")]/@src' | sed -r 's/^(.+js)(.+)$/\1/g')
   # scarica file
   curl -kL "$URL/$jsPath" >"$folder"/rawdata/tmp.html
-  # estrai dati immuni
+  # estrai dati immuni su positiveUsers e containedOutbreaks
   grep <"$folder"/rawdata/tmp.html -oP "'{\".+\"positiveUsers\".+?}'" | sed "s/'//g" | mlr --ijson cat then put '$date="'"$oggi"'"' >>"$folder"/processing/immuni.dkvp
+  # estrai dati immuni su grafico download
   grep <"$folder"/rawdata/tmp.html -oP '{"202.+?{.+"android".+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChart.dkvp
   # converti dati in CSV
   mlr --ocsv unsparsify "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
