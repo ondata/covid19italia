@@ -1,4 +1,6 @@
-Sul sito di immuni c'è una dashboard, che i numeri dell'applicazione.
+## Intro
+
+Sul sito di immuni c'è una [dashboard](https://www.immuni.italia.it/dashboard.html), con i "numeri" dell'applicazione.
 <br>
 Ogni giorno ne vengono estratti i dati.
 
