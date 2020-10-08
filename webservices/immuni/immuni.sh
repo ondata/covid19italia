@@ -28,6 +28,6 @@ if [ $code -eq 200 ]; then
   # converti dati in CSV
   mlr --ocsv unsparsify "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
   mlr -I uniq -a "$folder"/processing/immuniChart.dkvp
-  mlr --ocsv cat then sorf -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
+  mlr --ocsv cat then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
 
 fi
