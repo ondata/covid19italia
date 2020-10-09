@@ -423,8 +423,8 @@
       "attributes" : {
         "OBJECTID" : 37, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200327", 
-        "NUM_TAMP" : 1990, 
-        "INCREMENTO" : 39332, 
+        "NUM_TAMP" : 1989, 
+        "INCREMENTO" : 39331, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 37
       }
@@ -434,7 +434,7 @@
         "OBJECTID" : 38, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200328", 
         "NUM_TAMP" : 1362, 
-        "INCREMENTO" : 40694, 
+        "INCREMENTO" : 40693, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 38
       }
@@ -444,7 +444,7 @@
         "OBJECTID" : 39, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200329", 
         "NUM_TAMP" : 756, 
-        "INCREMENTO" : 41450, 
+        "INCREMENTO" : 41449, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 39
       }
@@ -454,7 +454,7 @@
         "OBJECTID" : 40, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200330", 
         "NUM_TAMP" : 1759, 
-        "INCREMENTO" : 43209, 
+        "INCREMENTO" : 43208, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 40
       }
@@ -464,7 +464,7 @@
         "OBJECTID" : 41, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200331", 
         "NUM_TAMP" : 1540, 
-        "INCREMENTO" : 44749, 
+        "INCREMENTO" : 44748, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 41
       }
@@ -474,7 +474,7 @@
         "OBJECTID" : 42, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200401", 
         "NUM_TAMP" : 1812, 
-        "INCREMENTO" : 46561, 
+        "INCREMENTO" : 46560, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 42
       }
@@ -484,7 +484,7 @@
         "OBJECTID" : 43, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200402", 
         "NUM_TAMP" : 1625, 
-        "INCREMENTO" : 48186, 
+        "INCREMENTO" : 48185, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 43
       }
@@ -494,7 +494,7 @@
         "OBJECTID" : 44, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200403", 
         "NUM_TAMP" : 1617, 
-        "INCREMENTO" : 49803, 
+        "INCREMENTO" : 49802, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 44
       }
@@ -504,7 +504,7 @@
         "OBJECTID" : 45, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200404", 
         "NUM_TAMP" : 1081, 
-        "INCREMENTO" : 50884, 
+        "INCREMENTO" : 50883, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 45
       }
@@ -514,7 +514,7 @@
         "OBJECTID" : 46, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200405", 
         "NUM_TAMP" : 639, 
-        "INCREMENTO" : 51523, 
+        "INCREMENTO" : 51522, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 46
       }
@@ -524,7 +524,7 @@
         "OBJECTID" : 47, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200406", 
         "NUM_TAMP" : 1568, 
-        "INCREMENTO" : 53091, 
+        "INCREMENTO" : 53090, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 47
       }
@@ -534,7 +534,7 @@
         "OBJECTID" : 48, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200407", 
         "NUM_TAMP" : 1488, 
-        "INCREMENTO" : 54579, 
+        "INCREMENTO" : 54578, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 48
       }
@@ -544,7 +544,7 @@
         "OBJECTID" : 49, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200408", 
         "NUM_TAMP" : 1500, 
-        "INCREMENTO" : 56079, 
+        "INCREMENTO" : 56078, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 49
       }
@@ -553,8 +553,8 @@
       "attributes" : {
         "OBJECTID" : 50, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200409", 
-        "NUM_TAMP" : 1927, 
-        "INCREMENTO" : 58006, 
+        "NUM_TAMP" : 1926, 
+        "INCREMENTO" : 58004, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 50
       }
@@ -564,7 +564,7 @@
         "OBJECTID" : 51, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200410", 
         "NUM_TAMP" : 2051, 
-        "INCREMENTO" : 60057, 
+        "INCREMENTO" : 60055, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 51
       }
@@ -574,7 +574,7 @@
         "OBJECTID" : 52, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200411", 
         "NUM_TAMP" : 1136, 
-        "INCREMENTO" : 61193, 
+        "INCREMENTO" : 61191, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 52
       }
@@ -584,7 +584,7 @@
         "OBJECTID" : 53, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200412", 
         "NUM_TAMP" : 552, 
-        "INCREMENTO" : 61745, 
+        "INCREMENTO" : 61743, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 53
       }
@@ -594,7 +594,7 @@
         "OBJECTID" : 54, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200413", 
         "NUM_TAMP" : 566, 
-        "INCREMENTO" : 62311, 
+        "INCREMENTO" : 62309, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 54
       }
@@ -604,7 +604,7 @@
         "OBJECTID" : 55, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200414", 
         "NUM_TAMP" : 1150, 
-        "INCREMENTO" : 63461, 
+        "INCREMENTO" : 63459, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 55
       }
@@ -614,7 +614,7 @@
         "OBJECTID" : 56, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200415", 
         "NUM_TAMP" : 1382, 
-        "INCREMENTO" : 64843, 
+        "INCREMENTO" : 64841, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 56
       }
@@ -624,7 +624,7 @@
         "OBJECTID" : 57, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200416", 
         "NUM_TAMP" : 1252, 
-        "INCREMENTO" : 66095, 
+        "INCREMENTO" : 66093, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 57
       }
@@ -634,7 +634,7 @@
         "OBJECTID" : 58, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200417", 
         "NUM_TAMP" : 1307, 
-        "INCREMENTO" : 67402, 
+        "INCREMENTO" : 67400, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 58
       }
@@ -644,7 +644,7 @@
         "OBJECTID" : 59, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200418", 
         "NUM_TAMP" : 755, 
-        "INCREMENTO" : 68157, 
+        "INCREMENTO" : 68155, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 59
       }
@@ -654,7 +654,7 @@
         "OBJECTID" : 60, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200419", 
         "NUM_TAMP" : 390, 
-        "INCREMENTO" : 68547, 
+        "INCREMENTO" : 68545, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 60
       }
@@ -664,7 +664,7 @@
         "OBJECTID" : 61, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200420", 
         "NUM_TAMP" : 1156, 
-        "INCREMENTO" : 69703, 
+        "INCREMENTO" : 69701, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 61
       }
@@ -674,7 +674,7 @@
         "OBJECTID" : 62, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200421", 
         "NUM_TAMP" : 1074, 
-        "INCREMENTO" : 70777, 
+        "INCREMENTO" : 70775, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 62
       }
@@ -684,7 +684,7 @@
         "OBJECTID" : 63, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200422", 
         "NUM_TAMP" : 967, 
-        "INCREMENTO" : 71744, 
+        "INCREMENTO" : 71742, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 63
       }
@@ -693,8 +693,8 @@
       "attributes" : {
         "OBJECTID" : 64, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200423", 
-        "NUM_TAMP" : 1209, 
-        "INCREMENTO" : 72953, 
+        "NUM_TAMP" : 1208, 
+        "INCREMENTO" : 72950, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 64
       }
@@ -704,7 +704,7 @@
         "OBJECTID" : 65, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200424", 
         "NUM_TAMP" : 1020, 
-        "INCREMENTO" : 73973, 
+        "INCREMENTO" : 73970, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 65
       }
@@ -714,7 +714,7 @@
         "OBJECTID" : 66, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200425", 
         "NUM_TAMP" : 496, 
-        "INCREMENTO" : 74469, 
+        "INCREMENTO" : 74466, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 66
       }
@@ -724,7 +724,7 @@
         "OBJECTID" : 67, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200426", 
         "NUM_TAMP" : 228, 
-        "INCREMENTO" : 74697, 
+        "INCREMENTO" : 74694, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 67
       }
@@ -733,8 +733,8 @@
       "attributes" : {
         "OBJECTID" : 68, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200427", 
-        "NUM_TAMP" : 925, 
-        "INCREMENTO" : 75622, 
+        "NUM_TAMP" : 924, 
+        "INCREMENTO" : 75618, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 68
       }
@@ -744,7 +744,7 @@
         "OBJECTID" : 69, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200428", 
         "NUM_TAMP" : 867, 
-        "INCREMENTO" : 76489, 
+        "INCREMENTO" : 76485, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 69
       }
@@ -754,7 +754,7 @@
         "OBJECTID" : 70, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200429", 
         "NUM_TAMP" : 1049, 
-        "INCREMENTO" : 77538, 
+        "INCREMENTO" : 77534, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 70
       }
@@ -763,8 +763,8 @@
       "attributes" : {
         "OBJECTID" : 71, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200430", 
-        "NUM_TAMP" : 1028, 
-        "INCREMENTO" : 78566, 
+        "NUM_TAMP" : 1027, 
+        "INCREMENTO" : 78561, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 71
       }
@@ -774,7 +774,7 @@
         "OBJECTID" : 72, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200501", 
         "NUM_TAMP" : 259, 
-        "INCREMENTO" : 78825, 
+        "INCREMENTO" : 78820, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 72
       }
@@ -784,7 +784,7 @@
         "OBJECTID" : 73, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200502", 
         "NUM_TAMP" : 287, 
-        "INCREMENTO" : 79112, 
+        "INCREMENTO" : 79107, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 73
       }
@@ -794,7 +794,7 @@
         "OBJECTID" : 74, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200503", 
         "NUM_TAMP" : 115, 
-        "INCREMENTO" : 79227, 
+        "INCREMENTO" : 79222, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 74
       }
@@ -803,8 +803,8 @@
       "attributes" : {
         "OBJECTID" : 75, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200504", 
-        "NUM_TAMP" : 711, 
-        "INCREMENTO" : 79938, 
+        "NUM_TAMP" : 710, 
+        "INCREMENTO" : 79932, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 75
       }
@@ -814,7 +814,7 @@
         "OBJECTID" : 76, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200505", 
         "NUM_TAMP" : 764, 
-        "INCREMENTO" : 80702, 
+        "INCREMENTO" : 80696, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 76
       }
@@ -824,7 +824,7 @@
         "OBJECTID" : 77, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200506", 
         "NUM_TAMP" : 716, 
-        "INCREMENTO" : 81418, 
+        "INCREMENTO" : 81412, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 77
       }
@@ -834,7 +834,7 @@
         "OBJECTID" : 78, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200507", 
         "NUM_TAMP" : 689, 
-        "INCREMENTO" : 82107, 
+        "INCREMENTO" : 82101, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 78
       }
@@ -844,7 +844,7 @@
         "OBJECTID" : 79, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200508", 
         "NUM_TAMP" : 664, 
-        "INCREMENTO" : 82771, 
+        "INCREMENTO" : 82765, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 79
       }
@@ -854,7 +854,7 @@
         "OBJECTID" : 80, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200509", 
         "NUM_TAMP" : 247, 
-        "INCREMENTO" : 83018, 
+        "INCREMENTO" : 83012, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 80
       }
@@ -864,7 +864,7 @@
         "OBJECTID" : 81, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200510", 
         "NUM_TAMP" : 89, 
-        "INCREMENTO" : 83107, 
+        "INCREMENTO" : 83101, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 81
       }
@@ -874,7 +874,7 @@
         "OBJECTID" : 82, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200511", 
         "NUM_TAMP" : 473, 
-        "INCREMENTO" : 83580, 
+        "INCREMENTO" : 83574, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 82
       }
@@ -884,7 +884,7 @@
         "OBJECTID" : 83, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200512", 
         "NUM_TAMP" : 430, 
-        "INCREMENTO" : 84010, 
+        "INCREMENTO" : 84004, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 83
       }
@@ -894,7 +894,7 @@
         "OBJECTID" : 84, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200513", 
         "NUM_TAMP" : 418, 
-        "INCREMENTO" : 84428, 
+        "INCREMENTO" : 84422, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 84
       }
@@ -904,7 +904,7 @@
         "OBJECTID" : 85, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200514", 
         "NUM_TAMP" : 396, 
-        "INCREMENTO" : 84824, 
+        "INCREMENTO" : 84818, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 85
       }
@@ -914,7 +914,7 @@
         "OBJECTID" : 86, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200515", 
         "NUM_TAMP" : 361, 
-        "INCREMENTO" : 85185, 
+        "INCREMENTO" : 85179, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 86
       }
@@ -924,7 +924,7 @@
         "OBJECTID" : 87, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200516", 
         "NUM_TAMP" : 299, 
-        "INCREMENTO" : 85484, 
+        "INCREMENTO" : 85478, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 87
       }
@@ -934,7 +934,7 @@
         "OBJECTID" : 88, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200517", 
         "NUM_TAMP" : 87, 
-        "INCREMENTO" : 85571, 
+        "INCREMENTO" : 85565, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 88
       }
@@ -944,7 +944,7 @@
         "OBJECTID" : 89, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200518", 
         "NUM_TAMP" : 321, 
-        "INCREMENTO" : 85892, 
+        "INCREMENTO" : 85886, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 89
       }
@@ -953,8 +953,8 @@
       "attributes" : {
         "OBJECTID" : 90, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200519", 
-        "NUM_TAMP" : 361, 
-        "INCREMENTO" : 86253, 
+        "NUM_TAMP" : 360, 
+        "INCREMENTO" : 86246, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 90
       }
@@ -964,7 +964,7 @@
         "OBJECTID" : 91, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200520", 
         "NUM_TAMP" : 373, 
-        "INCREMENTO" : 86626, 
+        "INCREMENTO" : 86619, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 91
       }
@@ -974,7 +974,7 @@
         "OBJECTID" : 92, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200521", 
         "NUM_TAMP" : 350, 
-        "INCREMENTO" : 86976, 
+        "INCREMENTO" : 86969, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 92
       }
@@ -983,8 +983,8 @@
       "attributes" : {
         "OBJECTID" : 93, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200522", 
-        "NUM_TAMP" : 436, 
-        "INCREMENTO" : 87412, 
+        "NUM_TAMP" : 435, 
+        "INCREMENTO" : 87404, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 93
       }
@@ -994,7 +994,7 @@
         "OBJECTID" : 94, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200523", 
         "NUM_TAMP" : 166, 
-        "INCREMENTO" : 87578, 
+        "INCREMENTO" : 87570, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 94
       }
@@ -1004,7 +1004,7 @@
         "OBJECTID" : 95, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200524", 
         "NUM_TAMP" : 63, 
-        "INCREMENTO" : 87641, 
+        "INCREMENTO" : 87633, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 95
       }
@@ -1014,7 +1014,7 @@
         "OBJECTID" : 96, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200525", 
         "NUM_TAMP" : 289, 
-        "INCREMENTO" : 87930, 
+        "INCREMENTO" : 87922, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 96
       }
@@ -1024,7 +1024,7 @@
         "OBJECTID" : 97, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200526", 
         "NUM_TAMP" : 320, 
-        "INCREMENTO" : 88250, 
+        "INCREMENTO" : 88242, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 97
       }
@@ -1034,7 +1034,7 @@
         "OBJECTID" : 98, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200527", 
         "NUM_TAMP" : 350, 
-        "INCREMENTO" : 88600, 
+        "INCREMENTO" : 88592, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 98
       }
@@ -1044,7 +1044,7 @@
         "OBJECTID" : 99, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200528", 
         "NUM_TAMP" : 317, 
-        "INCREMENTO" : 88917, 
+        "INCREMENTO" : 88909, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 99
       }
@@ -1054,7 +1054,7 @@
         "OBJECTID" : 100, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200529", 
         "NUM_TAMP" : 223, 
-        "INCREMENTO" : 89140, 
+        "INCREMENTO" : 89132, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 100
       }
@@ -1064,7 +1064,7 @@
         "OBJECTID" : 101, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200530", 
         "NUM_TAMP" : 172, 
-        "INCREMENTO" : 89312, 
+        "INCREMENTO" : 89304, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 101
       }
@@ -1074,7 +1074,7 @@
         "OBJECTID" : 102, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200531", 
         "NUM_TAMP" : 26, 
-        "INCREMENTO" : 89338, 
+        "INCREMENTO" : 89330, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 102
       }
@@ -1084,7 +1084,7 @@
         "OBJECTID" : 103, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200601", 
         "NUM_TAMP" : 246, 
-        "INCREMENTO" : 89584, 
+        "INCREMENTO" : 89576, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 103
       }
@@ -1094,7 +1094,7 @@
         "OBJECTID" : 104, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200602", 
         "NUM_TAMP" : 31, 
-        "INCREMENTO" : 89615, 
+        "INCREMENTO" : 89607, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 104
       }
@@ -1104,7 +1104,7 @@
         "OBJECTID" : 105, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200603", 
         "NUM_TAMP" : 252, 
-        "INCREMENTO" : 89867, 
+        "INCREMENTO" : 89859, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 105
       }
@@ -1114,7 +1114,7 @@
         "OBJECTID" : 106, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200604", 
         "NUM_TAMP" : 248, 
-        "INCREMENTO" : 90115, 
+        "INCREMENTO" : 90107, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 106
       }
@@ -1124,7 +1124,7 @@
         "OBJECTID" : 107, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200605", 
         "NUM_TAMP" : 254, 
-        "INCREMENTO" : 90369, 
+        "INCREMENTO" : 90361, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 107
       }
@@ -1134,7 +1134,7 @@
         "OBJECTID" : 108, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200606", 
         "NUM_TAMP" : 119, 
-        "INCREMENTO" : 90488, 
+        "INCREMENTO" : 90480, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 108
       }
@@ -1144,7 +1144,7 @@
         "OBJECTID" : 109, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200607", 
         "NUM_TAMP" : 35, 
-        "INCREMENTO" : 90523, 
+        "INCREMENTO" : 90515, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 109
       }
@@ -1154,7 +1154,7 @@
         "OBJECTID" : 110, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200608", 
         "NUM_TAMP" : 173, 
-        "INCREMENTO" : 90696, 
+        "INCREMENTO" : 90688, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 110
       }
@@ -1164,7 +1164,7 @@
         "OBJECTID" : 111, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200609", 
         "NUM_TAMP" : 249, 
-        "INCREMENTO" : 90945, 
+        "INCREMENTO" : 90937, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 111
       }
@@ -1174,7 +1174,7 @@
         "OBJECTID" : 112, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200610", 
         "NUM_TAMP" : 241, 
-        "INCREMENTO" : 91186, 
+        "INCREMENTO" : 91178, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 112
       }
@@ -1184,7 +1184,7 @@
         "OBJECTID" : 113, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200611", 
         "NUM_TAMP" : 323, 
-        "INCREMENTO" : 91509, 
+        "INCREMENTO" : 91501, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 113
       }
@@ -1194,7 +1194,7 @@
         "OBJECTID" : 114, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200612", 
         "NUM_TAMP" : 279, 
-        "INCREMENTO" : 91788, 
+        "INCREMENTO" : 91780, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 114
       }
@@ -1204,7 +1204,7 @@
         "OBJECTID" : 115, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200613", 
         "NUM_TAMP" : 124, 
-        "INCREMENTO" : 91912, 
+        "INCREMENTO" : 91904, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 115
       }
@@ -1214,7 +1214,7 @@
         "OBJECTID" : 116, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200614", 
         "NUM_TAMP" : 40, 
-        "INCREMENTO" : 91952, 
+        "INCREMENTO" : 91944, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 116
       }
@@ -1224,7 +1224,7 @@
         "OBJECTID" : 117, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200615", 
         "NUM_TAMP" : 195, 
-        "INCREMENTO" : 92147, 
+        "INCREMENTO" : 92139, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 117
       }
@@ -1234,7 +1234,7 @@
         "OBJECTID" : 118, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200616", 
         "NUM_TAMP" : 169, 
-        "INCREMENTO" : 92316, 
+        "INCREMENTO" : 92308, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 118
       }
@@ -1244,7 +1244,7 @@
         "OBJECTID" : 119, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200617", 
         "NUM_TAMP" : 204, 
-        "INCREMENTO" : 92520, 
+        "INCREMENTO" : 92512, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 119
       }
@@ -1254,7 +1254,7 @@
         "OBJECTID" : 120, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200618", 
         "NUM_TAMP" : 137, 
-        "INCREMENTO" : 92657, 
+        "INCREMENTO" : 92649, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 120
       }
@@ -1264,7 +1264,7 @@
         "OBJECTID" : 121, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200619", 
         "NUM_TAMP" : 188, 
-        "INCREMENTO" : 92845, 
+        "INCREMENTO" : 92837, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 121
       }
@@ -1274,7 +1274,7 @@
         "OBJECTID" : 122, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200620", 
         "NUM_TAMP" : 60, 
-        "INCREMENTO" : 92905, 
+        "INCREMENTO" : 92897, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 122
       }
@@ -1284,7 +1284,7 @@
         "OBJECTID" : 123, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200621", 
         "NUM_TAMP" : 12, 
-        "INCREMENTO" : 92917, 
+        "INCREMENTO" : 92909, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 123
       }
@@ -1294,7 +1294,7 @@
         "OBJECTID" : 124, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200622", 
         "NUM_TAMP" : 169, 
-        "INCREMENTO" : 93086, 
+        "INCREMENTO" : 93078, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 124
       }
@@ -1304,7 +1304,7 @@
         "OBJECTID" : 125, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200623", 
         "NUM_TAMP" : 149, 
-        "INCREMENTO" : 93235, 
+        "INCREMENTO" : 93227, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 125
       }
@@ -1314,7 +1314,7 @@
         "OBJECTID" : 126, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200624", 
         "NUM_TAMP" : 117, 
-        "INCREMENTO" : 93352, 
+        "INCREMENTO" : 93344, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 126
       }
@@ -1324,7 +1324,7 @@
         "OBJECTID" : 127, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200625", 
         "NUM_TAMP" : 101, 
-        "INCREMENTO" : 93453, 
+        "INCREMENTO" : 93445, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 127
       }
@@ -1334,7 +1334,7 @@
         "OBJECTID" : 128, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200626", 
         "NUM_TAMP" : 107, 
-        "INCREMENTO" : 93560, 
+        "INCREMENTO" : 93552, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 128
       }
@@ -1344,7 +1344,7 @@
         "OBJECTID" : 129, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200627", 
         "NUM_TAMP" : 45, 
-        "INCREMENTO" : 93605, 
+        "INCREMENTO" : 93597, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 129
       }
@@ -1354,7 +1354,7 @@
         "OBJECTID" : 130, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200628", 
         "NUM_TAMP" : 28, 
-        "INCREMENTO" : 93633, 
+        "INCREMENTO" : 93625, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 130
       }
@@ -1363,8 +1363,8 @@
       "attributes" : {
         "OBJECTID" : 131, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200629", 
-        "NUM_TAMP" : 136, 
-        "INCREMENTO" : 93769, 
+        "NUM_TAMP" : 135, 
+        "INCREMENTO" : 93760, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 131
       }
@@ -1374,7 +1374,7 @@
         "OBJECTID" : 132, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200630", 
         "NUM_TAMP" : 98, 
-        "INCREMENTO" : 93867, 
+        "INCREMENTO" : 93858, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 132
       }
@@ -1384,7 +1384,7 @@
         "OBJECTID" : 133, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200701", 
         "NUM_TAMP" : 124, 
-        "INCREMENTO" : 93991, 
+        "INCREMENTO" : 93982, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 133
       }
@@ -1394,7 +1394,7 @@
         "OBJECTID" : 134, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200702", 
         "NUM_TAMP" : 130, 
-        "INCREMENTO" : 94121, 
+        "INCREMENTO" : 94112, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 134
       }
@@ -1404,7 +1404,7 @@
         "OBJECTID" : 135, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200703", 
         "NUM_TAMP" : 108, 
-        "INCREMENTO" : 94229, 
+        "INCREMENTO" : 94220, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 135
       }
@@ -1414,7 +1414,7 @@
         "OBJECTID" : 136, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200704", 
         "NUM_TAMP" : 102, 
-        "INCREMENTO" : 94331, 
+        "INCREMENTO" : 94322, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 136
       }
@@ -1424,7 +1424,7 @@
         "OBJECTID" : 137, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200705", 
         "NUM_TAMP" : 22, 
-        "INCREMENTO" : 94353, 
+        "INCREMENTO" : 94344, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 137
       }
@@ -1434,7 +1434,7 @@
         "OBJECTID" : 138, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200706", 
         "NUM_TAMP" : 129, 
-        "INCREMENTO" : 94482, 
+        "INCREMENTO" : 94473, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 138
       }
@@ -1444,7 +1444,7 @@
         "OBJECTID" : 139, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200707", 
         "NUM_TAMP" : 94, 
-        "INCREMENTO" : 94576, 
+        "INCREMENTO" : 94567, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 139
       }
@@ -1454,7 +1454,7 @@
         "OBJECTID" : 140, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200708", 
         "NUM_TAMP" : 118, 
-        "INCREMENTO" : 94694, 
+        "INCREMENTO" : 94685, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 140
       }
@@ -1464,7 +1464,7 @@
         "OBJECTID" : 141, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200709", 
         "NUM_TAMP" : 99, 
-        "INCREMENTO" : 94793, 
+        "INCREMENTO" : 94784, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 141
       }
@@ -1473,8 +1473,8 @@
       "attributes" : {
         "OBJECTID" : 142, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200710", 
-        "NUM_TAMP" : 106, 
-        "INCREMENTO" : 94899, 
+        "NUM_TAMP" : 105, 
+        "INCREMENTO" : 94889, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 142
       }
@@ -1484,7 +1484,7 @@
         "OBJECTID" : 143, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200711", 
         "NUM_TAMP" : 59, 
-        "INCREMENTO" : 94958, 
+        "INCREMENTO" : 94948, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 143
       }
@@ -1494,7 +1494,7 @@
         "OBJECTID" : 144, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200712", 
         "NUM_TAMP" : 11, 
-        "INCREMENTO" : 94969, 
+        "INCREMENTO" : 94959, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 144
       }
@@ -1504,7 +1504,7 @@
         "OBJECTID" : 145, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200713", 
         "NUM_TAMP" : 62, 
-        "INCREMENTO" : 95031, 
+        "INCREMENTO" : 95021, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 145
       }
@@ -1514,7 +1514,7 @@
         "OBJECTID" : 146, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200714", 
         "NUM_TAMP" : 78, 
-        "INCREMENTO" : 95109, 
+        "INCREMENTO" : 95099, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 146
       }
@@ -1524,7 +1524,7 @@
         "OBJECTID" : 147, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200715", 
         "NUM_TAMP" : 75, 
-        "INCREMENTO" : 95184, 
+        "INCREMENTO" : 95174, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 147
       }
@@ -1534,7 +1534,7 @@
         "OBJECTID" : 148, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200716", 
         "NUM_TAMP" : 66, 
-        "INCREMENTO" : 95250, 
+        "INCREMENTO" : 95240, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 148
       }
@@ -1544,7 +1544,7 @@
         "OBJECTID" : 149, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200717", 
         "NUM_TAMP" : 85, 
-        "INCREMENTO" : 95335, 
+        "INCREMENTO" : 95325, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 149
       }
@@ -1554,7 +1554,7 @@
         "OBJECTID" : 150, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200718", 
         "NUM_TAMP" : 49, 
-        "INCREMENTO" : 95384, 
+        "INCREMENTO" : 95374, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 150
       }
@@ -1564,7 +1564,7 @@
         "OBJECTID" : 151, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200719", 
         "NUM_TAMP" : 15, 
-        "INCREMENTO" : 95399, 
+        "INCREMENTO" : 95389, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 151
       }
@@ -1574,7 +1574,7 @@
         "OBJECTID" : 152, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200720", 
         "NUM_TAMP" : 71, 
-        "INCREMENTO" : 95470, 
+        "INCREMENTO" : 95460, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 152
       }
@@ -1584,7 +1584,7 @@
         "OBJECTID" : 153, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200721", 
         "NUM_TAMP" : 69, 
-        "INCREMENTO" : 95539, 
+        "INCREMENTO" : 95529, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 153
       }
@@ -1594,7 +1594,7 @@
         "OBJECTID" : 154, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200722", 
         "NUM_TAMP" : 61, 
-        "INCREMENTO" : 95600, 
+        "INCREMENTO" : 95590, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 154
       }
@@ -1604,7 +1604,7 @@
         "OBJECTID" : 155, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200723", 
         "NUM_TAMP" : 90, 
-        "INCREMENTO" : 95690, 
+        "INCREMENTO" : 95680, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 155
       }
@@ -1614,7 +1614,7 @@
         "OBJECTID" : 156, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200724", 
         "NUM_TAMP" : 84, 
-        "INCREMENTO" : 95774, 
+        "INCREMENTO" : 95764, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 156
       }
@@ -1624,7 +1624,7 @@
         "OBJECTID" : 157, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200725", 
         "NUM_TAMP" : 38, 
-        "INCREMENTO" : 95812, 
+        "INCREMENTO" : 95802, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 157
       }
@@ -1634,7 +1634,7 @@
         "OBJECTID" : 158, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200726", 
         "NUM_TAMP" : 15, 
-        "INCREMENTO" : 95827, 
+        "INCREMENTO" : 95817, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 158
       }
@@ -1644,7 +1644,7 @@
         "OBJECTID" : 159, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200727", 
         "NUM_TAMP" : 80, 
-        "INCREMENTO" : 95907, 
+        "INCREMENTO" : 95897, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 159
       }
@@ -1654,7 +1654,7 @@
         "OBJECTID" : 160, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200728", 
         "NUM_TAMP" : 69, 
-        "INCREMENTO" : 95976, 
+        "INCREMENTO" : 95966, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 160
       }
@@ -1664,7 +1664,7 @@
         "OBJECTID" : 161, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200729", 
         "NUM_TAMP" : 84, 
-        "INCREMENTO" : 96060, 
+        "INCREMENTO" : 96050, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 161
       }
@@ -1674,7 +1674,7 @@
         "OBJECTID" : 162, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200730", 
         "NUM_TAMP" : 49, 
-        "INCREMENTO" : 96109, 
+        "INCREMENTO" : 96099, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 162
       }
@@ -1684,7 +1684,7 @@
         "OBJECTID" : 163, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200731", 
         "NUM_TAMP" : 60, 
-        "INCREMENTO" : 96169, 
+        "INCREMENTO" : 96159, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 163
       }
@@ -1694,7 +1694,7 @@
         "OBJECTID" : 164, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200801", 
         "NUM_TAMP" : 34, 
-        "INCREMENTO" : 96203, 
+        "INCREMENTO" : 96193, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 164
       }
@@ -1704,7 +1704,7 @@
         "OBJECTID" : 165, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200802", 
         "NUM_TAMP" : 17, 
-        "INCREMENTO" : 96220, 
+        "INCREMENTO" : 96210, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 165
       }
@@ -1714,7 +1714,7 @@
         "OBJECTID" : 166, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200803", 
         "NUM_TAMP" : 170, 
-        "INCREMENTO" : 96390, 
+        "INCREMENTO" : 96380, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 166
       }
@@ -1724,7 +1724,7 @@
         "OBJECTID" : 167, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200804", 
         "NUM_TAMP" : 76, 
-        "INCREMENTO" : 96466, 
+        "INCREMENTO" : 96456, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 167
       }
@@ -1734,7 +1734,7 @@
         "OBJECTID" : 168, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200805", 
         "NUM_TAMP" : 83, 
-        "INCREMENTO" : 96549, 
+        "INCREMENTO" : 96539, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 168
       }
@@ -1744,7 +1744,7 @@
         "OBJECTID" : 169, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200806", 
         "NUM_TAMP" : 84, 
-        "INCREMENTO" : 96633, 
+        "INCREMENTO" : 96623, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 169
       }
@@ -1754,7 +1754,7 @@
         "OBJECTID" : 170, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200807", 
         "NUM_TAMP" : 81, 
-        "INCREMENTO" : 96714, 
+        "INCREMENTO" : 96704, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 170
       }
@@ -1764,7 +1764,7 @@
         "OBJECTID" : 171, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200808", 
         "NUM_TAMP" : 59, 
-        "INCREMENTO" : 96773, 
+        "INCREMENTO" : 96763, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 171
       }
@@ -1774,7 +1774,7 @@
         "OBJECTID" : 172, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200809", 
         "NUM_TAMP" : 21, 
-        "INCREMENTO" : 96794, 
+        "INCREMENTO" : 96784, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 172
       }
@@ -1784,7 +1784,7 @@
         "OBJECTID" : 173, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200810", 
         "NUM_TAMP" : 99, 
-        "INCREMENTO" : 96893, 
+        "INCREMENTO" : 96883, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 173
       }
@@ -1794,7 +1794,7 @@
         "OBJECTID" : 174, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200811", 
         "NUM_TAMP" : 96, 
-        "INCREMENTO" : 96989, 
+        "INCREMENTO" : 96979, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 174
       }
@@ -1804,7 +1804,7 @@
         "OBJECTID" : 175, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200812", 
         "NUM_TAMP" : 95, 
-        "INCREMENTO" : 97084, 
+        "INCREMENTO" : 97074, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 175
       }
@@ -1814,7 +1814,7 @@
         "OBJECTID" : 176, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200813", 
         "NUM_TAMP" : 98, 
-        "INCREMENTO" : 97182, 
+        "INCREMENTO" : 97172, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 176
       }
@@ -1824,7 +1824,7 @@
         "OBJECTID" : 177, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200814", 
         "NUM_TAMP" : 104, 
-        "INCREMENTO" : 97286, 
+        "INCREMENTO" : 97276, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 177
       }
@@ -1834,7 +1834,7 @@
         "OBJECTID" : 178, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200815", 
         "NUM_TAMP" : 18, 
-        "INCREMENTO" : 97304, 
+        "INCREMENTO" : 97294, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 178
       }
@@ -1844,7 +1844,7 @@
         "OBJECTID" : 179, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200816", 
         "NUM_TAMP" : 19, 
-        "INCREMENTO" : 97323, 
+        "INCREMENTO" : 97313, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 179
       }
@@ -1854,7 +1854,7 @@
         "OBJECTID" : 180, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200817", 
         "NUM_TAMP" : 147, 
-        "INCREMENTO" : 97470, 
+        "INCREMENTO" : 97460, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 180
       }
@@ -1864,7 +1864,7 @@
         "OBJECTID" : 181, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200818", 
         "NUM_TAMP" : 150, 
-        "INCREMENTO" : 97620, 
+        "INCREMENTO" : 97610, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 181
       }
@@ -1874,7 +1874,7 @@
         "OBJECTID" : 182, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200819", 
         "NUM_TAMP" : 170, 
-        "INCREMENTO" : 97790, 
+        "INCREMENTO" : 97780, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 182
       }
@@ -1884,7 +1884,7 @@
         "OBJECTID" : 183, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200820", 
         "NUM_TAMP" : 207, 
-        "INCREMENTO" : 97997, 
+        "INCREMENTO" : 97987, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 183
       }
@@ -1894,7 +1894,7 @@
         "OBJECTID" : 184, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200821", 
         "NUM_TAMP" : 275, 
-        "INCREMENTO" : 98272, 
+        "INCREMENTO" : 98262, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 184
       }
@@ -1904,7 +1904,7 @@
         "OBJECTID" : 185, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200822", 
         "NUM_TAMP" : 149, 
-        "INCREMENTO" : 98421, 
+        "INCREMENTO" : 98411, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 185
       }
@@ -1914,7 +1914,7 @@
         "OBJECTID" : 186, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200823", 
         "NUM_TAMP" : 52, 
-        "INCREMENTO" : 98473, 
+        "INCREMENTO" : 98463, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 186
       }
@@ -1924,7 +1924,7 @@
         "OBJECTID" : 187, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200824", 
         "NUM_TAMP" : 337, 
-        "INCREMENTO" : 98810, 
+        "INCREMENTO" : 98800, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 187
       }
@@ -1934,7 +1934,7 @@
         "OBJECTID" : 188, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200825", 
         "NUM_TAMP" : 343, 
-        "INCREMENTO" : 99153, 
+        "INCREMENTO" : 99143, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 188
       }
@@ -1944,7 +1944,7 @@
         "OBJECTID" : 189, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200826", 
         "NUM_TAMP" : 296, 
-        "INCREMENTO" : 99449, 
+        "INCREMENTO" : 99439, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 189
       }
@@ -1954,7 +1954,7 @@
         "OBJECTID" : 190, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200827", 
         "NUM_TAMP" : 358, 
-        "INCREMENTO" : 99807, 
+        "INCREMENTO" : 99797, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 190
       }
@@ -1964,7 +1964,7 @@
         "OBJECTID" : 191, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200828", 
         "NUM_TAMP" : 263, 
-        "INCREMENTO" : 100070, 
+        "INCREMENTO" : 100060, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 191
       }
@@ -1974,7 +1974,7 @@
         "OBJECTID" : 192, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200829", 
         "NUM_TAMP" : 157, 
-        "INCREMENTO" : 100227, 
+        "INCREMENTO" : 100217, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 192
       }
@@ -1984,7 +1984,7 @@
         "OBJECTID" : 193, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200830", 
         "NUM_TAMP" : 83, 
-        "INCREMENTO" : 100310, 
+        "INCREMENTO" : 100300, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 193
       }
@@ -1994,7 +1994,7 @@
         "OBJECTID" : 194, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200831", 
         "NUM_TAMP" : 316, 
-        "INCREMENTO" : 100626, 
+        "INCREMENTO" : 100616, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 194
       }
@@ -2004,7 +2004,7 @@
         "OBJECTID" : 195, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200901", 
         "NUM_TAMP" : 286, 
-        "INCREMENTO" : 100912, 
+        "INCREMENTO" : 100902, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 195
       }
@@ -2014,7 +2014,7 @@
         "OBJECTID" : 196, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200902", 
         "NUM_TAMP" : 337, 
-        "INCREMENTO" : 101249, 
+        "INCREMENTO" : 101239, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 196
       }
@@ -2024,7 +2024,7 @@
         "OBJECTID" : 197, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200903", 
         "NUM_TAMP" : 291, 
-        "INCREMENTO" : 101540, 
+        "INCREMENTO" : 101530, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 197
       }
@@ -2034,7 +2034,7 @@
         "OBJECTID" : 198, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200904", 
         "NUM_TAMP" : 293, 
-        "INCREMENTO" : 101833, 
+        "INCREMENTO" : 101823, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 198
       }
@@ -2044,7 +2044,7 @@
         "OBJECTID" : 199, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200905", 
         "NUM_TAMP" : 150, 
-        "INCREMENTO" : 101983, 
+        "INCREMENTO" : 101973, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 199
       }
@@ -2054,7 +2054,7 @@
         "OBJECTID" : 200, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200906", 
         "NUM_TAMP" : 63, 
-        "INCREMENTO" : 102046, 
+        "INCREMENTO" : 102036, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 200
       }
@@ -2063,8 +2063,8 @@
       "attributes" : {
         "OBJECTID" : 201, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200907", 
-        "NUM_TAMP" : 275, 
-        "INCREMENTO" : 102321, 
+        "NUM_TAMP" : 277, 
+        "INCREMENTO" : 102313, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 201
       }
@@ -2074,7 +2074,7 @@
         "OBJECTID" : 202, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200908", 
         "NUM_TAMP" : 244, 
-        "INCREMENTO" : 102565, 
+        "INCREMENTO" : 102557, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 202
       }
@@ -2084,7 +2084,7 @@
         "OBJECTID" : 203, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200909", 
         "NUM_TAMP" : 256, 
-        "INCREMENTO" : 102821, 
+        "INCREMENTO" : 102813, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 203
       }
@@ -2094,7 +2094,7 @@
         "OBJECTID" : 204, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200910", 
         "NUM_TAMP" : 247, 
-        "INCREMENTO" : 103068, 
+        "INCREMENTO" : 103060, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 204
       }
@@ -2104,7 +2104,7 @@
         "OBJECTID" : 205, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200911", 
         "NUM_TAMP" : 243, 
-        "INCREMENTO" : 103311, 
+        "INCREMENTO" : 103303, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 205
       }
@@ -2114,7 +2114,7 @@
         "OBJECTID" : 206, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200912", 
         "NUM_TAMP" : 142, 
-        "INCREMENTO" : 103453, 
+        "INCREMENTO" : 103445, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 206
       }
@@ -2124,7 +2124,7 @@
         "OBJECTID" : 207, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200913", 
         "NUM_TAMP" : 52, 
-        "INCREMENTO" : 103505, 
+        "INCREMENTO" : 103497, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 207
       }
@@ -2134,7 +2134,7 @@
         "OBJECTID" : 208, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200914", 
         "NUM_TAMP" : 223, 
-        "INCREMENTO" : 103728, 
+        "INCREMENTO" : 103720, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 208
       }
@@ -2144,7 +2144,7 @@
         "OBJECTID" : 209, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200915", 
         "NUM_TAMP" : 231, 
-        "INCREMENTO" : 103959, 
+        "INCREMENTO" : 103951, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 209
       }
@@ -2154,7 +2154,7 @@
         "OBJECTID" : 210, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200916", 
         "NUM_TAMP" : 213, 
-        "INCREMENTO" : 104172, 
+        "INCREMENTO" : 104164, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 210
       }
@@ -2164,7 +2164,7 @@
         "OBJECTID" : 211, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200917", 
         "NUM_TAMP" : 305, 
-        "INCREMENTO" : 104477, 
+        "INCREMENTO" : 104469, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 211
       }
@@ -2174,7 +2174,7 @@
         "OBJECTID" : 212, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200918", 
         "NUM_TAMP" : 272, 
-        "INCREMENTO" : 104749, 
+        "INCREMENTO" : 104741, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 212
       }
@@ -2184,7 +2184,7 @@
         "OBJECTID" : 213, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200919", 
         "NUM_TAMP" : 170, 
-        "INCREMENTO" : 104919, 
+        "INCREMENTO" : 104911, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 213
       }
@@ -2194,7 +2194,7 @@
         "OBJECTID" : 214, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200920", 
         "NUM_TAMP" : 35, 
-        "INCREMENTO" : 104954, 
+        "INCREMENTO" : 104946, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 214
       }
@@ -2204,7 +2204,7 @@
         "OBJECTID" : 215, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200921", 
         "NUM_TAMP" : 234, 
-        "INCREMENTO" : 105188, 
+        "INCREMENTO" : 105180, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 215
       }
@@ -2214,7 +2214,7 @@
         "OBJECTID" : 216, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200922", 
         "NUM_TAMP" : 230, 
-        "INCREMENTO" : 105418, 
+        "INCREMENTO" : 105410, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 216
       }
@@ -2224,7 +2224,7 @@
         "OBJECTID" : 217, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200923", 
         "NUM_TAMP" : 264, 
-        "INCREMENTO" : 105682, 
+        "INCREMENTO" : 105674, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 217
       }
@@ -2234,7 +2234,7 @@
         "OBJECTID" : 218, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200924", 
         "NUM_TAMP" : 320, 
-        "INCREMENTO" : 106002, 
+        "INCREMENTO" : 105994, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 218
       }
@@ -2244,7 +2244,7 @@
         "OBJECTID" : 219, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200925", 
         "NUM_TAMP" : 274, 
-        "INCREMENTO" : 106276, 
+        "INCREMENTO" : 106268, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 219
       }
@@ -2254,7 +2254,7 @@
         "OBJECTID" : 220, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200926", 
         "NUM_TAMP" : 144, 
-        "INCREMENTO" : 106420, 
+        "INCREMENTO" : 106412, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 220
       }
@@ -2264,7 +2264,7 @@
         "OBJECTID" : 221, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200927", 
         "NUM_TAMP" : 55, 
-        "INCREMENTO" : 106475, 
+        "INCREMENTO" : 106467, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 221
       }
@@ -2274,7 +2274,7 @@
         "OBJECTID" : 222, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200928", 
         "NUM_TAMP" : 276, 
-        "INCREMENTO" : 106751, 
+        "INCREMENTO" : 106743, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 222
       }
@@ -2284,7 +2284,7 @@
         "OBJECTID" : 223, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200929", 
         "NUM_TAMP" : 286, 
-        "INCREMENTO" : 107037, 
+        "INCREMENTO" : 107029, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 223
       }
@@ -2294,7 +2294,7 @@
         "OBJECTID" : 224, 
         "DATA_RICEVIMENTO_TAMPONE" : "20200930", 
         "NUM_TAMP" : 346, 
-        "INCREMENTO" : 107383, 
+        "INCREMENTO" : 107375, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 224
       }
@@ -2304,7 +2304,7 @@
         "OBJECTID" : 225, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201001", 
         "NUM_TAMP" : 415, 
-        "INCREMENTO" : 107798, 
+        "INCREMENTO" : 107790, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 225
       }
@@ -2314,7 +2314,7 @@
         "OBJECTID" : 226, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201002", 
         "NUM_TAMP" : 427, 
-        "INCREMENTO" : 108225, 
+        "INCREMENTO" : 108217, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 226
       }
@@ -2324,7 +2324,7 @@
         "OBJECTID" : 227, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201003", 
         "NUM_TAMP" : 364, 
-        "INCREMENTO" : 108589, 
+        "INCREMENTO" : 108581, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 227
       }
@@ -2334,7 +2334,7 @@
         "OBJECTID" : 228, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201004", 
         "NUM_TAMP" : 84, 
-        "INCREMENTO" : 108673, 
+        "INCREMENTO" : 108665, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 228
       }
@@ -2343,8 +2343,8 @@
       "attributes" : {
         "OBJECTID" : 229, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201005", 
-        "NUM_TAMP" : 557, 
-        "INCREMENTO" : 109230, 
+        "NUM_TAMP" : 612, 
+        "INCREMENTO" : 109277, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 229
       }
@@ -2353,8 +2353,8 @@
       "attributes" : {
         "OBJECTID" : 230, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201006", 
-        "NUM_TAMP" : 454, 
-        "INCREMENTO" : 109684, 
+        "NUM_TAMP" : 710, 
+        "INCREMENTO" : 109987, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 230
       }
@@ -2363,10 +2363,20 @@
       "attributes" : {
         "OBJECTID" : 231, 
         "DATA_RICEVIMENTO_TAMPONE" : "20201007", 
-        "NUM_TAMP" : 185, 
-        "INCREMENTO" : 109869, 
+        "NUM_TAMP" : 644, 
+        "INCREMENTO" : 110631, 
         "REGIONE" : "LOMBARDIA", 
         "ObjectId2" : 231
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 232, 
+        "DATA_RICEVIMENTO_TAMPONE" : "20201008", 
+        "NUM_TAMP" : 221, 
+        "INCREMENTO" : 110852, 
+        "REGIONE" : "LOMBARDIA", 
+        "ObjectId2" : 232
       }
     }
   ]
