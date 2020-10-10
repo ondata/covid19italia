@@ -93,7 +93,7 @@ I dati sono accessibili anche in formato Json attraverso API:
 
 Esempio:
 
-Gli ultimi dati disponibili per ogni soingola regione
+Gli ultimi dati disponibili per ogni singola regione
 https://openpuglia.org/api/?q=getdatapccovid-19
 
 Gli ultimi dati disponibili per la singola regione dove `reg = nome regione`
