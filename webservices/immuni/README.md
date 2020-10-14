@@ -26,6 +26,9 @@ Il file è [`immuni.csv`](processing/immuni.csv) e ha una struttura come quella 
 | 5870 | 357 | 10 | 2020-10-06 |
 | ... | ... | ... | ... |
 
+
+**NOTA BENE**: il campo `containedOutbreaks` è presente nei dati che alimentano il sito, ma sembra che non venga più valorizzato (è una deduzione, visti i valori `0`).
+
 ### Dati sul download dell'applicazione
 
 Il file è [`immuniChart.csv`](processing/immuniChart.csv)
