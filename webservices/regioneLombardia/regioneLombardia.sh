@@ -30,7 +30,11 @@ done <"$folder"/risorse
 
 ogr2ogr -f CSV "$folder"/processing/PROVINCE_COVID19.csv "$folder"/rawdata/PROVINCE_COVID19.geojson
 
-jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2.csv
+rm "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json
+
+ogr2ogr "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json  -f GEOJson "https://services1.arcgis.com/XannvQVnsM1hoZyv/ArcGIS/rest/services/INCR_DATE_PRV_TAMP_RL_v2/FeatureServer/0/query?where=objectid>0&outfields=*&f=geojson" OGRGeoJSON -oo FEATURE_SERVER_PAGING="YES"
+
+jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c unsparsify >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2.csv
 
 mkdir -p "$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2
 
