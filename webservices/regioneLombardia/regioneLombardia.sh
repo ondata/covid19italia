@@ -40,7 +40,7 @@ mkdir -p "$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2
 
 date=$(date '+%Y-%m-%d')
 
-jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2/"$date"-INCR_DATE_PRV_TAMP_RL_v2.csv
+jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2/"$date"-INCR_DATE_PRV_TAMP_RL_v2.csv
 
 #jq <"$folder"/rawdata/INCR_DATE_TAMP_RL_v2.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_TAMP_RL_v2/"$date"-INCR_DATE_TAMP_RL_v2.csv
 
