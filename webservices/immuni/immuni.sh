@@ -26,6 +26,7 @@ if [ $code -eq 200 ]; then
   curl -kL "$URL"/"$chartPath" >"$folder"/rawdata/tmp-chart.html
   # estrai dati immuni su positiveUsers e containedOutbreaks
   grep <"$folder"/rawdata/tmp.html -oP "'{\".+\"positiveUsers\".+?}'" | sed "s/'//g" | mlr --ijson cat then put '$date="'"$oggi"'"' >>"$folder"/processing/immuni.dkvp
+  mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
   # estrai dati immuni su grafico download
   grep <"$folder"/rawdata/tmp.html -oP '{"202.+?{.+"android".+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChart.dkvp
   grep <"$folder"/rawdata/tmp-chart.html -oP '{"20..-..-.. ..:..:..":{"notifications":.+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChartNotifications.dkvp
