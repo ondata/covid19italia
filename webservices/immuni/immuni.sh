@@ -44,7 +44,7 @@ if [ $code -eq 200 ]; then
   latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
 
   # estrai dati immuni su positiveUsers e containedOutbreaks
-  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$latestDate"'";$date=sub($date," .+","")' >>"$folder"/processing/immuni.dkvp
+  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$oggi"'";$latestdate="'"$latestDate"'";$latestdate=sub($latestdate," .+","")' >>"$folder"/processing/immuni.dkvp
   mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
   mlr -I uniq -a "$folder"/processing/immuni.dkvp
 
