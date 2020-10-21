@@ -28,9 +28,6 @@ if [ $code -eq 200 ]; then
   curl -kL "$URL"/"$jsPath" >"$folder"/rawdata/tmp.html
   curl -kL "$URL"/"$chartPath" >"$folder"/rawdata/tmp-chart.html
 
-  # estrai dati immuni su positiveUsers e containedOutbreaks
-  grep <"$folder"/rawdata/tmp.html -oP "'{\".+\"positiveUsers\".+?}'" | sed "s/'//g" | mlr --ijson cat then put '$date="'"$oggi"'"' >>"$folder"/processing/immuni.dkvp
-  mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
 
   # estrai dati immuni su grafico download
   grep <"$folder"/rawdata/tmp.html -oP '{"202.+?{.+"android".+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChart.dkvp
@@ -39,10 +36,18 @@ if [ $code -eq 200 ]; then
   grep <"$folder"/rawdata/tmp-chart.html -oP '{"20..-..-.. ..:..:..":{"notifications":.+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChartNotifications.dkvp
 
   # converti dati in CSV
-  mlr --ocsv unsparsify "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
   mlr -I uniq -a "$folder"/processing/immuniChart.dkvp
   mlr -I uniq -a "$folder"/processing/immuniChartNotifications.dkvp
   mlr --ocsv cat then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
   mlr --ocsv cat then sort -f date "$folder"/processing/immuniChartNotifications.dkvp >"$folder"/processing/immuniChartNotifications.csv
 
+  latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
+
+  # estrai dati immuni su positiveUsers e containedOutbreaks
+  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$latestDate"'";$date=sub($date," .+","")' >>"$folder"/processing/immuni.dkvp
+  mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
+  mlr -I uniq -a "$folder"/processing/immuni.dkvp
+
+  # converti dati in CSV
+  mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
 fi
