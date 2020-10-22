@@ -18,16 +18,19 @@ Due gli outpput
 
 Il file è [`immuni.csv`](processing/immuni.csv) e ha una struttura come quella di sotto (in `date` la data in cui sono stati scaricati i dati).
 
-| sentNotifications | positiveUsers | containedOutbreaks | date |
-| --- | --- | --- | --- |
-| 5329 | 338 | 10 | 2020-10-03 |
-| 5329 | 338 | 10 | 2020-10-04 |
-| 5870 | 357 | 10 | 2020-10-05 |
-| 5870 | 357 | 10 | 2020-10-06 |
-| ... | ... | ... | ... |
+| sentNotifications | positiveUsers | containedOutbreaks | date | latestdate |
+| --- | --- | --- | --- | --- |
+| 5329 | 338 | 10 | 2020-10-03 |  |
+| 5870 | 357 | 10 | 2020-10-05 |  |
+| 6718 | 378 |  | 2020-10-07 |  |
+| 7884 | 445 |  | 2020-10-10 | 2020-10-09 |
+| ... | ... |  | ... | ... |
 
+Note:
 
-**NOTA BENE**: il campo `containedOutbreaks` è presente nei dati che alimentano il sito, ma sembra che non venga più valorizzato (è una deduzione, visti i valori `0`).
+- il campo `containedOutbreaks` era presente nei dati che alimentavano il sito, ma sembra che non venga più valorizzato;
+- `date` è la data in cui viene eseguito lo scraping;
+- `latestdate` è la data di aggiornamento riportata nei dati. Questo campo è stato introdotto dal 21 ottobre 2020.
 
 ### Dati sul download dell'applicazione
 
@@ -42,3 +45,17 @@ Qui `date` contiene la data che viene restituita dai dati della pagina (è quind
 | 2020-06-03 00:00:00 | 562000 | 824473 | 1386473 |
 | 2020-06-04 00:00:00 | 638800 | 915748 | 1554548 |
 | ... | ... | ... | ... |
+
+
+### Dati sulle notifiche
+
+Il file è [`immuniChartNotifications.csv`](processing/immuniChartNotifications.csv)
+
+| date | notifications |
+| --- | --- |
+| 2020-10-01 00:00:00 | 5236 |
+| 2020-10-02 00:00:00 | 5506 |
+| 2020-10-03 00:00:00 | 5725 |
+| 2020-10-04 00:00:00 | 5831 |
+| 2020-10-05 00:00:00 | 6122 |
+| ... | ... |
