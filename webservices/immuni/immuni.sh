@@ -38,8 +38,8 @@ if [ $code -eq 200 ]; then
   # converti dati in CSV
   mlr -I uniq -a "$folder"/processing/immuniChart.dkvp
   mlr -I uniq -a "$folder"/processing/immuniChartNotifications.dkvp
-  mlr --ocsv cat then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
-  mlr --ocsv cat then sort -f date "$folder"/processing/immuniChartNotifications.dkvp >"$folder"/processing/immuniChartNotifications.csv
+  mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
+  mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChartNotifications.dkvp >"$folder"/processing/immuniChartNotifications.csv
 
   latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
 

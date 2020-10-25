@@ -1,3 +1,9 @@
+- [Intro](#intro)
+- [Output](#output)
+  - [~~Dati su notifiche, utenti positivi e focolai contenuti~~](#sdati-su-notifiche-utenti-positivi-e-focolai-contenutis)
+  - [Dati sul download dell'applicazione](#dati-sul-download-dellapplicazione)
+  - [Dati sulle notifiche](#dati-sulle-notifiche)
+
 ## Intro
 
 Sul sito di immuni c'è una [dashboard](https://www.immuni.italia.it/dashboard.html), con i "numeri" dell'applicazione.
@@ -14,7 +20,7 @@ La fonte è il file javascript `main` che si trova a fondo pagina nel codice del
 
 Due gli outpput
 
-### Dati su notifiche, utenti positivi e focolai contenuti
+### ~~Dati su notifiche, utenti positivi e focolai contenuti~~
 
 Il file è [`immuni.csv`](processing/immuni.csv) e ha una struttura come quella di sotto (in `date` la data in cui sono stati scaricati i dati).
 
@@ -31,6 +37,8 @@ Note:
 - il campo `containedOutbreaks` era presente nei dati che alimentavano il sito, ma sembra che non venga più valorizzato;
 - `date` è la data in cui viene eseguito lo scraping;
 - `latestdate` è la data di aggiornamento riportata nei dati. Questo campo è stato introdotto dal 21 ottobre 2020.
+
+**NOTA BENE**: dal 25 ottobre questa tabella non verrà più aggiornata, perché contenuta in "[Dati sulle notifiche](#dati-sulle-notifiche)".
 
 ### Dati sul download dell'applicazione
 
@@ -51,11 +59,11 @@ Qui `date` contiene la data che viene restituita dai dati della pagina (è quind
 
 Il file è [`immuniChartNotifications.csv`](processing/immuniChartNotifications.csv)
 
-| date | notifications |
-| --- | --- |
-| 2020-10-01 00:00:00 | 5236 |
-| 2020-10-02 00:00:00 | 5506 |
-| 2020-10-03 00:00:00 | 5725 |
-| 2020-10-04 00:00:00 | 5831 |
-| 2020-10-05 00:00:00 | 6122 |
-| ... | ... |
+| date | notifications | positive_users | contained_outbreaks |
+| --- | --- | --- | --- |
+| 2020-10-01 00:00:00 | 5236 | 331 | 13 |
+| 2020-10-02 00:00:00 | 5506 | 343 | 13 |
+| 2020-10-03 00:00:00 | 5725 | 347 | 14 |
+| 2020-10-04 00:00:00 | 5831 | 352 | 14 |
+| ... | ... | ... | ... |
+

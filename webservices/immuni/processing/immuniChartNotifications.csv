@@ -1,186 +1,23 @@
-date,notifications
-2020-10-01 00:00:00,5236
-
-date,notifications,positive_users
-2020-10-01 00:00:00,5236,331
-
 date,notifications,positive_users,contained_outbreaks
 2020-10-01 00:00:00,5236,331,13
-
-date,notifications
-2020-10-02 00:00:00,5506
-
-date,notifications,positive_users
-2020-10-02 00:00:00,5506,343
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-02 00:00:00,5506,343,13
-
-date,notifications
-2020-10-03 00:00:00,5725
-
-date,notifications,positive_users
-2020-10-03 00:00:00,5725,347
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-03 00:00:00,5725,347,14
-
-date,notifications
-2020-10-04 00:00:00,5831
-
-date,notifications,positive_users
-2020-10-04 00:00:00,5831,352
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-04 00:00:00,5831,352,14
-
-date,notifications
-2020-10-05 00:00:00,6122
-
-date,notifications,positive_users
-2020-10-05 00:00:00,6122,365
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-05 00:00:00,6122,365,15
-
-date,notifications
-2020-10-06 00:00:00,6489
-
-date,notifications,positive_users
-2020-10-06 00:00:00,6489,377
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-06 00:00:00,6489,377,15
-
-date,notifications
-2020-10-07 00:00:00,7090
-
-date,notifications,positive_users
-2020-10-07 00:00:00,7090,401
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-07 00:00:00,7090,401,15
-
-date,notifications
-2020-10-08 00:00:00,7644
-
-date,notifications,positive_users
-2020-10-08 00:00:00,7644,424
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-08 00:00:00,7644,424,16
-
-date,notifications
-2020-10-09 00:00:00,8094
-
-date,notifications,positive_users
-2020-10-09 00:00:00,8094,455
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-09 00:00:00,8094,455,16
-
-date,notifications
-2020-10-10 00:00:00,8638
-
-date,notifications,positive_users
-2020-10-10 00:00:00,8638,489
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-10 00:00:00,8638,489,17
-
-date,notifications
-2020-10-11 00:00:00,9078
-
-date,notifications,positive_users
-2020-10-11 00:00:00,9078,509
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-11 00:00:00,9078,509,17
-
-date,notifications
-2020-10-12 00:00:00,9730
-
-date,notifications,positive_users
-2020-10-12 00:00:00,9730,552
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-12 00:00:00,9730,552,19
-
-date,notifications
-2020-10-13 00:00:00,10397
-
-date,notifications,positive_users
-2020-10-13 00:00:00,10397,587
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-13 00:00:00,10397,587,19
-
-date,notifications
-2020-10-14 00:00:00,11433
-
-date,notifications,positive_users
-2020-10-14 00:00:00,11433,641
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-14 00:00:00,11433,641,22
-
-date,notifications
-2020-10-15 00:00:00,12737
-
-date,notifications,positive_users
-2020-10-15 00:00:00,12737,710
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-15 00:00:00,12737,710,23
-
-date,notifications
-2020-10-16 00:00:00,14460
-
-date,notifications,positive_users
-2020-10-16 00:00:00,14460,780
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-16 00:00:00,14460,780,27
-
-date,notifications
-2020-10-17 00:00:00,15857
-
-date,notifications,positive_users
-2020-10-17 00:00:00,15857,816
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-17 00:00:00,15857,816,29
-
-date,notifications
-2020-10-18 00:00:00,16860
-
-date,notifications,positive_users
-2020-10-18 00:00:00,16860,860
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-18 00:00:00,16860,860,31
-
-date,notifications
-2020-10-19 00:00:00,17900
-
-date,notifications,positive_users
-2020-10-19 00:00:00,17900,902
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-19 00:00:00,17900,902,35
-
-date,notifications
-2020-10-20 00:00:00,19485
-
-date,notifications,positive_users
-2020-10-20 00:00:00,19485,999
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-20 00:00:00,19485,999,46
-
-date,notifications,positive_users
-2020-10-21 00:00:00,22796,1134
-
-date,notifications,positive_users,contained_outbreaks
 2020-10-21 00:00:00,22796,1134,54
 2020-10-22 00:00:00,25556,1202,60
