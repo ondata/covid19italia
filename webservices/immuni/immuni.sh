@@ -41,13 +41,13 @@ if [ $code -eq 200 ]; then
   mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
   mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChartNotifications.dkvp >"$folder"/processing/immuniChartNotifications.csv
 
-  latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
+#  latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
 
   # estrai dati immuni su positiveUsers e containedOutbreaks
-  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$oggi"'";$latestdate="'"$latestDate"'";$latestdate=sub($latestdate," .+","")' >>"$folder"/processing/immuni.dkvp
-  mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
-  mlr -I uniq -a "$folder"/processing/immuni.dkvp
-
-  # converti dati in CSV
-  mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
+#  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$oggi"'";$latestdate="'"$latestDate"'";$latestdate=sub($latestdate," .+","")' >>"$folder"/processing/immuni.dkvp
+#  mlr -I put -S 'if($containedOutbreaks=="0"){$containedOutbreaks=""}else{$containedOutbreaks=$containedOutbreaks}' "$folder"/processing/immuni.dkvp
+#  mlr -I uniq -a "$folder"/processing/immuni.dkvp
+#
+#  # converti dati in CSV
+#  mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuni.dkvp >"$folder"/processing/immuni.csv
 fi
