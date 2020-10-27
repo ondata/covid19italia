@@ -21,19 +21,20 @@ if [ $code -eq 200 ]; then
   curl -kL "$URL"/dashboard.html -H 'authority: www.immuni.italia.it' -H 'cache-control: max-age=0' -H 'upgrade-insecure-requests: 1' -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36' -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' -H 'sec-fetch-site: none' -H 'sec-fetch-mode: navigate' -H 'sec-fetch-user: ?1' -H 'sec-fetch-dest: document' -H 'accept-language: en-US,en;q=0.9,it;q=0.8' --compressed >"$folder"/rawdata/tmp-dashboard.html
 
   # estrai nomi file javascript
-  jsPath=$(<"$folder"/rawdata/tmp-dashboard.html scrape -e '//script[contains(@src,"main")]/@src' | sed -r 's/^(.+js)(.+)$/\1/g')
-  chartPath=$(<"$folder"/rawdata/tmp-dashboard.html scrape -e '//script[contains(@src,"chart")]/@src' | sed -r 's/^(.+js)(.+)$/\1/g')
+  jsPath=$(scrape <"$folder"/rawdata/tmp-dashboard.html -e '//script[contains(@src,"main")]/@src' | sed -r 's/^(.+js)(.+)$/\1/g')
+  chartPath=$(scrape <"$folder"/rawdata/tmp-dashboard.html -e '//script[contains(@src,"chart")]/@src' | sed -r 's/^(.+js)(.+)$/\1/g')
 
   # scarica file javascript
   curl -kL "$URL"/"$jsPath" >"$folder"/rawdata/tmp.html
   curl -kL "$URL"/"$chartPath" >"$folder"/rawdata/tmp-chart.html
 
+  #[{"data":"2020-06-01 00:00:00","ios":137295,"and
 
   # estrai dati immuni su grafico download
-  grep <"$folder"/rawdata/tmp.html -oP '{"202.+?{.+"android".+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChart.dkvp
+  grep <"$folder"/rawdata/tmp.html -oP '\[\{"data":"202.+?android.+?\}\]' | mlr --ijson unsparsify then rename data,date >>"$folder"/processing/immuniChart.dkvp
 
   # estrai dati immuni su grafico notifications
-  grep <"$folder"/rawdata/tmp-chart.html -oP '{"20..-..-.. ..:..:..":{"notifications":.+?}}' | mlr --ijson reshape -r ':' -o item,value then put '$field=sub($item,".+:","");$item=sub($item,"(.+)(:.+)","\1")' then label date,value,item then reshape -s item,value >>"$folder"/processing/immuniChartNotifications.dkvp
+  grep <"$folder"/rawdata/tmp-chart.html -oP '\[\{"data":"202.+?"andro.+?}].+?(\[\{"data":"202.+?notifi.+?\}\])' | sed -r 's/\[\{"data":"202.+?"andro.+?\}\].+?(\[\{"data":"202.+?notifi.+?\}\])/\1/g' | mlr --ijson unsparsify then rename data,date >>"$folder"/processing/immuniChartNotifications.dkvp
 
   # converti dati in CSV
   mlr -I uniq -a "$folder"/processing/immuniChart.dkvp
@@ -41,7 +42,7 @@ if [ $code -eq 200 ]; then
   mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChart.dkvp >"$folder"/processing/immuniChart.csv
   mlr --ocsv unsparsify then sort -f date "$folder"/processing/immuniChartNotifications.dkvp >"$folder"/processing/immuniChartNotifications.csv
 
-#  latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
+  #  latestDate=$(mlr --onidx stats1 -a max -f date "$folder"/processing/immuniChartNotifications.dkvp)
 
   # estrai dati immuni su positiveUsers e containedOutbreaks
 #  grep <"$folder"/rawdata/tmp.html -oP '{"positiveUsers.+?}' | mlr --ijson cat then put '$date="'"$oggi"'";$latestdate="'"$latestDate"'";$latestdate=sub($latestdate," .+","")' >>"$folder"/processing/immuni.dkvp
