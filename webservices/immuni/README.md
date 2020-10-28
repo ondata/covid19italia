@@ -59,11 +59,13 @@ Qui `date` contiene la data che viene restituita dai dati della pagina (è quind
 
 Il file è [`immuniChartNotifications.csv`](processing/immuniChartNotifications.csv)
 
-| date | notifications | positive_users | contained_outbreaks |
+| date | notifications | positive_users | ~~contained_outbreaks~~ |
 | --- | --- | --- | --- |
 | 2020-10-01 00:00:00 | 5236 | 331 | 13 |
 | 2020-10-02 00:00:00 | 5506 | 343 | 13 |
 | 2020-10-03 00:00:00 | 5725 | 347 | 14 |
 | 2020-10-04 00:00:00 | 5831 | 352 | 14 |
 | ... | ... | ... | ... |
+
+**Nota bene**: dal 28 ottobre 2020 è stata rimossa la colonna `contained_outbreaks`. Un archivio di questa è in [questo file](./processing/2020-10-28_immuniChartNotifications.csv).
 
