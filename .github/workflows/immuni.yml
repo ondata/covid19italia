@@ -1,38 +1,38 @@
-name: aggiorna dati immuni
-
-on:
-#  push:
+#name: aggiorna dati immuni
+#
+#on:
+##  push:
 #  repository_dispatch:
 #  schedule:
 #    - cron:  '0 21 */1 * *'
-
-jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape
-      run: |-
-        mkdir -p ~/bin
-        cp bin/mlr ~/bin
-        cp bin/scrape ~/bin
-        cd ~/bin
-        chmod +x mlr
-        chmod +x scrape
-    - name: scarica i dati
-      run: |-
-        export PATH=$PATH:~/bin
-        cd ./webservices/immuni/
-        chmod +x ./immuni.sh
-        ./immuni.sh
-    - name: Committa e pusha se ci sono variazioni nei dati
-      run: |-
-        git config user.name "automatico"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date --iso-8601=seconds)
-        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
-        git push
+#
+#jobs:
+#  scheduled:
+#    runs-on: ubuntu-latest
+#    steps:
+#    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+#      uses: actions/checkout@v2
+#      with:
+#        fetch-depth: 0
+#    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape
+#      run: |-
+#        mkdir -p ~/bin
+#        cp bin/mlr ~/bin
+#        cp bin/scrape ~/bin
+#        cd ~/bin
+#        chmod +x mlr
+#        chmod +x scrape
+#    - name: scarica i dati
+#      run: |-
+#        export PATH=$PATH:~/bin
+#        cd ./webservices/immuni/
+#        chmod +x ./immuni.sh
+#        ./immuni.sh
+#    - name: Committa e pusha se ci sono variazioni nei dati
+#      run: |-
+#        git config user.name "automatico"
+#        git config user.email "actions@users.noreply.github.com"
+#        git add -A
+#        timestamp=$(date --iso-8601=seconds)
+#        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
+#        git push
