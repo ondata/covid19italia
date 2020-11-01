@@ -1,8 +1,13 @@
-- [Intro](#intro)
-- [Output](#output)
-  - [~~Dati su notifiche, utenti positivi e focolai contenuti~~](#sdati-su-notifiche-utenti-positivi-e-focolai-contenutis)
-  - [Dati sul download dell'applicazione](#dati-sul-download-dellapplicazione)
-  - [Dati sulle notifiche](#dati-sulle-notifiche)
+- [IMPORTANTE](#importante)
+  - [Intro](#intro)
+  - [Output](#output)
+    - [~~Dati su notifiche, utenti positivi e focolai contenuti~~](#sdati-su-notifiche-utenti-positivi-e-focolai-contenutis)
+    - [Dati sul download dell'applicazione](#dati-sul-download-dellapplicazione)
+    - [Dati sulle notifiche](#dati-sulle-notifiche)
+
+# IMPORTANTE
+
+Il **30 ottobre** 2020 è stato creato [un *repository* ufficiale per i dati di Immuni](https://github.com/immuni-app/immuni-dashboard-data). Abbiamo spento pertanto la procedura di scraping e pubblicazione.
 
 ## Intro
 
