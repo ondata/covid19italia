@@ -2,11 +2,10 @@
 {
   "error" : 
   {
-    "code" : 499, 
-    "message" : "Token Required", 
-    "messageCode" : "GWM_0003", 
+    "code" : 400, 
+    "message" : "", 
     "details" : [
-      "Token Required"
+      "Unable to perform query. Please check your parameters."
     ]
   }
 }
