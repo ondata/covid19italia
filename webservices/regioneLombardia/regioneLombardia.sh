@@ -7,7 +7,7 @@
 
 set -x
 
-debugMode="off"
+debugMode="on"
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -30,21 +30,25 @@ done <"$folder"/risorse
 
 ogr2ogr -f CSV "$folder"/processing/PROVINCE_COVID19.csv "$folder"/rawdata/PROVINCE_COVID19.geojson
 
-rm "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json
+## 2020-11-14 rimosso dataset, perché non più disponibile
 
-ogr2ogr "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json  -f GEOJson "https://services1.arcgis.com/XannvQVnsM1hoZyv/ArcGIS/rest/services/INCR_DATE_PRV_TAMP_RL_v2/FeatureServer/0/query?where=objectid>0&outfields=*&f=geojson" OGRGeoJSON -oo FEATURE_SERVER_PAGING="YES"
+# rm "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json
 
-jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c unsparsify >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2.csv
+# ogr2ogr "$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json  -f GEOJson "https://services1.arcgis.com/XannvQVnsM1hoZyv/ArcGIS/rest/services/INCR_DATE_PRV_TAMP_RL_v2/FeatureServer/0/query?where=objectid>0&outfields=*&f=geojson" OGRGeoJSON -oo FEATURE_SERVER_PAGING="YES"
 
-mkdir -p "$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2
+# jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c unsparsify >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2.csv
 
-date=$(date '+%Y-%m-%d')
+# mkdir -p "$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2
 
-jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2/"$date"-INCR_DATE_PRV_TAMP_RL_v2.csv
+# date=$(date '+%Y-%m-%d')
+
+# jq <"$folder"/rawdata/INCR_DATE_PRV_TAMP_RL_v2.json '.features[].properties' | mlr --j2c cat >"$folder"/processing/INCR_DATE_PRV_TAMP_RL_v2/"$date"-INCR_DATE_PRV_TAMP_RL_v2.csv
+
+## 2020-11-14 rimosso dataset, perché non più disponibile
 
 #jq <"$folder"/rawdata/INCR_DATE_TAMP_RL_v2.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_TAMP_RL_v2/"$date"-INCR_DATE_TAMP_RL_v2.csv
 
-jq <"$folder"/rawdata/INCR_DATE_TAMP_RL.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_TAMP_RL/"$date"-INCR_DATE_TAMP_RL.csv
+# jq <"$folder"/rawdata/INCR_DATE_TAMP_RL.json '.features[].attributes' | mlr --j2c cat >"$folder"/processing/INCR_DATE_TAMP_RL/"$date"-INCR_DATE_TAMP_RL.csv
 
 host=$(hostname)
 if [[ "$host" == "ex-machina.ondata.it" ]] && [[ "$debugMode" == "off" ]]; then
