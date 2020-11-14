@@ -15,6 +15,7 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/processing/INCR_DATE_TAMP_RL_v2
 mkdir -p "$folder"/processing/INCR_DATE_TAMP_RL
+mkdir -p "$folder"/processing/dati_incremento
 
 dos2unix "$folder"/risorse
 
@@ -23,6 +24,10 @@ while IFS=$'\t' read -r nome formato url attivo; do
         curl -kL "$url" >"$folder"/rawdata/"$nome"."$formato"
     fi
 done <"$folder"/risorse
+
+date=$(date '+%Y-%m-%d')
+
+jq <"$folder"/rawdata/dati_incremento.json '.features[].attributes' | mlr --j2c unsparsify >"$folder"/processing/dati_incremento/"$date"-dati_incremento.csv
 
 # ogr2ogr -f CSV -lco GEOMETRY=AS_XY "$folder"/processing/ta_covid19_comuni_time.csv "$folder"/rawdata/ta_covid19_comuni_time.geojson
 
