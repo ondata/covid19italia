@@ -7,7 +7,7 @@
 
 set -x
 
-debugMode="on"
+debugMode="off"
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
