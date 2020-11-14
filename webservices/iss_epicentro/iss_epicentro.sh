@@ -74,7 +74,7 @@ mlr --t2c --implicit-csv-header then label classeEta,casi then clean-whitespace 
 
 # crea file del giorno
 date=$(date '+%Y-%m-%d')
-cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
+#cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
 
