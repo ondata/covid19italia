@@ -28,6 +28,7 @@ jobs:
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
+        export PATH=$PATH:~/.local/bin
         cd ./webservices/agenas/
         chmod +x ./agenas.sh
         ./agenas.sh
