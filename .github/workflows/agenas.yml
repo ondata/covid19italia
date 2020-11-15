@@ -23,7 +23,9 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install python3-setuptools
-        pip3 install wheel visidata lxml
+        pip3 install wheel
+        pip3 install visidata
+        pip3 install lxml
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
