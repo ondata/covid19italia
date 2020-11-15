@@ -30,7 +30,7 @@ fi
 
 date=$(date '+%Y-%m-%d')
 
-# rimuovi il separatore delle migliaia
+# rimuovi il separatore delle migliaia e aggiungi metadati fonte
 mlr -I --csv put -S '
   for (k in $*) {
     $[k] = gsub($[k], "\.([0-9])", "\1");
