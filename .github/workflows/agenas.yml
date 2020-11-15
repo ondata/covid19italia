@@ -23,7 +23,7 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install python3-setuptools
-        pip3 install git+https://github.com/saulpw/visidata.git@develop
+        pip3 install visidata
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
