@@ -1,5 +1,9 @@
 #!/bin/bash
 
+### requisiti ###
+# visidata https://github.com/saulpw/visidata
+### requisiti ###
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"

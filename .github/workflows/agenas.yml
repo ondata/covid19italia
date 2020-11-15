@@ -1,7 +1,7 @@
 name: aggiorna dati agenase
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '0 21 */1 * *'
