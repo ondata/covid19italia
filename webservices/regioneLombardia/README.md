@@ -1,7 +1,3 @@
-- [TA_COVID19_RL](#ta_covid19_rl)
-- [dati_incremento](#dati_incremento)
-  - [Elaborazioni derivate](#elaborazioni-derivate)
-
 La regione Lombardia pubblica una dashboard cartografica con i dati comunali sul Covid-19: https://experience.arcgis.com/experience/0a5dfcc103d0468bbb6b14e713ec1e30/
 
 In questa cartella:
