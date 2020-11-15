@@ -23,7 +23,7 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt install python3-pip
-        sudo pip3 install --no-warn-script-location git+https://github.com/saulpw/visidata.git@develop
+        sudo pip3 install git+https://github.com/saulpw/visidata.git@develop
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
