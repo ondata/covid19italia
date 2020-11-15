@@ -26,6 +26,7 @@ jobs:
         pip3 install wheel
         pip3 install visidata
         pip3 install lxml
+        sudo pip install yq
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
