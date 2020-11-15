@@ -17,3 +17,8 @@ if [ $code -eq 200 ]; then
   curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" | vd -f html +:table_0:: -b -o "$folder"/rawdata/positivi-e-ricoverati.csv
   curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" | vd -f html +:table_0:: -b -o "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv
 fi
+
+date=$(date '+%Y-%m-%d')
+
+mv "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
+mv "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
