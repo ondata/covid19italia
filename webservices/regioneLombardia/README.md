@@ -1,21 +1,28 @@
+- [TA_COVID19_RL](#ta_covid19_rl)
+- [dati_incremento](#dati_incremento)
+  - [Elaborazioni derivate](#elaborazioni-derivate)
+
 La regione Lombardia pubblica una dashboard cartografica con i dati comunali sul Covid-19: https://experience.arcgis.com/experience/0a5dfcc103d0468bbb6b14e713ec1e30/
 
-In questo cartella:
+In questa cartella:
 
 - [uno script bash](regioneLombardia.sh) per estrarli;
 - [una cartella](./rawdata) con i dati di output grezzi dello script;
 - [una cartella](./processing) con i dati di output frutto di elaborazione.
 
-Le risorse native sono 4, ma non è presente alcuna descrizione delle stesse. Sono denominate:
+Le risorse native sono differnti, ma non è presente alcuna descrizione delle stesse. Sono denominate:
 
 - [COMUNI_COVID19](rawdata/COMUNI_COVID19.geojson), un layer poligonale in formato GeoJSON;
 - [PROVINCE_COVID19](rawdata/PROVINCE_COVID19.geojson), un layer poligonale in formato GeoJSON;
-- [ta_covid19_comuni_time](rawdata/ta_covid19_comuni_time.geojson), un layer puntiforme in formato GeoJSON (**NOTA BENE**: il 18-04-2020 TA_COVID19_RL è stato rimosso : questo layer non è più disponibile sul sito della regione);
-- [TA_COVID19_RL](rawdata/TA_COVID19_RL.json), una risorsa alfanumerica (**NOTA BENE**: dal 18-04-2020 non è più disponile sul sito della regione).
+- [~~ta_covid19_comuni_time~~](rawdata/ta_covid19_comuni_time.geojson), un layer puntiforme in formato GeoJSON (**NOTA BENE**: il 18-04-2020 TA_COVID19_RL è stato rimosso : questo layer non è più disponibile sul sito della regione);
+- [~~TA_COVID19_RL~~](rawdata/TA_COVID19_RL.json), una risorsa alfanumerica (**NOTA BENE**: dal 18-04-2020 non è più disponile sul sito della regione);
+- [dati_incremento](processing/dati_incremento/dati_incremento.csv), con in il numero di tamponi positivi per provincia, nel tempo
 
 Sono state scaricate e convertite in CSV (*encoding* `UTF-8` e separatore la `,`), nella cartella [*processing*](./processing).
 
 ## TA_COVID19_RL
+
+**NOTA BENE**: sul sito della regione non è più disponibile da inizio aprile.
 
 Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi** con esito positivo registrati da **Regione Lombardia**.<br>Per ciascun tampone sono indicati: **data** di ricevimento del tampone da parte del laboratorio di analisi; **sesso**, **età**, **provincia** e **domicilio** della persona risultata positiva al test; indicazione dei soggetti deceduti.
 
@@ -33,6 +40,16 @@ Il file [`TA_COVID19_RL.csv`](./processing/TA_COVID19_RL.csv) elenca i **tamponi
 |VIVO_O_DECEDUTO|Vivo o deceduto|
 |SESSO|Sesso|
 |REGIONE|Regione|
+
+## dati_incremento
+
+|Nome campo          |Descrizione               |
+|--------------------|--------------------|
+|OBJECTID            |Identificativo del record                 |
+|DATA\_TAMPONE       |Data in formato UNIX timestamp, ma con tre `0` in più       |
+|PROVINCIA           |Nome della provincia                |
+|INCREMENTO          |Incremento rispetto al giorno precedente                   |
+|REGIONE             |Nome regione           |
 
 
 ### Elaborazioni derivate

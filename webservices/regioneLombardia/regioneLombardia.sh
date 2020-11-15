@@ -27,7 +27,7 @@ done <"$folder"/risorse
 
 date=$(date '+%Y-%m-%d')
 
-jq <"$folder"/rawdata/dati_incremento.json '.features[].attributes' | mlr --j2c unsparsify >"$folder"/processing/dati_incremento/"$date"-dati_incremento.csv
+jq <"$folder"/rawdata/dati_incremento.json '.features[].attributes' | mlr --j2c unsparsify >"$folder"/processing/dati_incremento/dati_incremento.csv
 
 # ogr2ogr -f CSV -lco GEOMETRY=AS_XY "$folder"/processing/ta_covid19_comuni_time.csv "$folder"/rawdata/ta_covid19_comuni_time.geojson
 
