@@ -2,6 +2,7 @@
 
 ### requisiti ###
 # visidata https://github.com/saulpw/visidata
+# Miller https://github.com/johnkerl/miller
 ### requisiti ###
 
 set -x
@@ -23,6 +24,19 @@ if [ $code -eq 200 ]; then
 fi
 
 date=$(date '+%Y-%m-%d')
+
+# rimuovi il separatore delle migliaia
+mlr  -I --csv put -S '
+  for (k in $*) {
+    $[k] = gsub($[k], "\.([0-9])", "\1");
+  }
+' "$folder"/rawdata/positivi-e-ricoverati.csv
+
+mlr -I --csv put -S '
+  for (k in $*) {
+    $[k] = gsub($[k], "\.([0-9])", "\1");
+  }
+' "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv
 
 mv "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
 mv "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
