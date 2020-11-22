@@ -1,10 +1,10 @@
 name: aggiorna dati agenas
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
-    - cron:  '5 4 * * *'
+    - cron:  '30 21 */1 * *'
 
 jobs:
   scheduled:
