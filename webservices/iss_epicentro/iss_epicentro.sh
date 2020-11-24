@@ -76,6 +76,7 @@ mlr --t2c --implicit-csv-header then label classeEta,casi then clean-whitespace 
 date=$(date '+%Y-%m-%d')
 #cp "$folder"/rawdata/classiEta.csv "$folder"/processing/"$date"_classiEta.csv
 cp "$folder"/rawdata/casi30gg.csv "$folder"/processing/"$date"_casi30gg.csv
+cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/curvaEpidemica30gg.csv
 cp "$folder"/rawdata/curvaEpidemica30gg.csv "$folder"/processing/"$date"_curvaEpidemica30gg.csv
 
 <<commento
@@ -114,6 +115,7 @@ jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
 mlr --ocsv reshape -s tipo,valore then unsparsify then sort -f data "$folder"/rawdata/curvaEpidemicaInizio >"$folder"/rawdata/curvaEpidemicaInizio.csv
 
 # crea file del giorno
+cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/curvaEpidemicaInizio.csv
 cp "$folder"/rawdata/curvaEpidemicaInizio.csv "$folder"/processing/"$date"_curvaEpidemicaInizio.csv
 
 host=$(hostname)
