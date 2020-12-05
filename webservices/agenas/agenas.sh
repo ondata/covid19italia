@@ -19,8 +19,12 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
+
+  # scarica pagina tramite chrome headless
   google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
-  while [ $(<"$folder"/rawdata/tab1.html wc -l) -eq 0 ]; do
+  # se la pagina scaricata non contiene nulla prova un nuovo download, non più di 5 volte
+  n=0
+  while [ "$n" -lt 5 ] && [ $(wc <"$folder"/rawdata/tab1.html -l) -eq 0 ]; do
     google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
   done
   #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
@@ -28,8 +32,11 @@ if [ $code -eq 200 ]; then
   scrape <"$folder"/rawdata/tab1.html -be ".text-decoration-none" | xq -r '.html.body.p."#text"'
   vd <"$folder"/rawdata/tab1.html -f html +:table_0:: -b -o "$folder"/rawdata/positivi-e-ricoverati.csv
 
+  # scarica pagina tramite chrome headless
   google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
-  while [ $(<"$folder"/rawdata/tab2.html wc -l) -eq 0 ]; do
+  # se la pagina scaricata non contiene nulla prova un nuovo download, non più di 5 volte
+  n=0
+  while [ "$n" -lt 5 ] && [ $(wc <"$folder"/rawdata/tab2.html -l) -eq 0 ]; do
     google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
   done
   #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
