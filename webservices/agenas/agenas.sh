@@ -47,8 +47,8 @@ mlr -I --csv put -S '
   }
 ' then put '$fonte="'"$fonte2"'"' "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv
 
-mv "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
-mv "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
+cp "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
+cp "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
 
 # merge dei dati
 mlr --csv unsparsify then uniq -a then clean-whitespace then filter -x -S '${Regioni}=="Italia"' "$folder"/processing/20*_postiletto-e-ricoverati-areaNonCritica.csv >"$folder"/processing/postiletto-e-ricoverati-areaNonCritica.csv
