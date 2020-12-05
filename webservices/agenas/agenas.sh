@@ -19,11 +19,13 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
 # se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
-  curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
+  google-chrome-stable --virtual-time-budget=10000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
+  #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
   fonte1=$(<"$folder"/rawdata/tab1.html scrape -be ".text-decoration-none" | xq -r '.html.body.p."#text"')
   vd <"$folder"/rawdata/tab1.html -f html +:table_0:: -b -o "$folder"/rawdata/positivi-e-ricoverati.csv
 
-  curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
+  google-chrome-stable --virtual-time-budget=10000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
+  #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
   fonte2=$(<"$folder"/rawdata/tab2.html scrape -be ".text-decoration-none" | xq -r '.html.body.p."#text"')
   vd <"$folder"/rawdata/tab2.html -f html +:table_0:: -b -o "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv
 fi

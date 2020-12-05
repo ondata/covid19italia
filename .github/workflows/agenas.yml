@@ -1,7 +1,7 @@
 name: aggiorna dati agenas
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '30 21 */1 * *'
@@ -27,6 +27,10 @@ jobs:
         pip3 install visidata
         pip3 install lxml
         sudo pip install yq
+        sudo apt-get install -y libappindicator1 fonts-liberation
+        sudo apt-get -f install
+        wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome*.deb
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
