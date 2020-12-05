@@ -26,6 +26,7 @@ if [ $code -eq 200 ]; then
   n=0
   while [ "$n" -lt 5 ] && [ $(wc <"$folder"/rawdata/tab1.html -l) -eq 0 ]; do
     google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
+    n=$(( n + 1 ))
   done
   #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1" >"$folder"/rawdata/tab1.html
   fonte1=$(scrape <"$folder"/rawdata/tab1.html -be ".text-decoration-none" | xq -r '.html.body.p."#text"')
@@ -38,6 +39,7 @@ if [ $code -eq 200 ]; then
   n=0
   while [ "$n" -lt 5 ] && [ $(wc <"$folder"/rawdata/tab2.html -l) -eq 0 ]; do
     google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
+    n=$(( n + 1 ))
   done
   #curl -kL "https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2" >"$folder"/rawdata/tab2.html
   fonte2=$(scrape <"$folder"/rawdata/tab2.html -be ".text-decoration-none" | xq -r '.html.body.p."#text"')
