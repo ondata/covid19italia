@@ -63,8 +63,8 @@ mlr -I --csv put -S '
 ' then put '$fonte="'"$fonte2"'"' "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv
 
 # copia i file nelle cartella di output
-cp "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
-cp "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
+mv "$folder"/rawdata/positivi-e-ricoverati.csv "$folder"/processing/"$date"_positivi-e-ricoverati.csv
+mv "$folder"/rawdata/postiletto-e-ricoverati-areaNonCritica.csv "$folder"/processing/"$date"_postiletto-e-ricoverati-areaNonCritica.csv
 
 # converti il carriage return dei file
 dos2unix "$folder"/processing/"$date"_positivi-e-ricoverati.csv
