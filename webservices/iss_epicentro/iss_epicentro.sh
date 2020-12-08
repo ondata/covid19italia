@@ -25,7 +25,7 @@ rm "$folder"/rawdata/*
 url30="https://www.epicentro.iss.it/coronavirus/dashboard/30gg.html"
 
 # estrai id dei div html
-curl -kL "$url30" >"$folder"/rawdata/Dashboard_finale_30gg.html
+curl -kL --cipher 'DEFAULT:!DH' "$url30" >"$folder"/rawdata/Dashboard_finale_30gg.html
 scrape <"$folder"/rawdata/Dashboard_finale_30gg.html -be '//div[contains(@id,"htmlwidget-")]' |
     xq -r '.html.body.div[]."@id"' >"$folder"/rawdata/listaDivId30gg
 
@@ -87,7 +87,7 @@ urlinizio="https://www.epicentro.iss.it/coronavirus/dashboard/inizio.html"
 rm "$folder"/rawdata/*
 
 # estrai id dei div html
-curl -kL "$urlinizio" >"$folder"/rawdata/Dashboard_finale_dallinizio.html
+curl -kL --cipher 'DEFAULT:!DH' "$urlinizio" >"$folder"/rawdata/Dashboard_finale_dallinizio.html
 scrape <"$folder"/rawdata/Dashboard_finale_dallinizio.html -be '//div[contains(@id,"htmlwidget-")]' |
     xq -r '.html.body.div[]."@id"' >"$folder"/rawdata/listaDivIdDallInizio
 
@@ -105,7 +105,7 @@ nomeCurvaEpidemica=$(grep -rnli 'Data prelievo' "$folder"/rawdata/*.json | grep 
 
 jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[0].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemicaInizio
-    
+
 # aggiungi al file i dati relativi alla Curva epidemica con data Sintomi (solo sintomatici)
 # dei casi di COVID-19 diagnosticati in Italia dall'inizio
 jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
