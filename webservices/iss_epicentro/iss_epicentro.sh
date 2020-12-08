@@ -105,10 +105,15 @@ nomeCurvaEpidemica=$(grep -rnli 'Data prelievo' "$folder"/rawdata/*.json | grep 
 
 jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[0].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi"' >"$folder"/rawdata/curvaEpidemicaInizio
+    
+# aggiungi al file i dati relativi alla Curva epidemica con data Sintomi (solo sintomatici)
+# dei casi di COVID-19 diagnosticati in Italia dall'inizio
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
+    mlr --inidx label "data",valore,tipo then put '$tipo="inizio sintomi solo sintomatici"' >>"$folder"/rawdata/curvaEpidemicaInizio
 
 # aggiungi al file i dati relativi alla Curva epidemica con data Prelievo/Diagnosi
 # dei casi di COVID-19 diagnosticati in Italia dall'inizio
-jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[1].text[]' |
+jq <"$folder"/rawdata/"$nomeCurvaEpidemica" -r '.x.data[2].text[]' |
     mlr --inidx label "data",valore,tipo then put '$tipo="prelievo/diagnosi"' >>"$folder"/rawdata/curvaEpidemicaInizio
 
 # converti curvaEpidemicaInizio in CSV
