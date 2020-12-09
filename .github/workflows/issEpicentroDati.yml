@@ -1,7 +1,7 @@
 name: aggiorna dati ISS dashboard Epicentro
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '30 22 */1 * *'
