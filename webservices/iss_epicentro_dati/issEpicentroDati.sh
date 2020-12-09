@@ -35,6 +35,7 @@ if [ $code -eq 200 ]; then
     while read p; do
       mlr --csv cat then uniq -a "$folder"/processing/"$p".csv "$folder"/rawdata/"$p".csv >"$folder"/processing/tmp.csv
       mv "$folder"/processing/tmp.csv "$folder"/processing/"$p".csv
+      cp "$folder"/rawdata/"$p".csv "$folder"/rawdata/latest_"$p".csv
     done <"$folder"/rawdata/listafogli
   fi
 fi
