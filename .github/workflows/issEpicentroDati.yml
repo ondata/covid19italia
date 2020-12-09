@@ -1,0 +1,41 @@
+name: aggiorna dati ISS dashboard Epicentro
+
+on:
+  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '30 21 */1 * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa csvkit
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cd ~/bin
+        chmod +x mlr
+        sudo apt-get install python3-setuptools
+        pip3 install wheel
+        pip3 install csvkit
+    - name: scarica i dati
+      run: |-
+        export PATH=$PATH:~/bin
+        export PATH=$PATH:~/.local/bin
+        cd ./webservices/iss_epicentro_dati/
+        chmod +x ./issEpicentroDati.sh
+        ./issEpicentroDati.sh
+    - name: Committa e pusha se ci sono variazioni nei dati
+      run: |-
+        git config user.name "automatico"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --iso-8601=seconds)
+        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
+        git push
+
