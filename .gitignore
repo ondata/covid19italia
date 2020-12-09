@@ -11,3 +11,4 @@ webservices/iss_epicentro/rawdata/*
 .vscode/settings.json
 google-chrome-stable_current_amd64.deb*
 webservices/agenas/rawdata/*
+webservices/iss_epicentro_dati/rawdata/*
