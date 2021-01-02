@@ -1,9 +1,5 @@
 #!/bin/bash
 
-### requisiti ###
-# visidata https://github.com/saulpw/visidata
-# Miller https://github.com/johnkerl/miller
-### requisiti ###
 
 set -x
 
