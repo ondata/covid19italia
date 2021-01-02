@@ -26,7 +26,7 @@ if [ $code -eq 200 ]; then
   # scarica microdati su regioni?
   scaricaR="sì"
 
-  if [[ $scaricaR == "no" ]]; then
+  if [[ $scaricaR == "sì" ]]; then
     while IFS=$'\t' read -r nome codice; do
       echo "$nome"
       curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
