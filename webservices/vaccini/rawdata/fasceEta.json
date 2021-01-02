@@ -1,0 +1,143 @@
+{
+  "jobIds": [
+    "22ac8d80-a91c-4dba-9c5d-0789e5424fc5"
+  ],
+  "results": [
+    {
+      "jobId": "22ac8d80-a91c-4dba-9c5d-0789e5424fc5",
+      "result": {
+        "data": {
+          "timestamp": "2021-01-02T14:14:09.181Z",
+          "rootActivityId": "18425ecf-7ba3-4cf5-bdc8-a3ef9bdfc97c",
+          "descriptor": {
+            "Select": [
+              {
+                "Kind": 1,
+                "Depth": 0,
+                "Value": "G0",
+                "GroupKeys": [
+                  {
+                    "Source": {
+                      "Entity": "TAB_MASTER",
+                      "Property": "TML_FASCIA_ETA"
+                    },
+                    "Calc": "G0",
+                    "IsSameAsSelect": true
+                  }
+                ],
+                "Name": "TAB_MASTER.TML_FASCIA_ETA"
+              },
+              {
+                "Kind": 2,
+                "Value": "M0",
+                "Format": "#,0",
+                "Name": "Sum(TAB_MASTER_PIVOT.Valore)"
+              }
+            ],
+            "Expressions": {
+              "Primary": {
+                "Groupings": [
+                  {
+                    "Keys": [
+                      {
+                        "Source": {
+                          "Entity": "TAB_MASTER",
+                          "Property": "TML_FASCIA_ETA"
+                        },
+                        "Select": 0
+                      }
+                    ],
+                    "Member": "DM0"
+                  }
+                ]
+              }
+            },
+            "Version": 2
+          },
+          "fromCache": false,
+          "dsr": {
+            "Version": 2,
+            "MinorVersion": 1,
+            "DS": [
+              {
+                "N": "DS0",
+                "PH": [
+                  {
+                    "DM0": [
+                      {
+                        "S": [
+                          {
+                            "N": "G0",
+                            "T": 1
+                          },
+                          {
+                            "N": "M0",
+                            "T": 4
+                          }
+                        ],
+                        "C": [
+                          "16-19",
+                          66
+                        ]
+                      },
+                      {
+                        "C": [
+                          "20-29",
+                          4428
+                        ]
+                      },
+                      {
+                        "C": [
+                          "30-39",
+                          8033
+                        ]
+                      },
+                      {
+                        "C": [
+                          "40-49",
+                          10579
+                        ]
+                      },
+                      {
+                        "C": [
+                          "50-59",
+                          13194
+                        ]
+                      },
+                      {
+                        "C": [
+                          "60-69",
+                          6656
+                        ]
+                      },
+                      {
+                        "C": [
+                          "70-79",
+                          805
+                        ]
+                      },
+                      {
+                        "C": [
+                          "80-89",
+                          1314
+                        ]
+                      },
+                      {
+                        "C": [
+                          "90+",
+                          955
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "IC": true,
+                "HAD": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
