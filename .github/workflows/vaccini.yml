@@ -1,10 +1,10 @@
 name: aggiorna dati vaccini
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '30 21 */1 * *'
+    - cron:  '15 21 */1 * *'
 
 jobs:
   scheduled:
