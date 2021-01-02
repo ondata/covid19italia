@@ -28,7 +28,6 @@ jobs:
         chmod +x scrape
         sudo apt-get install python3-setuptools
         pip3 install wheel
-        pip3 install visidata
         pip3 install lxml
         sudo pip install yq
     - name: scarica i dati

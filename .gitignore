@@ -12,3 +12,5 @@ webservices/iss_epicentro/rawdata/*
 google-chrome-stable_current_amd64.deb*
 webservices/agenas/rawdata/*
 webservices/iss_epicentro_dati/rawdata/*
+webservices/vaccini/rawdata/*.csv
+webservices/vaccini/rawdata/*.json
