@@ -176,7 +176,7 @@ if [ $code -eq 200 ]; then
 
   mlr --j2c cat then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/sesso.json >"$folder"/processing/latest_sesso.csv
 
-  if [ ! -f "$folder"/processing/fasceEta.csv]; then
+  if [ ! -f "$folder"/processing/sesso.csv ]; then
     cat "$folder"/processing/latest_sesso.csv >>"$folder"/processing/sesso.csv
   fi
 
