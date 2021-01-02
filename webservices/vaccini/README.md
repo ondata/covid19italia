@@ -14,3 +14,9 @@ Da oggi abbiamo attivato il download giornaliero e l'archiviazione di alcuni di 
 - quelli sulla [**fasce d'età**](processing/fasceEta.csv) dei vaccinati;
 - quelli sulle [**categorie**](processing/categoria.csv) dei vaccinati;
 - quelli sul [**sesso**](processing/sesso.csv) dei vaccinati.
+
+## Note
+
+L'*enconding* dei CSV è `UTF-8` e il separatore delle colonne è la `,`.
+
+La colonna `aggiornamento` presente nei CSV, dà conto della data di aggiornamento dati presente sulla *dashboard* in corrispondenza della pubblicazione qui dei dati.
