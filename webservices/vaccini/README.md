@@ -4,7 +4,7 @@ La Presidenza del Consiglio dei Ministri, il Commissario Straordinario Covid-19 
 
 Alcune note:
 
-- hanno pubblicato ad oggi (2 gennaio 20201) **soltanto una rappresentazione dei dati** e non i dati grezzi;
+- hanno pubblicato ad oggi (2 gennaio 2021) **soltanto una rappresentazione dei dati** e non i dati grezzi;
 - sono dati **leggibili** soltanto **da una persona** e **non** da un ***Personal Computer***;
 - anche la **serie storica** e **disaggregata** è **soltanto** **leggibile** **a schermo** e **non** da un ***Personal Computer***.
 
