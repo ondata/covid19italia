@@ -10,20 +10,22 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/rawdata/datiRegioni
 mkdir -p "$folder"/processing
 
+# url dashboard
 URL="https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9"
 
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URL"'')
 
-# se il sito è raggiungibile scarica i dati
+# se il sito è raggiungibile scarica e "lavora" i dati
 if [ $code -eq 200 ]; then
 
   # scarica pagina tramite chrome headless
   google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "$URL" >"$folder"/rawdata/pagina.html
 
+  # estrai data di aggiornamento dati, dichiarata nella dashboard
   dataOraAggiornamento=$(scrape <"$folder"/rawdata/pagina.html -be '//div[@class="title"]' | xq -r '.html.body.div."#text"')
 
-  # scarica microdati su regioni?
+  # scarica microdati su regioni. Al momento non si comprende la mappatura dei file JSON di output
   scaricaR="sì"
 
   if [[ $scaricaR == "sì" ]]; then
@@ -64,6 +66,7 @@ if [ $code -eq 200 ]; then
 
   fi
 
+  # scarica dati sulle somministrazioni per regione
   curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
     -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
     -H 'Accept: application/json, text/plain, */*' \
@@ -79,6 +82,7 @@ if [ $code -eq 200 ]; then
 
   jq <"$folder"/rawdata/somministrazioni.json '.results[0].result.data.dsr.DS[0].PH[0].DM0[]' | mlr --j2c unsparsify then cut -r -f "C:" >"$folder"/rawdata/somministrazioni.csv
 
+  # scarica dati sulle somministrazioni per fascia di età
   curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
     -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
     -H 'Accept: application/json, text/plain, */*' \
@@ -94,6 +98,7 @@ if [ $code -eq 200 ]; then
 
   jq <"$folder"/rawdata/fasceEta.json '.results[0].result.data.dsr.DS[0].PH[0].DM0[]' | mlr --j2c unsparsify then cut -r -f "C:" >"$folder"/rawdata/fasceEta.csv
 
+  # scarica dati sulle somministrazioni per categoria
   curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
     -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
     -H 'Accept: application/json, text/plain, */*' \
@@ -109,7 +114,7 @@ if [ $code -eq 200 ]; then
 
   jq <"$folder"/rawdata/categoria.json '.results[0].result.data.dsr.DS[0].PH[0].DM0[]' | mlr --j2c unsparsify then cut -r -f "C:" >"$folder"/rawdata/categoria.csv
 
-  # pulizia
+  ### fai pulizia dei dati grezzi e ristruttura ###
 
   # somministrazioni
   mlr --csv label regione,somministrazioni,percentuale,dosiConsegnate then put '$percentuale=($percentuale*100)' then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/somministrazioni.csv >"$folder"/processing/latest_somministrazioni.csv
