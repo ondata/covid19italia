@@ -14,7 +14,7 @@ mkdir -p "$folder"/processing
 URL="https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9"
 
 # leggi la risposta HTTP del sito
-code=$(http -hdo ./tmp_body.html "$URL" 2>&1 | grep HTTP/  | cut -d ' ' -f 2)
+code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
 
 # se il sito è raggiungibile scarica e "lavora" i dati
 if [ $code -eq 200 ]; then
