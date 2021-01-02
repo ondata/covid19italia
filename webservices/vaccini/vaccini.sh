@@ -189,4 +189,11 @@ if [ $code -eq 200 ]; then
 
   mv "$folder"/processing/tmp.csv "$folder"/processing/sesso.csv
 
+  # anagrafica
+  rm "$folder"/rawdata/anagrafica.txt
+  for i in "$folder"/rawdata/datiRegioni/*.json; do
+    jq <"$i" -r '.results[0].result.data.dsr.DS[0].ValueDicts.D2[]' >>"$folder"/rawdata/tmp_anagrafica.txt
+  done
+
+  mlr --n2c -N --ifs '~' nest --explode --values --across-fields -f 1 --nested-fs "_" then cut -x -f 1_1,1_4,1_6 then uniq -a "$folder"/rawdata/tmp_anagrafica.txt >"$folder"/processing/anagrafica.csv
 fi
