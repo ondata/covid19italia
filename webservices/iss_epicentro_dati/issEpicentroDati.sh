@@ -33,7 +33,7 @@ if [ $code -eq 200 ]; then
   else
     # aggiungi nuovi dati ai fogli archiviati
     while read p; do
-      mlr --csv cat then uniq -a then remove-empty-columns "$folder"/processing/"$p".csv "$folder"/rawdata/"$p".csv >"$folder"/processing/tmp.csv
+      mlr --csv unsparsify then uniq -a then remove-empty-columns "$folder"/processing/"$p".csv "$folder"/rawdata/"$p".csv >"$folder"/processing/tmp.csv
       mv "$folder"/processing/tmp.csv "$folder"/processing/"$p".csv
       mlr -I --csv remove-empty-columns "$folder"/rawdata/"$p".csv
       cp "$folder"/rawdata/"$p".csv "$folder"/processing/"$p"-latest.csv
