@@ -26,7 +26,7 @@ if [ $code -eq 200 ]; then
   # scarica microdati su regioni?
   scaricaR="sì"
 
-  if [[ $scaricaR == "sì" ]]; then
+  if [[ $scaricaR == "no" ]]; then
     while IFS=$'\t' read -r nome codice; do
       echo "$nome"
       curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
@@ -121,12 +121,48 @@ if [ $code -eq 200 ]; then
   cat "$folder"/processing/latest_fasceEta.csv >>"$folder"/processing/fasceEta.csv
   mlr -I --csv uniq -a "$folder"/processing/fasceEta.csv
 
-  mlr --csv label categoria,vaccinazioni then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/categoria.csv>"$folder"/processing/latest_categoria.csv
+  mlr --csv label categoria,vaccinazioni then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/categoria.csv >"$folder"/processing/latest_categoria.csv
 
   cat "$folder"/processing/latest_categoria.csv >>"$folder"/processing/categoria.csv
   mlr -I --csv uniq -a "$folder"/processing/categoria.csv
 
   date=$(date '+%Y-%m-%d')
 
-fi
+  # sesso
+  curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
+    -H 'Accept: application/json, text/plain, */*' \
+    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
+    -H 'ActivityId: c335f5df-0579-56f9-710c-26b012bdf798' \
+    -H 'RequestId: 669c8509-39e2-b96c-fdc9-da4c37a22bda'-H \
+    'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -H 'Origin: https://app.powerbi.com' \
+    -H 'DNT: 1' \
+    -H 'Connection: keep-alive' \
+    -H 'Referer: https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9' \
+    -H 'Pragma: no-cache' \
+    -H 'Cache-Control: no-cache' --data-raw '{"version":"1.0.0","queries":[{"Query":{"Commands":[{"SemanticQueryDataShapeCommand":{"Query":{"Version":2,"From":[{"Name":"t","Entity":"TAB_MASTER","Type":0}],"Select":[{"Aggregation":{"Expression":{"Column":{"Expression":{"SourceRef":{"Source":"t"}},"Property":"TML_SESSO_M"}},"Function":0},"Name":"Sum(TAB_MASTER.TML_SESSO_M)"}]},"Binding":{"Primary":{"Groupings":[{"Projections":[0]}]},"DataReduction":{"DataVolume":3,"Primary":{"Window":{}}},"Version":1}}}]},"CacheKey":"{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"TAB_MASTER\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"TML_SESSO_M\"}},\"Function\":0},\"Name\":\"Sum(TAB_MASTER.TML_SESSO_M)\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0]}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{}}},\"Version\":1}}}]}","QueryId":"","ApplicationContext":{"DatasetId":"5bff6260-1025-49e0-8e9b-169ade7c07f9","Sources":[{"ReportId":"b548a77c-ab0a-4d7c-a457-2e38c2914fc6"}]}}],"cancelQueries":[],"modelId":4280811}' | jq '.results[0].result.data.dsr.DS[0].PH[0].DM0[0]|{maschi:.M0}' >"$folder"/rawdata/maschi.json
 
+  curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
+    -H 'Accept: application/json, text/plain, */*' \
+    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
+    -H 'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -H 'Origin: https://app.powerbi.com' \
+    -H 'DNT: 1' \
+    -H 'Connection: keep-alive' \
+    -H 'Referer: https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9' \
+    -H 'Pragma: no-cache' \
+    -H 'Cache-Control: no-cache' --data-raw '{"version":"1.0.0","queries":[{"Query":{"Commands":[{"SemanticQueryDataShapeCommand":{"Query":{"Version":2,"From":[{"Name":"t","Entity":"TAB_MASTER","Type":0}],"Select":[{"Aggregation":{"Expression":{"Column":{"Expression":{"SourceRef":{"Source":"t"}},"Property":"TML_SESSO_F"}},"Function":0},"Name":"Sum(TAB_MASTER.TML_SESSO_F)"}]},"Binding":{"Primary":{"Groupings":[{"Projections":[0]}]},"DataReduction":{"DataVolume":3,"Primary":{"Window":{}}},"Version":1}}}]},"CacheKey":"{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"t\",\"Entity\":\"TAB_MASTER\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"TML_SESSO_F\"}},\"Function\":0},\"Name\":\"Sum(TAB_MASTER.TML_SESSO_F)\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0]}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{}}},\"Version\":1}}}]}","QueryId":"","ApplicationContext":{"DatasetId":"5bff6260-1025-49e0-8e9b-169ade7c07f9","Sources":[{"ReportId":"b548a77c-ab0a-4d7c-a457-2e38c2914fc6"}]}}],"cancelQueries":[],"modelId":4280811}' | jq '.results[0].result.data.dsr.DS[0].PH[0].DM0[0]|{femmine:.M0}' >"$folder"/rawdata/femmine.json
+
+  jq -s '.[0] * .[1]' "$folder"/rawdata/maschi.json "$folder"/rawdata/femmine.json >"$folder"/rawdata/sesso.json
+
+  mlr --j2c cat "$folder"/rawdata/sesso.json then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' >"$folder"/processing/latest_sesso.csv
+
+  cat "$folder"/processing/latest_sesso.csv >>"$folder"/processing/latest_sesso.csv
+
+  mlr -I --csv uniq -a "$folder"/processing/latest_sesso.csv
+
+fi
