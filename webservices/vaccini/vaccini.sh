@@ -1,5 +1,14 @@
 #!/bin/bash
 
+### requisiti ###
+# google-chrome headless http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+# jq https://stedolan.github.io/jq/
+# miller  https://github.com/johnkerl/miller
+# scrape-cli https://github.com/aborruso/scrape-cli
+# yq https://kislyuk.github.io/yq/
+### requisiti ###
+
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -41,7 +50,6 @@ if [ $code -eq 200 ]; then
       curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
         -H 'Connection: keep-alive' \
         -H 'Accept: application/json, text/plain, */*' \
-        -H 'RequestId: 91290740-2433-bf80-9c8e-356683d2a524' \
         -H 'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
         -H 'Content-Type: application/json;charset=UTF-8' \
         -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
@@ -164,9 +172,7 @@ if [ $code -eq 200 ]; then
     -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0' \
     -H 'Accept: application/json, text/plain, */*' \
     -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
-    -H 'ActivityId: c335f5df-0579-56f9-710c-26b012bdf798' \
-    -H 'RequestId: 669c8509-39e2-b96c-fdc9-da4c37a22bda'-H \
-    'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
+    -H 'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
     -H 'Content-Type: application/json;charset=UTF-8' \
     -H 'Origin: https://app.powerbi.com' \
     -H 'DNT: 1' \
