@@ -19,4 +19,4 @@ Da oggi abbiamo attivato il download giornaliero e l'archiviazione di alcuni di 
 
 L'*enconding* dei CSV è `UTF-8` e il separatore delle colonne è la `,`.
 
-La colonna `aggiornamento` presente nei CSV dà conto della data di aggiornamento letta sulla *dashboard*, al momento della pubblicazione qui dei dati.
+La colonna `aggiornamento` presente nei CSV dà conto della data di aggiornamento letta sulla *dashboard*, al momento della pubblicazione qui dei dati. Il formato è `mese/giorno/anno ora`.
