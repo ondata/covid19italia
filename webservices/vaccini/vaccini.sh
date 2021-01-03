@@ -8,7 +8,6 @@
 # yq https://kislyuk.github.io/yq/
 ### requisiti ###
 
-
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -137,6 +136,8 @@ if [ $code -eq 200 ]; then
   # aggiungi codice regione
   mlr --csv join --ul -j regione -f "$folder"/processing/latest_somministrazioni.csv then unsparsify "$folder"/risorse/regioniISTAT.csv >"$folder"/tmp.csv
   mv "$folder"/tmp.csv "$folder"/processing/latest_somministrazioni.csv
+  # aggiungi data ISO
+  mlr -I --csv put -S '$dataAggiornamento = strftime(strptime($aggiornamento, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%d %H:%M:%S")' "$folder"/processing/latest_somministrazioni.csv
 
   if [ ! -f "$folder"/processing/somministrazioni.csv ]; then
     cat "$folder"/processing/latest_somministrazioni.csv >>"$folder"/processing/somministrazioni.csv
@@ -147,6 +148,8 @@ if [ $code -eq 200 ]; then
 
   # fasceEta
   mlr --csv label fascia,vaccinazioni then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/fasceEta.csv >"$folder"/processing/latest_fasceEta.csv
+  # aggiungi data ISO
+  mlr -I --csv put -S '$dataAggiornamento = strftime(strptime($aggiornamento, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%d %H:%M:%S")' "$folder"/processing/latest_fasceEta.csv
 
   if [ ! -f "$folder"/processing/fasceEta.csv ]; then
     cat "$folder"/processing/latest_fasceEta.csv >>"$folder"/processing/fasceEta.csv
@@ -157,6 +160,9 @@ if [ $code -eq 200 ]; then
 
   # categoria
   mlr --csv label categoria,vaccinazioni then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/categoria.csv >"$folder"/processing/latest_categoria.csv
+
+  # aggiungi data ISO
+  mlr -I --csv put -S '$dataAggiornamento = strftime(strptime($aggiornamento, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%d %H:%M:%S")' "$folder"/processing/latest_categoria.csv
 
   if [ ! -f "$folder"/processing/categoria.csv ]; then
     cat "$folder"/processing/latest_categoria.csv >>"$folder"/processing/categoria.csv
@@ -197,6 +203,9 @@ if [ $code -eq 200 ]; then
   jq -s '.[0] * .[1]' "$folder"/rawdata/maschi.json "$folder"/rawdata/femmine.json >"$folder"/rawdata/sesso.json
 
   mlr --j2c cat then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/sesso.json >"$folder"/processing/latest_sesso.csv
+
+  # aggiungi data ISO
+  mlr -I --csv put -S '$dataAggiornamento = strftime(strptime($aggiornamento, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%d %H:%M:%S")' "$folder"/processing/latest_sesso.csv
 
   if [ ! -f "$folder"/processing/sesso.csv ]; then
     cat "$folder"/processing/latest_sesso.csv >>"$folder"/processing/sesso.csv
