@@ -22,6 +22,13 @@ if [ $code -eq 200 ]; then
   # scarica pagina tramite chrome headless
   google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "$URL" >"$folder"/rawdata/pagina.html
 
+  # se la pagina scaricata non contiene nulla prova un nuovo download, non più di 5 volte
+  n=0
+  while [ "$n" -lt 5 ] && [ $(wc <"$folder"/rawdata/pagina.html -l) -eq 0 ]; do
+    google-chrome-stable --virtual-time-budget=30000 --run-all-compositor-stages-before-draw --headless --disable-gpu --dump-dom "$URL" >"$folder"/rawdata/pagina.html
+    n=$((n + 1))
+  done
+
   # estrai data di aggiornamento dati, dichiarata nella dashboard
   dataOraAggiornamento=$(scrape <"$folder"/rawdata/pagina.html -be '//div[@class="title"]' | xq -r '.html.body.div."#text"')
 
