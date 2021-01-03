@@ -1,3 +1,7 @@
+⚠⚠⚠ **NOTA BENE**: al momento l'aggiornamento dei dati avviene circa 15 minuti dopo le **7**, le **13**, e **19**, nelle modalità definite [qui](https://github.com/ondata/covid19italia/blob/master/.github/workflows/vaccini.yml#L7) ⚠⚠⚠
+
+---
+
 La Presidenza del Consiglio dei Ministri, il Commissario Straordinario Covid-19 e il Ministero della Salute hanno pubblicato il 31/12/2020 una **dashboard** con **informazioni** sui **vaccini**:
 
 <https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9>
@@ -20,5 +24,3 @@ Da oggi abbiamo attivato il download giornaliero e l'archiviazione di alcuni di 
 L'*enconding* dei CSV è `UTF-8` e il separatore delle colonne è la `,`.
 
 La colonna `aggiornamento` presente nei CSV dà conto della data di aggiornamento letta sulla *dashboard*, al momento della pubblicazione qui dei dati. Il formato è `mese/giorno/anno ora`.
-
-L'aggiornamento dei dati invece verrà eseguito in `cron` nelle modalità definite [qui](https://github.com/ondata/covid19italia/blob/master/.github/workflows/vaccini.yml#L7).
