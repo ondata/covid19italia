@@ -119,6 +119,10 @@ if [ $code -eq 200 ]; then
   # somministrazioni
   mlr --csv label regione,somministrazioni,percentuale,dosiConsegnate then put '$percentuale=($percentuale*100)' then put -S '$aggiornamento="'"$dataOraAggiornamento"'"' "$folder"/rawdata/somministrazioni.csv >"$folder"/processing/latest_somministrazioni.csv
 
+  # aggiungi codice regione
+  mlr --csv join --ul -j regione -f "$folder"/processing/latest_somministrazioni.csv then unsparsify "$folder"/risorse/regioniISTAT.csv >"$folder"/tmp.csv
+  mv "$folder"/tmp.csv "$folder"/processing/latest_somministrazioni.csv
+
   if [ ! -f "$folder"/processing/somministrazioni.csv ]; then
     cat "$folder"/processing/latest_somministrazioni.csv >>"$folder"/processing/somministrazioni.csv
   fi
