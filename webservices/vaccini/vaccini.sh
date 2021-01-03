@@ -213,4 +213,6 @@ if [ $code -eq 200 ]; then
   done
 
   mlr --n2c -N --ifs '~' nest --explode --values --across-fields -f 1 --nested-fs "_" then cut -x -f 1_1,1_4,1_6 then uniq -a "$folder"/rawdata/tmp_anagrafica.txt >"$folder"/processing/anagrafica.csv
+
+  mlr -I --csv -N sort -f 2,1,3 "$folder"/processing/anagrafica.csv
 fi
