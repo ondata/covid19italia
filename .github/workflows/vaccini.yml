@@ -30,7 +30,6 @@ jobs:
         pip3 install wheel
         pip3 install lxml
         sudo pip install yq
-        sudo pip install httpie
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
