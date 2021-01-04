@@ -77,14 +77,14 @@ PF/BT,LAZ,Santa Maria della Pietà
 PF/BT,LAZ,Santo Spirito in sassia
 PF/BT,LAZ,VIA CILONE DI CASAL BERNOCCHI
 PF/BT,LIG,ASL 2 SAVONESE - OSPEDALE SAN PAOLO
+PF/BT,LIG,Ente Ospedaliero Ospedali Galliera
+PF/BT,LIG,ISTITUTO GIANNINA GASLINI
 PF/BT,LIG,OSP. RIUNITI LEONARDI E RIBOLI LAVAGNA - ASL4
 PF/BT,LIG,OSPEDALE SANT'ANDREA LA SPEZIA
 PF/BT,LIG,OSPEDALE VILLA SCASSI
-PF/BT,LIG,Ospedale civile di Sestri Levante - ASL4
 PF/BT,LIG,SANREMO - PRESIDIO OSPEDALIERO UNIFICATO
 PF/BT,LIG,STABILIMENTO SAN BARTOLOMEO DI SARZANA
 PF/BT,LIG,VILLA SCASSI
-PF/BT,LIG,villa marta di betania  (inserito codice ASL3 Liguria)
 PF/BT,LOM,CV Garbagnate Milanese
 PF/BT,LOM,Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana
 PF/BT,LOM,HUB COVID LEGNANO
@@ -105,8 +105,7 @@ PF/BT,MAR,OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO
 PF/BT,MAR,"Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2"
 PF/BT,MAR,Ospedale Madonna del Soccorso - ASUR - Area Vasta 5
 PF/BT,MAR,Ospedale di Fabriano - ASUR - Area Vasta 2
-PF/BT,MAR,PRESIDIO OSPEDALIERO UNICO AV1
-PF/BT,MAR,PRESIDIO OSPEDALIERO UNICO AV2
+PF/BT,MAR,Ospedale di Senigallia - ASUR - Area Vasta 2
 PF/BT,MAR,Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino
 PF/BT,MOL,"Casa di riposo ""Cannavina"" - Ripalimosani"
 PF/BT,MOL,P.O. ANTONIO CARDARELLI
@@ -118,7 +117,6 @@ PF/BT,PAT,APSP S.Spirito Fondazione Montel Pergine Valsugana
 PF/BT,PAT,APSP Valle del Vanoi Canal S.Bovo
 PF/BT,PAT,APSP Villa San Lorenzo Storo
 PF/BT,PAT,Ospedale S.Chiara di Trento
-PF/BT,PAT,Ospedale delle Valli del Noce di Cles
 PF/BT,PAT,Ospedale di Arco
 PF/BT,PAT,RSA Via Veneto Trento
 PF/BT,PIE,AMB. VACCINAZIONI P.O CASALE M
