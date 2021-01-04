@@ -53,6 +53,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_ALTRO,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_70-79,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_80-89,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_90+,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_16-19,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_70-79,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_80-89,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_90+,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_16-19",2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_20-29",2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_30-39",2 - Personale non Sanitario
@@ -88,6 +92,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_16-19,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,2 - Personale non Sanitario
+0,Marche,TML_CAT_ALTRO,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_16-19,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_20-29,2 - Personale non Sanitario
 0,Marche,TML_CAT_ALTRO,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_30-39,2 - Personale non Sanitario
@@ -265,6 +278,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_90+,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_90+,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_16-19",1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_70-79",1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_80-89",1 - Operatori Sanitari e Sociosanitari
@@ -281,6 +298,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_20-29,1 - Operatori Sanitari e Sociosanitari
 0,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -425,6 +446,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_70-79,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_80-89,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_90+,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_16-19,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_20-29,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_60-69,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_70-79,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_80-89,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_90+,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_16-19",2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_20-29",2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_60-69",2 - Personale non Sanitario
@@ -448,6 +475,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_16-19,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_16-19,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,2 - Personale non Sanitario
+0,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_16-19,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_20-29,2 - Personale non Sanitario
 0,Marche,TML_CAT_PERSONALE,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_30-39,2 - Personale non Sanitario
@@ -649,6 +680,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_70-79,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_80-89,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_90+,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_16-19,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_20-29,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_30-39,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_40-49,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_50-59,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_60-69,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_70-79,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_80-89,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_90+,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_16-19",3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_20-29",3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_30-39",3 - Ospiti Strutture Residenziali
@@ -685,6 +725,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_16-19,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_70-79,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_80-89,3 - Ospiti Strutture Residenziali
+0,Marche,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_90+,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_16-19,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_20-29,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_30-39,3 - Ospiti Strutture Residenziali
@@ -835,6 +884,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Marche,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_70-79,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_80-89,3 - Ospiti Strutture Residenziali
 0,Marche,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_90+,3 - Ospiti Strutture Residenziali
+1,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_50-59,2 - Personale non Sanitario
 1,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_60-69,2 - Personale non Sanitario
 1,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000101_Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino_40-49,1 - Operatori Sanitari e Sociosanitari
 1,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -863,11 +913,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110901_A.O. OSPEDALI RIUNITI MARCHE NORD_40-49,1 - Operatori Sanitari e Sociosanitari
 2,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_50-59,1 - Operatori Sanitari e Sociosanitari
 2,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,2 - Personale non Sanitario
+2,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_40-49,2 - Personale non Sanitario
 2,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_30-39,2 - Personale non Sanitario
 2,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_50-59,2 - Personale non Sanitario
+2,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,2 - Personale non Sanitario
 2,Marche,TML_CAT_PERSONALE,30/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_50-59,2 - Personale non Sanitario
 2,Marche,TML_CAT_PERSONALE,31/12/2020_PF/BT_MAR_11090101_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI PESARO_50-59,2 - Personale non Sanitario
 2,Marche,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_80-89,3 - Ospiti Strutture Residenziali
+3,Marche,TML_CAT_ALTRO,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_30-39,2 - Personale non Sanitario
 3,Marche,TML_CAT_ALTRO,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_50-59,2 - Personale non Sanitario
 3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Marche,TML_CAT_OSS,30/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -875,27 +928,34 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090101_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI PESARO_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_30-39,2 - Personale non Sanitario
+3,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_50-59,2 - Personale non Sanitario
 3,Marche,TML_CAT_PERSONALE,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_40-49",2 - Personale non Sanitario
 3,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_60-69,2 - Personale non Sanitario
-4,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110901_A.O. OSPEDALI RIUNITI MARCHE NORD_60-69,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_20-29,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_60-69,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_20-29,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_40-49,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_30-39,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_50-59,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_30-39,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_50-59,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_60-69,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari
-4,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,2 - Personale non Sanitario
-5,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000101_Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_50-59,1 - Operatori Sanitari e Sociosanitari
-5,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_30-39,1 - Operatori Sanitari e Sociosanitari
-5,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_40-49,1 - Operatori Sanitari e Sociosanitari
-5,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000202_PRESIDIO OSPEDALIERO UNICO AV2 - STABILIMENTO DI JESI_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,2 - Personale non Sanitario
+3,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,2 - Personale non Sanitario
+3,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110901_A.O. OSPEDALI RIUNITI MARCHE NORD_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_40-49,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_30-39,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_30-39,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_PERSONALE,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,2 - Personale non Sanitario
+3,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,2 - Personale non Sanitario
+3,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,2 - Personale non Sanitario
+3,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000101_Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_30-39,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_40-49,1 - Operatori Sanitari e Sociosanitari
+3,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000202_PRESIDIO OSPEDALIERO UNICO AV2 - STABILIMENTO DI JESI_50-59,1 - Operatori Sanitari e Sociosanitari
 6,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_50-59,1 - Operatori Sanitari e Sociosanitari
 6,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Marche,TML_CAT_OSS,30/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -906,11 +966,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_60-69,1 - Operatori Sanitari e Sociosanitari
 7,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,2 - Personale non Sanitario
-8,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_30-39,1 - Operatori Sanitari e Sociosanitari
-8,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_50-59,1 - Operatori Sanitari e Sociosanitari
-8,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000202_PRESIDIO OSPEDALIERO UNICO AV2 - STABILIMENTO DI JESI_40-49,1 - Operatori Sanitari e Sociosanitari
+7,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,2 - Personale non Sanitario
+7,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_30-39,1 - Operatori Sanitari e Sociosanitari
+7,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_50-59,1 - Operatori Sanitari e Sociosanitari
+7,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000202_PRESIDIO OSPEDALIERO UNICO AV2 - STABILIMENTO DI JESI_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,1 - Operatori Sanitari e Sociosanitari
+9,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11000401_PRESIDIO OSPEDALIERO UNICO AV4 - STABILIMENTO DI FERMO_40-49,1 - Operatori Sanitari e Sociosanitari
+9,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,2 - Personale non Sanitario
 10,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_20-29",1 - Operatori Sanitari e Sociosanitari
 10,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari
 11,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -925,6 +988,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 14,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,2 - Personale non Sanitario
+14,Marche,TML_CAT_PERSONALE,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,2 - Personale non Sanitario
+15,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari
+15,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110001_PRESIDIO OSPEDALIERO UNICO AV1_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110002_PRESIDIO OSPEDALIERO UNICO AV2_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110004_PRESIDIO OSPEDALIERO UNICO AV4_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -941,6 +1007,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 18,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_20-29,1 - Operatori Sanitari e Sociosanitari
 18,Marche,TML_CAT_OSS,31/12/2020_PF/BT_MAR_11090101_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI PESARO_30-39,1 - Operatori Sanitari e Sociosanitari
 19,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari
+19,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_30-39,1 - Operatori Sanitari e Sociosanitari
 20,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110003_PRESIDIO OSPEDALIERO UNICO AV3_60-69,1 - Operatori Sanitari e Sociosanitari
 21,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_50-59",1 - Operatori Sanitari e Sociosanitari
 22,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -964,10 +1031,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 32,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_40-49,1 - Operatori Sanitari e Sociosanitari
 32,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_40-49,1 - Operatori Sanitari e Sociosanitari
 35,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO_40-49,1 - Operatori Sanitari e Sociosanitari
+41,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_50-59,1 - Operatori Sanitari e Sociosanitari
 42,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_50-59,1 - Operatori Sanitari e Sociosanitari
+42,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,1 - Operatori Sanitari e Sociosanitari
 43,Marche,TML_CAT_PERSONALE,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,2 - Personale non Sanitario
+45,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_40-49,1 - Operatori Sanitari e Sociosanitari
 47,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_50-59,1 - Operatori Sanitari e Sociosanitari
 51,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO_50-59,1 - Operatori Sanitari e Sociosanitari
+52,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari
+54,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,1 - Operatori Sanitari e Sociosanitari
 63,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,1 - Operatori Sanitari e Sociosanitari
 91,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari
 97,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_50-59,1 - Operatori Sanitari e Sociosanitari

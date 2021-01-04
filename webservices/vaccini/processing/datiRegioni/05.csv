@@ -4330,7 +4330,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 26,Veneto,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_VEN_610947_CONGR. SUORE CARITA' SS. CAPITANIO E GEROSA CASA DI RIPOSO MARIA BAMBINA_80-89,3 - Ospiti Strutture Residenziali
 26,Veneto,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_VEN_610947_CONGR. SUORE CARITA' SS. CAPITANIO E GEROSA CASA DI RIPOSO MARIA BAMBINA_90+,3 - Ospiti Strutture Residenziali
 27,Veneto,TML_CAT_OSS,01/01/2021_PF/BT_VEN_50504_CA' SAVIO_40-49,1 - Operatori Sanitari e Sociosanitari
-27,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_20-29,1 - Operatori Sanitari e Sociosanitari
 27,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050504_SANTO STINO DI LIVENZA_30-39,1 - Operatori Sanitari e Sociosanitari
 27,Veneto,TML_CAT_OSS,27/12/2020_PF/BT_VEN_50508_SISP IV NOVEMBRE_50-59,1 - Operatori Sanitari e Sociosanitari
 27,Veneto,TML_CAT_OSS,30/12/2020_PF/BT_VEN_50501_AGORDO - SERVIZIO IGIENE_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -4343,6 +4342,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 28,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50501_FELTRE_40-49,1 - Operatori Sanitari e Sociosanitari
 28,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50507_THIENE_40-49,1 - Operatori Sanitari e Sociosanitari
 28,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50508_VALDAGNO_60-69,1 - Operatori Sanitari e Sociosanitari
+28,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_20-29,1 - Operatori Sanitari e Sociosanitari
 28,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050509_LEGNAGO_20-29,1 - Operatori Sanitari e Sociosanitari
 28,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050509_LEGNAGO_60-69,1 - Operatori Sanitari e Sociosanitari
 28,Veneto,TML_CAT_OSS,27/12/2020_PF/BT_VEN_50509_VILLAFRANCA_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -4416,7 +4416,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 43,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50508_SISP IV NOVEMBRE_20-29,1 - Operatori Sanitari e Sociosanitari
 43,Veneto,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_VEN_363785_RESIDENZA PER ANZIANI 'STELLA MARINA'_80-89,3 - Ospiti Strutture Residenziali
 44,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050503_MEDICINA PREVENTIVA MESTRE_30-39,1 - Operatori Sanitari e Sociosanitari
-45,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_30-39,1 - Operatori Sanitari e Sociosanitari
 45,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050509_VILLAFRANCA_20-29,1 - Operatori Sanitari e Sociosanitari
 45,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50505_MAGAZZINO MED. COMPETENTE 05_40-49,1 - Operatori Sanitari e Sociosanitari
 46,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050504_SANTO STINO DI LIVENZA_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -4424,16 +4423,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 47,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50505_ADRIA_50-59,1 - Operatori Sanitari e Sociosanitari
 47,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_05050207_OSPEDALE MONTEBELLUNA_60-69,1 - Operatori Sanitari e Sociosanitari
 48,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50508_SISP IV NOVEMBRE_60-69,1 - Operatori Sanitari e Sociosanitari
+48,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_30-39,1 - Operatori Sanitari e Sociosanitari
 48,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050508_SISP IV NOVEMBRE_20-29,1 - Operatori Sanitari e Sociosanitari
 48,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50504_OSPEDALE CIVILE SAN DONA'_50-59,1 - Operatori Sanitari e Sociosanitari
 48,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50507_H MAROSTICA_60-69,1 - Operatori Sanitari e Sociosanitari
 49,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50505_MAGAZZINO MED. COMPETENTE 05_50-59,1 - Operatori Sanitari e Sociosanitari
 49,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50506_AZ OSPEDALIERA DI PADOVA MAL. INFET.E TR_60-69,1 - Operatori Sanitari e Sociosanitari
-49,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_50-59,1 - Operatori Sanitari e Sociosanitari
 49,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_05050201_OSPEDALE CA' FONCELLO_30-39,1 - Operatori Sanitari e Sociosanitari
 49,Veneto,TML_CAT_OSS,30/12/2020_PF/BT_VEN_50508_SISP IV NOVEMBRE_30-39,1 - Operatori Sanitari e Sociosanitari
 50,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50508_ARZIGNANO_50-59,1 - Operatori Sanitari e Sociosanitari
 52,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50507_THIENE_50-59,1 - Operatori Sanitari e Sociosanitari
+53,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_50-59,1 - Operatori Sanitari e Sociosanitari
 53,Veneto,TML_CAT_OSS,27/12/2020_PF/BT_VEN_50506_AZ OSPEDALIERA DI PADOVA MAL. INFET.E TR_50-59,1 - Operatori Sanitari e Sociosanitari
 53,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50504_SANTO STINO DI LIVENZA_50-59,1 - Operatori Sanitari e Sociosanitari
 54,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50504_OSPEDALE CIVILE SAN DONA'_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -4466,9 +4466,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 72,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050503_MEDICINA PREVENTIVA MESTRE_40-49,1 - Operatori Sanitari e Sociosanitari
 72,Veneto,TML_CAT_OSS,30/12/2020_PF/BT_VEN_50508_SISP IV NOVEMBRE_40-49,1 - Operatori Sanitari e Sociosanitari
 72,Veneto,TML_CAT_OSS,31/12/2020_PF/BT_VEN_50507_EX OSPEDALE_50-59,1 - Operatori Sanitari e Sociosanitari
-76,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_40-49,1 - Operatori Sanitari e Sociosanitari
 76,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_05050207_OSPEDALE MONTEBELLUNA_20-29,1 - Operatori Sanitari e Sociosanitari
 78,Veneto,TML_CAT_OSS,30/12/2020_PF/BT_VEN_50508_SISP IV NOVEMBRE_50-59,1 - Operatori Sanitari e Sociosanitari
+79,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_SAN BONIFACIO_40-49,1 - Operatori Sanitari e Sociosanitari
 81,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050508_SISP IV NOVEMBRE_50-59,1 - Operatori Sanitari e Sociosanitari
 84,Veneto,TML_CAT_OSS,03/01/2021_PF/BT_VEN_050508_SISP IV NOVEMBRE_40-49,1 - Operatori Sanitari e Sociosanitari
 85,Veneto,TML_CAT_OSS,02/01/2021_PF/BT_VEN_50509_VILLAFRANCA_40-49,1 - Operatori Sanitari e Sociosanitari

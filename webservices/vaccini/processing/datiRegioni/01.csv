@@ -379,6 +379,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_70-79,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_80-89,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_90+,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_16-19,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_20-29,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_30-39,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_40-49,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_50-59,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_60-69,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_70-79,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_80-89,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_90+,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_16-19,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_20-29,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_ALTRO,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_30-39,2 - Personale non Sanitario
@@ -1114,6 +1123,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_90+,1 - Operatori Sanitari e Sociosanitari
+0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_90+,1 - Operatori Sanitari e Sociosanitari
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -1661,6 +1674,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_70-79,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_80-89,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_90+,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_16-19,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_20-29,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_30-39,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_40-49,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_50-59,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_60-69,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_70-79,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_80-89,2 - Personale non Sanitario
+0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_90+,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_16-19,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_20-29,2 - Personale non Sanitario
 0,Piemonte,TML_CAT_PERSONALE,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_30-39,2 - Personale non Sanitario
@@ -2474,6 +2496,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_70-79,3 - Ospiti Strutture Residenziali
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_80-89,3 - Ospiti Strutture Residenziali
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_90+,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_16-19,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_20-29,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_30-39,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_40-49,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_50-59,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_60-69,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_70-79,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_80-89,3 - Ospiti Strutture Residenziali
+0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_90+,3 - Ospiti Strutture Residenziali
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_16-19,3 - Ospiti Strutture Residenziali
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_20-29,3 - Ospiti Strutture Residenziali
 0,Piemonte,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_30-39,3 - Ospiti Strutture Residenziali
@@ -3351,7 +3382,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010011_CENTRO VACC S G BOSCO_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 06_AMB. VACCINAZIONI P.O. OVADA_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 06_AMB. VACCINAZIONI P.O. OVADA_60-69,1 - Operatori Sanitari e Sociosanitari
-4,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_670678_CS ANZIANI SAN MICHELE CAMERI_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Piemonte,TML_CAT_OSS,27/12/2020_PF/BT_PIE_570189_CASA DI RIPOSO CITTÀ DI ASTI_60-69,1 - Operatori Sanitari e Sociosanitari
 4,Piemonte,TML_CAT_OSS,30/12/2020_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -3501,8 +3531,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010017 00_OSPEDALE DI CHIVASSO_60-69,1 - Operatori Sanitari e Sociosanitari
 7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 05_AMB. VACCINAZIONI P.O. ACQUI T_30-39,1 - Operatori Sanitari e Sociosanitari
-7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_40-49,1 - Operatori Sanitari e Sociosanitari
-7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_50-59,1 - Operatori Sanitari e Sociosanitari
+7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010126 01_OSPEDALE DI SAVIGLIANO_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010206_BORGOSESIA_60-69,1 - Operatori Sanitari e Sociosanitari
 7,Piemonte,TML_CAT_OSS,30/12/2020_PF/BT_PIE_010026 06_AMB. VACCINAZIONI P.O. OVADA_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3536,8 +3565,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 8,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010907_CENTRO VACC. AOU ALESSANDRIA_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_670507_CASA DI RIPOSO ARONA_30-39,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010003_OSPEDALE MARIA VITTORIA TORINO_20-29,1 - Operatori Sanitari e Sociosanitari
+8,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 05_AMB. VACCINAZIONI P.O. ACQUI T_20-29,1 - Operatori Sanitari e Sociosanitari
-8,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010206_VERCELLI_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,30/12/2020_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_20-29,1 - Operatori Sanitari e Sociosanitari
 8,Piemonte,TML_CAT_OSS,30/12/2020_PF/BT_PIE_010026 03_AMB. VACCINAZIONI P.O. TORTONA_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3566,6 +3595,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010007_OSPEDALE MARTINI TORINO_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010007_OSPEDALE MARTINI TORINO_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_60-69,1 - Operatori Sanitari e Sociosanitari
+9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 04_AMB. VACCINAZIONI P.O. NOVI L_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 04_AMB. VACCINAZIONI P.O. NOVI L_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -3655,6 +3685,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 11,Piemonte,TML_CAT_PERSONALE,31/12/2020_PF/BT_PIE_010909_CENTRO VACC CITTÀ DELLA SALUTE_50-59,2 - Personale non Sanitario
 11,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010026 03_AMB. VACCINAZIONI P.O. TORTONA_60-69,1 - Operatori Sanitari e Sociosanitari
 11,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_000574_OSP. SAN LORENZO CARMAGNOLA_40-49,1 - Operatori Sanitari e Sociosanitari
+11,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_20-29,1 - Operatori Sanitari e Sociosanitari
 11,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_60-69,1 - Operatori Sanitari e Sociosanitari
 11,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010206_VERCELLI_20-29,1 - Operatori Sanitari e Sociosanitari
 11,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010908_CENTRO VACCINALE MAURIZIANO_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3694,6 +3725,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 14,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_670330_C.R. DIVINA PROVVIDENZA NOVARA_40-49,1 - Operatori Sanitari e Sociosanitari
 14,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_670330_C.R. DIVINA PROVVIDENZA NOVARA_50-59,1 - Operatori Sanitari e Sociosanitari
 14,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010003_OSPEDALE MARIA VITTORIA TORINO_60-69,1 - Operatori Sanitari e Sociosanitari
+14,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_40-49,1 - Operatori Sanitari e Sociosanitari
+14,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_60-69,1 - Operatori Sanitari e Sociosanitari
 14,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010206_VERCELLI_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010026 04_AMB. VACCINAZIONI P.O. NOVI L_60-69,1 - Operatori Sanitari e Sociosanitari
 14,Piemonte,TML_CAT_PERSONALE,02/01/2021_PF/BT_PIE_010030 01_OSPEDALE AGNELLI PINEROLO_50-59,2 - Personale non Sanitario
@@ -3782,6 +3815,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 20,Piemonte,TML_CAT_PERSONALE,02/01/2021_PF/BT_PIE_010026 04_AMB. VACCINAZIONI P.O. NOVI L_50-59,2 - Personale non Sanitario
 21,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010003_OSPEDALE MARIA VITTORIA TORINO_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010079 01_OSPEDALE DEGLI INFERMI RIVOLI_60-69,1 - Operatori Sanitari e Sociosanitari
+21,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_40-49,1 - Operatori Sanitari e Sociosanitari
 21,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010906_CENTRO VACCINALE S. CROCE CN_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010026 01_AMB. VACCINAZIONI P.O CASALE M_30-39,1 - Operatori Sanitari e Sociosanitari
 21,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010026 06_AMB. VACCINAZIONI P.O. OVADA_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3837,6 +3871,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 27,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010206_VERCELLI_50-59,1 - Operatori Sanitari e Sociosanitari
 27,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_30-39,1 - Operatori Sanitari e Sociosanitari
 28,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010030 01_OSPEDALE AGNELLI PINEROLO_60-69,1 - Operatori Sanitari e Sociosanitari
+28,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010124 01_OSPEDALE DI MONDOVI'_50-59,1 - Operatori Sanitari e Sociosanitari
 28,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010908_MEDICO COMPETENTE NOVARA SUD_60-69,1 - Operatori Sanitari e Sociosanitari
 29,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010007_OSPEDALE MARTINI TORINO_40-49,1 - Operatori Sanitari e Sociosanitari
 29,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010019 01_OSPEDALE DI CIRIE'_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -3853,6 +3888,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 31,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010030 01_OSPEDALE AGNELLI PINEROLO_40-49,1 - Operatori Sanitari e Sociosanitari
 31,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010079 01_OSPEDALE DEGLI INFERMI RIVOLI_40-49,1 - Operatori Sanitari e Sociosanitari
 31,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010206_VERCELLI_30-39,1 - Operatori Sanitari e Sociosanitari
+31,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010023_OSPEDALE DI IVREA_50-59,1 - Operatori Sanitari e Sociosanitari
 31,Piemonte,TML_CAT_OSS,03/01/2021_PF/BT_PIE_010026 05_AMB. VACCINAZIONI P.O. ACQUI T_50-59,1 - Operatori Sanitari e Sociosanitari
 31,Piemonte,TML_CAT_OSS,31/12/2020_PF/BT_PIE_010017 00_OSPEDALE DI CHIVASSO_30-39,1 - Operatori Sanitari e Sociosanitari
 32,Piemonte,TML_CAT_OSS,02/01/2021_PF/BT_PIE_010206_VERCELLI_50-59,1 - Operatori Sanitari e Sociosanitari
