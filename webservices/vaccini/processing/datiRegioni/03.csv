@@ -1,4 +1,13 @@
 somministrazioni,regione,siglaCategoria,identificativo,categoria
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_90+,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_16-19,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_20-29,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,2 - Personale non Sanitario
@@ -26,6 +35,96 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_70-79,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_80-89,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30909_amb covid monza_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_ALTRO,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_90+,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_16-19,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_20-29,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_30-39,2 - Personale non Sanitario
@@ -283,6 +382,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_ALTRO,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_70-79,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_80-89,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_ALTRO,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_90+,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_20-29,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_70-79,1 - Operatori Sanitari e Sociosanitari
@@ -296,6 +398,50 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_50-59,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_90+,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -425,6 +571,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_90+,1 - Operatori Sanitari e Sociosanitari
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_90+,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_16-19,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_20-29,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_40-49,2 - Personale non Sanitario
@@ -447,6 +602,83 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_70-79,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_80-89,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_40-49,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_50-59,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_16-19,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_20-29,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_30-39,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_60-69,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_70-79,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_80-89,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_90+,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_16-19,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_20-29,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_80-89,2 - Personale non Sanitario
@@ -672,6 +904,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_70-79,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_80-89,2 - Personale non Sanitario
 0,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_90+,2 - Personale non Sanitario
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_90+,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_16-19,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_20-29,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,3 - Ospiti Strutture Residenziali
@@ -699,6 +940,93 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_70-79,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_80-89,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30909_amb covid monza_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_90+,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_16-19,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_20-29,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_30-39,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_40-49,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_50-59,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_60-69,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_70-79,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_80-89,3 - Ospiti Strutture Residenziali
+0,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_90+,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_16-19,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_20-29,3 - Ospiti Strutture Residenziali
 0,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_30-39,3 - Ospiti Strutture Residenziali
@@ -972,6 +1300,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Lombardia,TML_CAT_ALTRO,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_ALTRO,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_ALTRO,30/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_80-89,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_30-39,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_40-49,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030924_IRCCS POLICLINICO S. MATTEO - PAVIA_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030924_IRCCS POLICLINICO S. MATTEO - PAVIA_70-79,1 - Operatori Sanitari e Sociosanitari
@@ -990,6 +1326,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_30-39,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_60-69,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_30-39,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_60-69,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_40-49,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_60-69,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_30-39,2 - Personale non Sanitario
+1,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_40-49,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_40-49,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_50-59,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_60-69,2 - Personale non Sanitario
@@ -1016,38 +1358,51 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_030923_FOND.IRCCS IST.NAZ.NEUROLOGICO C.BESTA-M_60-69,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_50-59,2 - Personale non Sanitario
 1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,30/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_20-29,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030924_IRCCS POLICLINICO S. MATTEO - PAVIA_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30909_ASST - MONZA_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30909_ASST - MONZA_70-79,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_20-29,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_40-49,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_40-49,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_60-69,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32471613_amb covid monza_20-29,1 - Operatori Sanitari e Sociosanitari
-1,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_40-49,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_50-59,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_40-49,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_40-49,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_30-39,2 - Personale non Sanitario
-1,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_70-79,3 - Ospiti Strutture Residenziali
-1,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_90+,3 - Ospiti Strutture Residenziali
+1,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_90+,3 - Ospiti Strutture Residenziali
+1,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_90+,3 - Ospiti Strutture Residenziali
+2,Lombardia,TML_CAT_ALTRO,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_ALTRO,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_ALTRO,30/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030924_IRCCS POLICLINICO S. MATTEO - PAVIA_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30909_ASST - MONZA_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30909_ASST - MONZA_70-79,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_40-49,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_40-49,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32471613_amb covid monza_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_40-49,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_60-69,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_40-49,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_60-69,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_50-59,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_40-49,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_40-49,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_30-39,2 - Personale non Sanitario
+2,Lombardia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_LOM_000500_RSA MONSIGNOR BICCHIERAI 2_80-89,3 - Ospiti Strutture Residenziali
+2,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_70-79,3 - Ospiti Strutture Residenziali
+2,Lombardia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_90+,3 - Ospiti Strutture Residenziali
 3,Lombardia,TML_CAT_ALTRO,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,2 - Personale non Sanitario
 3,Lombardia,TML_CAT_ALTRO,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
+3,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30718_ASST PAPA GIOVANNI XXIII_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32572021_Ambulatorio COVID PO Alzano Lombardo_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Lombardia,TML_CAT_PERSONALE,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_50-59,2 - Personale non Sanitario
+3,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_40-49,2 - Personale non Sanitario
+3,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_50-59,2 - Personale non Sanitario
 3,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_30-39,2 - Personale non Sanitario
 3,Lombardia,TML_CAT_PERSONALE,30/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_50-59,2 - Personale non Sanitario
 3,Lombardia,TML_CAT_PERSONALE,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_50-59,2 - Personale non Sanitario
@@ -1056,21 +1411,29 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_30-39,1 - Operatori Sanitari e Sociosanitari
 4,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_60-69,1 - Operatori Sanitari e Sociosanitari
 4,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_ALTRO,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,2 - Personale non Sanitario
-5,Lombardia,TML_CAT_ALTRO,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
-5,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_40-49,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30718_ASST PAPA GIOVANNI XXIII_20-29,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_30-39,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_30-39,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_20-29,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,2 - Personale non Sanitario
-5,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_PERSONALE,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_30-39,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_70-79,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_20-29,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_40-49,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30718_ASST PAPA GIOVANNI XXIII_20-29,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_30-39,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_30-39,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_20-29,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Lombardia,TML_CAT_PERSONALE,03/01/2021_PF/BT_LOM_30909_amb covid monza_50-59,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_PERSONALE,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,2 - Personale non Sanitario
+4,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
+6,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_40-49,1 - Operatori Sanitari e Sociosanitari
+6,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_60-69,1 - Operatori Sanitari e Sociosanitari
+6,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_30-39,1 - Operatori Sanitari e Sociosanitari
 6,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_30-39,1 - Operatori Sanitari e Sociosanitari
 6,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1080,10 +1443,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 6,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_40-49,1 - Operatori Sanitari e Sociosanitari
 6,Lombardia,TML_CAT_PERSONALE,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,2 - Personale non Sanitario
 6,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,2 - Personale non Sanitario
+7,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_20-29,1 - Operatori Sanitari e Sociosanitari
+7,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_50-59,1 - Operatori Sanitari e Sociosanitari
 7,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030923_FOND.IRCCS IST.NAZ.NEUROLOGICO C.BESTA-M_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Lombardia,TML_CAT_PERSONALE,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,2 - Personale non Sanitario
+8,Lombardia,TML_CAT_OSS,01/01/2021_PF/BT_LOM_030943_Istituto Clinico Humanitas_50-59,1 - Operatori Sanitari e Sociosanitari
+8,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_60-69,1 - Operatori Sanitari e Sociosanitari
+8,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000542_RSA MONSIGNOR BICCHIERAI 1_50-59,1 - Operatori Sanitari e Sociosanitari
+8,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_40-49,1 - Operatori Sanitari e Sociosanitari
 8,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_20-29,1 - Operatori Sanitari e Sociosanitari
 8,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_30-39,1 - Operatori Sanitari e Sociosanitari
 8,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32572021_Ambulatorio COVID PO Alzano Lombardo_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1096,6 +1465,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,1 - Operatori Sanitari e Sociosanitari
+9,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_30-39,1 - Operatori Sanitari e Sociosanitari
+9,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1103,12 +1474,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_60-69,1 - Operatori Sanitari e Sociosanitari
 9,Lombardia,TML_CAT_PERSONALE,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,2 - Personale non Sanitario
+10,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_40-49,1 - Operatori Sanitari e Sociosanitari
+10,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_50-59,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32572021_Ambulatorio COVID PO Alzano Lombardo_40-49,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_60-69,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_30-39,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_20-29,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_20-29,1 - Operatori Sanitari e Sociosanitari
 10,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_40-49,1 - Operatori Sanitari e Sociosanitari
+11,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_60-69,1 - Operatori Sanitari e Sociosanitari
+11,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_40-49,1 - Operatori Sanitari e Sociosanitari
+11,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_40-49,1 - Operatori Sanitari e Sociosanitari
 11,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_40-49,1 - Operatori Sanitari e Sociosanitari
 11,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_000558_RSA PIO ALBERGO TRIVULZIO_60-69,1 - Operatori Sanitari e Sociosanitari
 11,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1119,6 +1495,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 11,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_50-59,1 - Operatori Sanitari e Sociosanitari
 11,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030078_PUNTO VACCINALE OSPEDALIERO VIMERCATE_50-59,1 - Operatori Sanitari e Sociosanitari
 11,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,2 - Personale non Sanitario
+12,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_030074_HUB COVID MAGENTA_50-59,1 - Operatori Sanitari e Sociosanitari
+12,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_40-49,1 - Operatori Sanitari e Sociosanitari
+12,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_30-39,1 - Operatori Sanitari e Sociosanitari
 12,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_60-69,1 - Operatori Sanitari e Sociosanitari
 12,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30718_ASST PAPA GIOVANNI XXIII_60-69,1 - Operatori Sanitari e Sociosanitari
 12,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1131,12 +1510,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 13,Lombardia,TML_CAT_PERSONALE,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,2 - Personale non Sanitario
 14,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_50-59,1 - Operatori Sanitari e Sociosanitari
+15,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30074_HUB COVID LEGNANO_50-59,1 - Operatori Sanitari e Sociosanitari
 15,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_.030042_ASST VAL - PRESIDIO OSPEDALIERO DI SONDRIO_50-59,1 - Operatori Sanitari e Sociosanitari
 15,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030903_AMB COVID LECCO_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_50-59,1 - Operatori Sanitari e Sociosanitari
 16,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_50-59,1 - Operatori Sanitari e Sociosanitari
+16,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_30-39,1 - Operatori Sanitari e Sociosanitari
+16,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_50-59,1 - Operatori Sanitari e Sociosanitari
 16,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,1 - Operatori Sanitari e Sociosanitari
 17,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_50-59,1 - Operatori Sanitari e Sociosanitari
+17,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_30-39,1 - Operatori Sanitari e Sociosanitari
 17,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_030706_CV Garbagnate Milanese_40-49,1 - Operatori Sanitari e Sociosanitari
 17,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30209_OSPEDALE MAGGIORE DI CREMA_50-59,1 - Operatori Sanitari e Sociosanitari
 17,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1145,13 +1528,18 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 19,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_30-39,1 - Operatori Sanitari e Sociosanitari
 19,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_30-39,1 - Operatori Sanitari e Sociosanitari
+20,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_40-49,1 - Operatori Sanitari e Sociosanitari
 20,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_030706_CV Garbagnate Milanese_40-49,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,1 - Operatori Sanitari e Sociosanitari
+21,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30935_IRCCS S. RAFFAELE - MILANO_20-29,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30909_ASST - MONZA_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB COVID MAGENTA_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_0_HUB LEGNANO_50-59,1 - Operatori Sanitari e Sociosanitari
+22,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30072_Centro Vaccinale Covid Vizzolo - ASST Melegnano Martesana_50-59,1 - Operatori Sanitari e Sociosanitari
+22,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_60-69,1 - Operatori Sanitari e Sociosanitari
+22,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_HSP11-11bis_ASST BERGAMO OVEST - OSPEDALE TREVIGLIO_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_030924_IRCCS POLICLINICO S. MATTEO - PAVIA_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1160,26 +1548,33 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 23,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_STS11_Ambulatorio COVID PO Codogno_50-59,1 - Operatori Sanitari e Sociosanitari
 23,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30902_Ospedale S.Anna - Como_20-29,1 - Operatori Sanitari e Sociosanitari
 23,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32471613_amb covid monza_40-49,1 - Operatori Sanitari e Sociosanitari
+24,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_20-29,1 - Operatori Sanitari e Sociosanitari
 24,Lombardia,TML_CAT_OSS,30/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_30-39,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_30-39,1 - Operatori Sanitari e Sociosanitari
+26,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_40-49,1 - Operatori Sanitari e Sociosanitari
+26,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_60-69,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32271022_ambulatorio covid Varese_40-49,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32471613_amb covid monza_30-39,1 - Operatori Sanitari e Sociosanitari
 26,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_30-39,1 - Operatori Sanitari e Sociosanitari
+27,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_000293_IRCCS MultiMedica_50-59,1 - Operatori Sanitari e Sociosanitari
 27,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_40-49,1 - Operatori Sanitari e Sociosanitari
 28,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_20-29,1 - Operatori Sanitari e Sociosanitari
 28,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_40-49,1 - Operatori Sanitari e Sociosanitari
 30,Lombardia,TML_CAT_OSS,02/01/2021_PF/BT_LOM_32271022_ambulatorio covid Varese_20-29,1 - Operatori Sanitari e Sociosanitari
 30,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_30-39,1 - Operatori Sanitari e Sociosanitari
 30,Lombardia,TML_CAT_PERSONALE,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,2 - Personale non Sanitario
+32,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30909_amb covid monza_50-59,1 - Operatori Sanitari e Sociosanitari
 34,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_HSP11-11bis - 703_AMBULATORIO OSPEDALE SACCO_50-59,1 - Operatori Sanitari e Sociosanitari
 34,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30902_Ospedale S.Anna - Como_30-39,1 - Operatori Sanitari e Sociosanitari
 35,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,1 - Operatori Sanitari e Sociosanitari
+36,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_30-39,1 - Operatori Sanitari e Sociosanitari
 39,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30902_Ospedale S.Anna - Como_40-49,1 - Operatori Sanitari e Sociosanitari
 42,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,1 - Operatori Sanitari e Sociosanitari
 42,Lombardia,TML_CAT_OSS,31/12/2020_PF/BT_LOM_32471613_amb covid monza_50-59,1 - Operatori Sanitari e Sociosanitari
 43,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_60-69,1 - Operatori Sanitari e Sociosanitari
+47,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_40-49,1 - Operatori Sanitari e Sociosanitari
 50,Lombardia,TML_CAT_OSS,27/12/2020_PF/BT_LOM_32772513_Ambulatorio COVID MANTOVA_16-19,1 - Operatori Sanitari e Sociosanitari
 58,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_50-59,1 - Operatori Sanitari e Sociosanitari
 60,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1187,3 +1582,4 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 65,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_40-49,1 - Operatori Sanitari e Sociosanitari
 67,Lombardia,TML_CAT_OSS,28/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,1 - Operatori Sanitari e Sociosanitari
 73,Lombardia,TML_CAT_OSS,29/12/2020_PF/BT_LOM_30701_ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA_30-39,1 - Operatori Sanitari e Sociosanitari
+83,Lombardia,TML_CAT_OSS,03/01/2021_PF/BT_LOM_30902_Ospedale S.Anna - Como_50-59,1 - Operatori Sanitari e Sociosanitari
