@@ -12,8 +12,6 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-rm -r "$folder"/rawdata/*
-
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/rawdata/puntiSomministrazione
 mkdir -p "$folder"/processing
