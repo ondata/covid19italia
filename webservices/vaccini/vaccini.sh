@@ -225,3 +225,6 @@ if [ $code -eq 200 ]; then
 
   mlr -I --csv -N sort -f 2,1,3 "$folder"/processing/anagrafica.csv
 fi
+
+# fai il merge dei dati di dettaglio regionali
+mlr --csv put -S '$codice_regione=sub(FILENAME,"^(.+/)([0-9]+)(\..+)$","\2");$data=strftime(strptime(sub($identificativo,"_.+",""), "%d/%m/%Y"),"%Y-%m-%d")' then sort -f codice_regione,data,categoria -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
