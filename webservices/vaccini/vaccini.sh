@@ -228,3 +228,12 @@ fi
 
 # fai il merge dei dati di dettaglio regionali
 mlr --csv put -S '$codice_regione=sub(FILENAME,"^(.+/)([0-9]+)(\..+)$","\2");$data=strftime(strptime(sub($identificativo,"_.+",""), "%d/%m/%Y"),"%Y-%m-%d")' then sort -f codice_regione,data,categoria -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
+
+# estrai per ogni risorsa di insieme, il dato più recente per giorno
+mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub($dataAggiornamento," .+","")' then top -f a -a -g regione,data then cut -x -f a,data "$folder"/processing/somministrazioni.csv >"$folder"/processing/somministrazioniTop.csv
+
+mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub($dataAggiornamento," .+","")' then top -f a -a -g categoria,data then cut -x -f a,data "$folder"/processing/categoria.csv >"$folder"/processing/categoriaTop.csv
+
+mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub($dataAggiornamento," .+","")' then top -f a -a -g fascia,data then cut -x -f a,data "$folder"/processing/fasceEta.csv >"$folder"/processing/fasceEtaTop.csv
+
+mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub($dataAggiornamento," .+","")' then top -f a -a -g data then cut -x -f a,data "$folder"/processing/sesso.csv >"$folder"/processing/sessoTop.csv

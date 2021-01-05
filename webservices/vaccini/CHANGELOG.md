@@ -4,7 +4,8 @@ Qui le variazioni sul set di dati sui vaccini.
 
 ## 2020-01-05
 
-- merge dei file di dettaglio regionali in [`datiRegioni.csv`](processing/datiRegioni.csv)
+- merge dei file di dettaglio regionali in [`datiRegioni.csv`](processing/datiRegioni.csv);
+- creazione per i file di insieme su categoria, fasce d'età, sesso e somministrazione, un file che contenga soltanto l'ultimo valore per data per giorno (vedi issue [82](https://github.com/ondata/covid19italia/issues/82)). Sono stati nominati con il suffisso `Top`.
 
 ## 2021-01-03
 
