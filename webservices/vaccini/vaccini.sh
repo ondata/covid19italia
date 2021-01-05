@@ -241,6 +241,6 @@ mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub(
 
 # aggiungere Timestamp Vaccinazioni
 
-if [ -z "$dataOraAggiornamento" ]; then
+if [ ! -z "$dataOraAggiornamento" ]; then
   echo t="$dataOraAggiornamento" | mlr --onidx put -S '$t = strftime(strptime($t, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%dT%H:%M:%S")' >"$folder"/vaccini-data-last-updated-timestamp.txt
 fi
