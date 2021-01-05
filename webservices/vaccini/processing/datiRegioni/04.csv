@@ -62,15 +62,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_ALTRO,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_ALTRO,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_20-29,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_30-39,2 - Personale non Sanitario
@@ -336,6 +327,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_70-79,2 - Personale non Sanitario
@@ -356,6 +356,184 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_ALTRO,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,2 - Personale non Sanitario
@@ -860,10 +1038,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,1 - Operatori Sanitari e Sociosanitari
-0,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,1 - Operatori Sanitari e Sociosanitari
-0,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,1 - Operatori Sanitari e Sociosanitari
-0,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,1 - Operatori Sanitari e Sociosanitari
-0,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -1003,6 +1177,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_90+,1 - Operatori Sanitari e Sociosanitari
@@ -1014,6 +1192,111 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_50-59,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_50-59,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_90+,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_90+,1 - Operatori Sanitari e Sociosanitari
 0,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_16-19,1 - Operatori Sanitari e Sociosanitari
@@ -1326,11 +1609,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,2 - Personale non Sanitario
-0,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_20-29,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_30-39,2 - Personale non Sanitario
@@ -1578,6 +1856,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_90+,2 - Personale non Sanitario
@@ -1595,6 +1878,159 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_70-79,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_80-89,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_30-39,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_60-69,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_90+,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_16-19,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_20-29,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,2 - Personale non Sanitario
+0,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_16-19,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,2 - Personale non Sanitario
 0,Trentino-Alto Adige,TML_CAT_PERSONALE,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,2 - Personale non Sanitario
@@ -2058,15 +2494,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_16-19,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_20-29,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,3 - Ospiti Strutture Residenziali
-0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_16-19,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_20-29,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_30-39,3 - Ospiti Strutture Residenziali
@@ -2311,6 +2738,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_70-79,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_80-89,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_16-19,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_20-29,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,3 - Ospiti Strutture Residenziali
@@ -2338,6 +2774,156 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_70-79,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_80-89,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_60-69,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_70-79,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_80-89,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_90+,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_16-19,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_20-29,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_30-39,3 - Ospiti Strutture Residenziali
+0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_16-19,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,3 - Ospiti Strutture Residenziali
 0,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,3 - Ospiti Strutture Residenziali
@@ -2758,6 +3344,22 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_30-39,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_30-39,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_30-39,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_50-59,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_50-59,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_50-59,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_032401_APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -2807,7 +3409,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_50-59,2 - Personale non Sanitario
-1,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_70-79,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_80-89,2 - Personale non Sanitario
@@ -2821,12 +3422,31 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,03/01/2021_PF/BT_PAT_101_PVT TRENTO_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,03/01/2021_PF/BT_PAT_101_PVT TRENTO_50-59,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_30-39,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_20-29,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_70-79,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_60-69,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_60-69,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_40-49,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_40-49,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_40-49,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_30-39,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_60-69,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_30-39,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_40-49,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_50-59,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_30-39,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_30-39,2 - Personale non Sanitario
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_60-69,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_40-49,2 - Personale non Sanitario
 1,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_41006_Ospedale di base Vipiteno_50-59,2 - Personale non Sanitario
@@ -2865,6 +3485,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_90+,3 - Ospiti Strutture Residenziali
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_092000_APSP Bezzecca Ledro_80-89,3 - Ospiti Strutture Residenziali
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_70-79,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_80-89,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_40-49,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_90+,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_80-89,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_50-59,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_60-69,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,3 - Ospiti Strutture Residenziali
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_60-69,3 - Ospiti Strutture Residenziali
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_80-89,3 - Ospiti Strutture Residenziali
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_032401_APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana_70-79,3 - Ospiti Strutture Residenziali
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_052008_SPES Villa Belfonte di Trento_70-79,3 - Ospiti Strutture Residenziali
@@ -2930,6 +3560,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
 2,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
 2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_40-49,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_40-49,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_70-79,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_20-29,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_40-49,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_30-39,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari
 2,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_50-59,1 - Operatori Sanitari e Sociosanitari
 2,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 2,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -2972,6 +3613,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_60-69,2 - Personale non Sanitario
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_40-49,2 - Personale non Sanitario
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_50-59,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_40-49,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_50-59,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_40-49,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_40-49,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,2 - Personale non Sanitario
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,2 - Personale non Sanitario
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,2 - Personale non Sanitario
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,2 - Personale non Sanitario
 2,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_40-49,2 - Personale non Sanitario
@@ -2990,6 +3637,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_60-69,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_60-69,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_70-79,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_80-89,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_90+,3 - Ospiti Strutture Residenziali
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_80-89,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_90+,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_032401_APSP S.Lorenzo e S.Maria della Misericordia di Borgo Valsugana_80-89,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,3 - Ospiti Strutture Residenziali
@@ -3006,6 +3659,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_092100_APSP Città di Riva di Riva del Garda_70-79,3 - Ospiti Strutture Residenziali
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_30-39,2 - Personale non Sanitario
+3,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_60-69,2 - Personale non Sanitario
+3,Trentino-Alto Adige,TML_CAT_ALTRO,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_70-79,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_052007_RSA Via Veneto Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -3023,6 +3678,18 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 3,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_20-29,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_40-49,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_50-59,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_30-39,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_40-49,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
+3,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_60-69,1 - Operatori Sanitari e Sociosanitari
 3,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_092100_APSP Città di Riva di Riva del Garda_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3057,6 +3724,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_60-69,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_50-59,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,03/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_50-59,2 - Personale non Sanitario
+3,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_20-29,2 - Personale non Sanitario
+3,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_40-49,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,2 - Personale non Sanitario
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAT_080203_APSP S.Vigilio Spiazzo_50-59,2 - Personale non Sanitario
@@ -3066,6 +3735,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_70-79,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_60-69,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_60-69,3 - Ospiti Strutture Residenziali
+3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_90+,3 - Ospiti Strutture Residenziali
+3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_70-79,3 - Ospiti Strutture Residenziali
+3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,3 - Ospiti Strutture Residenziali
+3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_70-79,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_90+,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_042019_Casa di Cura Regina Arco_70-79,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_60-69,3 - Ospiti Strutture Residenziali
@@ -3075,7 +3748,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_092000_APSP Bezzecca Ledro_50-59,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_103401_APSP Campagnola Avio_60-69,3 - Ospiti Strutture Residenziali
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_110102_APSP Vigo di Fassa_60-69,3 - Ospiti Strutture Residenziali
-4,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_50-59,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3099,6 +3771,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_60-69,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_20-29,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_20-29,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_40-49,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_50-59,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_40-49,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
+4,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_30-39,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3113,8 +3793,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_103401_APSP Campagnola Avio_50-59,1 - Operatori Sanitari e Sociosanitari
 4,Trentino-Alto Adige,TML_CAT_PERSONALE,01/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_50-59,2 - Personale non Sanitario
-4,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,2 - Personale non Sanitario
 4,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,2 - Personale non Sanitario
+4,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,2 - Personale non Sanitario
 4,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_50-59,2 - Personale non Sanitario
 4,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,2 - Personale non Sanitario
 4,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAB_41011_Ospedale di Base di Silandro_40-49,2 - Personale non Sanitario
@@ -3125,6 +3805,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,3 - Ospiti Strutture Residenziali
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_082101_APSP Centro Residenziale Abelardo Collini di Pinzolo_80-89,3 - Ospiti Strutture Residenziali
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_70-79,3 - Ospiti Strutture Residenziali
+4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_80-89,3 - Ospiti Strutture Residenziali
+4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_90+,3 - Ospiti Strutture Residenziali
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052008_SPES Villa Belfonte di Trento_50-59,3 - Ospiti Strutture Residenziali
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_60-69,3 - Ospiti Strutture Residenziali
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_060501_APSP Santa Maria di Cles_90+,3 - Ospiti Strutture Residenziali
@@ -3132,7 +3814,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_60-69,3 - Ospiti Strutture Residenziali
 5,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_50-59,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_052007_RSA Via Veneto Trento_60-69,1 - Operatori Sanitari e Sociosanitari
-5,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042010_Ospedale di Arco_50-59,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -3145,8 +3826,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 5,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_60-69,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_30-39,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_30-39,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_30-39,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_60-69,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41011_Ospedale di Base di Silandro_30-39,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3159,10 +3845,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 5,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_30-39,1 - Operatori Sanitari e Sociosanitari
 5,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_092000_APSP Bezzecca Ledro_30-39,1 - Operatori Sanitari e Sociosanitari
+5,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,2 - Personale non Sanitario
 5,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,2 - Personale non Sanitario
 5,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_40-49,2 - Personale non Sanitario
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_80-89,3 - Ospiti Strutture Residenziali
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_70-79,3 - Ospiti Strutture Residenziali
+5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_60-69,3 - Ospiti Strutture Residenziali
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_60-69,3 - Ospiti Strutture Residenziali
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,3 - Ospiti Strutture Residenziali
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_90+,3 - Ospiti Strutture Residenziali
@@ -3173,6 +3861,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 6,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_103401_APSP Campagnola Avio_30-39,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_110102_APSP Vigo di Fassa_50-59,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
+6,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
+6,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,1 - Operatori Sanitari e Sociosanitari
+6,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_60-69,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41006_Ospedale di base Vipiteno_60-69,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3182,13 +3873,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 6,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042018_Casa di Cura Eremo Arco_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042019_Casa di Cura Regina Arco_40-49,1 - Operatori Sanitari e Sociosanitari
 6,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_50-59,1 - Operatori Sanitari e Sociosanitari
-6,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario
 6,Trentino-Alto Adige,TML_CAT_PERSONALE,02/01/2021_PF/BT_PAT_042022_Casa di Cura Villa Bianca Trento_60-69,2 - Personale non Sanitario
 6,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,2 - Personale non Sanitario
+6,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario
 6,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,2 - Personale non Sanitario
 6,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_50-59,2 - Personale non Sanitario
 6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,3 - Ospiti Strutture Residenziali
 6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,3 - Ospiti Strutture Residenziali
+6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_70-79,3 - Ospiti Strutture Residenziali
+6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,3 - Ospiti Strutture Residenziali
+6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_70-79,3 - Ospiti Strutture Residenziali
 7,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_042010_Ospedale di Arco_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -3198,6 +3892,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_50-59,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_30-39,1 - Operatori Sanitari e Sociosanitari
+7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_020301_APSP Valle del Vanoi Canal S.Bovo_50-59,1 - Operatori Sanitari e Sociosanitari
+7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_40-49,1 - Operatori Sanitari e Sociosanitari
+7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042010_Ospedale di Arco_50-59,1 - Operatori Sanitari e Sociosanitari
+7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042020_Casa di Cura Solarix Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
+7,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41006_Ospedale di base Vipiteno_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41011_Ospedale di Base di Silandro_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3211,6 +3910,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAT_103501_APSP Opera Romani Nomi_40-49,2 - Personale non Sanitario
 7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_80-89,3 - Ospiti Strutture Residenziali
 7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_041202_APSP S.Spirito Fondazione Montel Pergine Valsugana_80-89,3 - Ospiti Strutture Residenziali
+7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,3 - Ospiti Strutture Residenziali
 7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052003_RSA Grazioli Povo_70-79,3 - Ospiti Strutture Residenziali
 7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_90+,3 - Ospiti Strutture Residenziali
 7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_90+,3 - Ospiti Strutture Residenziali
@@ -3219,6 +3919,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 8,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,1 - Operatori Sanitari e Sociosanitari
 8,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042005_Ospedale delle Valli del Noce di Cles_40-49,1 - Operatori Sanitari e Sociosanitari
 8,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_60-69,1 - Operatori Sanitari e Sociosanitari
+8,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
+8,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_30-39,1 - Operatori Sanitari e Sociosanitari
+8,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_40-49,1 - Operatori Sanitari e Sociosanitari
 8,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,1 - Operatori Sanitari e Sociosanitari
 8,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_0_Ospedale di Merano_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -3239,6 +3942,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_60-69,1 - Operatori Sanitari e Sociosanitari
+9,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_052003_RSA Grazioli Povo_50-59,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41011_Ospedale di Base di Silandro_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_HSP11-11bis_KH Innichen_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3248,7 +3952,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_080202_APSP Rosa dei Venti Borgo Chiese Condino_50-59,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_092000_APSP Bezzecca Ledro_60-69,1 - Operatori Sanitari e Sociosanitari
 9,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_103501_APSP Opera Romani Nomi_30-39,1 - Operatori Sanitari e Sociosanitari
-9,Trentino-Alto Adige,TML_CAT_PERSONALE,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,2 - Personale non Sanitario
+9,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,2 - Personale non Sanitario
 9,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_90+,3 - Ospiti Strutture Residenziali
 9,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_90+,3 - Ospiti Strutture Residenziali
 10,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -3260,6 +3964,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 10,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_30-39,1 - Operatori Sanitari e Sociosanitari
 10,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_50-59,1 - Operatori Sanitari e Sociosanitari
 10,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_50-59,1 - Operatori Sanitari e Sociosanitari
+10,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_40-49,1 - Operatori Sanitari e Sociosanitari
+10,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
 10,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_40-49,1 - Operatori Sanitari e Sociosanitari
 10,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042007_Ospedale di Tione_30-39,1 - Operatori Sanitari e Sociosanitari
 10,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042007_Ospedale di Tione_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3271,6 +3977,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 10,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_70-79,3 - Ospiti Strutture Residenziali
 11,Trentino-Alto Adige,TML_CAT_OSS,01/01/2021_PF/BT_PAT_052007_RSA Via Veneto Trento_40-49,1 - Operatori Sanitari e Sociosanitari
 11,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAB_0_Ospedale di Merano_50-59,1 - Operatori Sanitari e Sociosanitari
+11,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_60-69,1 - Operatori Sanitari e Sociosanitari
+11,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_50-59,1 - Operatori Sanitari e Sociosanitari
 11,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,1 - Operatori Sanitari e Sociosanitari
 11,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 11,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042004_Ospedale S.Lorenzo di Borgo Valsugana_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3296,6 +4004,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 12,Trentino-Alto Adige,TML_CAT_PERSONALE,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_50-59,2 - Personale non Sanitario
 12,Trentino-Alto Adige,TML_CAT_PERSONALE,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,2 - Personale non Sanitario
 12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_081901_APSP Villa San Lorenzo Storo_80-89,3 - Ospiti Strutture Residenziali
+12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_90+,3 - Ospiti Strutture Residenziali
 12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052007_RSA Via Veneto Trento_70-79,3 - Ospiti Strutture Residenziali
 12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_060501_APSP Santa Maria di Cles_80-89,3 - Ospiti Strutture Residenziali
 12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_110102_APSP Vigo di Fassa_90+,3 - Ospiti Strutture Residenziali
@@ -3303,9 +4012,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,1 - Operatori Sanitari e Sociosanitari
 13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_40-49,1 - Operatori Sanitari e Sociosanitari
 13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_40-49,1 - Operatori Sanitari e Sociosanitari
+13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
+13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari
+13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_50-59,1 - Operatori Sanitari e Sociosanitari
 13,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_50-59,1 - Operatori Sanitari e Sociosanitari
 13,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_60-69,1 - Operatori Sanitari e Sociosanitari
 13,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_40-49,1 - Operatori Sanitari e Sociosanitari
+13,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_80-89,3 - Ospiti Strutture Residenziali
 13,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_010401_APSP San Gaetano di Predazzo_80-89,3 - Ospiti Strutture Residenziali
 13,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_081700_APSP Padre Nicolini Pieve di Bono_80-89,3 - Ospiti Strutture Residenziali
 14,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_080301_APSP Bleggio Superiore_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -3320,6 +4033,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 14,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_092000_APSP Bezzecca Ledro_90+,3 - Ospiti Strutture Residenziali
 15,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 15,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_60-69,1 - Operatori Sanitari e Sociosanitari
+15,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,1 - Operatori Sanitari e Sociosanitari
 15,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari
 15,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari
 15,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,2 - Personale non Sanitario
@@ -3337,12 +4051,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 18,Trentino-Alto Adige,TML_CAT_OSS,02/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,1 - Operatori Sanitari e Sociosanitari
 18,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_60-69,1 - Operatori Sanitari e Sociosanitari
 18,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_103401_APSP Campagnola Avio_80-89,3 - Ospiti Strutture Residenziali
+19,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_80-89,3 - Ospiti Strutture Residenziali
-20,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,1 - Operatori Sanitari e Sociosanitari
-20,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,1 - Operatori Sanitari e Sociosanitari
 20,Trentino-Alto Adige,TML_CAT_OSS,03/01/2021_PF/BT_PAT_101_PVT TRENTO_20-29,1 - Operatori Sanitari e Sociosanitari
+20,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,1 - Operatori Sanitari e Sociosanitari
+20,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,1 - Operatori Sanitari e Sociosanitari
 21,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042006_Ospedale S.Maria del Carmine di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari
+21,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_PAT_055401_RSA Casa Famiglia Cadine_90+,3 - Ospiti Strutture Residenziali
 21,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052002_APSP Residenza Valle dei Laghi Cavedine_80-89,3 - Ospiti Strutture Residenziali
 22,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_50-59,1 - Operatori Sanitari e Sociosanitari
 22,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_0_Ospedale di Merano_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -3352,9 +4068,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 23,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052003_RSA Grazioli Povo_90+,3 - Ospiti Strutture Residenziali
 23,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052007_RSA Via Veneto Trento_80-89,3 - Ospiti Strutture Residenziali
 24,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,1 - Operatori Sanitari e Sociosanitari
+24,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_50-59,1 - Operatori Sanitari e Sociosanitari
 24,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,01/01/2021_PF/BT_PAT_103501_APSP Opera Romani Nomi_80-89,3 - Ospiti Strutture Residenziali
 24,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_PAT_032201_APSP Redenta Floriani Castel Ivano Strigno_90+,3 - Ospiti Strutture Residenziali
 24,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_092000_APSP Bezzecca Ledro_80-89,3 - Ospiti Strutture Residenziali
+25,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,1 - Operatori Sanitari e Sociosanitari
+25,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_50-59,1 - Operatori Sanitari e Sociosanitari
 25,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,1 - Operatori Sanitari e Sociosanitari
 25,Trentino-Alto Adige,TML_CAT_PERSONALE,31/12/2020_PF/BT_PAT_103501_APSP Opera Romani Nomi_50-59,2 - Personale non Sanitario
 26,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_PAT_052008_SPES Villa Belfonte di Trento_80-89,3 - Ospiti Strutture Residenziali
@@ -3367,8 +4086,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 30,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,1 - Operatori Sanitari e Sociosanitari
 30,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_30-39,1 - Operatori Sanitari e Sociosanitari
 32,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,1 - Operatori Sanitari e Sociosanitari
-33,Trentino-Alto Adige,TML_CAT_OSS,01/04/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,1 - Operatori Sanitari e Sociosanitari
+33,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,1 - Operatori Sanitari e Sociosanitari
 35,Trentino-Alto Adige,TML_CAT_OSS,31/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_30-39,1 - Operatori Sanitari e Sociosanitari
+37,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_40-49,1 - Operatori Sanitari e Sociosanitari
 38,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_40-49,1 - Operatori Sanitari e Sociosanitari
 38,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_20-29,1 - Operatori Sanitari e Sociosanitari
 39,Trentino-Alto Adige,TML_CAT_OSS,30/12/2020_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,1 - Operatori Sanitari e Sociosanitari
