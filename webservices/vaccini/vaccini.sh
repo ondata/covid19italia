@@ -140,6 +140,8 @@ if [ $code -eq 200 ]; then
   # aggiungi data ISO
   mlr -I --csv put -S '$dataAggiornamento = strftime(strptime($aggiornamento, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%d %H:%M:%S")' "$folder"/processing/latest_somministrazioni.csv
 
+  dos2unix "$folder"/processing/latest_somministrazioni.csv
+
   if [ ! -f "$folder"/processing/somministrazioni.csv ]; then
     cat "$folder"/processing/latest_somministrazioni.csv >>"$folder"/processing/somministrazioni.csv
   fi
