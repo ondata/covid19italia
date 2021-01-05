@@ -4,7 +4,7 @@ La [*dashboard* sui vaccini](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQt
 
 ![](../../risorse/dettagliRegioni.png)
 
-Il formato con cui sono esposti sul web è il JSON, e sono disponibili per ogni regione in [questa cartella](https://github.com/ondata/covid19italia/tree/master/webservices/vaccini/rawdata/datiRegioni) (il nome file corrisponde al [codice regionale ISTAT](#codici-istat-regioni)).
+Il formato con cui sono esposti sul web è il JSON, e sono disponibili per ogni regione in [questa cartella](https://github.com/ondata/covid19italia/tree/master/webservices/vaccini/processing/datiRegioni) (il nome file corrisponde al [codice regionale ISTAT](#codici-istat-regioni)).
 
 Hanno una struttura complessa, con due sezioni principali: una dedicata ai dati, espressi con dei codici numerici, ed una con dei dizionari controllati per risolvere il significato di questi.
 
