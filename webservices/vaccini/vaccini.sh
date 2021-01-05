@@ -243,3 +243,9 @@ mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub(
 if [ ! -z "$dataOraAggiornamento" ]; then
   echo t="$dataOraAggiornamento" | mlr --onidx put -S '$t = strftime(strptime($t, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%dT%H:%M:%S")' >"$folder"/vaccini-data-last-updated-timestamp.txt
 fi
+
+# Non memorizzare copia pagina, prima delle 21
+orario=$(date +%H%M%S)
+if [[ "$orario" -lt 210000 ]]; then
+  git checkout -- ./rawdata/pagina.html
+fi
