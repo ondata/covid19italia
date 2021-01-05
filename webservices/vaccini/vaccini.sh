@@ -239,4 +239,7 @@ mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub(
 mlr --csv put -S '$a=strptime($dataAggiornamento,"%Y-%m-%d %H:%M:%S");$data=sub($dataAggiornamento," .+","")' then top -f a -a -g data then cut -x -f a,data "$folder"/processing/sesso.csv >"$folder"/processing/sessoTop.csv
 
 # aggiungere Timestamp Vaccinazioni
-echo t="$dataOraAggiornamento" | mlr --onidx put -S '$t = strftime(strptime($t, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%dT%H:%M:%S")' >"$folder"/vaccini-data-last-updated-timestamp.txt
+
+if [ -z "$dataOraAggiornamento" ]; then
+  echo t="$dataOraAggiornamento" | mlr --onidx put -S '$t = strftime(strptime($t, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%dT%H:%M:%S")' >"$folder"/vaccini-data-last-updated-timestamp.txt
+fi
