@@ -157,6 +157,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_16-19,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_20-29,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,2 - Personale non Sanitario
@@ -278,6 +287,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_90+,1 - Operatori Sanitari e Sociosanitari
@@ -455,6 +468,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_16-19,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_20-29,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,2 - Personale non Sanitario
@@ -666,6 +688,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_16-19,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_20-29,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,3 - Ospiti Strutture Residenziali
@@ -760,6 +791,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 5,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_60-69,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari
+5,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170-910_IRCCS CROB_40-49,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_30-39,1 - Operatori Sanitari e Sociosanitari
 7,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_40-49,2 - Personale non Sanitario
@@ -851,6 +883,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 29,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_40-49,1 - Operatori Sanitari e Sociosanitari
 30,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_901_Sala Prelievo Laboratorio Analisi_40-49,1 - Operatori Sanitari e Sociosanitari
 32,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_40-49,1 - Operatori Sanitari e Sociosanitari
+33,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari
 35,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 37,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 39,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -858,7 +891,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 41,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_50-59,1 - Operatori Sanitari e Sociosanitari
 41,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_60-69,1 - Operatori Sanitari e Sociosanitari
 50,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_30-39,1 - Operatori Sanitari e Sociosanitari
+50,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari
 61,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_30-39,1 - Operatori Sanitari e Sociosanitari
+61,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
+78,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari
 88,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_50-59,1 - Operatori Sanitari e Sociosanitari
 97,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_40-49,1 - Operatori Sanitari e Sociosanitari
 99,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_40-49,1 - Operatori Sanitari e Sociosanitari

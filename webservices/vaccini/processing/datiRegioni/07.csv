@@ -239,6 +239,23 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_70-79,2 - Personale non Sanitario
 0,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_80-89,2 - Personale non Sanitario
 0,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_90+,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_16-19,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_20-29,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_30-39,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_50-59,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_60-69,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_70-79,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_80-89,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_90+,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_16-19,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_20-29,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_60-69,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_70-79,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_80-89,2 - Personale non Sanitario
+0,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_90+,2 - Personale non Sanitario
 0,Liguria,TML_CAT_ALTRO,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_16-19,2 - Personale non Sanitario
 0,Liguria,TML_CAT_ALTRO,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_20-29,2 - Personale non Sanitario
 0,Liguria,TML_CAT_ALTRO,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_30-39,2 - Personale non Sanitario
@@ -529,6 +546,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_90+,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_90+,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_90+,1 - Operatori Sanitari e Sociosanitari
 0,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -811,6 +836,22 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_70-79,2 - Personale non Sanitario
 0,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_80-89,2 - Personale non Sanitario
 0,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_90+,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_16-19,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_30-39,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_50-59,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_60-69,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_70-79,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_80-89,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_90+,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_16-19,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_20-29,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_60-69,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_70-79,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_80-89,2 - Personale non Sanitario
+0,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_90+,2 - Personale non Sanitario
 0,Liguria,TML_CAT_PERSONALE,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_16-19,2 - Personale non Sanitario
 0,Liguria,TML_CAT_PERSONALE,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_20-29,2 - Personale non Sanitario
 0,Liguria,TML_CAT_PERSONALE,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_30-39,2 - Personale non Sanitario
@@ -1185,7 +1226,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_20-29,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_30-39,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_40-49,3 - Ospiti Strutture Residenziali
-0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_50-59,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_60-69,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_70-79,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_80-89,3 - Ospiti Strutture Residenziali
@@ -1235,6 +1275,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_70-79,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_80-89,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_90+,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_16-19,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_20-29,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_30-39,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_50-59,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_60-69,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_70-79,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_80-89,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_90+,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_16-19,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_20-29,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_60-69,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_70-79,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_80-89,3 - Ospiti Strutture Residenziali
+0,Liguria,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_90+,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_16-19,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_20-29,3 - Ospiti Strutture Residenziali
 0,Liguria,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_30-39,3 - Ospiti Strutture Residenziali
@@ -1395,6 +1453,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_20-29,2 - Personale non Sanitario
 1,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,2 - Personale non Sanitario
 1,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,2 - Personale non Sanitario
+1,Liguria,TML_CAT_ALTRO,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,2 - Personale non Sanitario
 1,Liguria,TML_CAT_ALTRO,28/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_80-89,2 - Personale non Sanitario
 1,Liguria,TML_CAT_ALTRO,31/12/2020_PF/BT_LIG_007023_CONSORZIO CAMPO DEL VESCOVO BRUGNATO_70-79,2 - Personale non Sanitario
 1,Liguria,TML_CAT_ALTRO,31/12/2020_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,2 - Personale non Sanitario
@@ -1447,6 +1506,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_700290_OSP.RIUNITI LEONARDI/RIBOLI CH - ASL4_60-69,2 - Personale non Sanitario
 1,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_30-39,2 - Personale non Sanitario
 1,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_50-59,2 - Personale non Sanitario
+1,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_20-29,2 - Personale non Sanitario
+1,Liguria,TML_CAT_PERSONALE,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,2 - Personale non Sanitario
 1,Liguria,TML_CAT_PERSONALE,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_50-59,2 - Personale non Sanitario
 1,Liguria,TML_CAT_PERSONALE,29/12/2020_PF/BT_LIG_STS11-050430_VILLA COSTALTA - MELE - NAP_60-69,2 - Personale non Sanitario
 1,Liguria,TML_CAT_PERSONALE,31/12/2020_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_20-29,2 - Personale non Sanitario
@@ -1455,6 +1516,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_007060_CONSORZIO CAMPO DEL VESCOVO ROCCHETTA_70-79,3 - Ospiti Strutture Residenziali
 1,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_50-59,3 - Ospiti Strutture Residenziali
 1,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_60-69,3 - Ospiti Strutture Residenziali
+1,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_50-59,3 - Ospiti Strutture Residenziali
 1,Liguria,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_50-59,3 - Ospiti Strutture Residenziali
 1,Liguria,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_60-69,3 - Ospiti Strutture Residenziali
 1,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_007023_CONSORZIO CAMPO DEL VESCOVO BRUGNATO_40-49,3 - Ospiti Strutture Residenziali
@@ -1484,6 +1546,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_3905_OSPEDALE N.S. DI MONTALLEGRO - ASL4_20-29,1 - Operatori Sanitari e Sociosanitari
 2,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_50071_RSA CASA S.S. CONCEZIONE_20-29,1 - Operatori Sanitari e Sociosanitari
 2,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_60-69,1 - Operatori Sanitari e Sociosanitari
+2,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_60-69,1 - Operatori Sanitari e Sociosanitari
 2,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_60-69,1 - Operatori Sanitari e Sociosanitari
 2,Liguria,TML_CAT_OSS,30/12/2020_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,1 - Operatori Sanitari e Sociosanitari
 2,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_070058_OSPEDALE SANT'ANDREA LA SPEZIA_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1549,6 +1612,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_50071_RSA CASA S.S. CONCEZIONE_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_50071_RSA CASA S.S. CONCEZIONE_50-59,1 - Operatori Sanitari e Sociosanitari
 4,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_50-59,1 - Operatori Sanitari e Sociosanitari
+4,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_103_villa marta di betania (inserito codice ASL3 Liguria)_30-39,1 - Operatori Sanitari e Sociosanitari
 4,Liguria,TML_CAT_OSS,28/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1625,6 +1689,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_20-29,2 - Personale non Sanitario
 9,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_070058_STABILIMENTO SAN BARTOLOMEO DI SARZANA_60-69,1 - Operatori Sanitari e Sociosanitari
 9,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_3901_OSP. RIUNITI LEONARDI E RIBOLI LAVAGNA - ASL4_30-39,1 - Operatori Sanitari e Sociosanitari
+9,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_301004_VILLA SCASSI_60-69,1 - Operatori Sanitari e Sociosanitari
 9,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_50210_Struttura Residenziale Villa Basilea NAP_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1667,6 +1732,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 12,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,1 - Operatori Sanitari e Sociosanitari
 12,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_70-79,3 - Ospiti Strutture Residenziali
 13,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_40-49,2 - Personale non Sanitario
+13,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_60-69,2 - Personale non Sanitario
 13,Liguria,TML_CAT_OSS,01/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_60-69,1 - Operatori Sanitari e Sociosanitari
 13,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,1 - Operatori Sanitari e Sociosanitari
 13,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1675,11 +1741,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 13,Liguria,TML_CAT_PERSONALE,03/01/2021_PF/BT_LIG_070058_STABILIMENTO SAN BARTOLOMEO DI SARZANA_40-49,2 - Personale non Sanitario
 13,Liguria,TML_CAT_PERSONALE,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_50-59,2 - Personale non Sanitario
 13,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_50210_Struttura Residenziale Villa Basilea NAP_70-79,3 - Ospiti Strutture Residenziali
-14,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_60-69,2 - Personale non Sanitario
 14,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_070058_STABILIMENTO SAN BARTOLOMEO DI SARZANA_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_007060_CONSORZIO CAMPO DEL VESCOVO ROCCHETTA_40-49,1 - Operatori Sanitari e Sociosanitari
 14,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_3902_Ospedale civile di Sestri Levante - ASL4_40-49,1 - Operatori Sanitari e Sociosanitari
-14,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_20-29,1 - Operatori Sanitari e Sociosanitari
 14,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_700290_OSP.RIUNITI LEONARDI/RIBOLI CH - ASL4_60-69,1 - Operatori Sanitari e Sociosanitari
 14,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -1689,11 +1753,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 14,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_007023_CONSORZIO CAMPO DEL VESCOVO BRUGNATO_70-79,3 - Ospiti Strutture Residenziali
 14,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_007023_CONSORZIO CAMPO DEL VESCOVO BRUGNATO_90+,3 - Ospiti Strutture Residenziali
 15,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_070058_OSPEDALE SANT'ANDREA LA SPEZIA_30-39,1 - Operatori Sanitari e Sociosanitari
+15,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_20-29,1 - Operatori Sanitari e Sociosanitari
 15,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_30-39,1 - Operatori Sanitari e Sociosanitari
+15,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_20-29,1 - Operatori Sanitari e Sociosanitari
 15,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_80-89,3 - Ospiti Strutture Residenziali
 16,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_301004_OSPEDALE VILLA SCASSI_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_700290_OSP.RIUNITI LEONARDI/RIBOLI CH - ASL4_50-59,1 - Operatori Sanitari e Sociosanitari
 16,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_20-29,1 - Operatori Sanitari e Sociosanitari
+16,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_50-59,1 - Operatori Sanitari e Sociosanitari
+16,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_40-49,1 - Operatori Sanitari e Sociosanitari
 16,Liguria,TML_CAT_OSS,29/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_40-49,1 - Operatori Sanitari e Sociosanitari
 16,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1727,13 +1795,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 21,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_301003_OSPEDALE MICONE_60-69,1 - Operatori Sanitari e Sociosanitari
 21,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Liguria,TML_CAT_ALTRO,04/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_20-29,2 - Personale non Sanitario
-22,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_90+,3 - Ospiti Strutture Residenziali
 22,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_90+,3 - Ospiti Strutture Residenziali
 23,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_301004_OSPEDALE VILLA SCASSI_30-39,1 - Operatori Sanitari e Sociosanitari
 23,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_3902_Ospedale civile di Sestri Levante - ASL4_50-59,1 - Operatori Sanitari e Sociosanitari
 23,Liguria,TML_CAT_OSS,28/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_40-49,1 - Operatori Sanitari e Sociosanitari
 23,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_007060_CONSORZIO CAMPO DEL VESCOVO ROCCHETTA_50-59,3 - Ospiti Strutture Residenziali
 23,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_50071_RSA CASA S.S. CONCEZIONE_90+,3 - Ospiti Strutture Residenziali
+23,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_7000101_IMPERIA - PRESIDIO OSPEDALIERO UNIFICATO_90+,3 - Ospiti Strutture Residenziali
 24,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_070058_OSPEDALE SANT'ANDREA LA SPEZIA_40-49,1 - Operatori Sanitari e Sociosanitari
 24,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_3905_OSPEDALE N.S. DI MONTALLEGRO - ASL4_50-59,1 - Operatori Sanitari e Sociosanitari
 24,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_3902_Ospedale civile di Sestri Levante - ASL4_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1741,12 +1809,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 25,Liguria,TML_CAT_OSS,02/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,1 - Operatori Sanitari e Sociosanitari
 25,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_HSP11-11bis_Ospedale Evangelico Internazionale - Presidio di Voltri_50-59,1 - Operatori Sanitari e Sociosanitari
 26,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,1 - Operatori Sanitari e Sociosanitari
+26,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_40-49,1 - Operatori Sanitari e Sociosanitari
 26,Liguria,TML_CAT_OSS,29/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_30-39,1 - Operatori Sanitari e Sociosanitari
 26,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,1 - Operatori Sanitari e Sociosanitari
 26,Liguria,TML_CAT_RSA_OSPITI,04/01/2021_PF/BT_LIG_50071_RSA CASA S.S. CONCEZIONE_80-89,3 - Ospiti Strutture Residenziali
 26,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_007023_CONSORZIO CAMPO DEL VESCOVO BRUGNATO_80-89,3 - Ospiti Strutture Residenziali
 27,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_20-29,1 - Operatori Sanitari e Sociosanitari
 27,Liguria,TML_CAT_OSS,03/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_30-39,1 - Operatori Sanitari e Sociosanitari
+27,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70025_Ente Ospedaliero Ospedali Galliera_40-49,1 - Operatori Sanitari e Sociosanitari
 27,Liguria,TML_CAT_RSA_OSPITI,31/12/2020_PF/BT_LIG_7000102_SANREMO - PRESIDIO OSPEDALIERO UNIFICATO_80-89,3 - Ospiti Strutture Residenziali
 28,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_070058_OSPEDALE SANT'ANDREA LA SPEZIA_40-49,1 - Operatori Sanitari e Sociosanitari
 28,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1764,6 +1834,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 33,Liguria,TML_CAT_OSS,27/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_50-59,1 - Operatori Sanitari e Sociosanitari
 33,Liguria,TML_CAT_OSS,29/12/2020_PF/BT_LIG_70901_Ospedale Policlinico San Martino Genova_50-59,1 - Operatori Sanitari e Sociosanitari
 34,Liguria,TML_CAT_OSS,02/01/2021_PF/BT_LIG_070058_STABILIMENTO SAN BARTOLOMEO DI SARZANA_50-59,1 - Operatori Sanitari e Sociosanitari
+34,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_30-39,1 - Operatori Sanitari e Sociosanitari
 34,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_60-69,1 - Operatori Sanitari e Sociosanitari
 36,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_301003_OSPEDALE MICONE_50-59,1 - Operatori Sanitari e Sociosanitari
 36,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_301004_OSPEDALE VILLA SCASSI_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1789,6 +1860,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 54,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_3901_OSP. RIUNITI LEONARDI E RIBOLI LAVAGNA - ASL4_50-59,1 - Operatori Sanitari e Sociosanitari
 56,Liguria,TML_CAT_OSS,01/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_50-59,1 - Operatori Sanitari e Sociosanitari
 57,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_070058_OSPEDALE SANT'ANDREA LA SPEZIA_50-59,1 - Operatori Sanitari e Sociosanitari
+58,Liguria,TML_CAT_OSS,05/01/2021_PF/BT_LIG_70940_ISTITUTO GIANNINA GASLINI_50-59,1 - Operatori Sanitari e Sociosanitari
 59,Liguria,TML_CAT_OSS,31/12/2020_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_50-59,1 - Operatori Sanitari e Sociosanitari
 70,Liguria,TML_CAT_OSS,02/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_50-59,1 - Operatori Sanitari e Sociosanitari
 73,Liguria,TML_CAT_OSS,04/01/2021_PF/BT_LIG_07010204_ASL 2 SAVONESE - OSPEDALE SAN PAOLO_50-59,1 - Operatori Sanitari e Sociosanitari
