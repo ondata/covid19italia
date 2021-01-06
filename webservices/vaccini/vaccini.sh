@@ -248,6 +248,6 @@ fi
 orario=$(date +%H%M%S)
 if [ -f "$folder"/rawdata/pagina.html ]; then
   if [[ "$orario" -lt 210000 ]]; then
-    git checkout -- ./rawdata/pagina.html
+    git checkout -- "$folder"/rawdata/pagina.html
   fi
 fi
