@@ -242,6 +242,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_70-79,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_80-89,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_90+,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_16-19,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_20-29,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,2 - Personale non Sanitario
@@ -278,6 +287,33 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_70-79,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_80-89,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_ALTRO,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_90+,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_16-19",2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_20-29",2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_ALTRO,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_30-39",2 - Personale non Sanitario
@@ -388,9 +424,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_90+,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_16-19,1 - Operatori Sanitari e Sociosanitari
-0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_90+,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_90+,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_90+,1 - Operatori Sanitari e Sociosanitari
@@ -405,6 +443,18 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_90+,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_90+,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_90+,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_90+,1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_16-19",1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_70-79",1 - Operatori Sanitari e Sociosanitari
 0,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_80-89",1 - Operatori Sanitari e Sociosanitari
@@ -635,6 +685,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_70-79,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_80-89,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_90+,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_16-19,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_20-29,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_50-59,2 - Personale non Sanitario
@@ -668,6 +726,33 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_70-79,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_80-89,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_90+,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_16-19,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_20-29,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_50-59,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_70-79,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_80-89,2 - Personale non Sanitario
+0,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_90+,2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_16-19",2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_20-29",2 - Personale non Sanitario
 0,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_30-39",2 - Personale non Sanitario
@@ -918,6 +1003,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_70-79,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_80-89,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_90+,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_16-19,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_20-29,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_30-39,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_40-49,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_50-59,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_60-69,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_70-79,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_80-89,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_90+,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_16-19,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_20-29,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,3 - Ospiti Strutture Residenziali
@@ -954,6 +1048,33 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_70-79,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_80-89,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_90+,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_16-19,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_20-29,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_30-39,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_40-49,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_50-59,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_60-69,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_70-79,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_80-89,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_90+,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_16-19,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_20-29,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_60-69,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_70-79,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_80-89,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_90+,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_16-19,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_20-29,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_50-59,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_70-79,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_80-89,3 - Ospiti Strutture Residenziali
+0,Abruzzo,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_90+,3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_16-19",3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_20-29",3 - Ospiti Strutture Residenziali
 0,Abruzzo,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_30-39",3 - Ospiti Strutture Residenziali
@@ -967,6 +1088,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_70-79,1 - Operatori Sanitari e Sociosanitari
+1,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Abruzzo,TML_CAT_PERSONALE,02/01/2021_PF/BT_ABR_130002_PO SULMONA DELL'ANNUNZIATA_40-49,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,02/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,2 - Personale non Sanitario
@@ -980,10 +1103,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Abruzzo,TML_CAT_PERSONALE,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,04/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_30-39,2 - Personale non Sanitario
-1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_40-49,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_60-69,2 - Personale non Sanitario
+1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_60-69,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_40-49,2 - Personale non Sanitario
-1,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_40-49",2 - Personale non Sanitario
 1,Abruzzo,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_70-79",3 - Ospiti Strutture Residenziali
 1,Abruzzo,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_80-89",3 - Ospiti Strutture Residenziali
@@ -992,7 +1114,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA - S.OMERO_40-49,1 - Operatori Sanitari e Sociosanitari
 2,Abruzzo,TML_CAT_PERSONALE,02/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI L'AQUILA_40-49,2 - Personale non Sanitario
 2,Abruzzo,TML_CAT_PERSONALE,03/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_50-59,2 - Personale non Sanitario
+2,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_40-49,2 - Personale non Sanitario
 2,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,2 - Personale non Sanitario
+2,Abruzzo,TML_CAT_PERSONALE,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,2 - Personale non Sanitario
 2,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_60-69",2 - Personale non Sanitario
 2,Abruzzo,TML_CAT_PERSONALE,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_60-69",2 - Personale non Sanitario
 2,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1005,7 +1129,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130002_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_20-29,1 - Operatori Sanitari e Sociosanitari
 4,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,1 - Operatori Sanitari e Sociosanitari
 4,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA - S.OMERO_20-29,1 - Operatori Sanitari e Sociosanitari
-4,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI L'AQUILA_30-39,1 - Operatori Sanitari e Sociosanitari
 5,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,1 - Operatori Sanitari e Sociosanitari
 5,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA - S.OMERO_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1019,6 +1142,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_30-39,1 - Operatori Sanitari e Sociosanitari
 7,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,1 - Operatori Sanitari e Sociosanitari
+7,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_20-29,1 - Operatori Sanitari e Sociosanitari
+7,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_30-39,1 - Operatori Sanitari e Sociosanitari
 8,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130002_PO SULMONA DELL'ANNUNZIATA_50-59,1 - Operatori Sanitari e Sociosanitari
 8,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_20-29,1 - Operatori Sanitari e Sociosanitari
 8,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -1026,6 +1151,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 8,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI L'AQUILA_60-69,1 - Operatori Sanitari e Sociosanitari
 8,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130014_P.O. G.MAZZINI TERAMO_20-29,1 - Operatori Sanitari e Sociosanitari
 8,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_20-29,1 - Operatori Sanitari e Sociosanitari
+8,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130002_PO SULMONA DELL'ANNUNZIATA_40-49,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA_50-59,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130018_P.O. Pescara_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1034,6 +1160,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 9,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_30-39,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_20-29,1 - Operatori Sanitari e Sociosanitari
+9,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_60-69,1 - Operatori Sanitari e Sociosanitari
 10,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI (TE)_60-69,1 - Operatori Sanitari e Sociosanitari
 10,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1062,6 +1189,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 13,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_40-49,1 - Operatori Sanitari e Sociosanitari
 13,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA SS.MA DELLO SPLENDORE - GIULIANOVA_20-29,1 - Operatori Sanitari e Sociosanitari
 13,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_60-69,1 - Operatori Sanitari e Sociosanitari
+13,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_20-29,1 - Operatori Sanitari e Sociosanitari
 14,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_30-39,1 - Operatori Sanitari e Sociosanitari
 14,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_40-49,1 - Operatori Sanitari e Sociosanitari
 14,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130018_P.O. Pescara_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1070,8 +1198,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 15,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,1 - Operatori Sanitari e Sociosanitari
 15,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_40-49,1 - Operatori Sanitari e Sociosanitari
 15,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_50-59,1 - Operatori Sanitari e Sociosanitari
-15,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_20-29,1 - Operatori Sanitari e Sociosanitari
+15,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_40-49,1 - Operatori Sanitari e Sociosanitari
+15,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_50-59,1 - Operatori Sanitari e Sociosanitari
 16,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA_40-49,1 - Operatori Sanitari e Sociosanitari
+16,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130028_P.O. LANCIANO Renzetti_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_30-39",1 - Operatori Sanitari e Sociosanitari
 17,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130002_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_30-39,1 - Operatori Sanitari e Sociosanitari
 17,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1080,8 +1210,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 18,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_30-39,1 - Operatori Sanitari e Sociosanitari
 18,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_HSP11_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA SS.MA DELLO SPLENDORE - GIULIANOVA_60-69,1 - Operatori Sanitari e Sociosanitari
+19,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_20-29,1 - Operatori Sanitari e Sociosanitari
 20,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130018_P.O. Pescara_30-39,1 - Operatori Sanitari e Sociosanitari
 20,Abruzzo,TML_CAT_OSS,"03/01/2021_PF/BT_ABR_130014_P.O. ""G. MAZZINI""_20-29",1 - Operatori Sanitari e Sociosanitari
+21,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_30-39,1 - Operatori Sanitari e Sociosanitari
 22,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130002_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_40-49,1 - Operatori Sanitari e Sociosanitari
 22,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA S.S. DELLO SPLENDORE_50-59,1 - Operatori Sanitari e Sociosanitari
 22,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1091,11 +1223,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 23,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI (TE)_50-59,1 - Operatori Sanitari e Sociosanitari
 23,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130002_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_60-69,1 - Operatori Sanitari e Sociosanitari
 23,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA SS.MA DELLO SPLENDORE - GIULIANOVA_30-39,1 - Operatori Sanitari e Sociosanitari
-23,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_20-29,1 - Operatori Sanitari e Sociosanitari
-24,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_60-69,1 - Operatori Sanitari e Sociosanitari
+24,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_20-29,1 - Operatori Sanitari e Sociosanitari
 25,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA SS.MA DELLO SPLENDORE - GIULIANOVA_40-49,1 - Operatori Sanitari e Sociosanitari
 25,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130015_OSPEDALE MARIA SS.MA DELLO SPLENDORE - GIULIANOVA_50-59,1 - Operatori Sanitari e Sociosanitari
-25,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,1 - Operatori Sanitari e Sociosanitari
 25,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130014_P.O. G. MAZZINI - TERAMO_50-59,1 - Operatori Sanitari e Sociosanitari
 26,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_0_0_50-59,1 - Operatori Sanitari e Sociosanitari
 26,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130002_CENTRO VACCINAZIONI PRESIDIO OSPEDALIERO SULMONA_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1117,37 +1247,51 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 30,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_50-59,1 - Operatori Sanitari e Sociosanitari
 30,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_50-59,1 - Operatori Sanitari e Sociosanitari
 30,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,1 - Operatori Sanitari e Sociosanitari
-30,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_60-69,1 - Operatori Sanitari e Sociosanitari
 31,Abruzzo,TML_CAT_OSS,02/01/2021_PF/BT_ABR_0_0_40-49,1 - Operatori Sanitari e Sociosanitari
-31,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_40-49,1 - Operatori Sanitari e Sociosanitari
+31,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_60-69,1 - Operatori Sanitari e Sociosanitari
 31,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_50-59",1 - Operatori Sanitari e Sociosanitari
 32,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_50-59,1 - Operatori Sanitari e Sociosanitari
 32,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130014_P.O. G.MAZZINI TERAMO_30-39,1 - Operatori Sanitari e Sociosanitari
 32,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130017_OSPEDALE DELLA VAL VIBRATA - S.OMERO_60-69,1 - Operatori Sanitari e Sociosanitari
+32,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_60-69,1 - Operatori Sanitari e Sociosanitari
+32,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_40-49,1 - Operatori Sanitari e Sociosanitari
+33,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_30-39,1 - Operatori Sanitari e Sociosanitari
+33,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_60-69,1 - Operatori Sanitari e Sociosanitari
+33,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Abruzzo,TML_CAT_OSS,"03/01/2021_PF/BT_ABR_130014_P.O. ""G. MAZZINI""_30-39",1 - Operatori Sanitari e Sociosanitari
 34,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130016_OSPEDALE SAN LIBERATORE DI ATRI_40-49,1 - Operatori Sanitari e Sociosanitari
+34,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_60-69,1 - Operatori Sanitari e Sociosanitari
 35,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_20-29,1 - Operatori Sanitari e Sociosanitari
+35,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_30-39,1 - Operatori Sanitari e Sociosanitari
 35,Abruzzo,TML_CAT_OSS,"27/12/2020_PF/BT_ABR_130014_P.O. ""G. Mazzini"" - Teramo_60-69",1 - Operatori Sanitari e Sociosanitari
 36,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_30-39,1 - Operatori Sanitari e Sociosanitari
-40,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_40-49,1 - Operatori Sanitari e Sociosanitari
+39,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_40-49,1 - Operatori Sanitari e Sociosanitari
+39,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_40-49,1 - Operatori Sanitari e Sociosanitari
+40,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130002_PRESIDIO OSPEDALIERO SULMONA_50-59,1 - Operatori Sanitari e Sociosanitari
 41,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_40-49,1 - Operatori Sanitari e Sociosanitari
 41,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_60-69,1 - Operatori Sanitari e Sociosanitari
 42,Abruzzo,TML_CAT_OSS,"03/01/2021_PF/BT_ABR_130014_P.O. ""G. MAZZINI""_40-49",1 - Operatori Sanitari e Sociosanitari
 42,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,1 - Operatori Sanitari e Sociosanitari
-43,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_30-39,1 - Operatori Sanitari e Sociosanitari
+44,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_40-49,1 - Operatori Sanitari e Sociosanitari
+44,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_20-29,1 - Operatori Sanitari e Sociosanitari
 45,Abruzzo,TML_CAT_OSS,03/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_20-29,1 - Operatori Sanitari e Sociosanitari
 46,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_60-69,1 - Operatori Sanitari e Sociosanitari
-47,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_50-59,1 - Operatori Sanitari e Sociosanitari
-48,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_50-59,1 - Operatori Sanitari e Sociosanitari
 49,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_30-39,1 - Operatori Sanitari e Sociosanitari
 50,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,1 - Operatori Sanitari e Sociosanitari
+50,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_30-39,1 - Operatori Sanitari e Sociosanitari
+50,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_30-39,1 - Operatori Sanitari e Sociosanitari
 52,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_50-59,1 - Operatori Sanitari e Sociosanitari
+53,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_50-59,1 - Operatori Sanitari e Sociosanitari
+54,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130001_P.O. SAN SALVATORE_50-59,1 - Operatori Sanitari e Sociosanitari
 57,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_60-69,1 - Operatori Sanitari e Sociosanitari
+57,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_50-59,1 - Operatori Sanitari e Sociosanitari
 60,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130003_P.O. SAN FILIPPO E NICOLA AVEZZANO_50-59,1 - Operatori Sanitari e Sociosanitari
-63,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_30-39,1 - Operatori Sanitari e Sociosanitari
+65,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130029_P.O. VASTO S.Pio da Pietralcina_50-59,1 - Operatori Sanitari e Sociosanitari
 71,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,1 - Operatori Sanitari e Sociosanitari
+71,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_30-39,1 - Operatori Sanitari e Sociosanitari
+72,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_26_P.O. CLINICIZZ. 'SS. ANNUNZIATA' CHIETI_40-49,1 - Operatori Sanitari e Sociosanitari
 78,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_40-49,1 - Operatori Sanitari e Sociosanitari
-86,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_60-69,1 - Operatori Sanitari e Sociosanitari
 95,Abruzzo,TML_CAT_OSS,04/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,1 - Operatori Sanitari e Sociosanitari
-98,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_40-49,1 - Operatori Sanitari e Sociosanitari
-104,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,1 - Operatori Sanitari e Sociosanitari
+95,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_60-69,1 - Operatori Sanitari e Sociosanitari
+112,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_40-49,1 - Operatori Sanitari e Sociosanitari
+118,Abruzzo,TML_CAT_OSS,05/01/2021_PF/BT_ABR_130018_P.O. S.Spirito Pescara_50-59,1 - Operatori Sanitari e Sociosanitari
