@@ -246,6 +246,8 @@ fi
 
 # Non memorizzare copia pagina, prima delle 21
 orario=$(date +%H%M%S)
-if [[ "$orario" -lt 210000 ]]; then
-  git checkout -- ./rawdata/pagina.html
+if [ -f "$folder"/rawdata/pagina.html ]; then
+  if [[ "$orario" -lt 210000 ]]; then
+    git checkout -- ./rawdata/pagina.html
+  fi
 fi
