@@ -244,10 +244,6 @@ if [ ! -z "$dataOraAggiornamento" ]; then
   echo t="$dataOraAggiornamento" | mlr --onidx put -S '$t = strftime(strptime($t, "%m/%d/%Y %I:%M:%S %p"),"%Y-%m-%dT%H:%M:%S")' >"$folder"/vaccini-data-last-updated-timestamp.txt
 fi
 
-# Non memorizzare copia pagina, prima delle 21
-orario=$(date +%H%M%S)
-if [ -f "$folder"/rawdata/pagina.html ]; then
-  if [[ "$orario" -lt 210000 ]]; then
-    git checkout -- "$folder"/rawdata/pagina.html
-  fi
-fi
+# cancella pagina HTML
+rm "$folder"/rawdata/pagina.html
+
