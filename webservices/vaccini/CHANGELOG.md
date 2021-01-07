@@ -2,6 +2,9 @@
 
 Qui le variazioni sul set di dati sui vaccini.
 
+## 2020-01-07
+
+- aggiunta risorsa con [dati di popolazione regione](risorse/popolazioneRegioni.csv) (fonte API REST SDMX ISTAT);
 ## 2020-01-05
 
 - merge dei file di dettaglio regionali in [`datiRegioni.csv`](processing/datiRegioni.csv);
