@@ -1493,6 +1493,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Puglia,TML_CAT_ALTRO,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_70-79,2 - Personale non Sanitario
 0,Puglia,TML_CAT_ALTRO,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_80-89,2 - Personale non Sanitario
 0,Puglia,TML_CAT_ALTRO,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_90+,2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_16-19",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_20-29",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_30-39",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_40-49",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_50-59",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_60-69",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_70-79",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_80-89",2 - Personale non Sanitario
+0,Puglia,TML_CAT_ALTRO,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_90+",2 - Personale non Sanitario
 0,Puglia,TML_CAT_ALTRO,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_16-19,2 - Personale non Sanitario
 0,Puglia,TML_CAT_ALTRO,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_20-29,2 - Personale non Sanitario
 0,Puglia,TML_CAT_ALTRO,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_30-39,2 - Personale non Sanitario
@@ -2551,6 +2560,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_90+,1 - Operatori Sanitari e Sociosanitari
+0,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_16-19",1 - Operatori Sanitari e Sociosanitari
+0,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_70-79",1 - Operatori Sanitari e Sociosanitari
+0,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_80-89",1 - Operatori Sanitari e Sociosanitari
+0,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_90+",1 - Operatori Sanitari e Sociosanitari
 0,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_90+,1 - Operatori Sanitari e Sociosanitari
@@ -4052,6 +4065,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_70-79,2 - Personale non Sanitario
 0,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_80-89,2 - Personale non Sanitario
 0,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_90+,2 - Personale non Sanitario
+0,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_16-19",2 - Personale non Sanitario
+0,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_70-79",2 - Personale non Sanitario
+0,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_80-89",2 - Personale non Sanitario
+0,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_90+",2 - Personale non Sanitario
 0,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_16-19,2 - Personale non Sanitario
 0,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_20-29,2 - Personale non Sanitario
 0,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_30-39,2 - Personale non Sanitario
@@ -5852,6 +5869,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_70-79,3 - Ospiti Strutture Residenziali
 0,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_80-89,3 - Ospiti Strutture Residenziali
 0,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_971040_Hospice - Torremaggiore_90+,3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_16-19",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_20-29",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_30-39",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_40-49",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_50-59",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_60-69",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_70-79",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_80-89",3 - Ospiti Strutture Residenziali
+0,Puglia,TML_CAT_RSA_OSPITI,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_90+",3 - Ospiti Strutture Residenziali
 0,Puglia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_16-19,3 - Ospiti Strutture Residenziali
 0,Puglia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_20-29,3 - Ospiti Strutture Residenziali
 0,Puglia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_PUG_0_Ambulatorio vaccinale Foggia_30-39,3 - Ospiti Strutture Residenziali
@@ -6382,6 +6408,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_730503_San Raffaele Torricella R.S.A. - Coop. Sociale 'Nuova Luce'_50-59,2 - Personale non Sanitario
 1,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_971039_RSA - PTA SAN MARCO IN LAMIS_50-59,2 - Personale non Sanitario
 1,Puglia,TML_CAT_PERSONALE,06/01/2021_PF/BT_PUG_971039_RSA - PTA SAN MARCO IN LAMIS_60-69,2 - Personale non Sanitario
+1,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_20-29",2 - Personale non Sanitario
 1,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_100188_RSSA VILLA GIOVANNA_30-39,2 - Personale non Sanitario
 1,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_160178_OSPEDALE BISCEGLIE_60-69,2 - Personale non Sanitario
 1,Puglia,TML_CAT_PERSONALE,27/12/2020_PF/BT_PUG_STS11_AMBULATORIO VACCINALE DIPARTIMENTO DI PREVENZIONE VIALE MAGNA GRECIA 418 - TARANTO_50-59,2 - Personale non Sanitario
@@ -6861,6 +6888,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_10006_RSSA - VILLA SANTA MARIA DI PULSANO MONTE SANT'ANGELO_40-49,1 - Operatori Sanitari e Sociosanitari
 7,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160174_OSPEDALE ANDRIA - 'L. BONOMO'_30-39,1 - Operatori Sanitari e Sociosanitari
 7,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_20-29,1 - Operatori Sanitari e Sociosanitari
+7,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_20-29",1 - Operatori Sanitari e Sociosanitari
 7,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_160907_Azienda Ospedaliera -Universitaria Policlinico Bari_20-29,1 - Operatori Sanitari e Sociosanitari
 7,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_50-59,1 - Operatori Sanitari e Sociosanitari
 7,Puglia,TML_CAT_OSS,27/12/2020_PF/BT_PUG_STS11_AMBULATORIO VACCINALE DIPARTIMENTO DI PREVENZIONE VIALE MAGNA GRECIA 418 - TARANTO_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -7064,6 +7092,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 11,Puglia,TML_CAT_PERSONALE,05/01/2021_PF/BT_PUG_16007501_PRESIDIO OSPEDALIERIO VALLE D'ITRIA MARTINA FRANCA_40-49,2 - Personale non Sanitario
 11,Puglia,TML_CAT_PERSONALE,05/01/2021_PF/BT_PUG_160163_OSPEDALE “TERESA MASSELLI MASCIA” SAN SEVERO_30-39,2 - Personale non Sanitario
 11,Puglia,TML_CAT_PERSONALE,05/01/2021_PF/BT_PUG_160164_P.O. MANFREDONIA_50-59,2 - Personale non Sanitario
+11,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_30-39",2 - Personale non Sanitario
 11,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_009600_RSSA DOMUS LAURETANA SRL - TRINITAPOLI_90+,3 - Ospiti Strutture Residenziali
 11,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_10006_RSSA - VILLA SANTA MARIA DI PULSANO MONTE SANT'ANGELO_90+,3 - Ospiti Strutture Residenziali
 11,Puglia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_PUG_730503_San Raffaele Torricella R.S.A. - Coop. Sociale 'Nuova Luce'_60-69,3 - Ospiti Strutture Residenziali
@@ -7192,6 +7221,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 15,Puglia,TML_CAT_OSS,"31/12/2020_PF/BT_PUG_160047_ospedale Cerignola ""G. TATARELLA""_60-69",1 - Operatori Sanitari e Sociosanitari
 15,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160169_P.O. Di Venere_50-59,1 - Operatori Sanitari e Sociosanitari
 15,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_60-69,1 - Operatori Sanitari e Sociosanitari
+15,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_50-59",2 - Personale non Sanitario
 16,Puglia,TML_CAT_OSS,01/01/2021_PF/BT_PUG_160169_P.O. Di Venere_50-59,1 - Operatori Sanitari e Sociosanitari
 16,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160161_P.O. Ostuni_20-29,1 - Operatori Sanitari e Sociosanitari
 16,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160163_OSPEDALE SAN SEVERO - TERESA MASSELLI_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -7303,6 +7333,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 20,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160/905_IRCCS Casa Sollievo della Sofferenza_40-49,1 - Operatori Sanitari e Sociosanitari
 20,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_30-39,1 - Operatori Sanitari e Sociosanitari
 20,Puglia,TML_CAT_PERSONALE,05/01/2021_PF/BT_PUG_16016801_OSPEDALE CASTELLANETA_50-59,2 - Personale non Sanitario
+20,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_40-49",2 - Personale non Sanitario
 20,Puglia,TML_CAT_RSA_OSPITI,03/01/2021_PF/BT_PUG_17900_RSA MADONNA DELLA PACE - ANDRIA_80-89,3 - Ospiti Strutture Residenziali
 21,Puglia,TML_CAT_OSS,"03/01/2021_PF/BT_PUG_160158_AMBULATORIO PNEUMOLOGIA OSPEDALE ""FABIO PERINEI"" ALTAMURA_40-49",1 - Operatori Sanitari e Sociosanitari
 21,Puglia,TML_CAT_OSS,"04/01/2021_PF/BT_PUG_160158_OSPEDALE ""SAN PAOLO""_40-49",1 - Operatori Sanitari e Sociosanitari
@@ -7388,6 +7419,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 27,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160901_Irccs - Istituto Tumori Giovanni Paolo II_40-49,1 - Operatori Sanitari e Sociosanitari
 27,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_300400_POLIAMBULATORIO DISTR.DI LECCE_50-59,1 - Operatori Sanitari e Sociosanitari
 27,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160169_P.O. Di Venere_30-39,1 - Operatori Sanitari e Sociosanitari
+27,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_40-49",1 - Operatori Sanitari e Sociosanitari
 28,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_10100_Poliambulatorio Presidio Ospedaliero Perrino - Brindisi_50-59,1 - Operatori Sanitari e Sociosanitari
 28,Puglia,TML_CAT_OSS,"05/01/2021_PF/BT_PUG_160157_AMBULATORIO PNEUMOLOGIA P.O. ""F. PERINEI"" ALTAMURA_40-49",1 - Operatori Sanitari e Sociosanitari
 28,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160171_OSPEDALE LECCE - 'V FAZZI' (SAN CESARIO)_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -7414,6 +7446,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 30,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160159_Ambulatorio P.O. Monopoli_60-69,1 - Operatori Sanitari e Sociosanitari
 30,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_30-39,1 - Operatori Sanitari e Sociosanitari
 30,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160170_P.O. Perrino_20-29,1 - Operatori Sanitari e Sociosanitari
+30,Puglia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_60-69",2 - Personale non Sanitario
 31,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160047_OSPEDALE CERIGNOLA 'G.TATARELLA'_30-39,1 - Operatori Sanitari e Sociosanitari
 31,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160047_OSPEDALE CERIGNOLA 'G.TATARELLA'_40-49,1 - Operatori Sanitari e Sociosanitari
 31,Puglia,TML_CAT_OSS,04/01/2021_PF/BT_PUG_160047_OSPEDALE CERIGNOLA 'G.TATARELLA'_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -7425,6 +7458,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 31,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_300400_POLIAMBULATORIO DISTR.DI LECCE_60-69,1 - Operatori Sanitari e Sociosanitari
 31,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160169_P.O. Di Venere_40-49,1 - Operatori Sanitari e Sociosanitari
 31,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160907_Azienda Ospedaliero Universitaria Policlinico Bari_20-29,1 - Operatori Sanitari e Sociosanitari
+31,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_30-39",1 - Operatori Sanitari e Sociosanitari
 32,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_30-39,1 - Operatori Sanitari e Sociosanitari
 32,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_40-49,1 - Operatori Sanitari e Sociosanitari
 32,Puglia,TML_CAT_OSS,03/01/2021_PF/BT_PUG_160158_P.O. MOLFETTA_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -7448,6 +7482,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 33,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160166_OSPEDALE SCORRANO_50-59,1 - Operatori Sanitari e Sociosanitari
 33,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160169_P.O. Di Venere_60-69,1 - Operatori Sanitari e Sociosanitari
 33,Puglia,TML_CAT_OSS,06/01/2021_PF/BT_PUG_160910_AO UNIV. 'OO RR FOGGIA'_60-69,1 - Operatori Sanitari e Sociosanitari
+33,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_60-69",1 - Operatori Sanitari e Sociosanitari
 34,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160161_P.O. Ostuni_30-39,1 - Operatori Sanitari e Sociosanitari
 34,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160167_OSPEDALE CASARANO_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160170_P.O. Perrino_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -7520,6 +7555,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 46,Puglia,TML_CAT_OSS,04/01/2021_PF/BT_PUG_160164_P.O. MANFREDONIA_50-59,1 - Operatori Sanitari e Sociosanitari
 46,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160907_Azienda Ospedaliero Universitaria Policlinico Bari_20-29,1 - Operatori Sanitari e Sociosanitari
 47,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_16007501_PRESIDIO OSPEDALIERIO VALLE D'ITRIA MARTINA FRANCA_50-59,1 - Operatori Sanitari e Sociosanitari
+47,Puglia,TML_CAT_OSS,"07/01/2021_PF/BT_PUG_160163_Ospedale ""Teresa Masselli Mascia"" - San Severo_50-59",1 - Operatori Sanitari e Sociosanitari
 47,Puglia,TML_CAT_OSS,31/12/2020_PF/BT_PUG_160177_OSPEDALE BARLETTA - 'MONS. R. DIMICCOLI'_50-59,1 - Operatori Sanitari e Sociosanitari
 48,Puglia,TML_CAT_OSS,02/01/2021_PF/BT_PUG_160177_OSPEDALE BARLETTA - 'MONS. R. DIMICCOLI'_30-39,1 - Operatori Sanitari e Sociosanitari
 48,Puglia,TML_CAT_OSS,05/01/2021_PF/BT_PUG_160167_OSPEDALE CASARANO_40-49,1 - Operatori Sanitari e Sociosanitari

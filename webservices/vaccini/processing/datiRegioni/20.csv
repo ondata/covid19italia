@@ -282,6 +282,23 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_70-79,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_80-89,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_90+,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_16-19,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_20-29,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_30-39,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_40-49,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_50-59,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_60-69,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_70-79,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_80-89,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_90+,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_16-19,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_30-39,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_40-49,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_50-59,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_70-79,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_80-89,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_90+,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_ALTRO,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_16-19,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_ALTRO,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_20-29,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_ALTRO,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_30-39,2 - Personale non Sanitario
@@ -476,6 +493,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_90+,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_90+,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_90+,1 - Operatori Sanitari e Sociosanitari
 0,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -756,6 +781,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Sardegna,TML_CAT_PERSONALE,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_70-79,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_PERSONALE,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_80-89,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_PERSONALE,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_90+,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_16-19,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_20-29,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_30-39,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_40-49,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_50-59,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_60-69,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_70-79,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_80-89,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_90+,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_16-19,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_30-39,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_40-49,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_50-59,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_60-69,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_70-79,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_80-89,2 - Personale non Sanitario
+0,Sardegna,TML_CAT_PERSONALE,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_90+,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_PERSONALE,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_16-19,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_PERSONALE,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_20-29,2 - Personale non Sanitario
 0,Sardegna,TML_CAT_PERSONALE,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_30-39,2 - Personale non Sanitario
@@ -1113,6 +1156,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Sardegna,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_70-79,3 - Ospiti Strutture Residenziali
 0,Sardegna,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_80-89,3 - Ospiti Strutture Residenziali
 0,Sardegna,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_90+,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_16-19,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_20-29,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_30-39,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_40-49,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_50-59,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_60-69,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_70-79,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_80-89,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_90+,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_16-19,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_30-39,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_40-49,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_50-59,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_60-69,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_70-79,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_80-89,3 - Ospiti Strutture Residenziali
+0,Sardegna,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_90+,3 - Ospiti Strutture Residenziali
 0,Sardegna,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_16-19,3 - Ospiti Strutture Residenziali
 0,Sardegna,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_20-29,3 - Ospiti Strutture Residenziali
 0,Sardegna,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_30-39,3 - Ospiti Strutture Residenziali
@@ -1181,6 +1242,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200006_P.O. PAOLO DETTORI - TEMPIO P._60-69,2 - Personale non Sanitario
 1,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200905_AZIENDA OSPEDALIERO UNIVERSITARIA SS_20-29,2 - Personale non Sanitario
 1,Sardegna,TML_CAT_ALTRO,06/01/2021_PF/BT_SAR_200905_AZIENDA OSPEDALIERO UNIVERSITARIA SS_50-59,2 - Personale non Sanitario
+1,Sardegna,TML_CAT_ALTRO,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_60-69,2 - Personale non Sanitario
 1,Sardegna,TML_CAT_ALTRO,31/12/2020_PF/BT_SAR_200905_AZIENDA OSPEDALIERO UNIVERSITARIA SS_50-59,2 - Personale non Sanitario
 1,Sardegna,TML_CAT_OSS,01/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,03/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_70-79,1 - Operatori Sanitari e Sociosanitari
@@ -1190,6 +1252,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200011_P.O. PAOLO MERLO LA MADDALENA_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200905_AZIENDA OSPEDALIERO UNIVERSITARIA SS_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_60-69,1 - Operatori Sanitari e Sociosanitari
+1,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,28/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -1230,6 +1293,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200026_P.O. MARINO CAGLIARI_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_40-49,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,31/12/2020_PF/BT_SAR_200905_AZIENDA OSPEDALIERO UNIVERSITARIA SS_40-49,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,31/12/2020_PF/BT_SAR_200906_A.O.U. Cagliari_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,31/12/2020_PF/BT_SAR_200906_A.O.U. Cagliari_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -1257,6 +1321,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200006_P.O. PAOLO DETTORI - TEMPIO P._20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_40-49,1 - Operatori Sanitari e Sociosanitari
+1,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_60-69,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,29/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,29/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1275,6 +1340,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200031_P.O. SS. TRINITA` CAGLIARI_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_20-29,1 - Operatori Sanitari e Sociosanitari
+1,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,28/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Sardegna,TML_CAT_OSS,28/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -1282,6 +1348,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 5,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200031_P.O. SS. TRINITA` CAGLIARI_60-69,1 - Operatori Sanitari e Sociosanitari
 5,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_60-69,1 - Operatori Sanitari e Sociosanitari
 5,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200030_P.O.CTO_20-29,1 - Operatori Sanitari e Sociosanitari
+5,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200036_P.O. A. BUSINCO - AOB_40-49,1 - Operatori Sanitari e Sociosanitari
 5,Sardegna,TML_CAT_OSS,27/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_40-49,1 - Operatori Sanitari e Sociosanitari
 5,Sardegna,TML_CAT_PERSONALE,06/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_30-39,2 - Personale non Sanitario
@@ -1293,6 +1360,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 6,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200026_P.O. MARINO CAGLIARI_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_30-39,1 - Operatori Sanitari e Sociosanitari
+6,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200052_P.O. SAN MARTINO ORISTANO_50-59,1 - Operatori Sanitari e Sociosanitari
 6,Sardegna,TML_CAT_OSS,31/12/2020_PF/BT_SAR_200906_A.O.U. Cagliari_60-69,1 - Operatori Sanitari e Sociosanitari
 6,Sardegna,TML_CAT_PERSONALE,05/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_30-39,2 - Personale non Sanitario
 6,Sardegna,TML_CAT_PERSONALE,05/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_40-49,2 - Personale non Sanitario
@@ -1362,6 +1430,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 14,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_50-59,1 - Operatori Sanitari e Sociosanitari
 15,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_40-49,1 - Operatori Sanitari e Sociosanitari
 15,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_60-69,1 - Operatori Sanitari e Sociosanitari
+15,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_30-39,1 - Operatori Sanitari e Sociosanitari
+15,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_60-69,1 - Operatori Sanitari e Sociosanitari
 15,Sardegna,TML_CAT_OSS,28/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_50-59,1 - Operatori Sanitari e Sociosanitari
 15,Sardegna,TML_CAT_OSS,29/12/2020_PF/BT_SAR_200904_P.O. SAN MICHELE - AOB_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -1377,6 +1447,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 19,Sardegna,TML_CAT_OSS,03/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200012_P.O. GIOVANNI PAOLO II OLBIA_60-69,1 - Operatori Sanitari e Sociosanitari
 20,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200025_P.O. R.BINAGHI CAGLIARI_20-29,1 - Operatori Sanitari e Sociosanitari
+20,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_40-49,1 - Operatori Sanitari e Sociosanitari
 21,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_30-39,1 - Operatori Sanitari e Sociosanitari
 21,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200031_P.O. SS. TRINITA` CAGLIARI_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_10036_SISP-SASSARI_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -1420,6 +1491,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 40,Sardegna,TML_CAT_OSS,05/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_40-49,1 - Operatori Sanitari e Sociosanitari
 40,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200017_P.O. SAN FRANCESCO_50-59,1 - Operatori Sanitari e Sociosanitari
 42,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200002_OSPEDALE CIVILE ALGHERO_30-39,1 - Operatori Sanitari e Sociosanitari
+42,Sardegna,TML_CAT_OSS,07/01/2021_PF/BT_SAR_200034_PRESIDIO OSPEDALIERO N.S. DI BONARIA_50-59,1 - Operatori Sanitari e Sociosanitari
 43,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200906_A.O.U. Cagliari_50-59,1 - Operatori Sanitari e Sociosanitari
 45,Sardegna,TML_CAT_OSS,04/01/2021_PF/BT_SAR_200002_OSPEDALE CIVILE ALGHERO_50-59,1 - Operatori Sanitari e Sociosanitari
 45,Sardegna,TML_CAT_OSS,06/01/2021_PF/BT_SAR_200012_P.O. GIOVANNI PAOLO II OLBIA_30-39,1 - Operatori Sanitari e Sociosanitari

@@ -274,6 +274,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_ALTRO,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_90+,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_16-19,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_20-29,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_ALTRO,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_30-39,2 - Personale non Sanitario
@@ -428,6 +446,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170036_POD DI LAURIA_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170036_POD DI LAURIA_90+,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_90+,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -711,6 +739,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_PERSONALE,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_16-19,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_20-29,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_30-39,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_40-49,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_50-59,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_60-69,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_70-79,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_80-89,2 - Personale non Sanitario
+0,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_90+,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_16-19,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_20-29,2 - Personale non Sanitario
 0,Basilicata,TML_CAT_PERSONALE,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_30-39,2 - Personale non Sanitario
@@ -1026,6 +1072,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Basilicata,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_90+,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_16-19,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_70-79,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_80-89,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_90+,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_16-19,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_20-29,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_30-39,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_40-49,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_50-59,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_60-69,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_70-79,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_80-89,3 - Ospiti Strutture Residenziali
+0,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_90+,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_16-19,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_20-29,3 - Ospiti Strutture Residenziali
 0,Basilicata,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_30-39,3 - Ospiti Strutture Residenziali
@@ -1062,6 +1126,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_40-49,1 - Operatori Sanitari e Sociosanitari
+1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_PERSONALE,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_60-69,2 - Personale non Sanitario
 1,Basilicata,TML_CAT_PERSONALE,03/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,2 - Personale non Sanitario
 1,Basilicata,TML_CAT_PERSONALE,03/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,2 - Personale non Sanitario
@@ -1082,6 +1147,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_30-39,1 - Operatori Sanitari e Sociosanitari
+1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_40-49,1 - Operatori Sanitari e Sociosanitari
+1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_60-69,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Basilicata,TML_CAT_PERSONALE,03/01/2021_PF/BT_BAS_170-910_IRCCS CROB_50-59,2 - Personale non Sanitario
 1,Basilicata,TML_CAT_PERSONALE,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,2 - Personale non Sanitario
@@ -1109,6 +1176,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari
 4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,1 - Operatori Sanitari e Sociosanitari
 4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,1 - Operatori Sanitari e Sociosanitari
+4,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari
 5,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -1212,6 +1280,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 18,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari
 18,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari
+19,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari
 19,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO VILLA D'AGRI_40-49,1 - Operatori Sanitari e Sociosanitari
 20,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari
 21,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -1247,14 +1316,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 41,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_60-69,1 - Operatori Sanitari e Sociosanitari
 41,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 45,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari
+45,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari
 47,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari
 50,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_30-39,1 - Operatori Sanitari e Sociosanitari
 50,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari
+59,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari
 61,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_30-39,1 - Operatori Sanitari e Sociosanitari
 61,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 63,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 65,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO_40-49,1 - Operatori Sanitari e Sociosanitari
 78,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari
+86,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari
 88,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_50-59,1 - Operatori Sanitari e Sociosanitari
 97,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_40-49,1 - Operatori Sanitari e Sociosanitari
 99,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_40-49,1 - Operatori Sanitari e Sociosanitari

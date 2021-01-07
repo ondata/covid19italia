@@ -403,7 +403,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Molise,TML_CAT_ALTRO,"27/12/2020_PF/BT_MOL_201_Casa di riposo ""Cannavina"" - Ripalimosani_30-39",2 - Personale non Sanitario
 1,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_70-79,1 - Operatori Sanitari e Sociosanitari
-1,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO LA RESIDENZA DE SAGGI MONTERODUNI (IS)_30-39,1 - Operatori Sanitari e Sociosanitari
 1,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO LA RESIDENZA DE SAGGI MONTERODUNI (IS)_50-59,1 - Operatori Sanitari e Sociosanitari
 1,Molise,TML_CAT_PERSONALE,04/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_40-49,2 - Personale non Sanitario
@@ -423,6 +422,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 2,Molise,TML_CAT_ALTRO,05/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,2 - Personale non Sanitario
 2,Molise,TML_CAT_ALTRO,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,2 - Personale non Sanitario
 2,Molise,TML_CAT_ALTRO,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_70-79,2 - Personale non Sanitario
+2,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_70-79,1 - Operatori Sanitari e Sociosanitari
 2,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_20-29,1 - Operatori Sanitari e Sociosanitari
 2,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO DON CARLO PISTILLI CB_60-69,1 - Operatori Sanitari e Sociosanitari
 2,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO LA RESIDENZA DE SAGGI MONTERODUNI (IS)_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -443,11 +443,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 4,Molise,TML_CAT_ALTRO,04/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,2 - Personale non Sanitario
 4,Molise,TML_CAT_ALTRO,05/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_40-49,2 - Personale non Sanitario
 4,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_30-39,1 - Operatori Sanitari e Sociosanitari
-4,Molise,TML_CAT_PERSONALE,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,2 - Personale non Sanitario
 4,Molise,TML_CAT_PERSONALE,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO LA RESIDENZA DE SAGGI MONTERODUNI (IS)_50-59,2 - Personale non Sanitario
 4,Molise,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_MOL_201_Casa di riposo ""Cannavina"" - Ripalimosani_70-79",3 - Ospiti Strutture Residenziali
 5,Molise,TML_CAT_ALTRO,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_90+,2 - Personale non Sanitario
 5,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_20-29,1 - Operatori Sanitari e Sociosanitari
+5,Molise,TML_CAT_PERSONALE,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,2 - Personale non Sanitario
 5,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO DON CARLO PISTILLI CB_70-79,3 - Ospiti Strutture Residenziali
 6,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_20-29,1 - Operatori Sanitari e Sociosanitari
 6,Molise,TML_CAT_RSA_OSPITI,"27/12/2020_PF/BT_MOL_201_Casa di riposo ""Cannavina"" - Ripalimosani_80-89",3 - Ospiti Strutture Residenziali
@@ -456,11 +456,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 7,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO LA RESIDENZA DE SAGGI MONTERODUNI (IS)_70-79,3 - Ospiti Strutture Residenziali
 7,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_70-79,3 - Ospiti Strutture Residenziali
 8,Molise,TML_CAT_OSS,27/12/2020_PF/BT_MOL_140 001_P.O. ANTONIO CARDARELLI_30-39,1 - Operatori Sanitari e Sociosanitari
-9,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_20-29,1 - Operatori Sanitari e Sociosanitari
 9,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_30-39,1 - Operatori Sanitari e Sociosanitari
 10,Molise,TML_CAT_ALTRO,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_80-89,2 - Personale non Sanitario
 10,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_20-29,1 - Operatori Sanitari e Sociosanitari
 10,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_30-39,1 - Operatori Sanitari e Sociosanitari
+10,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_20-29,1 - Operatori Sanitari e Sociosanitari
 10,Molise,TML_CAT_OSS,27/12/2020_PF/BT_MOL_140 001_P.O. ANTONIO CARDARELLI_50-59,1 - Operatori Sanitari e Sociosanitari
 11,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_20-29,1 - Operatori Sanitari e Sociosanitari
 12,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_30-39,1 - Operatori Sanitari e Sociosanitari
@@ -472,22 +472,22 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 19,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_20-29,1 - Operatori Sanitari e Sociosanitari
 21,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,1 - Operatori Sanitari e Sociosanitari
 21,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_30-39,1 - Operatori Sanitari e Sociosanitari
-21,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_40-49,1 - Operatori Sanitari e Sociosanitari
 22,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_40-49,1 - Operatori Sanitari e Sociosanitari
 23,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_30-39,1 - Operatori Sanitari e Sociosanitari
 23,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_40-49,1 - Operatori Sanitari e Sociosanitari
+24,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_40-49,1 - Operatori Sanitari e Sociosanitari
 24,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,1 - Operatori Sanitari e Sociosanitari
 25,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_50-59,1 - Operatori Sanitari e Sociosanitari
-25,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_30-39,1 - Operatori Sanitari e Sociosanitari
 28,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_60-69,1 - Operatori Sanitari e Sociosanitari
+28,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_30-39,1 - Operatori Sanitari e Sociosanitari
 28,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_60-69,1 - Operatori Sanitari e Sociosanitari
-30,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_60-69,1 - Operatori Sanitari e Sociosanitari
 30,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO DON CARLO PISTILLI CB_80-89,3 - Ospiti Strutture Residenziali
 30,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_80-89,3 - Ospiti Strutture Residenziali
 31,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_40-49,1 - Operatori Sanitari e Sociosanitari
 32,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_40-49,1 - Operatori Sanitari e Sociosanitari
 32,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_30-39,1 - Operatori Sanitari e Sociosanitari
+32,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_60-69,1 - Operatori Sanitari e Sociosanitari
 33,Molise,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_MOL_140201_CASA DI RIPOSO VILLA SANTA MARIA MONTENERO DI BISACCIA (CB)_90+,3 - Ospiti Strutture Residenziali
 34,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000301_P.O.ISERNIA_50-59,1 - Operatori Sanitari e Sociosanitari
@@ -499,7 +499,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 46,Molise,TML_CAT_OSS,04/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,1 - Operatori Sanitari e Sociosanitari
 46,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_40-49,1 - Operatori Sanitari e Sociosanitari
 47,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_40-49,1 - Operatori Sanitari e Sociosanitari
-51,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,1 - Operatori Sanitari e Sociosanitari
+53,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,1 - Operatori Sanitari e Sociosanitari
 56,Molise,TML_CAT_OSS,06/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_50-59,1 - Operatori Sanitari e Sociosanitari
 58,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_50-59,1 - Operatori Sanitari e Sociosanitari
 69,Molise,TML_CAT_OSS,05/01/2021_PF/BT_MOL_14000200_P.O. SAN TIMOTEO - TERMOLI_50-59,1 - Operatori Sanitari e Sociosanitari
