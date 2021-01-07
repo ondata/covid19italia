@@ -35,6 +35,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Valle d'Aosta,TML_CAT_ALTRO,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_ALTRO,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_ALTRO,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_16-19,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_70-79,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_80-89,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_90+,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_16-19,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_20-29,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_30-39,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_40-49,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_50-59,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_60-69,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_ALTRO,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_ALTRO,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_16-19,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_ALTRO,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_20-29,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_ALTRO,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_30-39,2 - Personale non Sanitario
@@ -77,6 +95,18 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_90+,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_20-29,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_30-39,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_40-49,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_50-59,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_60-69,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,1 - Operatori Sanitari e Sociosanitari
 0,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_70-79,1 - Operatori Sanitari e Sociosanitari
 0,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -121,6 +151,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Valle d'Aosta,TML_CAT_PERSONALE,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_PERSONALE,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_PERSONALE,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_16-19,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_70-79,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_80-89,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_90+,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_16-19,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_20-29,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_30-39,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_40-49,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_50-59,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_60-69,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,2 - Personale non Sanitario
+0,Valle d'Aosta,TML_CAT_PERSONALE,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_PERSONALE,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_16-19,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_PERSONALE,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_20-29,2 - Personale non Sanitario
 0,Valle d'Aosta,TML_CAT_PERSONALE,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_30-39,2 - Personale non Sanitario
@@ -169,6 +217,20 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_30-39,3 - Ospiti Strutture Residenziali
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_40-49,3 - Ospiti Strutture Residenziali
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_50-59,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_16-19,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_70-79,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_80-89,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_90+,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_16-19,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_20-29,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_30-39,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_40-49,3 - Ospiti Strutture Residenziali
+0,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_50-59,3 - Ospiti Strutture Residenziali
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_16-19,3 - Ospiti Strutture Residenziali
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_20-29,3 - Ospiti Strutture Residenziali
 0,Valle d'Aosta,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_30-39,3 - Ospiti Strutture Residenziali
@@ -193,10 +255,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Valle d'Aosta,TML_CAT_OSS,31/12/2020_PF/BT_VDA_20101_Presodio Ospedaliero Parini_60-69,1 - Operatori Sanitari e Sociosanitari
 1,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_60-69,3 - Ospiti Strutture Residenziali
 1,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,3 - Ospiti Strutture Residenziali
+1,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_60-69,3 - Ospiti Strutture Residenziali
 2,Valle d'Aosta,TML_CAT_OSS,04/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_70-79,1 - Operatori Sanitari e Sociosanitari
 2,Valle d'Aosta,TML_CAT_OSS,31/12/2020_PF/BT_VDA_20101_Presodio Ospedaliero Parini_30-39,1 - Operatori Sanitari e Sociosanitari
 2,Valle d'Aosta,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_VDA_20101_Azienda U.S.L. Valle d'Aosta_60-69,3 - Ospiti Strutture Residenziali
+2,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_70-79,3 - Ospiti Strutture Residenziali
 3,Valle d'Aosta,TML_CAT_OSS,04/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_60-69,1 - Operatori Sanitari e Sociosanitari
+3,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,1 - Operatori Sanitari e Sociosanitari
 3,Valle d'Aosta,TML_CAT_OSS,31/12/2020_PF/BT_VDA_20101_Presodio Ospedaliero Parini_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_40-49,1 - Operatori Sanitari e Sociosanitari
 4,Valle d'Aosta,TML_CAT_RSA_OSPITI,02/01/2021_PF/BT_VDA_20101_Azienda U.S.L. Valle d'Aosta_80-89,3 - Ospiti Strutture Residenziali
@@ -204,9 +269,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 5,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_60-69,1 - Operatori Sanitari e Sociosanitari
 5,Valle d'Aosta,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,3 - Ospiti Strutture Residenziali
 6,Valle d'Aosta,TML_CAT_OSS,04/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_16-19,1 - Operatori Sanitari e Sociosanitari
+7,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_16-19,1 - Operatori Sanitari e Sociosanitari
+7,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,1 - Operatori Sanitari e Sociosanitari
+7,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_80-89,3 - Ospiti Strutture Residenziali
+8,Valle d'Aosta,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_VDA_900006_Refuge Pere Laurent_90+,3 - Ospiti Strutture Residenziali
+9,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,1 - Operatori Sanitari e Sociosanitari
 9,Valle d'Aosta,TML_CAT_OSS,27/12/2020_PF/BT_VDA_20001_Ospedale Umberto Parini_50-59,1 - Operatori Sanitari e Sociosanitari
+10,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,1 - Operatori Sanitari e Sociosanitari
 11,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_20-29,1 - Operatori Sanitari e Sociosanitari
 11,Valle d'Aosta,TML_CAT_OSS,31/12/2020_PF/BT_VDA_20101_Presodio Ospedaliero Parini_50-59,1 - Operatori Sanitari e Sociosanitari
+12,Valle d'Aosta,TML_CAT_OSS,06/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,1 - Operatori Sanitari e Sociosanitari
 16,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_60-69,1 - Operatori Sanitari e Sociosanitari
 22,Valle d'Aosta,TML_CAT_OSS,05/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_30-39,1 - Operatori Sanitari e Sociosanitari
 25,Valle d'Aosta,TML_CAT_OSS,04/01/2021_PF/BT_VDA_20001_Azienda U.S.L. Valle d'Aosta_20-29,1 - Operatori Sanitari e Sociosanitari

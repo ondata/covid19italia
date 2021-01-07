@@ -90,6 +90,16 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_70-79,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_80-89,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_90+,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_16-19,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_70-79,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_80-89,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_90+,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_70-79,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_80-89,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_90+,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_16-19,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_20-29,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_ALTRO,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_30-39,2 - Personale non Sanitario
@@ -211,6 +221,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_201010_CATTINARA_90+,1 - Operatori Sanitari e Sociosanitari
 0,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_90+,1 - Operatori Sanitari e Sociosanitari
+0,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_16-19,1 - Operatori Sanitari e Sociosanitari
+0,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_80-89,1 - Operatori Sanitari e Sociosanitari
+0,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_90+,1 - Operatori Sanitari e Sociosanitari
+0,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Friuli-Venezia Giulia,TML_CAT_OSS,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_16-19,1 - Operatori Sanitari e Sociosanitari
 0,Friuli-Venezia Giulia,TML_CAT_OSS,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_80-89,1 - Operatori Sanitari e Sociosanitari
 0,Friuli-Venezia Giulia,TML_CAT_OSS,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_90+,1 - Operatori Sanitari e Sociosanitari
@@ -295,6 +309,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_201010_CATTINARA_90+,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_16-19,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_90+,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_16-19,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_80-89,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_90+,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_16-19,2 - Personale non Sanitario
+0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_90+,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_16-19,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_20-29,2 - Personale non Sanitario
 0,Friuli-Venezia Giulia,TML_CAT_PERSONALE,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_30-39,2 - Personale non Sanitario
@@ -482,6 +501,24 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_70-79,3 - Ospiti Strutture Residenziali
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_80-89,3 - Ospiti Strutture Residenziali
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_90+,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_16-19,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_40-49,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_70-79,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_80-89,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_90+,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_16-19,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_70-79,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_80-89,3 - Ospiti Strutture Residenziali
+0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_FVG_201010_CATTINARA_90+,3 - Ospiti Strutture Residenziali
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_16-19,3 - Ospiti Strutture Residenziali
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_20-29,3 - Ospiti Strutture Residenziali
 0,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_30-39,3 - Ospiti Strutture Residenziali
@@ -594,6 +631,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_30-39,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_40-49,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_16-19,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_20-29,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_ALTRO,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_60-69,2 - Personale non Sanitario
@@ -605,6 +646,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_12M810_MONFALCONE_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_80-89,1 - Operatori Sanitari e Sociosanitari
+1,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_90+,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_12M810_Ospedale Monfalcone_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_220101_H Tolmezzo_20-29,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_12M810_MONFALCONE_80-89,1 - Operatori Sanitari e Sociosanitari
@@ -623,6 +665,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_60-69,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_70-79,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_80-89,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_80-89,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_60-69,2 - Personale non Sanitario
@@ -641,10 +684,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_20-29,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_201010_CATTINARA_80-89,1 - Operatori Sanitari e Sociosanitari
+1,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_12M810_Ospedale Monfalcone_80-89,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_70-79,1 - Operatori Sanitari e Sociosanitari
@@ -664,6 +709,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_40-49,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_70-79,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_12M810_Ospedale Monfalcone_30-39,2 - Personale non Sanitario
@@ -685,6 +732,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_60-69,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_30-39,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_70-79,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_12M810_Ospedale Monfalcone_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,30/12/2020_PF/BT_FVG_220101_H Tolmezzo_40-49,2 - Personale non Sanitario
@@ -707,6 +755,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_60-69,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_220101_TOLMEZZO_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_220101_TOLMEZZO_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_20-29,2 - Personale non Sanitario
@@ -731,13 +780,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_201010_CATTINARA_30-39,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_201010_CATTINARA_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,03/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_40-49,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,2 - Personale non Sanitario
-1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_12M810_Ospedale Monfalcone_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -746,6 +797,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_220101_TOLMEZZO_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,31/12/2020_PF/BT_FVG_220101_TOLMEZZO_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_60-69,2 - Personale non Sanitario
+1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_12M810_MONFALCONE_70-79,1 - Operatori Sanitari e Sociosanitari
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_50-59,2 - Personale non Sanitario
 1,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_50-59,2 - Personale non Sanitario
@@ -768,22 +820,28 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 11,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_70-79,1 - Operatori Sanitari e Sociosanitari
 11,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_40-49,2 - Personale non Sanitario
 11,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,2 - Personale non Sanitario
+11,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,2 - Personale non Sanitario
 12,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,2 - Personale non Sanitario
 12,Friuli-Venezia Giulia,TML_CAT_PERSONALE,04/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,2 - Personale non Sanitario
 12,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_12M810_MONFALCONE_20-29,1 - Operatori Sanitari e Sociosanitari
+14,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,2 - Personale non Sanitario
 14,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_20-29,1 - Operatori Sanitari e Sociosanitari
-15,Friuli-Venezia Giulia,TML_CAT_ALTRO,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_20-29,2 - Personale non Sanitario
-15,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_60-69,1 - Operatori Sanitari e Sociosanitari
-15,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_220101_H Tolmezzo_40-49,1 - Operatori Sanitari e Sociosanitari
+14,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,2 - Personale non Sanitario
+14,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,2 - Personale non Sanitario
+14,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_60-69,1 - Operatori Sanitari e Sociosanitari
+14,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_220101_H Tolmezzo_40-49,1 - Operatori Sanitari e Sociosanitari
+14,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,2 - Personale non Sanitario
 16,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_20-29,1 - Operatori Sanitari e Sociosanitari
 16,Friuli-Venezia Giulia,TML_CAT_OSS,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_30-39,1 - Operatori Sanitari e Sociosanitari
 16,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_60-69,1 - Operatori Sanitari e Sociosanitari
 16,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_220101_H Tolmezzo_50-59,1 - Operatori Sanitari e Sociosanitari
+16,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,2 - Personale non Sanitario
 17,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_20-29,1 - Operatori Sanitari e Sociosanitari
 17,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,1 - Operatori Sanitari e Sociosanitari
 17,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_201010_CATTINARA_20-29,1 - Operatori Sanitari e Sociosanitari
 18,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,1 - Operatori Sanitari e Sociosanitari
+18,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_70-79,1 - Operatori Sanitari e Sociosanitari
 18,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_40-49,1 - Operatori Sanitari e Sociosanitari
 19,Friuli-Venezia Giulia,TML_CAT_ALTRO,31/12/2020_PF/BT_FVG_201010_CATTINARA_20-29,2 - Personale non Sanitario
 19,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_201010_CATTINARA_70-79,1 - Operatori Sanitari e Sociosanitari
@@ -799,6 +857,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 25,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_201010_Ospedale Cattinara_30-39,1 - Operatori Sanitari e Sociosanitari
 25,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_30-39,1 - Operatori Sanitari e Sociosanitari
 25,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_220101_TOLMEZZO_60-69,1 - Operatori Sanitari e Sociosanitari
+25,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,2 - Personale non Sanitario
 26,Friuli-Venezia Giulia,TML_CAT_PERSONALE,05/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,2 - Personale non Sanitario
 27,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_20-29,1 - Operatori Sanitari e Sociosanitari
 27,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,1 - Operatori Sanitari e Sociosanitari
@@ -812,10 +871,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 31,Friuli-Venezia Giulia,TML_CAT_OSS,03/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,1 - Operatori Sanitari e Sociosanitari
 31,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_60-69,1 - Operatori Sanitari e Sociosanitari
 31,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_20-29,1 - Operatori Sanitari e Sociosanitari
+31,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,1 - Operatori Sanitari e Sociosanitari
 31,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_117510_Ospedale Pordenone_30-39,1 - Operatori Sanitari e Sociosanitari
 31,Friuli-Venezia Giulia,TML_CAT_OSS,30/12/2020_PF/BT_FVG_14VP13_Ospedale Udine_50-59,1 - Operatori Sanitari e Sociosanitari
 31,Friuli-Venezia Giulia,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_70-79,3 - Ospiti Strutture Residenziali
 33,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_20-29,1 - Operatori Sanitari e Sociosanitari
+33,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,1 - Operatori Sanitari e Sociosanitari
+33,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_60-69,1 - Operatori Sanitari e Sociosanitari
 34,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_60-69,1 - Operatori Sanitari e Sociosanitari
@@ -835,17 +897,26 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 39,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_50-59,1 - Operatori Sanitari e Sociosanitari
 40,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,1 - Operatori Sanitari e Sociosanitari
 40,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_30-39,1 - Operatori Sanitari e Sociosanitari
+40,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,1 - Operatori Sanitari e Sociosanitari
+40,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_50-59,1 - Operatori Sanitari e Sociosanitari
 41,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_12M810_MONFALCONE_20-29,1 - Operatori Sanitari e Sociosanitari
+41,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_20-29,1 - Operatori Sanitari e Sociosanitari
 41,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_12M810_MONFALCONE_60-69,1 - Operatori Sanitari e Sociosanitari
+42,Friuli-Venezia Giulia,TML_CAT_ALTRO,06/01/2021_PF/BT_FVG_201010_CATTINARA_20-29,2 - Personale non Sanitario
 44,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,1 - Operatori Sanitari e Sociosanitari
+44,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,1 - Operatori Sanitari e Sociosanitari
+44,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_201010_CATTINARA_40-49,1 - Operatori Sanitari e Sociosanitari
 45,Friuli-Venezia Giulia,TML_CAT_OSS,03/01/2021_PF/BT_FVG_201010_CATTINARA_30-39,1 - Operatori Sanitari e Sociosanitari
 45,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_12M810_MONFALCONE_40-49,1 - Operatori Sanitari e Sociosanitari
 46,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_60-69,1 - Operatori Sanitari e Sociosanitari
 46,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_30-39,1 - Operatori Sanitari e Sociosanitari
+47,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_40-49,2 - Personale non Sanitario
 48,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_220101_TOLMEZZO_40-49,1 - Operatori Sanitari e Sociosanitari
 48,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,1 - Operatori Sanitari e Sociosanitari
 49,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,1 - Operatori Sanitari e Sociosanitari
+49,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_40-49,1 - Operatori Sanitari e Sociosanitari
 49,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_201010_CATTINARA_40-49,1 - Operatori Sanitari e Sociosanitari
+49,Friuli-Venezia Giulia,TML_CAT_PERSONALE,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,2 - Personale non Sanitario
 50,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_12M810_MONFALCONE_60-69,1 - Operatori Sanitari e Sociosanitari
 50,Friuli-Venezia Giulia,TML_CAT_OSS,02/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,1 - Operatori Sanitari e Sociosanitari
 50,Friuli-Venezia Giulia,TML_CAT_OSS,27/12/2020_PF/BT_FVG_ND_Sede Regionale Protezione Civile_40-49,1 - Operatori Sanitari e Sociosanitari
@@ -872,6 +943,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria
 59,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_40-49,1 - Operatori Sanitari e Sociosanitari
 59,Friuli-Venezia Giulia,TML_CAT_OSS,31/12/2020_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_50-59,1 - Operatori Sanitari e Sociosanitari
 61,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_201010_CATTINARA_60-69,1 - Operatori Sanitari e Sociosanitari
+61,Friuli-Venezia Giulia,TML_CAT_OSS,06/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_50-59,1 - Operatori Sanitari e Sociosanitari
 62,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_220101_TOLMEZZO_50-59,1 - Operatori Sanitari e Sociosanitari
 64,Friuli-Venezia Giulia,TML_CAT_OSS,04/01/2021_PF/BT_FVG_14VP13_SANTA MARIA DELLA MISERICORDIA_40-49,1 - Operatori Sanitari e Sociosanitari
 65,Friuli-Venezia Giulia,TML_CAT_OSS,05/01/2021_PF/BT_FVG_117510_SANTA MARIA DEGLI ANGELI_60-69,1 - Operatori Sanitari e Sociosanitari
