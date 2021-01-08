@@ -245,5 +245,7 @@ if [ ! -z "$dataOraAggiornamento" ]; then
 fi
 
 # cancella pagina HTML
-rm "$folder"/rawdata/pagina.html
 
+if [ -f "$folder"/rawdata/pagina.html ]; then
+  rm "$folder"/rawdata/pagina.html
+fi
