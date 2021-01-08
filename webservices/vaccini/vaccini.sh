@@ -38,6 +38,11 @@ if [ $code -eq 200 ]; then
     n=$((n + 1))
   done
 
+  if [[ $(wc <"$folder"/rawdata/pagina.html -l) -eq 0 ]]; then
+    echo "Impossibile scaricare file HTML"
+    exit 1
+  fi
+
   # estrai data di aggiornamento dati, dichiarata nella dashboard
   dataOraAggiornamento=$(scrape <"$folder"/rawdata/pagina.html -be '//div[@class="title"]' | xq -r '.html.body.div."#text"')
 
