@@ -57,11 +57,4 @@ for i in {01..20}; do
 done
 
 # fai il merge dei dati di dettaglio regionali
-#mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
-
-
-#mlr --csv put -S '$data=strftime(strptime(sub(sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\1"),"_.+",""), "%d/%m/%Y"),"%Y-%m-%d");$b=sub($identificativo,"^([0-9]#+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\2");$d=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\4");$e=sub($identificativo,"^([0-9]+/#[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\5")' then rename b,vaccino,d,punto,e,classeEta tmp.csv | vd -f csv
-#
-#mlr --csv put -S '$a=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\1");$b=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*#[0-9]*)$","\2");$c=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\3");$d=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]#*)$","\4");$e=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\5")' then rename a,data,b,vaccino,c,regione,d,punto,e,classeEta tmp.csv | vd -f csv
-#
-
+mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
