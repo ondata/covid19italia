@@ -23,7 +23,7 @@ Nella stessa [cartella](./processing) sono presenti anche:
 
 - i file che contengono soltanto l'ultimo valore estratto dalla *dashboard*, sono quelli con il prefisso `latest`;
 - i file che contengono soltanto, per ogni giornata di dati archiviati, il valore più recente raccolto. Sono quelli con il suffisso `Top`;
-- il file di [insieme](./processing/datiRegioni.csv), con i dati disaggregati regionali raccolti e descritti [qui](./processing/datiRegioni/README.md).
+- il file di [insieme](./processing/datiRegioni.csv), con i dati disaggregati regionali raccolti e descritti [qui](./processing/datiRegioni/README.md) (da giorno 8 gennaio 2020 non ne cureremo più l'estrazione).
 
 ## Note
 

@@ -1,3 +1,5 @@
+⚠⚠ **NOTA BENE**: da giorno 8 gennaio 2020 non ne cureremo più l'estrazione
+
 ## Dati di dettaglio sulle somministrazioni per regione
 
 La [*dashboard* sui vaccini](https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9), consente al 1️⃣ click con il tasto destro del mouse su una regione, di selezionare l'opzione 2️⃣ "Mostra il punto dati come tabella" e avere dei 3️⃣ dati disaggregati.
