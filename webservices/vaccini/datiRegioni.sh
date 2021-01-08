@@ -44,7 +44,24 @@ for i in {01..20}; do
   ' then unsparsify then fill-down -f somm,regione,cat,punto,tipo then cut -f somm,regione,cat,punto,tipo "$folder"/rawdata/tmp.csv >"$folder"/processing/datiRegioni/"$i".csv
 
   mlr -I --t2c --ors '\r\n' label somministrazioni,regione,siglaCategoria,identificativo,categoria then put -S '$identificativo=gsub($identificativo,"\n"," ")' then clean-whitespace "$folder"/processing/datiRegioni/"$i".csv
+
+  # aggiungi codice regione ed estrai data, vaccino, punto di somministrazione e classe d'età
+  mlr -I --csv put -S '
+  $codice_regione=sub(FILENAME,"^(.+/)([0-9]+)(\..+)$","\2");
+  $data=strftime(strptime(sub(sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_(.+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\1"),"_.+",""), "%d/%m/%Y"),"%Y-%m-%d");
+  $b=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_(.+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\2");
+  $d=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_(.+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\4");
+  $e=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_(.+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\5");
+  ' then rename b,vaccino,d,punto,e,classeEta \
+  then sort -f data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/"$i".csv
 done
 
 # fai il merge dei dati di dettaglio regionali
-mlr --csv put -S '$codice_regione=sub(FILENAME,"^(.+/)([0-9]+)(\..+)$","\2");$data=strftime(strptime(sub($identificativo,"_.+",""), "%d/%m/%Y"),"%Y-%m-%d")' then sort -f codice_regione,data,categoria -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
+#mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
+
+
+#mlr --csv put -S '$data=strftime(strptime(sub(sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\1"),"_.+",""), "%d/%m/%Y"),"%Y-%m-%d");$b=sub($identificativo,"^([0-9]#+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\2");$d=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\4");$e=sub($identificativo,"^([0-9]+/#[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\5")' then rename b,vaccino,d,punto,e,classeEta tmp.csv | vd -f csv
+#
+#mlr --csv put -S '$a=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\1");$b=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*#[0-9]*)$","\2");$c=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\3");$d=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]#*)$","\4");$e=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_([A-Z/]+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\5")' then rename a,data,b,vaccino,c,regione,d,punto,e,classeEta tmp.csv | vd -f csv
+#
+
