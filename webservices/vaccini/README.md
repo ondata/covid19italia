@@ -31,13 +31,13 @@ La suddivisione geografica usata al momento per i dati sui vaccini è quella reg
 È la suddivisione statistica standard europea a livello regionale.
 
 Una fonte classica per i file geografici con i limiti amministrativi è [ISTAT](https://www.istat.it/it/archivio/222527), che però non pubblica file "tagliati" secondo `NUTS2`.<br>
-A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle suddivisioni statistiche](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip) (sempre di ISTAT), abbiamo generato i file geografici con questo taglio.
+A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle suddivisioni statistiche](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip) (sempre di ISTAT), abbiamo generato i [file geografici](https://github.com/ondata/covid19italia/tree/master/risorse/fileGeografici) con questo taglio.
 
 Nel dettaglio:
 
-- [NUTS2_g.zip](../../risorse/fileGeografici/NUTS2_g.zip), file con limiti generalizzati (minore dettaglio), sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
-- [NUTS2.zip](../../risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
-- [NUTS2_g.geojson](../../risorse/fileGeografici/NUTS2_g.geojson), file con limiti generalizzati, sistema di coordinate [`EPSG:4326`](https://epsg.io/4326).
+- [NUTS2_g.zip]([../../risorse/fileGeografici/NUTS2_g.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.zip)), file con limiti generalizzati (minore dettaglio), sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2_g.geojson](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.geojson), file con limiti generalizzati, sistema di coordinate [`EPSG:4326`](https://epsg.io/4326).
 
 ## Note
 
