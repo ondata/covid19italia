@@ -25,6 +25,15 @@ Nella stessa [cartella](./processing) sono presenti anche:
 - i file che contengono soltanto, per ogni giornata di dati archiviati, il valore più recente raccolto. Sono quelli con il suffisso `Top`;
 - il file di [insieme](./processing/datiRegioni.csv), con i dati disaggregati regionali raccolti e descritti [qui](./processing/datiRegioni/README.md) (da giorno 8 gennaio 2020 non ne cureremo più l'estrazione).
 
+## File geografici
+
+La suddivisione geografica usata al momento per i dati sui vaccini è quella regionale [`NUTS2`](https://ec.europa.eu/eurostat/web/nuts/nuts-maps). Una fonte classica per i file geografici con i limiti amministrativi è [ISTAT](https://www.istat.it/it/archivio/222527), che però non pubblica file "tagliati" secondo `NUTS2`.<br>
+A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle suddivisioni statistiche](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip) (sempre di ISTAT), abbiamo generato i file geografici con questo taglio:
+
+- [NUTS2_g.zip](../../risorse/fileGeografici/NUTS2_g.zip), file con limiti generalizzati (minore dettaglio), sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2.zip](../../risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2_g.geojson](../../risorse/fileGeografici/NUTS2_g.geojson), file con limiti generalizzati, sistema di coordinate [`EPSG:4326`](https://epsg.io/4326).
+
 ## Note
 
 L'*enconding* dei CSV è `UTF-8` e il separatore delle colonne è la `,`.
