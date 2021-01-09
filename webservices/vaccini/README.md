@@ -27,8 +27,13 @@ Nella stessa [cartella](./processing) sono presenti anche:
 
 ## File geografici
 
-La suddivisione geografica usata al momento per i dati sui vaccini è quella regionale [`NUTS2`](https://ec.europa.eu/eurostat/web/nuts/nuts-maps). Una fonte classica per i file geografici con i limiti amministrativi è [ISTAT](https://www.istat.it/it/archivio/222527), che però non pubblica file "tagliati" secondo `NUTS2`.<br>
-A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle suddivisioni statistiche](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip) (sempre di ISTAT), abbiamo generato i file geografici con questo taglio:
+La suddivisione geografica usata al momento per i dati sui vaccini è quella regionale [`NUTS2`](https://ec.europa.eu/eurostat/web/nuts/nuts-maps). In questa l'Italia è divisa in 21 unità e non 20, con il Trentino-Alto Adige suddiviso nelle due province autonome.<br>
+È la suddivisione statistica standard europea a livello regionale.
+
+Una fonte classica per i file geografici con i limiti amministrativi è [ISTAT](https://www.istat.it/it/archivio/222527), che però non pubblica file "tagliati" secondo `NUTS2`.<br>
+A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle suddivisioni statistiche](https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip) (sempre di ISTAT), abbiamo generato i file geografici con questo taglio.
+
+Nel dettaglio:
 
 - [NUTS2_g.zip](../../risorse/fileGeografici/NUTS2_g.zip), file con limiti generalizzati (minore dettaglio), sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
 - [NUTS2.zip](../../risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
