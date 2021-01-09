@@ -16,7 +16,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Basilicata,TML_CAT_OSS,27/12/2020_PF/BT_BAS_901_Sala Prelievo Laboratorio Analisi_60-69,1 - Operatori Sanitari e Sociosanitari,17,2020-12-27,PF/BT,901_Sala Prelievo Laboratorio Analisi,60-69
 2,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,12002_AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,20-29
 6,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,20-29
-3,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170-910_IRCCS CROB,20-29
+4,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170-910_IRCCS CROB,20-29
 5,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170011_Presidio Ospedaliero Matera,20-29
 1,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170036_POD DI LAURIA_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170036_POD DI LAURIA,20-29
 7,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,20-29
@@ -24,7 +24,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_301_SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,301_SEDE DECENTRATA DISTRETTO DI RIONERO IN VULTURE,20-29
 24,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,901_Sala Prelievi Laboratorio Analisi,20-29
 6,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_12002_AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,12002_AMBULATORIO TERRITORIALE-DISTRETTO DI VILLA D'AGRI,30-39
-3,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,30-39
+4,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,30-39
 21,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170-910_IRCCS CROB_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170-910_IRCCS CROB,30-39
 13,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170011_Presidio Ospedaliero Matera,30-39
 6,Basilicata,TML_CAT_OSS,02/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-02,PF/BT,170036_POD DI LAURIA,30-39
@@ -64,7 +64,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_30-39,2 - Personale non Sanitario,17,2021-01-02,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,30-39
 3,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_40-49,2 - Personale non Sanitario,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,40-49
 7,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_40-49,2 - Personale non Sanitario,17,2021-01-02,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,40-49
-3,Basilicata,TML_CAT_PERSONALE,02/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_40-49,2 - Personale non Sanitario,17,2021-01-02,PF/BT,1801_POLIAMBULATORIO SENISE,40-49
+4,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_40-49,2 - Personale non Sanitario,17,2021-01-02,PF/BT,1801_POLIAMBULATORIO SENISE,40-49
+4,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_50-59,2 - Personale non Sanitario,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,50-59
 3,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_50-59,2 - Personale non Sanitario,17,2021-01-02,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,50-59
 6,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_50-59,2 - Personale non Sanitario,17,2021-01-02,PF/BT,1801_POLIAMBULATORIO SENISE,50-59
 3,Basilicata,TML_CAT_ALTRO,02/01/2021_PF/BT_BAS_15003_OSPEDALE DISTRETTUALE DI VENOSA_60-69,2 - Personale non Sanitario,17,2021-01-02,PF/BT,15003_OSPEDALE DISTRETTUALE DI VENOSA,60-69
@@ -104,7 +105,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 20,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,170011_Presidio Ospedaliero Matera,60-69
 7,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170036_POD DI LAURIA_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,170036_POD DI LAURIA,60-69
 10,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18 A/B,60-69
-3,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Presidio Ospedaliero Villa D'Agri_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,901_Presidio Ospedaliero Villa D'Agri,60-69
+4,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Presidio Ospedaliero Villa D'Agri_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,901_Presidio Ospedaliero Villa D'Agri,60-69
 41,Basilicata,TML_CAT_OSS,03/01/2021_PF/BT_BAS_901_Sala Prelievi Laboratorio Analisi_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-03,PF/BT,901_Sala Prelievi Laboratorio Analisi,60-69
 1,Basilicata,TML_CAT_PERSONALE,03/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,2 - Personale non Sanitario,17,2021-01-03,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
 1,Basilicata,TML_CAT_PERSONALE,03/01/2021_PF/BT_BAS_170-910_IRCCS CROB_40-49,2 - Personale non Sanitario,17,2021-01-03,PF/BT,170-910_IRCCS CROB,40-49
@@ -118,7 +119,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39
 15,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170-910_IRCCS CROB_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170-910_IRCCS CROB,30-39
 50,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170011_Presidio Ospedaliero Matera,30-39
-3,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170036_POD DI LAURIA,30-39
+4,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170036_POD DI LAURIA,30-39
 6,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
 6,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170-910_IRCCS CROB_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170-910_IRCCS CROB,40-49
 78,Basilicata,TML_CAT_OSS,04/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-04,PF/BT,170011_Presidio Ospedaliero Matera,40-49
@@ -151,10 +152,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170011_Presidio Ospedaliero Matera,30-39
 3,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170036_POD DI LAURIA,30-39
 10,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO DI MELFI_AOR SAN CARLO,30-39
-3,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,30-39
+4,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,30-39
 12,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,30-39
 36,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,30-39
-3,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,STS11_ufficio igiene Venosa,30-39
+4,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,STS11_ufficio igiene Venosa,30-39
 5,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
 27,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170011_Presidio Ospedaliero Matera,40-49
 6,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170036_POD DI LAURIA_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170036_POD DI LAURIA,40-49
@@ -172,7 +173,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 15,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO DI VILLA D'AGRI_AOR SAN CARLO,50-59
 13,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_PRESIDIO OSPEDALIERO LAGONEGRO_AOR SAN CARLO,50-59
 45,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,901_TENDOSTRUTTURA OSPEDALE SAN CARLO_AOR SAN CARLO,50-59
-3,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,STS11_ufficio igiene Venosa,50-59
+4,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,STS11_ufficio igiene Venosa,50-59
 18,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69
 25,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170011_Presidio Ospedaliero Matera,60-69
 7,Basilicata,TML_CAT_OSS,05/01/2021_PF/BT_BAS_170036_POD DI LAURIA_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-05,PF/BT,170036_POD DI LAURIA,60-69
@@ -197,28 +198,31 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,40-49
 63,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,170011_Presidio Ospedaliero Matera,50-59
 10,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170036_POD DI LAURIA_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,170036_POD DI LAURIA,50-59
-3,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,50-59
+4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,50-59
 29,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,170011_Presidio Ospedaliero Matera,60-69
 3,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_170036_POD DI LAURIA_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,170036_POD DI LAURIA,60-69
 5,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,60-69
-3,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,70-79
-3,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,80-89
+4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,70-79
+4,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,80-89
 8,Basilicata,TML_CAT_OSS,06/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_90+,1 - Operatori Sanitari e Sociosanitari,17,2021-01-06,PF/BT,STS11_ufficio igiene Venosa,90+
-3,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,20-29
+4,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,20-29
 3,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170036_POD DI LAURIA_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170036_POD DI LAURIA,20-29
 8,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,20-29
+10,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,20-29
 2,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_301_SEDE DEC.C DSB RIONERO IN V._20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,301_SEDE DEC.C DSB RIONERO IN V.,20-29
 7,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,20-29
 1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39
 19,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,30-39
 7,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170036_POD DI LAURIA,30-39
 16,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,30-39
+8,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,30-39
 1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_301_SEDE DEC.C DSB RIONERO IN V._30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,301_SEDE DEC.C DSB RIONERO IN V.,30-39
 19,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,30-39
 2,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
 59,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,40-49
 8,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170036_POD DI LAURIA_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170036_POD DI LAURIA,40-49
 15,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,40-49
+17,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,40-49
 7,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_301_SEDE DEC.C DSB RIONERO IN V._40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,301_SEDE DEC.C DSB RIONERO IN V.,40-49
 2,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,40-49
 30,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,40-49
@@ -226,6 +230,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 86,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,50-59
 8,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170036_POD DI LAURIA_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170036_POD DI LAURIA,50-59
 22,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,50-59
+11,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,50-59
 11,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_301_SEDE DEC.C DSB RIONERO IN V._50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,301_SEDE DEC.C DSB RIONERO IN V.,50-59
 1,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,50-59
 49,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,50-59
@@ -233,15 +238,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 45,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170011_Presidio Ospedaliero Matera,60-69
 14,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170036_POD DI LAURIA_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170036_POD DI LAURIA,60-69
 43,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,60-69
+12,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,60-69
 35,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_301_SEDE DEC.C DSB RIONERO IN V._60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,301_SEDE DEC.C DSB RIONERO IN V.,60-69
 2,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,901_PRESIDIO OSPEDALIERO DI PESCOPAGANO-AOR SAN CARLO,60-69
 15,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,60-69
 5,Basilicata,TML_CAT_OSS,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,1 - Operatori Sanitari e Sociosanitari,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,70-79
 1,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,2 - Personale non Sanitario,17,2021-01-07,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29
 3,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_40-49,2 - Personale non Sanitario,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,40-49
-3,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_40-49,2 - Personale non Sanitario,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,40-49
 1,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_50-59,2 - Personale non Sanitario,17,2021-01-07,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,50-59
+1,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_50-59,2 - Personale non Sanitario,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,50-59
 1,Basilicata,TML_CAT_PERSONALE,07/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,2 - Personale non Sanitario,17,2021-01-07,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69
+1,Basilicata,TML_CAT_ALTRO,07/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO DI SENISE_70-79,2 - Personale non Sanitario,17,2021-01-07,PF/BT,1801_POLIAMBULATORIO DI SENISE,70-79
 1,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_30-39,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,30-39
 2,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_40-49,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,40-49
 1,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_50-59,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,50-59
@@ -249,3 +256,35 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_70-79,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,70-79
 10,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,80-89
 6,Basilicata,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_BAS_STS11_ufficio igiene Venosa_90+,3 - Ospiti Strutture Residenziali,17,2021-01-07,PF/BT,STS11_ufficio igiene Venosa,90+
+2,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29
+4,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170011_Presidio Ospedaliero Matera,20-29
+2,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,20-29
+6,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39
+25,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170011_Presidio Ospedaliero Matera,30-39
+13,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,30-39
+4,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
+39,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170011_Presidio Ospedaliero Matera,40-49
+8,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,40-49
+4,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,50-59
+3,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_150221_UNIVERSO SALUTE SRL POTENZA RSA ANZIANI E DISABILI_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,150221_UNIVERSO SALUTE SRL POTENZA RSA ANZIANI E DISABILI,50-59
+50,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170011_Presidio Ospedaliero Matera,50-59
+19,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,50-59
+2,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69
+3,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_150221_UNIVERSO SALUTE SRL POTENZA RSA ANZIANI E DISABILI_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,150221_UNIVERSO SALUTE SRL POTENZA RSA ANZIANI E DISABILI,60-69
+46,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170011_Presidio Ospedaliero Matera,60-69
+45,Basilicata,TML_CAT_OSS,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,60-69
+1,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,2 - Personale non Sanitario,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29
+1,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,2 - Personale non Sanitario,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39
+1,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_30-39,2 - Personale non Sanitario,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,30-39
+7,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,2 - Personale non Sanitario,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
+4,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_40-49,2 - Personale non Sanitario,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,40-49
+3,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,2 - Personale non Sanitario,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,50-59
+3,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_50-59,2 - Personale non Sanitario,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,50-59
+2,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,2 - Personale non Sanitario,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69
+1,Basilicata,TML_CAT_PERSONALE,08/01/2021_PF/BT_BAS_170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B_60-69,2 - Personale non Sanitario,17,2021-01-08,PF/BT,170201_ASP - Ufficio Igiene di Potenza via della Fisica 18A/B,60-69
+1,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49
+1,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,50-59
+3,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69
+7,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,70-79
+16,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,80-89
+11,Basilicata,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,3 - Ospiti Strutture Residenziali,17,2021-01-08,PF/BT,12002_Distretto della Salute della Val d'Agri,90+

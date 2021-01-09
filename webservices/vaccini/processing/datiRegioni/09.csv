@@ -1060,7 +1060,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 201,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,090903_COVID19 - AOU Careggi,20-29
 22,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,090904_COVID19 - Ospedale AOU Meyer,20-29
 11,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,20-29
-30,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,20-29
+31,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,20-29
 4,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,20-29
 1,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,22391A_PRESIDIO AVENZA,20-29
 1,Toscana,TML_CAT_OSS,04/01/2021_PF/BT_TOS_25324I_R.S.A. PIERO BARGAGLI_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-04,PF/BT,25324I_R.S.A. PIERO BARGAGLI,20-29
@@ -1338,6 +1338,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 11,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090901_COVID19 - AOU Pisana,16-19
 4,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090903_COVID19 - AOU Careggi,16-19
 1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,16-19
+1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,20-29
 8,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,20-29
 15,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,20-29
 10,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090606_COVID19 - Ospedale San Iacopo,20-29
@@ -1364,6 +1365,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 265,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090903_COVID19 - AOU Careggi,20-29
 16,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090904_COVID19 - Ospedale AOU Meyer,20-29
 6,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,20-29
+1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,20-29
 16,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,20-29
 2,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,20-29
 1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_12714I_RSA FRANCESCO BOTTAI_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,12714I_RSA FRANCESCO BOTTAI,20-29
@@ -1441,6 +1443,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 35,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090904_COVID19 - Ospedale AOU Meyer,40-49
 18,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,40-49
 2,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,40-49
+2,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,40-49
 42,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,40-49
 4,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,40-49
 4,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,40-49
@@ -1484,6 +1487,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 21,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090904_COVID19 - Ospedale AOU Meyer,50-59
 16,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,50-59
 3,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,50-59
+2,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,50-59
 57,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,50-59
 16,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,50-59
 3,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,50-59
@@ -1553,6 +1557,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_80064I_LA MAGNOLIA SRL V.S.TERESA_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,80064I_LA MAGNOLIA SRL V.S.TERESA,80-89
 1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_90+,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,90+
 1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_48514I_R.S.A. S.PERTINI_90+,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,48514I_R.S.A. S.PERTINI,90+
+1,Toscana,TML_CAT_OSS,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_90+,1 - Operatori Sanitari e Sociosanitari,09,2021-01-05,PF/BT,ND_RSA Cottolengo,90+
 1,Toscana,TML_CAT_PERSONALE,05/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_20-29,2 - Personale non Sanitario,09,2021-01-05,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,20-29
 1,Toscana,TML_CAT_PERSONALE,05/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_30-39,2 - Personale non Sanitario,09,2021-01-05,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,30-39
 1,Toscana,TML_CAT_ALTRO,05/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_30-39,2 - Personale non Sanitario,09,2021-01-05,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,30-39
@@ -1575,6 +1580,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_20014I_RSA MARTINI SANTA CROCE_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,20014I_RSA MARTINI SANTA CROCE,40-49
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_22064I_R.S.A. RESIDENZA COSTA D'ARGEN_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,22064I_R.S.A. RESIDENZA COSTA D'ARGEN,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,22391A_PRESIDIO AVENZA,40-49
+1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_S1224L_CAP ISTITUTO MARIA REDDITI_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,S1224L_CAP ISTITUTO MARIA REDDITI,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090902_COVID19 - AOU Senese,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,50-59
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,50-59
@@ -1582,9 +1588,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_48514I_R.S.A. S.PERTINI_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,48514I_R.S.A. S.PERTINI,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80024I_CASA SERENA MEZZANA RESIDENZIA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80024I_CASA SERENA MEZZANA RESIDENZIA,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90154I_VILLA SAN BIAGIO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90154I_VILLA SAN BIAGIO,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,ND_RSA Cottolengo,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_S1224L_CAP ISTITUTO MARIA REDDITI_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,S1224L_CAP ISTITUTO MARIA REDDITI,50-59
 6,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090606_COVID19 - Ospedale San Iacopo,60-69
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,60-69
 7,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,60-69
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,60-69
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,60-69
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,60-69
@@ -1600,11 +1609,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80034I_CASA SANTA MARIA DELLA PIETA'_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80034I_CASA SANTA MARIA DELLA PIETA',60-69
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80134I_CASA DI RIPOSO JOLE SPA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80134I_CASA DI RIPOSO JOLE SPA,60-69
 4,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90154I_VILLA SAN BIAGIO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90154I_VILLA SAN BIAGIO,60-69
+4,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,ND_RSA Cottolengo,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_S1224L_CAP ISTITUTO MARIA REDDITI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,S1224L_CAP ISTITUTO MARIA REDDITI,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_U0024I_RSA LA PERLA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,U0024I_RSA LA PERLA,60-69
 17,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090606_COVID19 - Ospedale San Iacopo,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,70-79
 4,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,70-79
 14,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,70-79
+4,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,70-79
 7,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,70-79
 9,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,70-79
 8,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,70-79
@@ -1623,11 +1635,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 10,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80134I_CASA DI RIPOSO JOLE SPA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80134I_CASA DI RIPOSO JOLE SPA,70-79
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90154I_VILLA SAN BIAGIO_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90154I_VILLA SAN BIAGIO,70-79
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90174I_NUOVA VILLA DI RIO_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90174I_NUOVA VILLA DI RIO,70-79
+8,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,ND_RSA Cottolengo,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_U0024I_RSA LA PERLA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,U0024I_RSA LA PERLA,70-79
 34,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090606_COVID19 - Ospedale San Iacopo,80-89
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,80-89
 20,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,80-89
 22,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,80-89
+5,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,80-89
 15,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,80-89
 14,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,80-89
 27,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,80-89
@@ -1636,7 +1650,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_20014I_RSA MARTINI SANTA CROCE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,20014I_RSA MARTINI SANTA CROCE,80-89
 8,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_22064I_R.S.A. RESIDENZA COSTA D'ARGEN_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,22064I_R.S.A. RESIDENZA COSTA D'ARGEN,80-89
 8,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,22391A_PRESIDIO AVENZA,80-89
-13,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_23524I_RSA SINALUNGA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,23524I_RSA SINALUNGA,80-89
+14,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_23524I_RSA SINALUNGA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,23524I_RSA SINALUNGA,80-89
 11,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_33534I_RSA S. RITA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,33534I_RSA S. RITA,80-89
 13,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_48514I_R.S.A. S.PERTINI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,48514I_R.S.A. S.PERTINI,80-89
 9,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_49324I_RSA LA PIAGGIARELLA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,49324I_RSA LA PIAGGIARELLA,80-89
@@ -1647,11 +1661,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 18,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80134I_CASA DI RIPOSO JOLE SPA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80134I_CASA DI RIPOSO JOLE SPA,80-89
 5,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90154I_VILLA SAN BIAGIO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90154I_VILLA SAN BIAGIO,80-89
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90174I_NUOVA VILLA DI RIO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90174I_NUOVA VILLA DI RIO,80-89
+10,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,ND_RSA Cottolengo,80-89
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_U0024I_RSA LA PERLA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,U0024I_RSA LA PERLA,80-89
 22,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090606_COVID19 - Ospedale San Iacopo,90+
 3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,90+
 15,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,90+
 12,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10314I_RSA PIA CASA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10314I_RSA PIA CASA,90+
+3,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_10384I_Covid19 - RSA DOTT. ROBERTO NOBILI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,10384I_Covid19 - RSA DOTT. ROBERTO NOBILI,90+
 23,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,90+
 15,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,90+
 19,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_12274I_RSA LA VILLA SPA CARAVAGGIO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,12274I_RSA LA VILLA SPA CARAVAGGIO,90+
@@ -1671,6 +1687,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 15,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_80134I_CASA DI RIPOSO JOLE SPA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,80134I_CASA DI RIPOSO JOLE SPA,90+
 2,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90154I_VILLA SAN BIAGIO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90154I_VILLA SAN BIAGIO,90+
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_90174I_NUOVA VILLA DI RIO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,90174I_NUOVA VILLA DI RIO,90+
+5,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_ND_RSA Cottolengo_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,ND_RSA Cottolengo,90+
 1,Toscana,TML_CAT_RSA_OSPITI,05/01/2021_PF/BT_TOS_U0024I_RSA LA PERLA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-05,PF/BT,U0024I_RSA LA PERLA,90+
 1,Toscana,TML_CAT_OSS,06/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-06,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,16-19
 1,Toscana,TML_CAT_OSS,06/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-06,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,16-19
@@ -1857,6 +1874,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090901_COVID19 - AOU Pisana,20-29
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090903_COVID19 - AOU Careggi,20-29
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,20-29
+1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,20-29
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,30-39
 3,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,30-39
 3,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,30-39
@@ -1864,7 +1882,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,40-49
 11,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,40-49
-4,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,40-49
+5,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,40-49
 2,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_02484I_CASA DI RIPOSO SAN DOMENICO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,02484I_CASA DI RIPOSO SAN DOMENICO,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,50-59
@@ -1874,7 +1892,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_122I4I_RSA MADONNA DEL SOCCORSO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,122I4I_RSA MADONNA DEL SOCCORSO,50-59
 6,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_R0134I_RSA CASA DI MARTA RESIDENZIALE_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,R0134I_RSA CASA DI MARTA RESIDENZIALE,50-59
-5,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,50-59
+7,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_S2024L_RDS il mulino_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,S2024L_RDS il mulino,50-59
 4,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_02484I_CASA DI RIPOSO SAN DOMENICO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,02484I_CASA DI RIPOSO SAN DOMENICO,60-69
 11,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,06/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-06,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,60-69
@@ -1950,6 +1968,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090614_Covid 19 - Ospedale Civile di Piombino_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090614_Covid 19 - Ospedale Civile di Piombino,20-29
 7,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090619_COVID19 - Ospedale Valtiberina Sansepolcro_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090619_COVID19 - Ospedale Valtiberina Sansepolcro,20-29
 32,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090621_COVID19 - Ospedale di Arezzo,20-29
+4,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,20-29
 16,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,20-29
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,20-29
 13,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,20-29
@@ -1985,6 +2004,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090614_Covid 19 - Ospedale Civile di Piombino_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090614_Covid 19 - Ospedale Civile di Piombino,30-39
 13,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090619_COVID19 - Ospedale Valtiberina Sansepolcro_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090619_COVID19 - Ospedale Valtiberina Sansepolcro,30-39
 44,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090621_COVID19 - Ospedale di Arezzo,30-39
+5,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,30-39
 33,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,30-39
 3,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,30-39
 26,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,30-39
@@ -1997,9 +2017,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 72,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090902_COVID19 - AOU Senese,30-39
 162,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090903_COVID19 - AOU Careggi,30-39
 57,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090904_COVID19 - Ospedale AOU Meyer,30-39
-1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,30-39
+1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,30-39
 32,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,30-39
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,30-39
+2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_121S4I_RSA VILLA SANTA CATERINA_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,121S4I_RSA VILLA SANTA CATERINA,30-39
 35,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,30-39
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_13614I_CASA ALBERGO PER ANZIANI_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,13614I_CASA ALBERGO PER ANZIANI,30-39
 8,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,30-39
@@ -2019,12 +2040,13 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 45,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090606_COVID19 - Ospedale San Iacopo,40-49
 14,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,40-49
 48,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090608_COVID19 - Ospedale Santo Stefano,40-49
-16,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,40-49
+18,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,40-49
 29,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,40-49
 49,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,40-49
 17,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090614_Covid 19 - Ospedale Civile di Piombino_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090614_Covid 19 - Ospedale Civile di Piombino,40-49
 19,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090619_COVID19 - Ospedale Valtiberina Sansepolcro_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090619_COVID19 - Ospedale Valtiberina Sansepolcro,40-49
 71,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090621_COVID19 - Ospedale di Arezzo,40-49
+16,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,40-49
 46,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,40-49
 9,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,40-49
 44,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,40-49
@@ -2048,6 +2070,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,40-49
 7,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46151A_CSS Portoferraio,40-49
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,40-49
+1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,40-49
 4,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,40-49
 3,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,40-49
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_80354I_A.S.P.CENTRO RESID.L.MARTELLI/_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,80354I_A.S.P.CENTRO RESID.L.MARTELLI/,40-49
@@ -2064,6 +2087,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 30,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090614_Covid 19 - Ospedale Civile di Piombino_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090614_Covid 19 - Ospedale Civile di Piombino,50-59
 23,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090619_COVID19 - Ospedale Valtiberina Sansepolcro_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090619_COVID19 - Ospedale Valtiberina Sansepolcro,50-59
 50,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090621_COVID19 - Ospedale di Arezzo,50-59
+17,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,50-59
 50,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,50-59
 6,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,50-59
 41,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,50-59
@@ -2077,7 +2101,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 233,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090903_COVID19 - AOU Careggi,50-59
 32,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090904_COVID19 - Ospedale AOU Meyer,50-59
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_10264I_RSA CENTRO ANZIANI MONTE SAN Q_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,10264I_RSA CENTRO ANZIANI MONTE SAN Q,50-59
-2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,50-59
+2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,50-59
 48,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,50-59
 13,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,50-59
 40,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,50-59
@@ -2092,6 +2116,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_42714I_RSA CASA DI MICHELE_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,42714I_RSA CASA DI MICHELE,50-59
 6,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46151A_CSS Portoferraio,50-59
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,50-59
+3,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,50-59
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,50-59
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_61464I_RSA MADONNA DELLE GRAZIE_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,61464I_RSA MADONNA DELLE GRAZIE,50-59
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,50-59
@@ -2109,6 +2134,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 9,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090614_Covid 19 - Ospedale Civile di Piombino_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090614_Covid 19 - Ospedale Civile di Piombino,60-69
 10,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090619_COVID19 - Ospedale Valtiberina Sansepolcro_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090619_COVID19 - Ospedale Valtiberina Sansepolcro,60-69
 17,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090621_COVID19 - Ospedale di Arezzo,60-69
+9,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,60-69
 22,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,60-69
 20,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,60-69
 17,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,60-69
@@ -2132,6 +2158,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_42714I_RSA CASA DI MICHELE_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,42714I_RSA CASA DI MICHELE,60-69
 6,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46151A_CSS Portoferraio,60-69
 3,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,60-69
+2,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,60-69
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,60-69
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_61464I_RSA MADONNA DELLE GRAZIE_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,61464I_RSA MADONNA DELLE GRAZIE,60-69
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,60-69
@@ -2151,6 +2178,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_221I4I_RSA GIAMPIERI_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,221I4I_RSA GIAMPIERI,70-79
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,80-89
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090904_COVID19 - Ospedale AOU Meyer,80-89
+1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,80-89
 1,Toscana,TML_CAT_OSS,07/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_90+,1 - Operatori Sanitari e Sociosanitari,09,2021-01-07,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,90+
 1,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_21301A_COVID19 - Ospedale F. Petruccioli Pitigliano_20-29,2 - Personale non Sanitario,09,2021-01-07,PF/BT,21301A_COVID19 - Ospedale F. Petruccioli Pitigliano,20-29
 1,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_30-39,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,30-39
@@ -2165,6 +2193,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_40-49,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090901_COVID19 - AOU Pisana,40-49
 1,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090606_COVID19 - Ospedale San Iacopo,50-59
 1,Toscana,TML_CAT_ALTRO,07/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090608_COVID19 - Ospedale Santo Stefano,50-59
+1,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090623_COVID19 - Ospedale S.Andrea Massa Marittima_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090623_COVID19 - Ospedale S.Andrea Massa Marittima,50-59
 2,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090901_COVID19 - AOU Pisana,50-59
 2,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,090903_COVID19 - AOU Careggi,50-59
 2,Toscana,TML_CAT_PERSONALE,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_50-59,2 - Personale non Sanitario,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,50-59
@@ -2188,7 +2217,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,22391A_PRESIDIO AVENZA,30-39
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA,30-39
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,30-39
-12,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,40-49
+13,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090608_COVID19 - Ospedale Santo Stefano,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090626_COVID19 - Ospedale di Grosseto,40-49
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,40-49
@@ -2201,7 +2230,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA,40-49
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,40-49
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,40-49
-24,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,50-59
+23,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,50-59
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090608_COVID19 - Ospedale Santo Stefano,50-59
 11,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090903_COVID19 - AOU Careggi,50-59
@@ -2215,11 +2244,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,50-59
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,50-59
 6,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80354I_A.S.P.CENTRO RESID.L.MARTELLI/_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80354I_A.S.P.CENTRO RESID.L.MARTELLI/,50-59
-1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_S2024L_RDS il mulino_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,S2024L_RDS il mulino,50-59
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,60-69
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090903_COVID19 - AOU Careggi,60-69
-2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,60-69
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13204I_Covid19 - RSA MICHELANGELO Aulla_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13204I_Covid19 - RSA MICHELANGELO Aulla,60-69
@@ -2231,6 +2259,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,33414L_RSD ISTI. PER ADULTI INABILI VILLA MIMOSA,60-69
 11,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42714I_RSA CASA DI MICHELE_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42714I_RSA CASA DI MICHELE,60-69
+4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,60-69
 3,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,60-69
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,60-69
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80114I_ANTONIO RICCI RESIDENZIALE_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80114I_ANTONIO RICCI RESIDENZIALE,60-69
@@ -2238,7 +2267,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,090627_COVID19 - Ospedale Mugello,70-79
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10264I_RSA CENTRO ANZIANI MONTE SAN Q_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10264I_RSA CENTRO ANZIANI MONTE SAN Q,70-79
-1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,70-79
+1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,70-79
+1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_121S4I_RSA VILLA SANTA CATERINA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,121S4I_RSA VILLA SANTA CATERINA,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,70-79
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13204I_Covid19 - RSA MICHELANGELO Aulla_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13204I_Covid19 - RSA MICHELANGELO Aulla,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13244I_Covid19 - RSA VILLA ANGELA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13244I_Covid19 - RSA VILLA ANGELA,70-79
@@ -2249,12 +2279,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,70-79
 10,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,70-79
 4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,70-79
+4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,70-79
 3,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,70-79
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_61464I_RSA MADONNA DELLE GRAZIE_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,61464I_RSA MADONNA DELLE GRAZIE,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80114I_ANTONIO RICCI RESIDENZIALE_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80114I_ANTONIO RICCI RESIDENZIALE,70-79
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80354I_A.S.P.CENTRO RESID.L.MARTELLI/_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80354I_A.S.P.CENTRO RESID.L.MARTELLI/,70-79
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_00134I_FONDAZIONE TURATI GAVINANA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,00134I_FONDAZIONE TURATI GAVINANA,80-89
-2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,80-89
+2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,80-89
+5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_121S4I_RSA VILLA SANTA CATERINA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,121S4I_RSA VILLA SANTA CATERINA,80-89
 13,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,80-89
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13244I_Covid19 - RSA VILLA ANGELA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13244I_Covid19 - RSA VILLA ANGELA,80-89
 18,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13584I_CENTRO EGIZIANO GIGLIOLI A.P.S_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13584I_CENTRO EGIZIANO GIGLIOLI A.P.S,80-89
@@ -2266,13 +2298,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 24,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,80-89
 3,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42714I_RSA CASA DI MICHELE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42714I_RSA CASA DI MICHELE,80-89
 15,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,80-89
+16,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,80-89
 17,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,80-89
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_61464I_RSA MADONNA DELLE GRAZIE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,61464I_RSA MADONNA DELLE GRAZIE,80-89
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,80-89
 7,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80114I_ANTONIO RICCI RESIDENZIALE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80114I_ANTONIO RICCI RESIDENZIALE,80-89
 18,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80354I_A.S.P.CENTRO RESID.L.MARTELLI/_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80354I_A.S.P.CENTRO RESID.L.MARTELLI/,80-89
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10264I_RSA CENTRO ANZIANI MONTE SAN Q_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10264I_RSA CENTRO ANZIANI MONTE SAN Q,90+
-4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_RSA PAOLI PUCCETTI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_RSA PAOLI PUCCETTI,90+
+4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_10334I_Covi19 - RSA PAOLI PUCCETTI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,10334I_Covi19 - RSA PAOLI PUCCETTI,90+
+4,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_121S4I_RSA VILLA SANTA CATERINA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,121S4I_RSA VILLA SANTA CATERINA,90+
 2,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,90+
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13244I_Covid19 - RSA VILLA ANGELA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13244I_Covid19 - RSA VILLA ANGELA,90+
 19,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_13584I_CENTRO EGIZIANO GIGLIOLI A.P.S_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,13584I_CENTRO EGIZIANO GIGLIOLI A.P.S,90+
@@ -2284,7 +2318,323 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 15,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42274I_RSA FERRUCCI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42274I_RSA FERRUCCI,90+
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_42714I_RSA CASA DI MICHELE_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,42714I_RSA CASA DI MICHELE,90+
 14,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46324I_R.S.A. VILLA CHIGI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46324I_R.S.A. VILLA CHIGI,90+
+10,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_46624I_R.S.A. ASILO V. BORGHERI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,46624I_R.S.A. ASILO V. BORGHERI,90+
 17,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_60884I_RSA L'ULIVETO COOP SOCIALE LIB_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,60884I_RSA L'ULIVETO COOP SOCIALE LIB,90+
 1,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_66964I_IST. OPERA PLACCI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,66964I_IST. OPERA PLACCI,90+
 5,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80114I_ANTONIO RICCI RESIDENZIALE_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80114I_ANTONIO RICCI RESIDENZIALE,90+
 16,Toscana,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_TOS_80354I_A.S.P.CENTRO RESID.L.MARTELLI/_90+,3 - Ospiti Strutture Residenziali,09,2021-01-07,PF/BT,80354I_A.S.P.CENTRO RESID.L.MARTELLI/,90+
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,16-19
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_16-19,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,16-19
+6,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_03002D_Covid 19 - Ospedale S.Francesco di Barga_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,03002D_Covid 19 - Ospedale S.Francesco di Barga,20-29
+19,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,20-29
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090603_Covid 19 - Ospedale Santa Croce in Garfagnana_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090603_Covid 19 - Ospedale Santa Croce in Garfagnana,20-29
+40,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,20-29
+12,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090606_COVID19 - Ospedale San Iacopo,20-29
+7,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,20-29
+9,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,20-29
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,20-29
+14,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,20-29
+33,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,20-29
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090618_COVID19 - Ospedale del Bibbiena_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090618_COVID19 - Ospedale del Bibbiena,20-29
+32,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,20-29
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090626_COVID19 - Ospedale di Grosseto,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,20-29
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,20-29
+13,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,20-29
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090639_COVID19 - Ospedale di Nottola Montepulciano_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090639_COVID19 - Ospedale di Nottola Montepulciano,20-29
+25,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,20-29
+6,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,20-29
+358,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,20-29
+71,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,20-29
+460,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,20-29
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090904_COVID19 - Ospedale AOU Meyer,20-29
+5,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,20-29
+9,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,20-29
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,20-29
+5,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,20-29
+19,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,20-29
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_40911A_COVID19 - Dip. Prevenzione Ruffolo Siena_20-29,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,40911A_COVID19 - Dip. Prevenzione Ruffolo Siena,20-29
+7,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_03002D_Covid 19 - Ospedale S.Francesco di Barga_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,03002D_Covid 19 - Ospedale S.Francesco di Barga,30-39
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_05424I_Covid19 - RSA ARCOBALENO_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,05424I_Covid19 - RSA ARCOBALENO,30-39
+24,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,30-39
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090603_Covid 19 - Ospedale Santa Croce in Garfagnana_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090603_Covid 19 - Ospedale Santa Croce in Garfagnana,30-39
+31,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,30-39
+25,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090606_COVID19 - Ospedale San Iacopo,30-39
+38,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,30-39
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,30-39
+12,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,30-39
+34,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,30-39
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090618_COVID19 - Ospedale del Bibbiena_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090618_COVID19 - Ospedale del Bibbiena,30-39
+45,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,30-39
+4,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090625_COVID19 - Ospedale Amiata Castel del Piano_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090625_COVID19 - Ospedale Amiata Castel del Piano,30-39
+35,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090626_COVID19 - Ospedale di Grosseto,30-39
+9,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,30-39
+37,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,30-39
+13,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,30-39
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore,30-39
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090639_COVID19 - Ospedale di Nottola Montepulciano_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090639_COVID19 - Ospedale di Nottola Montepulciano,30-39
+33,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,30-39
+24,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,30-39
+151,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,30-39
+59,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,30-39
+127,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,30-39
+48,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090904_COVID19 - Ospedale AOU Meyer,30-39
+21,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,30-39
+24,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,30-39
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,30-39
+41,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,30-39
+16,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,30-39
+35,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,30-39
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,30-39
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,30-39
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90094I_CASA DI RIPOSO SS.ANNUNZIATA_30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90094I_CASA DI RIPOSO SS.ANNUNZIATA,30-39
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._30-39,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,30-39
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_03002D_Covid 19 - Ospedale S.Francesco di Barga_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,03002D_Covid 19 - Ospedale S.Francesco di Barga,40-49
+4,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_05424I_Covid19 - RSA ARCOBALENO_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,05424I_Covid19 - RSA ARCOBALENO,40-49
+49,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,40-49
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090603_Covid 19 - Ospedale Santa Croce in Garfagnana_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090603_Covid 19 - Ospedale Santa Croce in Garfagnana,40-49
+41,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,40-49
+44,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090606_COVID19 - Ospedale San Iacopo,40-49
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,40-49
+41,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,40-49
+15,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,40-49
+20,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,40-49
+52,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,40-49
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090618_COVID19 - Ospedale del Bibbiena_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090618_COVID19 - Ospedale del Bibbiena,40-49
+75,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,40-49
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090625_COVID19 - Ospedale Amiata Castel del Piano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090625_COVID19 - Ospedale Amiata Castel del Piano,40-49
+40,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090626_COVID19 - Ospedale di Grosseto,40-49
+16,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,40-49
+39,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,40-49
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,40-49
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore,40-49
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090639_COVID19 - Ospedale di Nottola Montepulciano_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090639_COVID19 - Ospedale di Nottola Montepulciano,40-49
+48,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,40-49
+19,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,40-49
+108,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,40-49
+62,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,40-49
+134,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,40-49
+48,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090904_COVID19 - Ospedale AOU Meyer,40-49
+29,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,40-49
+35,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,40-49
+8,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,40-49
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,40-49
+43,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,40-49
+15,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,40-49
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21624I_RSA A. FANFANI BADIA TEDALDA_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21624I_RSA A. FANFANI BADIA TEDALDA,40-49
+24,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,40-49
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,40-49
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_40911A_COVID19 - Dip. Prevenzione Ruffolo Siena_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,40911A_COVID19 - Dip. Prevenzione Ruffolo Siena,40-49
+7,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,40-49
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90094I_CASA DI RIPOSO SS.ANNUNZIATA_40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90094I_CASA DI RIPOSO SS.ANNUNZIATA,40-49
+5,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._40-49,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,40-49
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,50-59
+29,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_03002D_Covid 19 - Ospedale S.Francesco di Barga_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,03002D_Covid 19 - Ospedale S.Francesco di Barga,50-59
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_05424I_Covid19 - RSA ARCOBALENO_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,05424I_Covid19 - RSA ARCOBALENO,50-59
+65,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,50-59
+26,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090603_Covid 19 - Ospedale Santa Croce in Garfagnana_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090603_Covid 19 - Ospedale Santa Croce in Garfagnana,50-59
+57,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,50-59
+59,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090606_COVID19 - Ospedale San Iacopo,50-59
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,50-59
+41,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,50-59
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,50-59
+31,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,50-59
+84,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,50-59
+12,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090618_COVID19 - Ospedale del Bibbiena_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090618_COVID19 - Ospedale del Bibbiena,50-59
+49,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,50-59
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090625_COVID19 - Ospedale Amiata Castel del Piano_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090625_COVID19 - Ospedale Amiata Castel del Piano,50-59
+50,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090626_COVID19 - Ospedale di Grosseto,50-59
+13,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,50-59
+43,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,50-59
+35,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,50-59
+4,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore,50-59
+31,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090639_COVID19 - Ospedale di Nottola Montepulciano_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090639_COVID19 - Ospedale di Nottola Montepulciano,50-59
+65,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,50-59
+35,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,50-59
+153,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,50-59
+59,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,50-59
+197,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,50-59
+34,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090904_COVID19 - Ospedale AOU Meyer,50-59
+20,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,50-59
+64,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,50-59
+9,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,50-59
+39,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,50-59
+17,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,50-59
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,50-59
+31,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_322G4I_RSA SACRO CUORE_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,322G4I_RSA SACRO CUORE,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_40911A_COVID19 - Dip. Prevenzione Ruffolo Siena_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,40911A_COVID19 - Dip. Prevenzione Ruffolo Siena,50-59
+7,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90094I_CASA DI RIPOSO SS.ANNUNZIATA_50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90094I_CASA DI RIPOSO SS.ANNUNZIATA,50-59
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._50-59,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,50-59
+8,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_03002D_Covid 19 - Ospedale S.Francesco di Barga_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,03002D_Covid 19 - Ospedale S.Francesco di Barga,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_05424I_Covid19 - RSA ARCOBALENO_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,05424I_Covid19 - RSA ARCOBALENO,60-69
+37,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,60-69
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090603_Covid 19 - Ospedale Santa Croce in Garfagnana_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090603_Covid 19 - Ospedale Santa Croce in Garfagnana,60-69
+22,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,60-69
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090606_COVID19 - Ospedale San Iacopo_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090606_COVID19 - Ospedale San Iacopo,60-69
+6,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,60-69
+17,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,60-69
+8,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090609_Covid 19 - Ospedale S.Maria Maddalena di Volterra,60-69
+6,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,60-69
+37,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,60-69
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090618_COVID19 - Ospedale del Bibbiena_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090618_COVID19 - Ospedale del Bibbiena,60-69
+23,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,60-69
+20,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090626_COVID19 - Ospedale di Grosseto_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090626_COVID19 - Ospedale di Grosseto,60-69
+5,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,60-69
+11,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,60-69
+17,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,60-69
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090637_COVID19 - Ospedale Amiata Val d'Orcia Abbadia San Salvatore,60-69
+14,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090639_COVID19 - Ospedale di Nottola Montepulciano_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090639_COVID19 - Ospedale di Nottola Montepulciano,60-69
+24,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,60-69
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,60-69
+53,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,60-69
+26,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,60-69
+68,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,60-69
+8,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090904_COVID19 - Ospedale AOU Meyer_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090904_COVID19 - Ospedale AOU Meyer,60-69
+9,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090907_Covid19 - FTGM Pisa San Cataldo_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090907_Covid19 - FTGM Pisa San Cataldo,60-69
+18,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11012E_COVID19 - Ospedale San Giuseppe_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11012E_COVID19 - Ospedale San Giuseppe,60-69
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,11151A_Covid 19 - Ospedale S.Antonio Abate di Pontremoli,60-69
+12,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,60-69
+7,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_16121A_Covid 19 - Ospedale Civile di Cecina_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,16121A_Covid 19 - Ospedale Civile di Cecina,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21624I_RSA A. FANFANI BADIA TEDALDA_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21624I_RSA A. FANFANI BADIA TEDALDA,60-69
+10,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46214I_R.S.A. S. FRANCESCO_60-69,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46214I_R.S.A. S. FRANCESCO,60-69
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,70-79
+4,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,70-79
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090607_COVID19 - Ospedale SS.Cosma e Damiano_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090607_COVID19 - Ospedale SS.Cosma e Damiano,70-79
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,70-79
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,70-79
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,70-79
+4,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,70-79
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,70-79
+3,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,70-79
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,70-79
+2,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,70-79
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_70-79,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,70-79
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090608_COVID19 - Ospedale Santo Stefano_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090608_COVID19 - Ospedale Santo Stefano,80-89
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090610_Covid 19 - Ospedale F.Lotti di Pontedera_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090610_Covid 19 - Ospedale F.Lotti di Pontedera,80-89
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_090632_COVID19 - Ospedale Santa Maria Nuova_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,090632_COVID19 - Ospedale Santa Maria Nuova,80-89
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,80-89
+1,Toscana,TML_CAT_OSS,08/01/2021_PF/BT_TOS_61014I_CASA PAOLO VI_80-89,1 - Operatori Sanitari e Sociosanitari,09,2021-01-08,PF/BT,61014I_CASA PAOLO VI,80-89
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090602_Covid 19 - Nuovo Ospedale Apuane_20-29,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090602_Covid 19 - Nuovo Ospedale Apuane,20-29
+1,Toscana,TML_CAT_ALTRO,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_20-29,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,20-29
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,30-39
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,30-39
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,30-39
+1,Toscana,TML_CAT_ALTRO,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,30-39
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,30-39
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_30-39,2 - Personale non Sanitario,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,30-39
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090604_Covid 19 - Ospedale San Luca di Lucca_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090604_Covid 19 - Ospedale San Luca di Lucca,40-49
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,40-49
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,40-49
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,40-49
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,40-49
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,40-49
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_40-49,2 - Personale non Sanitario,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,40-49
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090627_COVID19 - Ospedale Mugello_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090627_COVID19 - Ospedale Mugello,50-59
+2,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,50-59
+5,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,50-59
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090641_COVID19 - Ospedale La Gruccia Montevarchi_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090641_COVID19 - Ospedale La Gruccia Montevarchi,50-59
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,50-59
+3,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,50-59
+1,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_50-59,2 - Personale non Sanitario,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,50-59
+3,Toscana,TML_CAT_PERSONALE,08/01/2021_PF/BT_TOS_090629_COVID19 - Ospedale SS. Maria Annunziata_60-69,2 - Personale non Sanitario,09,2021-01-08,PF/BT,090629_COVID19 - Ospedale SS. Maria Annunziata,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,20-29
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,20-29
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_20-29,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,20-29
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,30-39
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,30-39
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,30-39
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,30-39
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,30-39
+6,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_30-39,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,30-39
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,40-49
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,40-49
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,40-49
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_21791A_COVID19 - FTGM OPA Massa_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,21791A_COVID19 - FTGM OPA Massa,40-49
+6,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,40-49
+11,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_40-49,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,40-49
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_05424I_Covid19 - RSA ARCOBALENO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,05424I_Covid19 - RSA ARCOBALENO,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090901_COVID19 - AOU Pisana_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090901_COVID19 - AOU Pisana,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090902_COVID19 - AOU Senese_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090902_COVID19 - AOU Senese,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,50-59
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_22391A_PRESIDIO AVENZA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,22391A_PRESIDIO AVENZA,50-59
+11,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,50-59
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90094I_CASA DI RIPOSO SS.ANNUNZIATA_50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90094I_CASA DI RIPOSO SS.ANNUNZIATA,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._50-59,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,50-59
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090621_COVID19 - Ospedale di Arezzo_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090621_COVID19 - Ospedale di Arezzo,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090903_COVID19 - AOU Careggi_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090903_COVID19 - AOU Careggi,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,60-69
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,60-69
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_30614L_RSA PODERE MODELLO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,30614L_RSA PODERE MODELLO,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,60-69
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_322G4I_RSA SACRO CUORE_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,322G4I_RSA SACRO CUORE,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46214I_R.S.A. S. FRANCESCO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46214I_R.S.A. S. FRANCESCO,60-69
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,60-69
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._60-69,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,60-69
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,70-79
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,70-79
+9,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,70-79
+6,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,70-79
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,70-79
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,70-79
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,70-79
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_21624I_RSA A. FANFANI BADIA TEDALDA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,21624I_RSA A. FANFANI BADIA TEDALDA,70-79
+5,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,70-79
+16,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,70-79
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_61014I_CASA PAOLO VI_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,61014I_CASA PAOLO VI,70-79
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_U0064I_Covis19 - RSA ALBA SERENA_70-79,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,U0064I_Covis19 - RSA ALBA SERENA,70-79
+14,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,80-89
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_06104I_RSA IL SOLE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,06104I_RSA IL SOLE,80-89
+9,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,80-89
+11,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,80-89
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,80-89
+4,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12194I_Covid19 - RSA PONTREMOLI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12194I_Covid19 - RSA PONTREMOLI,80-89
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13021A_COVID19 - Ospedale S.Giovanni di Dio_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13021A_COVID19 - Ospedale S.Giovanni di Dio,80-89
+15,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,80-89
+10,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,80-89
+4,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_21624I_RSA A. FANFANI BADIA TEDALDA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,21624I_RSA A. FANFANI BADIA TEDALDA,80-89
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,80-89
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_322G4I_RSA SACRO CUORE_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,322G4I_RSA SACRO CUORE,80-89
+2,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,80-89
+6,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46214I_R.S.A. S. FRANCESCO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46214I_R.S.A. S. FRANCESCO,80-89
+19,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,80-89
+17,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_61014I_CASA PAOLO VI_80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,61014I_CASA PAOLO VI,80-89
+6,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._80-89,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,80-89
+14,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_01024I_RSA VILLA CHIARA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,01024I_RSA VILLA CHIARA,90+
+7,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090613_Covid 19 - Ospedali Riuniti di Livorno_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090613_Covid 19 - Ospedali Riuniti di Livorno,90+
+9,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_090640_Covid 19 - Ospedale Unico Versilia_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,090640_Covid 19 - Ospedale Unico Versilia,90+
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_12034I_R.S.A. MARINA DI LEVANTE_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,12034I_R.S.A. MARINA DI LEVANTE,90+
+15,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_13594I_CASA DI RIPOSO S.M. MISERICORD_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,13594I_CASA DI RIPOSO S.M. MISERICORD,90+
+9,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_18214I_RSA S. ROMUALDO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,18214I_RSA S. ROMUALDO,90+
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_21624I_RSA A. FANFANI BADIA TEDALDA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,21624I_RSA A. FANFANI BADIA TEDALDA,90+
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_321I4I_RSA SANTA CHIARA VOLTERRA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,321I4I_RSA SANTA CHIARA VOLTERRA,90+
+7,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_322G4I_RSA SACRO CUORE_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,322G4I_RSA SACRO CUORE,90+
+3,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46151A_CSS Portoferraio_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46151A_CSS Portoferraio,90+
+4,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_46214I_R.S.A. S. FRANCESCO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,46214I_R.S.A. S. FRANCESCO,90+
+8,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_60984I_CASA DI RIPOSO IL GIGNORO_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,60984I_CASA DI RIPOSO IL GIGNORO,90+
+9,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_61014I_CASA PAOLO VI_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,61014I_CASA PAOLO VI,90+
+1,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90094I_CASA DI RIPOSO SS.ANNUNZIATA_90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90094I_CASA DI RIPOSO SS.ANNUNZIATA,90+
+7,Toscana,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_TOS_90104I_VILLA LE ORTENSIE S.R.L._90+,3 - Ospiti Strutture Residenziali,09,2021-01-08,PF/BT,90104I_VILLA LE ORTENSIE S.R.L.,90+
