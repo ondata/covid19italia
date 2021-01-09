@@ -35,8 +35,8 @@ A partire allora dai file geografici ISTAT, e dall'[elenco dei codici delle sudd
 
 Nel dettaglio:
 
-- [NUTS2_g.zip]([../../risorse/fileGeografici/NUTS2_g.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.zip)), file con limiti generalizzati (minore dettaglio), sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
-- [NUTS2.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2_g.zip]([../../risorse/fileGeografici/NUTS2_g.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.zip)), file con limiti generalizzati (minore dettaglio), formato shapefile, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
+- [NUTS2.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, formato shapefile, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
 - [NUTS2_g.geojson](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.geojson), file con limiti generalizzati, sistema di coordinate [`EPSG:4326`](https://epsg.io/4326).
 
 ## Note
