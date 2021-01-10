@@ -2,6 +2,10 @@
 
 Qui le variazioni sul set di dati sui vaccini.
 
+## 2020-01-10
+
+-- aggiunta colonna codici NUTS2 ai [dati regionali disaggegati](processing/datiRegioni/)
+
 ## 2020-01-08
 
 - stop raccolta dati di dettaglio regionali presenti in [questa cartella](processing/datiRegioni/)

@@ -11,6 +11,9 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/processing/datiRegioni
 
+# estrai file con codici NUTS2
+mlr --csv cut -f siglaRegione,NUTS2 "$folder"/risorse/codiciTerritoriali.csv >"$folder"/processing/datiRegioni/tmp_nuts2.csv
+
 for i in {01..20}; do
 
   jq <"$folder"/processing/datiRegioni/"$i".json '.[0].PH[0].DM0' | mlr --j2c unsparsify >"$folder"/rawdata/tmp.csv
@@ -55,7 +58,16 @@ for i in {01..20}; do
   $c=sub($identificativo,"^([0-9]+/[0-9]+/[0-9]+)_(.+)_([A-Z]{3})_(.+)_([0-9]+(-|[+])*[0-9]*)$","\3");
   ' then rename b,vaccino,d,punto,e,classeEta,c,siglaRegione \
   then sort -f data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/"$i".csv
+
+  # aggiungi codice NUTS2
+  mlr --csv join --ul -j siglaRegione -f "$folder"/processing/datiRegioni/"$i".csv then unsparsify then reorder -e -f siglaRegione,NUTS2 "$folder"/processing/datiRegioni/tmp_nuts2.csv >"$folder"/processing/datiRegioni/tmp.csv
+
+  mv "$folder"/processing/datiRegioni/tmp.csv "$folder"/processing/datiRegioni/"$i".csv
+
 done
 
 # fai il merge dei dati di dettaglio regionali
 mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
+
+# fai pulizia
+rm "$folder"/processing/datiRegioni/tmp_nuts2.csv
