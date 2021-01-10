@@ -1,7 +1,7 @@
 name: aggiorna dati vaccini dettaglio regioni
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '7 2 * * *'
