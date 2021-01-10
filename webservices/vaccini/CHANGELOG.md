@@ -8,7 +8,7 @@ Qui le variazioni sul set di dati sui vaccini.
 
 ## 2020-01-08
 
-- stop raccolta dati di dettaglio regionali presenti in [questa cartella](processing/datiRegioni/)
+- ~~stop raccolta dati di dettaglio regionali presenti in [questa cartella](processing/datiRegioni/)~~ (abbiamo ripreso a scaricarli)
 ## 2020-01-07
 
 - aggiunta risorsa con [dati di popolazione regione](risorse/popolazioneRegioni.csv) (fonte API REST SDMX ISTAT);
