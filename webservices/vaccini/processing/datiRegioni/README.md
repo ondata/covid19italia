@@ -78,3 +78,7 @@ Ci preme sottolineare due elementi:
 | 18 | Calabria |
 | 19 | Sicilia |
 | 20 | Sardegna |
+
+---
+
+A cura dell'[**associazione onData**](https://ondata.it/)
