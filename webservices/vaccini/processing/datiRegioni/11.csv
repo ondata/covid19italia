@@ -958,3 +958,117 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_60-69,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,60-69,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona_60-69,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona,60-69,MAR,ITI3
 1,Marche,TML_CAT_ALTRO,09/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_70-79,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000401_Ospedale Augusto Murri - FERMO,70-79,MAR,ITI3
+4,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_16-19,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,16-19,MAR,ITI3
+9,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
+26,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,20-29,MAR,ITI3
+7,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,20-29,MAR,ITI3
+7,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
+6,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,20-29,MAR,ITI3
+13,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,20-29,MAR,ITI3
+18,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,20-29,MAR,ITI3
+24,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,20-29,MAR,ITI3
+12,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,20-29,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),30-39,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,30-39,MAR,ITI3
+23,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
+2,Marche,TML_CAT_OSS,"10/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
+12,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,30-39,MAR,ITI3
+19,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
+9,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
+7,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,30-39,MAR,ITI3
+36,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,30-39,MAR,ITI3
+47,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,30-39,MAR,ITI3
+46,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
+14,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,30-39,MAR,ITI3
+41,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),40-49,MAR,ITI3
+28,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
+39,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+5,Marche,TML_CAT_OSS,"10/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
+4,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,40-49,MAR,ITI3
+57,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
+64,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
+43,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,40-49,MAR,ITI3
+26,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,40-49,MAR,ITI3
+44,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),50-59,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,50-59,MAR,ITI3
+26,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,50-59,MAR,ITI3
+9,Marche,TML_CAT_OSS,"10/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
+21,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,50-59,MAR,ITI3
+20,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
+21,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
+6,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,50-59,MAR,ITI3
+58,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,50-59,MAR,ITI3
+107,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,50-59,MAR,ITI3
+49,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,50-59,MAR,ITI3
+31,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,50-59,MAR,ITI3
+20,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),60-69,MAR,ITI3
+6,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,60-69,MAR,ITI3
+22,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
+13,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
+12,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,60-69,MAR,ITI3
+27,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
+156,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,60-69,MAR,ITI3
+19,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
+15,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,60-69,MAR,ITI3
+8,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,70-79,MAR,ITI3
+3,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,70-79,MAR,ITI3
+9,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,70-79,MAR,ITI3
+3,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,70-79,MAR,ITI3
+8,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,70-79,MAR,ITI3
+2,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_80-89,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,80-89,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,20-29,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,20-29,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_20-29,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,30-39,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,30-39,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,30-39,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_30-39,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+8,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
+6,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,40-49,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
+17,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,40-49,MAR,ITI3
+17,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_40-49,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,50-59,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,50-59,MAR,ITI3
+9,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,50-59,MAR,ITI3
+13,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
+8,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
+8,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,50-59,MAR,ITI3
+15,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,50-59,MAR,ITI3
+38,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,50-59,MAR,ITI3
+14,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_50-59,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+6,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,60-69,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,60-69,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,10/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_60-69,2 - Personale non Sanitario,11,2021-01-10,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,60-69,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_20-29,3 - Ospiti Strutture Residenziali,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,20-29,MAR,ITI3
+1,Marche,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_30-39,3 - Ospiti Strutture Residenziali,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,30-39,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,3 - Ospiti Strutture Residenziali,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_50-59,3 - Ospiti Strutture Residenziali,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,50-59,MAR,ITI3

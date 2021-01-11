@@ -74,3 +74,17 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Valle d'Aosta,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_VDA_6301_DOMUS PACIS_70-79,3 - Ospiti Strutture Residenziali,02,2021-01-09,PF/BT,6301_DOMUS PACIS,70-79,VDA,ITC2
 7,Valle d'Aosta,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_VDA_6301_DOMUS PACIS_80-89,3 - Ospiti Strutture Residenziali,02,2021-01-09,PF/BT,6301_DOMUS PACIS,80-89,VDA,ITC2
 7,Valle d'Aosta,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_VDA_6301_DOMUS PACIS_90+,3 - Ospiti Strutture Residenziali,02,2021-01-09,PF/BT,6301_DOMUS PACIS,90+,VDA,ITC2
+17,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,20-29,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_20-29,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,20-29,VDA,ITC2
+41,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,30-39,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_30-39,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,30-39,VDA,ITC2
+44,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,40-49,VDA,ITC2
+7,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_40-49,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,40-49,VDA,ITC2
+58,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,50-59,VDA,ITC2
+4,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_50-59,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,50-59,VDA,ITC2
+23,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,60-69,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_OSS,10/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_70-79,1 - Operatori Sanitari e Sociosanitari,02,2021-01-10,PF/BT,20001_Presidio Ospedaliero Parini,70-79,VDA,ITC2
+6,Valle d'Aosta,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_60-69,3 - Ospiti Strutture Residenziali,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,60-69,VDA,ITC2
+8,Valle d'Aosta,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_70-79,3 - Ospiti Strutture Residenziali,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,70-79,VDA,ITC2
+4,Valle d'Aosta,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_80-89,3 - Ospiti Strutture Residenziali,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,80-89,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_VDA_7601_MICROCOMUNITA' PERLOZ_90+,3 - Ospiti Strutture Residenziali,02,2021-01-10,PF/BT,7601_MICROCOMUNITA' PERLOZ,90+,VDA,ITC2

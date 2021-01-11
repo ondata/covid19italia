@@ -1422,7 +1422,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 11,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,30-39,SIC,ITG1
 22,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034200_P.O. GUZZARDI VITTORIA,30-39,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190343_P.O. DI MARIA AVOLA,30-39,SIC,ITG1
-31,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
+38,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
 14,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,30-39,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190347_OSPEDALE GENERALE DI ZONA,30-39,SIC,ITG1
 22,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190349_P.O. Alcamo_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190349_P.O. Alcamo,30-39,SIC,ITG1
@@ -1488,7 +1488,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,40-49,SIC,ITG1
 31,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034200_P.O. GUZZARDI VITTORIA,40-49,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190343_P.O. DI MARIA AVOLA,40-49,SIC,ITG1
-33,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
+43,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,40-49,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190347_OSPEDALE GENERALE DI ZONA,40-49,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
@@ -1555,7 +1555,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 13,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,50-59,SIC,ITG1
 48,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034200_P.O. GUZZARDI VITTORIA,50-59,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
-36,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
+52,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
 13,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,50-59,SIC,ITG1
 23,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190347_OSPEDALE GENERALE DI ZONA,50-59,SIC,ITG1
 22,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
@@ -1621,7 +1621,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 12,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,60-69,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,19034200_P.O. GUZZARDI VITTORIA,60-69,SIC,ITG1
 4,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190343_P.O. DI MARIA AVOLA,60-69,SIC,ITG1
-14,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
+23,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,60-69,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190347_OSPEDALE GENERALE DI ZONA,60-69,SIC,ITG1
 12,Sicilia,TML_CAT_OSS,05/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-05,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
@@ -2489,7 +2489,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_ALTRO,06/01/2021_PF/BT_SIC_19034000_P.O. MAGGIORE MODICA_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,19034000_P.O. MAGGIORE MODICA,60-69,SIC,ITG1
 5,Sicilia,TML_CAT_ALTRO,06/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,60-69,SIC,ITG1
 24,Sicilia,TML_CAT_PERSONALE,06/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,60-69,SIC,ITG1
-24,Sicilia,TML_CAT_PERSONALE,06/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,60-69,SIC,ITG1
 4,Sicilia,TML_CAT_ALTRO,06/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,06/01/2021_PF/BT_SIC_190351_P.O. S. Antonio Abate_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,190351_P.O. S. Antonio Abate,60-69,SIC,ITG1
 2,Sicilia,TML_CAT_ALTRO,06/01/2021_PF/BT_SIC_190351_P.O. S. Antonio Abate_60-69,2 - Personale non Sanitario,19,2021-01-06,PF/BT,190351_P.O. S. Antonio Abate,60-69,SIC,ITG1
@@ -2537,6 +2536,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,20-29,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,20-29,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190204_ASP DI ENNA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190204_ASP DI ENNA,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,20-29,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020703_Ambulatorio Vaccinale Comiso_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020703_Ambulatorio Vaccinale Comiso,20-29,SIC,ITG1
 15,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,20-29,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,"07/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",20-29,SIC,ITG1
@@ -2565,7 +2565,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,20-29,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,20-29,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190343_P.O. DI MARIA AVOLA,20-29,SIC,ITG1
-1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),20-29,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,20-29,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,20-29,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190349_P.O. Alcamo,20-29,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190351_Centro Siciliano di Riabilitazione Comiso_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190351_Centro Siciliano di Riabilitazione Comiso,20-29,SIC,ITG1
@@ -2609,6 +2610,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,30-39,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,30-39,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190204_ASP DI ENNA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190204_ASP DI ENNA,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,30-39,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020701_Ambulatorio Vaccinale Ragusa_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020701_Ambulatorio Vaccinale Ragusa,30-39,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020703_Ambulatorio Vaccinale Comiso_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020703_Ambulatorio Vaccinale Comiso,30-39,SIC,ITG1
 23,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,30-39,SIC,ITG1
@@ -2640,8 +2642,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,30-39,SIC,ITG1
 11,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,30-39,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190343_P.O. DI MARIA AVOLA,30-39,SIC,ITG1
-11,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
-5,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,30-39,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
+8,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,30-39,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,30-39,SIC,ITG1
 15,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190349_P.O. Alcamo,30-39,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190351_Centro Siciliano di Riabilitazione Comiso_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190351_Centro Siciliano di Riabilitazione Comiso,30-39,SIC,ITG1
@@ -2687,6 +2689,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,40-49,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,40-49,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190204_ASP DI ENNA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190204_ASP DI ENNA,40-49,SIC,ITG1
+8,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020701_Ambulatorio Vaccinale Ragusa_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020701_Ambulatorio Vaccinale Ragusa,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020703_Ambulatorio Vaccinale Comiso_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020703_Ambulatorio Vaccinale Comiso,40-49,SIC,ITG1
 44,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,40-49,SIC,ITG1
@@ -2718,8 +2721,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,40-49,SIC,ITG1
 23,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,40-49,SIC,ITG1
 12,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190343_P.O. DI MARIA AVOLA,40-49,SIC,ITG1
-16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
-6,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,40-49,SIC,ITG1
+29,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
+8,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,40-49,SIC,ITG1
 29,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,40-49,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190351_Centro Siciliano di Riabilitazione Comiso_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190351_Centro Siciliano di Riabilitazione Comiso,40-49,SIC,ITG1
@@ -2763,6 +2766,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,50-59,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,50-59,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190204_ASP DI ENNA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190204_ASP DI ENNA,50-59,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,50-59,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020701_Ambulatorio Vaccinale Ragusa_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020701_Ambulatorio Vaccinale Ragusa,50-59,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020703_Ambulatorio Vaccinale Comiso_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020703_Ambulatorio Vaccinale Comiso,50-59,SIC,ITG1
 72,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
@@ -2794,8 +2798,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 10,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,50-59,SIC,ITG1
 24,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,50-59,SIC,ITG1
 27,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
-16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
-7,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,50-59,SIC,ITG1
+37,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,50-59,SIC,ITG1
 30,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,50-59,SIC,ITG1
 23,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
 7,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190351_Centro Siciliano di Riabilitazione Comiso_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190351_Centro Siciliano di Riabilitazione Comiso,50-59,SIC,ITG1
@@ -2838,6 +2842,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_Fondazione Ortus_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_Fondazione Ortus,60-69,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,60-69,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,60-69,SIC,ITG1
+24,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,60-69,SIC,ITG1
 7,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020701_Ambulatorio Vaccinale Ragusa_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020701_Ambulatorio Vaccinale Ragusa,60-69,SIC,ITG1
 61,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,60-69,SIC,ITG1
 22,Sicilia,TML_CAT_OSS,"07/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",60-69,SIC,ITG1
@@ -2866,8 +2871,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 23,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034000_P.O. MAGGIORE MODICA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034000_P.O. MAGGIORE MODICA,60-69,SIC,ITG1
 13,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,60-69,SIC,ITG1
 31,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190343_P.O. DI MARIA AVOLA,60-69,SIC,ITG1
-18,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
-6,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,60-69,SIC,ITG1
+43,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
+15,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,60-69,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,60-69,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190351_Centro Siciliano di Riabilitazione Comiso_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190351_Centro Siciliano di Riabilitazione Comiso,60-69,SIC,ITG1
@@ -2907,6 +2912,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_OSS,"07/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_70-79",1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,"190201_ASP Agrigento ""territorio""",70-79,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_CTR ISTITUTO GIOVANNI GIOVANNI XXIII_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_CTR ISTITUTO GIOVANNI GIOVANNI XXIII,70-79,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190205_Cittadella della Salute,70-79,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020701_Ambulatorio Vaccinale Ragusa_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020701_Ambulatorio Vaccinale Ragusa,70-79,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_19020703_Ambulatorio Vaccinale Comiso_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,19020703_Ambulatorio Vaccinale Comiso,70-79,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,70-79,SIC,ITG1
@@ -3083,6 +3089,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Sicilia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_SIC_19033801_P.O. ""OMPA"" - Ragusa (RG)_40-49",2 - Personale non Sanitario,19,2021-01-07,PF/BT,"19033801_P.O. ""OMPA"" - Ragusa (RG)",40-49,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_19034100_P.O. MAGGIORE BUSACCA SCICLI_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,19034100_P.O. MAGGIORE BUSACCA SCICLI,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,07/01/2021_PF/BT_SIC_19034200_P.O. GUZZARDI VITTORIA_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,19034200_P.O. GUZZARDI VITTORIA,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
 8,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190347_OSPEDALE GENERALE DI ZONA,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
 4,Sicilia,TML_CAT_ALTRO,07/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
@@ -3121,11 +3128,11 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190203_ODA DI PEDARA_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190203_ODA DI PEDARA,50-59,SIC,ITG1
 3,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190203_RSA DON MICHELE CANNIZZO_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190203_RSA DON MICHELE CANNIZZO,50-59,SIC,ITG1
 12,Sicilia,TML_CAT_ALTRO,07/01/2021_PF/BT_SIC_190204_ASP DI ENNA_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190204_ASP DI ENNA,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190205_Cittadella della Salute_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190205_Cittadella della Salute,50-59,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
 13,Sicilia,TML_CAT_ALTRO,07/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
 12,Sicilia,TML_CAT_PERSONALE,07/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,50-59,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,"07/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_50-59",2 - Personale non Sanitario,19,2021-01-07,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",50-59,SIC,ITG1
-16,Sicilia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_50-59",2 - Personale non Sanitario,19,2021-01-07,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",50-59,SIC,ITG1
 16,Sicilia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_50-59",2 - Personale non Sanitario,19,2021-01-07,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",50-59,SIC,ITG1
 23,Sicilia,TML_CAT_PERSONALE,"07/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_50-59",2 - Personale non Sanitario,19,2021-01-07,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",50-59,SIC,ITG1
 5,Sicilia,TML_CAT_ALTRO,07/01/2021_PF/BT_SIC_190306_PO S.ELIA_50-59,2 - Personale non Sanitario,19,2021-01-07,PF/BT,190306_PO S.ELIA,50-59,SIC,ITG1
@@ -3321,7 +3328,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)",20-29,SIC,ITG1
 13,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",20-29,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",20-29,SIC,ITG1
-3,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),20-29,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),20-29,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,20-29,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190351_P.O. S. Antonio Abate_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190351_P.O. S. Antonio Abate,20-29,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190352_P.O. Castelvetrano,20-29,SIC,ITG1
@@ -3391,7 +3398,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_30-39",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",30-39,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_30-39",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",30-39,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190343_P.O. DI MARIA AVOLA,30-39,SIC,ITG1
-21,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
+27,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,30-39,SIC,ITG1
 10,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190347_OSPEDALE GENERALE DI ZONA,30-39,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190349_P.O. Alcamo,30-39,SIC,ITG1
@@ -3467,7 +3474,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 18,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_40-49",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",40-49,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_40-49",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",40-49,SIC,ITG1
 14,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190343_P.O. DI MARIA AVOLA,40-49,SIC,ITG1
-32,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
+40,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
 16,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,40-49,SIC,ITG1
 24,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190347_OSPEDALE GENERALE DI ZONA,40-49,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
@@ -3543,7 +3550,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 13,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",50-59,SIC,ITG1
 18,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",50-59,SIC,ITG1
 24,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
-50,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
+58,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
 33,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,50-59,SIC,ITG1
 53,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190347_OSPEDALE GENERALE DI ZONA,50-59,SIC,ITG1
 4,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
@@ -3618,7 +3625,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",60-69,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",60-69,SIC,ITG1
 11,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190343_P.O. DI MARIA AVOLA,60-69,SIC,ITG1
-21,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
+27,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
 30,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190346_P.O. MUSCATELLO AUGUSTA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190346_P.O. MUSCATELLO AUGUSTA,60-69,SIC,ITG1
 32,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190347_OSPEDALE GENERALE DI ZONA,60-69,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-08,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
@@ -3830,7 +3837,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190333_P.O. MADONNA DELL'ALTO - PETR. SOTTANA_40-49,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190333_P.O. MADONNA DELL'ALTO - PETR. SOTTANA,40-49,SIC,ITG1
 6,Sicilia,TML_CAT_ALTRO,08/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
 18,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
-18,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,"08/01/2021_PF/BT_SIC_19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)_40-49",2 - Personale non Sanitario,19,2021-01-08,PF/BT,"19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)",40-49,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_40-49",2 - Personale non Sanitario,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",40-49,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,"08/01/2021_PF/BT_SIC_19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)_40-49",2 - Personale non Sanitario,19,2021-01-08,PF/BT,"19034200_P.O. ""R. Guzzardi"" - Vittoria (RG)",40-49,SIC,ITG1
@@ -3905,7 +3911,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Sicilia,TML_CAT_PERSONALE,"08/01/2021_PF/BT_SIC_19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)_50-59",2 - Personale non Sanitario,19,2021-01-08,PF/BT,"19033800_P.O. ""Giovanni Paolo II"" - Ragusa (RG)",50-59,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,"08/01/2021_PF/BT_SIC_19033800_P.O. ""OMPA"" - Ragusa (RG)_50-59",2 - Personale non Sanitario,19,2021-01-08,PF/BT,"19033800_P.O. ""OMPA"" - Ragusa (RG)",50-59,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,08/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
-4,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
+6,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
 8,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190347_OSPEDALE GENERALE DI ZONA,50-59,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
 2,Sicilia,TML_CAT_ALTRO,08/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,2 - Personale non Sanitario,19,2021-01-08,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
@@ -4103,6 +4109,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190520_Centro Catanese di Medicina_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190520_Centro Catanese di Medicina,20-29,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,20-29,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,20-29,SIC,ITG1
+13,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,20-29,SIC,ITG1
 7,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,20-29,SIC,ITG1
 4,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,20-29,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,20-29,SIC,ITG1
@@ -4171,6 +4178,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,30-39,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,30-39,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,30-39,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,30-39,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,30-39,SIC,ITG1
 10,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,30-39,SIC,ITG1
 5,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,30-39,SIC,ITG1
@@ -4244,6 +4252,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,40-49,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,40-49,SIC,ITG1
+35,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,40-49,SIC,ITG1
 10,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,40-49,SIC,ITG1
 9,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,40-49,SIC,ITG1
 4,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,40-49,SIC,ITG1
@@ -4317,6 +4326,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 10,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,50-59,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,50-59,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,50-59,SIC,ITG1
+27,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,50-59,SIC,ITG1
 8,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,50-59,SIC,ITG1
 11,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,50-59,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,50-59,SIC,ITG1
@@ -4391,6 +4401,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190520_Centro Catanese di Medicina_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190520_Centro Catanese di Medicina,60-69,SIC,ITG1
 7,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,60-69,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,60-69,SIC,ITG1
+29,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,60-69,SIC,ITG1
 6,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,60-69,SIC,ITG1
 7,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,60-69,SIC,ITG1
 4,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,60-69,SIC,ITG1
@@ -4442,6 +4453,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190523_Gibiino_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190523_Gibiino,70-79,SIC,ITG1
 3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,70-79,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,70-79,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,70-79,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,70-79,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,70-79,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,70-79,SIC,ITG1
@@ -4463,10 +4475,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190335_G.F.Ingrassia,80-89,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190353_P.O. Marsala_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190353_P.O. Marsala,80-89,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190513_Clinica Morgagni_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190513_Clinica Morgagni,80-89,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,80-89,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190542_CASA DI CURA TORINA_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190542_CASA DI CURA TORINA,80-89,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,80-89,SIC,ITG1
 2,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_19020781_Casa di Riposo Roccaporena - Modica_90+,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,19020781_Casa di Riposo Roccaporena - Modica,90+,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_90+,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190337_P.O. VILLA DELLE GINESTRE,90+,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_90+,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,90+,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_190551_CASA DI CURA LA MADDALENA S.P.A._90+,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,190551_CASA DI CURA LA MADDALENA S.P.A.,90+,SIC,ITG1
 1,Sicilia,TML_CAT_OSS,09/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_90+,1 - Operatori Sanitari e Sociosanitari,19,2021-01-09,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,90+,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_16-19,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,16-19,SIC,ITG1
@@ -4591,7 +4605,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,40-49,SIC,ITG1
 2,Sicilia,TML_CAT_ALTRO,"09/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-09,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
 24,Sicilia,TML_CAT_PERSONALE,"09/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-09,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
-24,Sicilia,TML_CAT_PERSONALE,"09/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-09,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
 4,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190306_PO S.ELIA_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190306_PO S.ELIA,40-49,SIC,ITG1
 5,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190306_PO S.ELIA_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190306_PO S.ELIA,40-49,SIC,ITG1
 6,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190309_PO VITTORIO EMANUELE,40-49,SIC,ITG1
@@ -4621,6 +4634,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190520_Centro Catanese di Medicina_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190520_Centro Catanese di Medicina,40-49,SIC,ITG1
 2,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190523_Gibiino_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190523_Gibiino,40-49,SIC,ITG1
 1,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,40-49,SIC,ITG1
 5,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,40-49,SIC,ITG1
 2,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,40-49,SIC,ITG1
 3,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190542_CASA DI CURA TORINA_40-49,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190542_CASA DI CURA TORINA,40-49,SIC,ITG1
@@ -4690,6 +4704,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190525_CASA DI CURA SAN CAMILLO – MESSINA_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190525_CASA DI CURA SAN CAMILLO – MESSINA,50-59,SIC,ITG1
 1,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,50-59,SIC,ITG1
 2,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190530_COT CURE ORTOPODICHE TRAUMATOLOGICHE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190533_CASA DI CURA CANDELA SPA_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190533_CASA DI CURA CANDELA SPA,50-59,SIC,ITG1
 4,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190534_CASA DI CURE ORESTANO SRL_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190534_CASA DI CURE ORESTANO SRL,50-59,SIC,ITG1
 3,Sicilia,TML_CAT_PERSONALE,09/01/2021_PF/BT_SIC_190540_NUOVA CASA DI CURE DEMMA srl_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190540_NUOVA CASA DI CURE DEMMA srl,50-59,SIC,ITG1
 2,Sicilia,TML_CAT_ALTRO,09/01/2021_PF/BT_SIC_190542_CASA DI CURA TORINA_50-59,2 - Personale non Sanitario,19,2021-01-09,PF/BT,190542_CASA DI CURA TORINA,50-59,SIC,ITG1
@@ -4843,3 +4858,409 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Sicilia,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_SIC_19020782_Casa di Riposo Villa Clementina - Modica_90+,3 - Ospiti Strutture Residenziali,19,2021-01-09,PF/BT,19020782_Casa di Riposo Villa Clementina - Modica,90+,SIC,ITG1
 3,Sicilia,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-09,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,90+,SIC,ITG1
 8,Sicilia,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_SIC_816100_R.S.A. - CASA SAN CALOGERO - OPERA DON GUANELLA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-09,PF/BT,816100_R.S.A. - CASA SAN CALOGERO - OPERA DON GUANELLA,90+,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_16-19,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,16-19,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_16-19,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,16-19,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_16-19,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,16-19,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190203_REMS_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190203_REMS,20-29,SIC,ITG1
+22,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,20-29,SIC,ITG1
+10,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",20-29,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_20-29",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",20-29,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,20-29,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),20-29,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,20-29,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,20-29,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,20-29,SIC,ITG1
+8,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190345_P.O. UMBERTO I (EX A.O.),20-29,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190349_P.O. Alcamo,20-29,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190353_P.O. Marsala_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190353_P.O. Marsala,20-29,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,20-29,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,20-29,SIC,ITG1
+14,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190925_A.O.U. Policlinico G.Martino_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190925_A.O.U. Policlinico G.Martino,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,20-29,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,20-29,SIC,ITG1
+10,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,20-29,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_20-29,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,20-29,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_30-39",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",30-39,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190203_REMS_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190203_REMS,30-39,SIC,ITG1
+38,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,30-39,SIC,ITG1
+21,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_30-39",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",30-39,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_30-39",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",30-39,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,30-39,SIC,ITG1
+13,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),30-39,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),30-39,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,30-39,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,30-39,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,30-39,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,30-39,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,30-39,SIC,ITG1
+14,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,30-39,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190345_P.O. UMBERTO I (EX A.O.),30-39,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190349_P.O. Alcamo,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,30-39,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190353_P.O. Marsala_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190353_P.O. Marsala,30-39,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,30-39,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,30-39,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190925_A.O.U. Policlinico G.Martino_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190925_A.O.U. Policlinico G.Martino,30-39,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,30-39,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,30-39,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,30-39,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_30-39,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,30-39,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_40-49",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",40-49,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190203_REMS_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190203_REMS,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,40-49,SIC,ITG1
+31,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,40-49,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_40-49",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",40-49,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,40-49,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,40-49,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),40-49,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,40-49,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,40-49,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,40-49,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190345_P.O. UMBERTO I (EX A.O.),40-49,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,40-49,SIC,ITG1
+14,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190353_P.O. Marsala_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190353_P.O. Marsala,40-49,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,40-49,SIC,ITG1
+14,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,40-49,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,40-49,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190925_A.O.U. Policlinico G.Martino_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190925_A.O.U. Policlinico G.Martino,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,40-49,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,40-49,SIC,ITG1
+24,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,40-49,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,40-49,SIC,ITG1
+35,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_40-49,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",50-59,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190203_REMS_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190203_REMS,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,50-59,SIC,ITG1
+35,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",50-59,SIC,ITG1
+8,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,50-59,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",50-59,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_50-59",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",50-59,SIC,ITG1
+22,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,50-59,SIC,ITG1
+10,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),50-59,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),50-59,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,50-59,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,50-59,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,50-59,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,50-59,SIC,ITG1
+29,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190345_P.O. UMBERTO I (EX A.O.),50-59,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,50-59,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190353_P.O. Marsala_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190353_P.O. Marsala,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,50-59,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,50-59,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,50-59,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,50-59,SIC,ITG1
+28,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190925_A.O.U. Policlinico G.Martino_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190925_A.O.U. Policlinico G.Martino,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,50-59,SIC,ITG1
+18,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,50-59,SIC,ITG1
+23,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,50-59,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,50-59,SIC,ITG1
+27,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_50-59,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",60-69,SIC,ITG1
+36,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,60-69,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",60-69,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",60-69,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_60-69",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",60-69,SIC,ITG1
+13,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,60-69,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,60-69,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),60-69,SIC,ITG1
+13,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),60-69,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,60-69,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,60-69,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,60-69,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,60-69,SIC,ITG1
+47,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,60-69,SIC,ITG1
+7,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,60-69,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190345_P.O. UMBERTO I (EX A.O.)_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190345_P.O. UMBERTO I (EX A.O.),60-69,SIC,ITG1
+6,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190347_OSPEDALE GENERALE DI ZONA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190347_OSPEDALE GENERALE DI ZONA,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,60-69,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190353_P.O. Marsala_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190353_P.O. Marsala,60-69,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,60-69,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,60-69,SIC,ITG1
+10,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,60-69,SIC,ITG1
+16,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190925_A.O.U. Policlinico G.Martino_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190925_A.O.U. Policlinico G.Martino,60-69,SIC,ITG1
+4,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,60-69,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,60-69,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,60-69,SIC,ITG1
+13,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608200_PTA San Giorgio_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608200_PTA San Giorgio,60-69,SIC,ITG1
+24,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_60-69,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_70-79",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",70-79,SIC,ITG1
+11,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_OSS,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_70-79",1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",70-79,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT)_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190314_P.O. MARIA SS. ADDOLORATA - BIANCAVILLA (CT),70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,70-79,SIC,ITG1
+12,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,70-79,SIC,ITG1
+5,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190523_Gibiino_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190523_Gibiino,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,70-79,SIC,ITG1
+3,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,70-79,SIC,ITG1
+9,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_608400_PTA S.LUIGI_70-79,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,608400_PTA S.LUIGI,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_OSS,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_80-89,1 - Operatori Sanitari e Sociosanitari,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,80-89,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_16-19",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",16-19,SIC,ITG1
+13,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_16-19",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",16-19,SIC,ITG1
+8,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_20-29",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",20-29,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_GIRASOLI_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_GIRASOLI,20-29,SIC,ITG1
+6,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_ORCHIDEA_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_ORCHIDEA,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190203_REMS_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,20-29,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190203_REMS_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,20-29,SIC,ITG1
+4,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,20-29,SIC,ITG1
+14,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,20-29,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_20-29",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",20-29,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,20-29,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_20-29",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",20-29,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_20-29",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",20-29,SIC,ITG1
+18,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_20-29",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",20-29,SIC,ITG1
+6,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,20-29,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,20-29,SIC,ITG1
+4,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_20-29,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,20-29,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_30-39",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",30-39,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_GIRASOLI_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_GIRASOLI,30-39,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_SMODIGITRIA,30-39,SIC,ITG1
+8,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190203_REMS_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,30-39,SIC,ITG1
+7,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,30-39,SIC,ITG1
+11,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,30-39,SIC,ITG1
+9,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_30-39",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",30-39,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,30-39,SIC,ITG1
+8,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_30-39",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",30-39,SIC,ITG1
+9,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_30-39",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",30-39,SIC,ITG1
+10,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_30-39",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",30-39,SIC,ITG1
+6,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,30-39,SIC,ITG1
+7,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),30-39,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,30-39,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,30-39,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,30-39,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190523_Gibiino_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,30-39,SIC,ITG1
+7,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,30-39,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,30-39,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,30-39,SIC,ITG1
+5,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_30-39,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,30-39,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",40-49,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_GIRASOLI_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_GIRASOLI,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,40-49,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_SMODIGITRIA,40-49,SIC,ITG1
+4,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190203_REMS_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,40-49,SIC,ITG1
+10,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190203_REMS_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,40-49,SIC,ITG1
+11,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,40-49,SIC,ITG1
+18,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,40-49,SIC,ITG1
+18,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",40-49,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,40-49,SIC,ITG1
+11,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,40-49,SIC,ITG1
+8,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",40-49,SIC,ITG1
+18,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
+18,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
+18,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_40-49",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",40-49,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,40-49,SIC,ITG1
+6,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),40-49,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,40-49,SIC,ITG1
+7,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,40-49,SIC,ITG1
+5,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,40-49,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190523_Gibiino_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190523_Gibiino_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,40-49,SIC,ITG1
+9,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,40-49,SIC,ITG1
+24,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,40-49,SIC,ITG1
+24,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,40-49,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_40-49,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,40-49,SIC,ITG1
+9,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",50-59,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_GIRASOLI_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_GIRASOLI,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_SMODIGITRIA,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190203_REMS_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,50-59,SIC,ITG1
+5,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190203_REMS_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,50-59,SIC,ITG1
+12,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
+22,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,50-59,SIC,ITG1
+18,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",50-59,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,50-59,SIC,ITG1
+4,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",50-59,SIC,ITG1
+16,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",50-59,SIC,ITG1
+24,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",50-59,SIC,ITG1
+24,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_50-59",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",50-59,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,50-59,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,50-59,SIC,ITG1
+6,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),50-59,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190332_P.O. CIVICO PARTINICO_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190332_P.O. CIVICO PARTINICO,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,50-59,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,50-59,SIC,ITG1
+12,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190523_Gibiino_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,50-59,SIC,ITG1
+8,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190523_Gibiino_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,50-59,SIC,ITG1
+7,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,50-59,SIC,ITG1
+35,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.02_A.R.N.A.S. Di Cristina_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.02_A.R.N.A.S. Di Cristina,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,50-59,SIC,ITG1
+4,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_50-59,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_60-69",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190203_REMS_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190203_REMS_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190203_REMS,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,60-69,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,60-69,SIC,ITG1
+7,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_60-69",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",60-69,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,60-69,SIC,ITG1
+5,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_60-69",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",60-69,SIC,ITG1
+9,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_60-69",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",60-69,SIC,ITG1
+12,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_60-69",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",60-69,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190309_PO VITTORIO EMANUELE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190309_PO VITTORIO EMANUELE,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,60-69,SIC,ITG1
+4,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190313_P.O. S.GIOVANNI DI DIO E S.ISIDORO GIARRE,60-69,SIC,ITG1
+8,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190317_P.O. CALTAGIRONE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190317_P.O. CALTAGIRONE,60-69,SIC,ITG1
+6,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190334_P.O. S. CIMINO TERMINI IMERESE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190334_P.O. S. CIMINO TERMINI IMERESE,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190335_G.F.Ingrassia_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190335_G.F.Ingrassia,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190343_P.O. DI MARIA AVOLA_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190343_P.O. DI MARIA AVOLA,60-69,SIC,ITG1
+6,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190352_P.O. Castelvetrano_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190352_P.O. Castelvetrano,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190523_Gibiino_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190602_CENTRO ANDROS S.R.L._60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190602_CENTRO ANDROS S.R.L.,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_19092204_ARNAS GARIBALDI P. O. NESIMA_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,19092204_ARNAS GARIBALDI P. O. NESIMA,60-69,SIC,ITG1
+16,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,60-69,SIC,ITG1
+16,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,60-69,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_60-69,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_70-79",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",70-79,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190301_Presidio Ospedliero San Giovanni di Dio_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190301_Presidio Ospedliero San Giovanni di Dio,70-79,SIC,ITG1
+5,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì_70-79",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190302_Presidio Ospedaliero ""B.ne Lombardo"" Canicattì",70-79,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_70-79",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",70-79,SIC,ITG1
+12,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_70-79",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",70-79,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT)_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190316_PRESIDIO OSPEDALIERO SANTISSIMO SALVATORE - PATERNO' (CT),70-79,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190337_P.O. VILLA DELLE GINESTRE_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190337_P.O. VILLA DELLE GINESTRE,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190349_P.O. Alcamo,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190523_Gibiino_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190523_Gibiino,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A._70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190536_CASA DI CURA 'TRIOLO ZANCLA' S.P.A.,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190928_AZ.OSP.UNIV.P.GIACCONE_70-79,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190928_AZ.OSP.UNIV.P.GIACCONE,70-79,SIC,ITG1
+3,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_80-89",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",80-89,SIC,ITG1
+1,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,80-89,SIC,ITG1
+55,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_80-89",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",80-89,SIC,ITG1
+18,Sicilia,TML_CAT_PERSONALE,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_80-89",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",80-89,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190330_P.O. DEI BIANCHI CORLEONE_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190330_P.O. DEI BIANCHI CORLEONE,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190921_Azienda Ospedaliera per l'Emergenza Cannizzaro_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190921_Azienda Ospedaliera per l'Emergenza Cannizzaro,80-89,SIC,ITG1
+1,Sicilia,TML_CAT_PERSONALE,10/01/2021_PF/BT_SIC_190927.01_A.R.N.A.S. Civico_80-89,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190927.01_A.R.N.A.S. Civico,80-89,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_90+",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",90+,SIC,ITG1
+9,Sicilia,TML_CAT_ALTRO,10/01/2021_PF/BT_SIC_190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata_90+,2 - Personale non Sanitario,19,2021-01-10,PF/BT,190303_Presidio Ospedalierro San Giacomo D'Altopasso Licata,90+,SIC,ITG1
+2,Sicilia,TML_CAT_ALTRO,"10/01/2021_PF/BT_SIC_190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)_90+",2 - Personale non Sanitario,19,2021-01-10,PF/BT,"190305_P.O. ""Giovanni Paolo II"" - Sciacca (AG)",90+,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_20-29,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,20-29,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_40-49",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",40-49,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_40-49,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_40-49,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,40-49,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_40-49,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,40-49,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_50-59",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",50-59,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_50-59,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_SMODIGITRIA,50-59,SIC,ITG1
+3,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_50-59,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,50-59,SIC,ITG1
+6,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_50-59,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,50-59,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_60-69",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",60-69,SIC,ITG1
+4,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_60-69,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_60-69,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_SMODIGITRIA,60-69,SIC,ITG1
+3,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_60-69,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,60-69,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_60-69,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,60-69,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_60-69",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",60-69,SIC,ITG1
+7,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_60-69,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,60-69,SIC,ITG1
+16,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_70-79",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",70-79,SIC,ITG1
+3,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_GIRASOLI_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_GIRASOLI,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_ORCHIDEA_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_ORCHIDEA,70-79,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,70-79,SIC,ITG1
+4,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_SMODIGITRIA,70-79,SIC,ITG1
+11,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,70-79,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,70-79,SIC,ITG1
+4,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_70-79,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,70-79,SIC,ITG1
+42,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_80-89",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",80-89,SIC,ITG1
+5,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_GIRASOLI_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_GIRASOLI,80-89,SIC,ITG1
+4,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_ORCHIDEA_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_ORCHIDEA,80-89,SIC,ITG1
+4,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,80-89,SIC,ITG1
+5,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_SMODIGITRIA,80-89,SIC,ITG1
+38,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,80-89,SIC,ITG1
+28,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,80-89,SIC,ITG1
+48,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_80-89",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",80-89,SIC,ITG1
+8,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_80-89,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,80-89,SIC,ITG1
+24,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190201_ASP Agrigento ""territorio""_90+",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190201_ASP Agrigento ""territorio""",90+,SIC,ITG1
+6,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_GIRASOLI_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_GIRASOLI,90+,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_ORCHIDEA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_ORCHIDEA,90+,SIC,ITG1
+1,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_RESIDENZADELSORRISO_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_RESIDENZADELSORRISO,90+,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190202_SMODIGITRIA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190202_SMODIGITRIA,90+,SIC,ITG1
+42,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190205_CASA DI OSPITALITA' COLLEREALE E ASILI D'INFANZIA - MESSINA,90+,SIC,ITG1
+16,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190208_AZIENDA SANITARIA PROVINCIALE DI SIRACUSA,90+,SIC,ITG1
+31,Sicilia,TML_CAT_RSA_OSPITI,"10/01/2021_PF/BT_SIC_190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)_90+",3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,"190304_P.O. ""F.lli Parlapiano"" - Ribera (AG)",90+,SIC,ITG1
+2,Sicilia,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_SIC_190349_P.O. Alcamo_90+,3 - Ospiti Strutture Residenziali,19,2021-01-10,PF/BT,190349_P.O. Alcamo,90+,SIC,ITG1

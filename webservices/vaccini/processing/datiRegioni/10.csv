@@ -229,6 +229,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 36,Umbria,TML_CAT_OSS,06/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-06,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,60-69,UMB,ITI2
 1,Umbria,TML_CAT_OSS,06/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_70-79,1 - Operatori Sanitari e Sociosanitari,10,2021-01-06,PF/BT,10080101_Ospedale di Città di Castello,70-79,UMB,ITI2
 1,Umbria,TML_CAT_OSS,06/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_70-79,1 - Operatori Sanitari e Sociosanitari,10,2021-01-06,PF/BT,10080501_Presidio Ospedaliero di Spoleto,70-79,UMB,ITI2
+1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,20-29,UMB,ITI2
 4,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080101_Ospedale di Città di Castello,20-29,UMB,ITI2
 6,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,20-29,UMB,ITI2
 5,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080501_Presidio Ospedaliero di Spoleto,20-29,UMB,ITI2
@@ -239,6 +240,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 14,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,20-29,UMB,ITI2
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_39970_RP ANCHISE Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,39970_RP ANCHISE Perugia,20-29,UMB,ITI2
 1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_69930_RP Opera Pia Creusa Bittoni Città della Pieve_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,69930_RP Opera Pia Creusa Bittoni Città della Pieve,20-29,UMB,ITI2
+2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,0_RP DONINI Perugia,30-39,UMB,ITI2
 3,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080101_Ospedale di Città di Castello,30-39,UMB,ITI2
 11,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,30-39,UMB,ITI2
 9,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080501_Presidio Ospedaliero di Spoleto,30-39,UMB,ITI2
@@ -249,6 +251,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 47,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,30-39,UMB,ITI2
 1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_39970_RP ANCHISE Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,39970_RP ANCHISE Perugia,30-39,UMB,ITI2
 3,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_RP999998_Residenza Servita Villa Gerini_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,RP999998_Residenza Servita Villa Gerini,30-39,UMB,ITI2
+2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,0_RP DONINI Perugia,40-49,UMB,ITI2
 3,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,40-49,UMB,ITI2
 10,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080101_Ospedale di Città di Castello,40-49,UMB,ITI2
 11,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,40-49,UMB,ITI2
@@ -259,6 +262,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 78,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
 41,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,40-49,UMB,ITI2
 1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,50-59,UMB,ITI2
+1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,50-59,UMB,ITI2
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,50-59,UMB,ITI2
 38,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080101_Ospedale di Città di Castello,50-59,UMB,ITI2
 15,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,50-59,UMB,ITI2
@@ -272,6 +276,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_69930_RP Opera Pia Creusa Bittoni Città della Pieve_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,69930_RP Opera Pia Creusa Bittoni Città della Pieve,50-59,UMB,ITI2
 1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_82101_Distretto di Spoleto R.P Casa Marini_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,82101_Distretto di Spoleto R.P Casa Marini,50-59,UMB,ITI2
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,0_RP DONINI Perugia,60-69,UMB,ITI2
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100069_RP Villa Anna Amelia_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100069_RP Villa Anna Amelia,60-69,UMB,ITI2
 5,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080101_Ospedale di Città di Castello,60-69,UMB,ITI2
 5,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,60-69,UMB,ITI2
@@ -285,6 +290,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_69930_RP Opera Pia Creusa Bittoni Città della Pieve_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,69930_RP Opera Pia Creusa Bittoni Città della Pieve,60-69,UMB,ITI2
 2,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_70-79,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,70-79,UMB,ITI2
 1,Umbria,TML_CAT_OSS,07/01/2021_PF/BT_UMB_39970_RP ANCHISE Perugia_70-79,1 - Operatori Sanitari e Sociosanitari,10,2021-01-07,PF/BT,39970_RP ANCHISE Perugia,70-79,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_20-29,2 - Personale non Sanitario,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,20-29,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_40-49,2 - Personale non Sanitario,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,40-49,UMB,ITI2
 1,Umbria,TML_CAT_PERSONALE,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_40-49,2 - Personale non Sanitario,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,40-49,UMB,ITI2
 1,Umbria,TML_CAT_PERSONALE,07/01/2021_PF/BT_UMB_RP999998_Residenza Servita Villa Gerini_40-49,2 - Personale non Sanitario,10,2021-01-07,PF/BT,RP999998_Residenza Servita Villa Gerini,40-49,UMB,ITI2
 1,Umbria,TML_CAT_ALTRO,07/01/2021_PF/BT_UMB_39970_RP ANCHISE Perugia_50-59,2 - Personale non Sanitario,10,2021-01-07,PF/BT,39970_RP ANCHISE Perugia,50-59,UMB,ITI2
@@ -301,6 +308,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_RSA00032_RSA S. MARGHERITA Perugia_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,RSA00032_RSA S. MARGHERITA Perugia,50-59,UMB,ITI2
 4,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,60-69,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_Distretto di Spoleto RP Cerchio_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_Distretto di Spoleto RP Cerchio,60-69,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP DONINI Perugia,60-69,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100069_RP Villa Anna Amelia_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100069_RP Villa Anna Amelia,60-69,UMB,ITI2
 10,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,60-69,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_39970_RP ANCHISE Perugia_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,39970_RP ANCHISE Perugia,60-69,UMB,ITI2
@@ -313,6 +321,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,70-79,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_040104_ RSA Distretto Assisano_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,040104_ RSA Distretto Assisano,70-79,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_Distretto di Spoleto RP Cerchio_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_Distretto di Spoleto RP Cerchio,70-79,UMB,ITI2
+6,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP DONINI Perugia,70-79,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,70-79,UMB,ITI2
 4,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100061_RP VILLA VITTORIA,70-79,UMB,ITI2
 2,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100069_RP Villa Anna Amelia_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100069_RP Villa Anna Amelia,70-79,UMB,ITI2
 11,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,70-79,UMB,ITI2
@@ -327,6 +337,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_RSA00032_RSA S. MARGHERITA Perugia_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,RSA00032_RSA S. MARGHERITA Perugia,70-79,UMB,ITI2
 16,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,80-89,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_Distretto di Spoleto RP Cerchio_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_Distretto di Spoleto RP Cerchio,80-89,UMB,ITI2
+20,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP DONINI Perugia,80-89,UMB,ITI2
+15,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,80-89,UMB,ITI2
 10,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100061_RP VILLA VITTORIA,80-89,UMB,ITI2
 14,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100069_RP Villa Anna Amelia_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100069_RP Villa Anna Amelia,80-89,UMB,ITI2
 17,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,80-89,UMB,ITI2
@@ -342,6 +354,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_RSA00032_RSA S. MARGHERITA Perugia_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,RSA00032_RSA S. MARGHERITA Perugia,80-89,UMB,ITI2
 7,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_010702_RP Istituti Riuniti Balducci_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,010702_RP Istituti Riuniti Balducci,90+,UMB,ITI2
 7,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_Distretto di Spoleto RP Cerchio_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_Distretto di Spoleto RP Cerchio,90+,UMB,ITI2
+14,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP DONINI Perugia_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP DONINI Perugia,90+,UMB,ITI2
+15,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_0_RP MADRE COLOMBA Perugia_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,0_RP MADRE COLOMBA Perugia,90+,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100061_RP VILLA VITTORIA,90+,UMB,ITI2
 8,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100069_RP Villa Anna Amelia_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100069_RP Villa Anna Amelia,90+,UMB,ITI2
 21,Umbria,TML_CAT_RSA_OSPITI,07/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino_90+,3 - Ospiti Strutture Residenziali,10,2021-01-07,PF/BT,100074_R.P. Grande Albergo Amerino,90+,UMB,ITI2
@@ -466,7 +480,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,10080901_OSPEDALE DI FOLIGNO,20-29,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,20-29,UMB,ITI2
 1,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP,20-29,UMB,ITI2
-23,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,20-29,UMB,ITI2
+36,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,20-29,UMB,ITI2
 8,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,20-29,UMB,ITI2
 1,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_120901_RP NUOVA VILLA MARIA LUISA_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,120901_RP NUOVA VILLA MARIA LUISA,20-29,UMB,ITI2
 1,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_33601_RP SODALIZIO SAN MARTINO_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,33601_RP SODALIZIO SAN MARTINO,20-29,UMB,ITI2
@@ -482,7 +496,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 19,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,10080901_OSPEDALE DI FOLIGNO,30-39,UMB,ITI2
 11,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,30-39,UMB,ITI2
 3,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP,30-39,UMB,ITI2
-62,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,30-39,UMB,ITI2
+89,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,30-39,UMB,ITI2
 18,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,30-39,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_33601_RP SODALIZIO SAN MARTINO_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,33601_RP SODALIZIO SAN MARTINO,30-39,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_53201_RESIDENZA PROTETTA CASA SERENA CAPODACQUA_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,53201_RESIDENZA PROTETTA CASA SERENA CAPODACQUA,30-39,UMB,ITI2
@@ -496,7 +510,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 35,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,10080901_OSPEDALE DI FOLIGNO,40-49,UMB,ITI2
 16,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,40-49,UMB,ITI2
 3,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_POV Gubbio Gualdo Tadino RP MOSCA ed EASP,40-49,UMB,ITI2
-55,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
+74,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
 24,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,40-49,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_33601_RP SODALIZIO SAN MARTINO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,33601_RP SODALIZIO SAN MARTINO,40-49,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_39928_RP FONTENUOVO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,39928_RP FONTENUOVO,40-49,UMB,ITI2
@@ -510,7 +524,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 16,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100807_AMBULATORIO PO ORVIETO VACCINAZIONE COVID_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100807_AMBULATORIO PO ORVIETO VACCINAZIONE COVID,50-59,UMB,ITI2
 39,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,10080901_OSPEDALE DI FOLIGNO,50-59,UMB,ITI2
 28,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,50-59,UMB,ITI2
-82,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,50-59,UMB,ITI2
+119,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,50-59,UMB,ITI2
 23,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,50-59,UMB,ITI2
 3,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_33601_RP SODALIZIO SAN MARTINO_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,33601_RP SODALIZIO SAN MARTINO,50-59,UMB,ITI2
 1,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_53201_RESIDENZA PROTETTA CASA SERENA CAPODACQUA_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,53201_RESIDENZA PROTETTA CASA SERENA CAPODACQUA,50-59,UMB,ITI2
@@ -527,7 +541,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 12,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100807_AMBULATORIO PO ORVIETO VACCINAZIONE COVID_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100807_AMBULATORIO PO ORVIETO VACCINAZIONE COVID,60-69,UMB,ITI2
 27,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,10080901_OSPEDALE DI FOLIGNO,60-69,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,60-69,UMB,ITI2
-24,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,60-69,UMB,ITI2
+30,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,60-69,UMB,ITI2
 28,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,60-69,UMB,ITI2
 1,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_120901_RP NUOVA VILLA MARIA LUISA_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,120901_RP NUOVA VILLA MARIA LUISA,60-69,UMB,ITI2
 2,Umbria,TML_CAT_OSS,09/01/2021_PF/BT_UMB_33601_RP SODALIZIO SAN MARTINO_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-09,PF/BT,33601_RP SODALIZIO SAN MARTINO,60-69,UMB,ITI2
@@ -654,3 +668,94 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Umbria,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_UMB_RP999949_Villa Confort S.M Arcangelo Todi_90+,3 - Ospiti Strutture Residenziali,10,2021-01-09,PF/BT,RP999949_Villa Confort S.M Arcangelo Todi,90+,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_UMB_RSA00042_RSA OSPEDALE MARSCIANO USL 1_90+,3 - Ospiti Strutture Residenziali,10,2021-01-09,PF/BT,RSA00042_RSA OSPEDALE MARSCIANO USL 1,90+,UMB,ITI2
 2,Umbria,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_UMB_Villa Rosalba_Villa Rosalba_90+,3 - Ospiti Strutture Residenziali,10,2021-01-09,PF/BT,Villa Rosalba_Villa Rosalba,90+,UMB,ITI2
+4,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_0_RESIDENZA VILLA LA QUIETE_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,0_RESIDENZA VILLA LA QUIETE,20-29,UMB,ITI2
+5,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080101_Ospedale di Città di Castello,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080501_Presidio Ospedaliero di Spoleto,20-29,UMB,ITI2
+4,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,20-29,UMB,ITI2
+18,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,20-29,UMB,ITI2
+4,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,20-29,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,20-29,UMB,ITI2
+3,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,20-29,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_0_RESIDENZA VILLA LA QUIETE_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,0_RESIDENZA VILLA LA QUIETE,30-39,UMB,ITI2
+10,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080101_Ospedale di Città di Castello,30-39,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,30-39,UMB,ITI2
+7,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080501_Presidio Ospedaliero di Spoleto,30-39,UMB,ITI2
+17,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080901_OSPEDALE DI FOLIGNO,30-39,UMB,ITI2
+12,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,30-39,UMB,ITI2
+65,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,30-39,UMB,ITI2
+22,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,30-39,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,30-39,UMB,ITI2
+3,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,30-39,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,30-39,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,30-39,UMB,ITI2
+7,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080101_Ospedale di Città di Castello,40-49,UMB,ITI2
+7,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,40-49,UMB,ITI2
+13,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080501_Presidio Ospedaliero di Spoleto,40-49,UMB,ITI2
+28,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080901_OSPEDALE DI FOLIGNO,40-49,UMB,ITI2
+16,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,40-49,UMB,ITI2
+44,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
+30,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,40-49,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,40-49,UMB,ITI2
+4,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,40-49,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,40-49,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,40-49,UMB,ITI2
+5,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,40-49,UMB,ITI2
+19,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080101_Ospedale di Città di Castello,50-59,UMB,ITI2
+11,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,50-59,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080501_Presidio Ospedaliero di Spoleto,50-59,UMB,ITI2
+31,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080901_OSPEDALE DI FOLIGNO,50-59,UMB,ITI2
+21,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,50-59,UMB,ITI2
+91,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,50-59,UMB,ITI2
+41,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,50-59,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,50-59,UMB,ITI2
+3,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,50-59,UMB,ITI2
+13,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080101_Ospedale di Città di Castello,60-69,UMB,ITI2
+9,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080501_Presidio Ospedaliero di Spoleto,60-69,UMB,ITI2
+20,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,10080901_OSPEDALE DI FOLIGNO,60-69,UMB,ITI2
+6,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,60-69,UMB,ITI2
+22,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,60-69,UMB,ITI2
+11,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,60-69,UMB,ITI2
+2,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,60-69,UMB,ITI2
+3,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_70-79,1 - Operatori Sanitari e Sociosanitari,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,70-79,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,10/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_50-59,2 - Personale non Sanitario,10,2021-01-10,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,50-59,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,60-69,UMB,ITI2
+5,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,60-69,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_0_RESIDENZA VILLA LA QUIETE_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,0_RESIDENZA VILLA LA QUIETE,70-79,UMB,ITI2
+13,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,70-79,UMB,ITI2
+13,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,70-79,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,70-79,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,70-79,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,70-79,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,70-79,UMB,ITI2
+9,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,70-79,UMB,ITI2
+5,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_0_RESIDENZA VILLA LA QUIETE_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,0_RESIDENZA VILLA LA QUIETE,80-89,UMB,ITI2
+22,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,80-89,UMB,ITI2
+38,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,80-89,UMB,ITI2
+15,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,80-89,UMB,ITI2
+5,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,80-89,UMB,ITI2
+5,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,80-89,UMB,ITI2
+12,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,80-89,UMB,ITI2
+7,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,80-89,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_0_RESIDENZA VILLA LA QUIETE_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,0_RESIDENZA VILLA LA QUIETE,90+,UMB,ITI2
+14,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_52001_RESIDENZA PROTETTA EX ONPI FOLIGNO_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,52001_RESIDENZA PROTETTA EX ONPI FOLIGNO,90+,UMB,ITI2
+20,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_A22201_RP Bizzarri Gualdo Tadino - Fossato_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,A22201_RP Bizzarri Gualdo Tadino - Fossato,90+,UMB,ITI2
+7,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000038_RP Istututo Veralli Coprtesi MVT_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000038_RP Istututo Veralli Coprtesi MVT,90+,UMB,ITI2
+6,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP000567_CASA VINCENZIANA G.ANDREOLI 1_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP000567_CASA VINCENZIANA G.ANDREOLI 1,90+,UMB,ITI2
+4,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999501_Residenza Servita San Giovanni in Campo - Città di Castello_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999501_Residenza Servita San Giovanni in Campo - Città di Castello,90+,UMB,ITI2
+14,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999504_Residenza Servita San Francesco di Sales - Città di Castello_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999504_Residenza Servita San Francesco di Sales - Città di Castello,90+,UMB,ITI2
+5,Umbria,TML_CAT_RSA_OSPITI,10/01/2021_PF/BT_UMB_RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT_90+,3 - Ospiti Strutture Residenziali,10,2021-01-10,PF/BT,RP999948_GRUPPO APP.TO VILLA DANIELA 1 MVT,90+,UMB,ITI2

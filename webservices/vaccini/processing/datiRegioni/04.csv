@@ -1960,3 +1960,34 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 23,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_PAT_103601_Sacra Famiglia Rovereto_90+,3 - Ospiti Strutture Residenziali,04,2021-01-08,PF/BT,103601_Sacra Famiglia Rovereto,90+,PAT,ITH2
 14,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_PAT_103701_APSP Vallarsa_90+,3 - Ospiti Strutture Residenziali,04,2021-01-08,PF/BT,103701_APSP Vallarsa,90+,PAT,ITH2
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_PAT_110102_APSP Vigo di Fassa_90+,3 - Ospiti Strutture Residenziali,04,2021-01-08,PF/BT,110102_APSP Vigo di Fassa,90+,PAT,ITH2
+5,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,20-29,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,20-29,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,20-29,PAT,ITH2
+6,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,30-39,PAT,ITH2
+6,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,30-39,PAT,ITH2
+4,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,30-39,PAT,ITH2
+14,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,40-49,PAT,ITH2
+21,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,40-49,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,40-49,PAT,ITH2
+18,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,50-59,PAT,ITH2
+28,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,50-59,PAT,ITH2
+6,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,50-59,PAT,ITH2
+9,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,50-59,PAT,ITH2
+8,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,60-69,PAT,ITH2
+5,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,60-69,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,60-69,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,09/01/2021_PF/BT_PAT_042015_Ospedale San Camillo Trento_70-79,1 - Operatori Sanitari e Sociosanitari,04,2021-01-09,PF/BT,042015_Ospedale San Camillo Trento,70-79,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_30-39,2 - Personale non Sanitario,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,30-39,PAT,ITH2
+4,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_40-49,2 - Personale non Sanitario,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,40-49,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_40-49,2 - Personale non Sanitario,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,40-49,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_052000_RSA S. Bartolomeo Trento_50-59,2 - Personale non Sanitario,04,2021-01-09,PF/BT,052000_RSA S. Bartolomeo Trento,50-59,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_50-59,2 - Personale non Sanitario,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,50-59,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_PERSONALE,09/01/2021_PF/BT_PAT_103201_APSP Casa Laner Folgaria_60-69,2 - Personale non Sanitario,04,2021-01-09,PF/BT,103201_APSP Casa Laner Folgaria,60-69,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_30-39,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,30-39,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_40-49,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,40-49,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_50-59,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,50-59,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_052011_RSA Angeli Custodi Trento_70-79,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,052011_RSA Angeli Custodi Trento,70-79,PAT,ITH2
+6,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_70-79,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,70-79,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_80-89,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,80-89,PAT,ITH2
+11,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_052011_RSA Angeli Custodi Trento_90+,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,052011_RSA Angeli Custodi Trento,90+,PAT,ITH2
+5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_PAT_091502_RSA Sacro Cuore Bolognano Arco_90+,3 - Ospiti Strutture Residenziali,04,2021-01-09,PF/BT,091502_RSA Sacro Cuore Bolognano Arco,90+,PAT,ITH2
