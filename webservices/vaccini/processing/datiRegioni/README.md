@@ -38,13 +38,13 @@ Poi grazie al contributo e alla spinta di [**Paolo Milan**](https://twitter.com/
 Sono pubblicati in [questa cartella](./) in formato CSV con (al momento) la struttura sottostante di esempio di base, conforme pienamente in termini di contenuti ai file JSON di *input*. Di grande interesse la colonna `identificativo`, che sembra contenere: la data di riferimento, il luogo in cui si è somministrato il vaccino e la fascia di età.<br>
 Disaggregandoli e riunendoli si possono ottenere dati ad oggi non pubblicati (come le fasce di età per regione).
 
-| somministrazioni | regione | siglaCategoria | identificativo | categoria |
-| --- | --- | --- | --- | --- |
-| 0 | Lazio | TML_CAT_RSA_OSPITI | 02/01/2021_PF/BT_LAZ_180111_OSPEDALE S. PERTINI_16-19 | 3 - Ospiti Strutture Residenziali |
-| 0 | Lazio | TML_CAT_PERSONALE | 31/12/2020_PF/BT_LAZ_120076_OSPEDALE MADRE GIUSEPPINA VANNINI_16-19 | 2 - Personale non Sanitario |
-| 0 | Lazio | TML_CAT_PERSONALE | 29/12/2020_PF/BT_LAZ_120908_ISTITUTI FISIOTERAPICI OSPITALIERI_30-39 | 2 - Personale non Sanitario |
-| 0 | Lazio | TML_CAT_ALTRO | 29/12/2020_PF/BT_LAZ_120901_Az.Osp. SAN Camillo-Forlanini_30-39 | 2 - Personale non Sanitario |
-| 0 | Lazio | TML_CAT_ALTRO | 02/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_60-69 | 2 - Personale non Sanitario |
+| somministrazioni | regione | siglaCategoria | identificativo | categoria | codice_regione | data | vaccino | punto | classeEta | siglaRegione | NUTS2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 13 | Lazio | TML_CAT_OSS | 11/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_20-29 | 1 - Operatori Sanitari e Sociosanitari | 12 | 2021-01-11 | PF/BT | 120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive | 20-29 | LAZ | ITI4 |
+| 1 | Trentino-Alto Adige | TML_CAT_ALTRO | 05/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_30-39 | 2 - Personale non Sanitario | 04 | 2021-01-05 | PF/BT | 41006_Ospedale di Base di Vipiteno | 30-39 | PAB | ITH1 |
+| 2 | Campania | TML_CAT_ALTRO | 05/01/2021_PF/BT_CAM_15016600_P.O. S. MARIA DELLA SPERANZA BATTIPAGLIA_40-49 | 2 - Personale non Sanitario | 15 | 2021-01-05 | PF/BT | 15016600_P.O. S. MARIA DELLA SPERANZA BATTIPAGLIA | 40-49 | CAM | ITF3 |
+| 2 | Sicilia | TML_CAT_OSS | 08/01/2021_PF/BT_SIC_19020770_Casa di Riposo Maria Santissima - Comiso_60-69 | 1 - Operatori Sanitari e Sociosanitari | 19 | 2021-01-08 | PF/BT | 19020770_Casa di Riposo Maria Santissima - Comiso | 60-69 | SIC | ITG1 |
+| 3 | Marche | TML_CAT_PERSONALE | 11/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69 | 2 - Personale non Sanitario | 11 | 2021-01-11 | PF/BT | 11090501_Az.Osp. Riuniti di Ancona | 60-69 | MAR | ITI3 |
 
 ## Note
 
