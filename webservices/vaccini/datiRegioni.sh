@@ -120,10 +120,11 @@ if [ $code -eq 200 ]; then
 
   done
 
+  # fai pulizia
+  rm "$folder"/processing/datiRegioni/tmp_nuts2.csv
+
   # fai il merge dei dati di dettaglio regionali
   mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
 
-  # fai pulizia
-  rm "$folder"/processing/datiRegioni/tmp_nuts2.csv
 
 fi
