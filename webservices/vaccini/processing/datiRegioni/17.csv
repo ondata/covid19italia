@@ -342,17 +342,64 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Basilicata,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-09,PF/BT,STS11_ufficio igiene di Venosa,80-89,BAS,ITF5
 15,Basilicata,TML_CAT_RSA_OSPITI,09/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,3 - Ospiti Strutture Residenziali,17,2021-01-09,PF/BT,12002_Distretto della Salute della Val d'Agri,90+,BAS,ITF5
 1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170018_DISTRETTO SANITARIO DI RIONERO IN V.RE_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170018_DISTRETTO SANITARIO DI RIONERO IN V.RE,20-29,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,20-29,BAS,ITF5
 1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39,BAS,ITF5
 1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170011_Presidio Ospedaliero Matera,30-39,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170018_DISTRETTO SANITARIO DI RIONERO IN V.RE_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170018_DISTRETTO SANITARIO DI RIONERO IN V.RE,30-39,BAS,ITF5
+2,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170036_POD DI LAURIA_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170036_POD DI LAURIA,30-39,BAS,ITF5
+2,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,30-39,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,30-39,BAS,ITF5
 7,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49,BAS,ITF5
 4,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170-910_IRCCS CROB_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170-910_IRCCS CROB,40-49,BAS,ITF5
 5,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170011_Presidio Ospedaliero Matera,40-49,BAS,ITF5
+3,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170036_POD DI LAURIA_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170036_POD DI LAURIA,40-49,BAS,ITF5
+2,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,40-49,BAS,ITF5
 5,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,50-59,BAS,ITF5
 5,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170-910_IRCCS CROB_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170-910_IRCCS CROB,50-59,BAS,ITF5
 14,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170011_Presidio Ospedaliero Matera,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170018_DISTRETTO SANITARIO DI RIONERO IN V.RE_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170018_DISTRETTO SANITARIO DI RIONERO IN V.RE,50-59,BAS,ITF5
+3,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170036_POD DI LAURIA_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170036_POD DI LAURIA,50-59,BAS,ITF5
+6,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,50-59,BAS,ITF5
 10,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170011_Presidio Ospedaliero Matera,60-69,BAS,ITF5
+3,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170018_DISTRETTO SANITARIO DI RIONERO IN V.RE_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170018_DISTRETTO SANITARIO DI RIONERO IN V.RE,60-69,BAS,ITF5
+4,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_170036_POD DI LAURIA_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,170036_POD DI LAURIA,60-69,BAS,ITF5
+5,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,60-69,BAS,ITF5
+6,Basilicata,TML_CAT_OSS,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,60-69,BAS,ITF5
+1,Basilicata,TML_CAT_PERSONALE,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_20-29,2 - Personale non Sanitario,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,20-29,BAS,ITF5
 1,Basilicata,TML_CAT_PERSONALE,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,2 - Personale non Sanitario,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39,BAS,ITF5
 1,Basilicata,TML_CAT_PERSONALE,11/01/2021_PF/BT_BAS_170-910_IRCCS CROB_50-59,2 - Personale non Sanitario,17,2021-01-11,PF/BT,170-910_IRCCS CROB,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_ALTRO,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_50-59,2 - Personale non Sanitario,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_PERSONALE,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_50-59,2 - Personale non Sanitario,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_ALTRO,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_60-69,2 - Personale non Sanitario,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,60-69,BAS,ITF5
+4,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_20-29,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,20-29,BAS,ITF5
+4,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_20-29,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,20-29,BAS,ITF5
+3,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_30-39,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,30-39,BAS,ITF5
+1,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_30-39,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,30-39,BAS,ITF5
+5,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_40-49,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,40-49,BAS,ITF5
+2,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_40-49,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,40-49,BAS,ITF5
+6,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_50-59,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,50-59,BAS,ITF5
+4,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_50-59,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_1801_POLIAMBULATORIO SENISE_60-69,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,1801_POLIAMBULATORIO SENISE,60-69,BAS,ITF5
+1,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_60-69,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,60-69,BAS,ITF5
 2,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,70-79,BAS,ITF5
 13,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,80-89,BAS,ITF5
+1,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,80-89,BAS,ITF5
 12,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,12002_Distretto della Salute della Val d'Agri,90+,BAS,ITF5
+1,Basilicata,TML_CAT_RSA_OSPITI,11/01/2021_PF/BT_BAS_STS11_ufficio igiene di Venosa_90+,3 - Ospiti Strutture Residenziali,17,2021-01-11,PF/BT,STS11_ufficio igiene di Venosa,90+,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29,BAS,ITF5
+5,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39,BAS,ITF5
+7,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_30-39,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,170011_Presidio Ospedaliero Matera,30-39,BAS,ITF5
+7,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,40-49,BAS,ITF5
+13,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_40-49,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,170011_Presidio Ospedaliero Matera,40-49,BAS,ITF5
+20,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_50-59,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,170011_Presidio Ospedaliero Matera,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69,BAS,ITF5
+8,Basilicata,TML_CAT_OSS,12/01/2021_PF/BT_BAS_170011_Presidio Ospedaliero Matera_60-69,1 - Operatori Sanitari e Sociosanitari,17,2021-01-12,PF/BT,170011_Presidio Ospedaliero Matera,60-69,BAS,ITF5
+2,Basilicata,TML_CAT_PERSONALE,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_20-29,2 - Personale non Sanitario,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,20-29,BAS,ITF5
+1,Basilicata,TML_CAT_PERSONALE,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_30-39,2 - Personale non Sanitario,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,30-39,BAS,ITF5
+2,Basilicata,TML_CAT_PERSONALE,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_50-59,2 - Personale non Sanitario,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,50-59,BAS,ITF5
+1,Basilicata,TML_CAT_PERSONALE,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,2 - Personale non Sanitario,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69,BAS,ITF5
+3,Basilicata,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_60-69,3 - Ospiti Strutture Residenziali,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,60-69,BAS,ITF5
+4,Basilicata,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_70-79,3 - Ospiti Strutture Residenziali,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,70-79,BAS,ITF5
+8,Basilicata,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_80-89,3 - Ospiti Strutture Residenziali,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,80-89,BAS,ITF5
+6,Basilicata,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_BAS_12002_Distretto della Salute della Val d'Agri_90+,3 - Ospiti Strutture Residenziali,17,2021-01-12,PF/BT,12002_Distretto della Salute della Val d'Agri,90+,BAS,ITF5
