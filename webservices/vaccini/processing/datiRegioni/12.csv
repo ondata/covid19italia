@@ -384,7 +384,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 35,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
 2,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_101603_Ambulatorio Viale Matteucci_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,101603_Ambulatorio Viale Matteucci,50-59,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_110610_RSA QUINTA STELLA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,110610_RSA QUINTA STELLA,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,110631_Ospedale Santa Maria Goretti,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,110631_Ospedale Santa Maria Goretti,50-59,LAZ,ITI4
 27,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_112216_02_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,112216_02_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 20,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,50-59,LAZ,ITI4
 20,Lazio,TML_CAT_OSS,31/12/2020_PF/BT_LAZ_120026_Santo Spirito in sassia_50-59,1 - Operatori Sanitari e Sociosanitari,12,2020-12-31,PF/BT,120026_Santo Spirito in sassia,50-59,LAZ,ITI4
@@ -656,7 +656,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 22,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120906_POLICLINICO UMBERTO I,40-49,LAZ,ITI4
 13,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120908_ISTITUTI FISIOTERAPICI OSPITALIERI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120908_ISTITUTI FISIOTERAPICI OSPITALIERI,40-49,LAZ,ITI4
 30,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO,40-49,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120919_Ospedale Ospedaliero Universitario Sant'Andrea_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120919_Ospedale Ospedaliero Universitario Sant'Andrea,40-49,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120919_Ospedale Ospedaliero Universitario Sant'Andrea_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120919_Ospedale Ospedaliero Universitario Sant'Andrea,40-49,LAZ,ITI4
 13,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,40-49,LAZ,ITI4
 82,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs,40-49,LAZ,ITI4
 6,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_STS11_Casa di Riposo Vila Santina_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,STS11_Casa di Riposo Vila Santina,40-49,LAZ,ITI4
@@ -681,8 +681,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 88,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120216_01_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120216_01_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 31,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120216_02_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120216_02_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 48,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120271_OSPEDALE BELCOLLE,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120271_OSPEDALE BELCOLLE,50-59,LAZ,ITI4
 161,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120292_OSPEDALE DEI CASTELLI,50-59,LAZ,ITI4
 5,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120293_AVR - CASA DI CURA VILLA AURORA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120293_AVR - CASA DI CURA VILLA AURORA,50-59,LAZ,ITI4
 165,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA,50-59,LAZ,ITI4
@@ -715,7 +715,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 63,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120216_01_PO UNIFICATO :: FROSINONE - ALATRI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120216_01_PO UNIFICATO :: FROSINONE - ALATRI,60-69,LAZ,ITI4
 25,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120216_02_PO UNIFICATO :: FROSINONE - ALATRI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120216_02_PO UNIFICATO :: FROSINONE - ALATRI,60-69,LAZ,ITI4
 33,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA,60-69,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,60-69,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,60-69,LAZ,ITI4
 7,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120271_OSPEDALE BELCOLLE,60-69,LAZ,ITI4
 69,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120292_OSPEDALE DEI CASTELLI,60-69,LAZ,ITI4
 4,Lazio,TML_CAT_OSS,01/01/2021_PF/BT_LAZ_120293_AVR - CASA DI CURA VILLA AURORA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-01,PF/BT,120293_AVR - CASA DI CURA VILLA AURORA,60-69,LAZ,ITI4
@@ -917,7 +917,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 22,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120046_P.O. Colleferro,40-49,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120051_P.O. PALESTRINA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120051_P.O. PALESTRINA,40-49,LAZ,ITI4
 6,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120052_P.O. SUBIACO,40-49,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120053_P.O. TIVOLI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120053_P.O. TIVOLI,40-49,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120053_P.O. TIVOLI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120053_P.O. TIVOLI,40-49,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120059_ospedale padre pio bracciano,40-49,LAZ,ITI4
 23,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120061_P.O. G.B. GRASSI,40-49,LAZ,ITI4
 26,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_120066/02_CTO Andrea Alesini_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,120066/02_CTO Andrea Alesini,40-49,LAZ,ITI4
@@ -1051,7 +1051,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 33,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_180111_OSPEDALE S. PERTINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,180111_OSPEDALE S. PERTINI,60-69,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,70951_P.O. San Giovanni di Dio,60-69,LAZ,ITI4
 21,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,80461_P.O. Dono Svizzero,60-69,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs,60-69,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,Codice Punto Vaccinale (HSP11-11bis/STS11)_centro vaccinale covid 19 fondazione policlinico a. gemelli irccs,60-69,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,60-69,LAZ,ITI4
 15,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
 2,Lazio,TML_CAT_OSS,02/01/2021_PF/BT_LAZ_HSP11-11bis_ITALIAN HOSPITAL GROUP_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-02,PF/BT,HSP11-11bis_ITALIAN HOSPITAL GROUP,60-69,LAZ,ITI4
@@ -1364,7 +1364,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 27,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120908_ISTITUTI FISIOTERAPICI OSPITALIERI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120908_ISTITUTI FISIOTERAPICI OSPITALIERI,40-49,LAZ,ITI4
 34,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO,40-49,LAZ,ITI4
 10,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120918_INMI LAZZARO SPALLANZANI,40-49,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,40-49,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,40-49,LAZ,ITI4
 45,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,40-49,LAZ,ITI4
 28,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_180111_Centro Vaccinale Ospedaliero S.Ospedale Pertini_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,180111_Centro Vaccinale Ospedaliero S.Ospedale Pertini,40-49,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASALBERNOCCHI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,203_VIA CILONE DI CASALBERNOCCHI,40-49,LAZ,ITI4
@@ -1413,7 +1413,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 18,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,50-59,LAZ,ITI4
 18,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_180111_Centro Vaccinale Ospedaliero S.Ospedale Pertini_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,180111_Centro Vaccinale Ospedaliero S.Ospedale Pertini,50-59,LAZ,ITI4
 13,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASALBERNOCCHI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,203_VIA CILONE DI CASALBERNOCCHI,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_205_IHG_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,205_IHG,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_205_IHG_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,205_IHG,50-59,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_205_RSA Gli Annali_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,205_RSA Gli Annali,50-59,LAZ,ITI4
 17,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_208700_RSA S.LUIGI GONZAGA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,208700_RSA S.LUIGI GONZAGA,50-59,LAZ,ITI4
 17,Lazio,TML_CAT_OSS,03/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-03,PF/BT,70951_P.O. San Giovanni di Dio,50-59,LAZ,ITI4
@@ -2162,7 +2162,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 10,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,101600_Santa Maria della Pietà,30-39,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_101603_AMBULATORIO VIALE MATTEUCCI-D1_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,101603_AMBULATORIO VIALE MATTEUCCI-D1,30-39,LAZ,ITI4
 16,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,101901_Ospedale San Camillo de Lellis,30-39,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,110631_Ospedale Santa Maria Goretti,30-39,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,110631_Ospedale Santa Maria Goretti,30-39,LAZ,ITI4
 5,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_120002_OSPEDALE ACQUAPENDENTE_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,120002_OSPEDALE ACQUAPENDENTE,30-39,LAZ,ITI4
 5,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,30-39,LAZ,ITI4
 8,Lazio,TML_CAT_OSS,05/01/2021_PF/BT_LAZ_120015_VILLA IMMACOLATA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-05,PF/BT,120015_VILLA IMMACOLATA,30-39,LAZ,ITI4
@@ -2631,7 +2631,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120293_AVR - CASA DI CURA VILLA AURORA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120293_AVR - CASA DI CURA VILLA AURORA,20-29,LAZ,ITI4
 3,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120600_VILLA BENEDETTA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120600_VILLA BENEDETTA,20-29,LAZ,ITI4
 19,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA,20-29,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,20-29,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,20-29,LAZ,ITI4
 87,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120906_POLICLINICO UMBERTO I,20-29,LAZ,ITI4
 7,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120908_ISTITUTI FISIOTERAPICI OSPITALIERI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120908_ISTITUTI FISIOTERAPICI OSPITALIERI,20-29,LAZ,ITI4
 84,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO,20-29,LAZ,ITI4
@@ -2814,7 +2814,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 11,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,320751_P.O. A. Fiorini,60-69,LAZ,ITI4
 30,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,80461_P.O. Dono Svizzero,60-69,LAZ,ITI4
 17,Lazio,TML_CAT_OSS,"06/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_60-69",1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",60-69,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
 2,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,101901_Ospedale San Camillo de Lellis,70-79,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120011_VILLA ROSA_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120011_VILLA ROSA,70-79,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,06/01/2021_PF/BT_LAZ_120045_RSA COMUNITA' L'AURORA_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-06,PF/BT,120045_RSA COMUNITA' L'AURORA,70-79,LAZ,ITI4
@@ -3017,7 +3017,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 42,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,20-29,LAZ,ITI4
 46,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120906_POLICLINICO UMBERTO I,20-29,LAZ,ITI4
 15,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120908_ISTITUTI FISIOTERAPICI OSPITALIERI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120908_ISTITUTI FISIOTERAPICI OSPITALIERI,20-29,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120909_Punto unico vaccinale COVID19_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120909_Punto unico vaccinale COVID19,20-29,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120909_Punto unico vaccinale COVID19_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120909_Punto unico vaccinale COVID19,20-29,LAZ,ITI4
 87,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120915_POLICLINICO UNIVERSITARIO CAMPUS BIO MEDICO,20-29,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120918_INMI LAZZARO SPALLANZANI,20-29,LAZ,ITI4
 15,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,20-29,LAZ,ITI4
@@ -3072,7 +3072,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120110_Villa Olimpo_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120110_Villa Olimpo,30-39,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120110_Villa delle Rose_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120110_Villa delle Rose,30-39,LAZ,ITI4
 15,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120130_VILLA SANDRA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120130_VILLA SANDRA,30-39,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120216_01_PO UNIFICATO :: FROSINONE - ALATRI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120216_01_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120216_01_PO UNIFICATO :: FROSINONE - ALATRI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120216_01_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
 3,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120216_02_PO UNIFICATO :: FROSINONE - ALATRI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120216_02_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA,30-39,LAZ,ITI4
 25,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,30-39,LAZ,ITI4
@@ -3214,7 +3214,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120110_Villa Ibiscus_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120110_Villa Ibiscus,50-59,LAZ,ITI4
 4,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120110_Villa Olimpo_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120110_Villa Olimpo,50-59,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120110_Villa delle Rose_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120110_Villa delle Rose,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120130_VILLA SANDRA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120130_VILLA SANDRA,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120130_VILLA SANDRA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120130_VILLA SANDRA,50-59,LAZ,ITI4
 53,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120216_01_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120216_01_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120216_02_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120216_02_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 21,Lazio,TML_CAT_OSS,07/01/2021_PF/BT_LAZ_120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-07,PF/BT,120226_OSPEDALE CIVILE S.S.TRINITA` N.SEDE SORA,50-59,LAZ,ITI4
@@ -3793,7 +3793,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120109_CASA DI RIPOSO CIVITA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120109_CASA DI RIPOSO CIVITA,40-49,LAZ,ITI4
 2,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120110_La Nuova Opportinuità 1_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120110_La Nuova Opportinuità 1,40-49,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120110_VILLA TERRE CLARE_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120110_VILLA TERRE CLARE,40-49,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120130_VILLA SANDRA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120130_VILLA SANDRA,40-49,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120130_VILLA SANDRA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120130_VILLA SANDRA,40-49,LAZ,ITI4
 21,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120138_ACISMOM CAVALIERI DI MALTA - OSPEDALE SAN GIOVANNI BATTISTA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120138_ACISMOM CAVALIERI DI MALTA - OSPEDALE SAN GIOVANNI BATTISTA,40-49,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_120140_Clinica Siligato_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,120140_Clinica Siligato,40-49,LAZ,ITI4
 35,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,40-49,LAZ,ITI4
@@ -3889,7 +3889,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 45,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_180111_OSPEDALE SANDRO PERTINI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,180111_OSPEDALE SANDRO PERTINI,50-59,LAZ,ITI4
 8,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_180111_RSA VILLA MENDICINI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,180111_RSA VILLA MENDICINI,50-59,LAZ,ITI4
 4,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_200801_DISTRETTO 2 POGGIO MIRTETO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,200801_DISTRETTO 2 POGGIO MIRTETO,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,50-59,LAZ,ITI4
 14,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_205_COLLE CESARANO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,205_COLLE CESARANO,50-59,LAZ,ITI4
 27,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_205_Nomentana Hospital_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,205_Nomentana Hospital,50-59,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,08/01/2021_PF/BT_LAZ_205_RSA REGINA PACIS_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-08,PF/BT,205_RSA REGINA PACIS,50-59,LAZ,ITI4
@@ -5389,7 +5389,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 19,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120294_POLICLINICO CASILINO,30-39,LAZ,ITI4
 13,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120606_CASA DI CURA SAN RAFFAELE PORTUENSE_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120606_CASA DI CURA SAN RAFFAELE PORTUENSE,30-39,LAZ,ITI4
 29,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,30-39,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120906_POLICLINICO UMBERTO I,30-39,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120906_POLICLINICO UMBERTO I,30-39,LAZ,ITI4
 4,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,30-39,LAZ,ITI4
 16,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120909_Punto unico di vaccinazione COVID19,30-39,LAZ,ITI4
 8,Lazio,TML_CAT_OSS,11/01/2021_PF/BT_LAZ_120910_IRCCS SAN RAFFAELE PISANA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-11,PF/BT,120910_IRCCS SAN RAFFAELE PISANA,30-39,LAZ,ITI4
@@ -5663,6 +5663,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_ALTRO,11/01/2021_PF/BT_LAZ_0_POLICLINICO LUIGI DI LIEGRO_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,0_POLICLINICO LUIGI DI LIEGRO,40-49,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_0_POLICLINICO LUIGI DI LIEGRO_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,0_POLICLINICO LUIGI DI LIEGRO,40-49,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_0_RSA MARIA LILIA_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,0_RSA MARIA LILIA,40-49,LAZ,ITI4
+37,Lazio,TML_CAT_ALTRO,11/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,101600_Santa Maria della Pietà,40-49,LAZ,ITI4
 5,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,101901_Ospedale San Camillo de Lellis,40-49,LAZ,ITI4
 3,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,110631_Ospedale Santa Maria Goretti,40-49,LAZ,ITI4
 14,Lazio,TML_CAT_ALTRO,11/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_40-49,2 - Personale non Sanitario,12,2021-01-11,PF/BT,12002600_Santo Spirito in sassia,40-49,LAZ,ITI4
@@ -5692,7 +5693,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_ALTRO,"11/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_40-49",2 - Personale non Sanitario,12,2021-01-11,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",40-49,LAZ,ITI4
 1,Lazio,TML_CAT_ALTRO,11/01/2021_PF/BT_LAZ_0_POLICLINICO LUIGI DI LIEGRO_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,0_POLICLINICO LUIGI DI LIEGRO,50-59,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_0_RSA MARIA LILIA_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,0_RSA MARIA LILIA,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_ALTRO,11/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
 3,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,101901_Ospedale San Camillo de Lellis,50-59,LAZ,ITI4
 5,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,110631_Ospedale Santa Maria Goretti,50-59,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,11/01/2021_PF/BT_LAZ_112430_CASA DI CURA ICOT LATINA_50-59,2 - Personale non Sanitario,12,2021-01-11,PF/BT,112430_CASA DI CURA ICOT LATINA,50-59,LAZ,ITI4
@@ -5933,6 +5934,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,320751_P.O. A. Fiorini,20-29,LAZ,ITI4
 3,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,80461_P.O. Dono Svizzero,20-29,LAZ,ITI4
 120,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_20-29",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",20-29,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,20-29,LAZ,ITI4
 4,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,20-29,LAZ,ITI4
 6,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_0_RSA VILLA TUSCOLANA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,0_RSA VILLA TUSCOLANA,30-39,LAZ,ITI4
 12,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,30-39,LAZ,ITI4
@@ -5991,6 +5993,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 12,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_631700_Oftalmico_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,631700_Oftalmico,30-39,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,80461_P.O. Dono Svizzero,30-39,LAZ,ITI4
 17,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_30-39",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",30-39,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,30-39,LAZ,ITI4
 8,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,30-39,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_0_RSA VILLA TUSCOLANA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,0_RSA VILLA TUSCOLANA,40-49,LAZ,ITI4
 12,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,40-49,LAZ,ITI4
@@ -6050,6 +6053,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 18,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_631700_Oftalmico_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,631700_Oftalmico,40-49,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,80461_P.O. Dono Svizzero,40-49,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_40-49",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",40-49,LAZ,ITI4
+22,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,40-49,LAZ,ITI4
 18,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,40-49,LAZ,ITI4
 6,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_0_RSA VILLA TUSCOLANA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,0_RSA VILLA TUSCOLANA,50-59,LAZ,ITI4
 30,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
@@ -6089,7 +6093,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 20,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
 38,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,50-59,LAZ,ITI4
 20,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120271_OSPEDALE BELCOLLE,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,1202851_San Filippo Neri,50-59,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,1202851_San Filippo Neri,50-59,LAZ,ITI4
 26,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120292_OSPEDALE DEI CASTELLI,50-59,LAZ,ITI4
 3,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120293_AVR - CASA DI CURA VILLA AURORA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120293_AVR - CASA DI CURA VILLA AURORA,50-59,LAZ,ITI4
 13,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120294_POLICLINICO CASILINO,50-59,LAZ,ITI4
@@ -6113,11 +6117,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 24,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_631700_Oftalmico_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,631700_Oftalmico,50-59,LAZ,ITI4
 16,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,80461_P.O. Dono Svizzero,50-59,LAZ,ITI4
 11,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_50-59",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",50-59,LAZ,ITI4
+22,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,50-59,LAZ,ITI4
 28,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,50-59,LAZ,ITI4
 5,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_0_RSA VILLA TUSCOLANA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,0_RSA VILLA TUSCOLANA,60-69,LAZ,ITI4
 32,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,60-69,LAZ,ITI4
 7,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,101901_Ospedale San Camillo de Lellis,60-69,LAZ,ITI4
-36,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,110631_Ospedale Santa Maria Goretti,60-69,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,110631_Ospedale Santa Maria Goretti,60-69,LAZ,ITI4
 10,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_112430_CASA DI CURA ICOT LATINA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,112430_CASA DI CURA ICOT LATINA,60-69,LAZ,ITI4
 2,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_120015_VILLA IMMACOLATA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,120015_VILLA IMMACOLATA,60-69,LAZ,ITI4
 9,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,12002600_Santo Spirito in sassia,60-69,LAZ,ITI4
@@ -6167,6 +6172,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 31,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_631700_Oftalmico_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,631700_Oftalmico,60-69,LAZ,ITI4
 20,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_80461_P.O. Dono Svizzero_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,80461_P.O. Dono Svizzero,60-69,LAZ,ITI4
 10,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_60-69",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",60-69,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,60-69,LAZ,ITI4
 19,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,110631_Ospedale Santa Maria Goretti,70-79,LAZ,ITI4
 3,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_112430_CASA DI CURA ICOT LATINA_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,112430_CASA DI CURA ICOT LATINA,70-79,LAZ,ITI4
@@ -6187,6 +6193,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_70-79",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",70-79,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_80-89,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,80-89,LAZ,ITI4
 1,Lazio,TML_CAT_OSS,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_80-89",1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",80-89,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_80-89,1 - Operatori Sanitari e Sociosanitari,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,80-89,LAZ,ITI4
 11,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,20-29,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101901_Ospedale San Camillo de Lellis,20-29,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_112430_CASA DI CURA ICOT LATINA_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,112430_CASA DI CURA ICOT LATINA,20-29,LAZ,ITI4
@@ -6211,6 +6218,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_205_Nomentana Hospital_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,205_Nomentana Hospital,20-29,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,320751_P.O. A. Fiorini,20-29,LAZ,ITI4
 4,Lazio,TML_CAT_ALTRO,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_20-29",2 - Personale non Sanitario,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",20-29,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,20-29,LAZ,ITI4
 100,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_20-29,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,20-29,LAZ,ITI4
 29,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,30-39,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101901_Ospedale San Camillo de Lellis,30-39,LAZ,ITI4
@@ -6239,6 +6247,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,320751_P.O. A. Fiorini,30-39,LAZ,ITI4
 5,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_631700_Oftalmico_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,631700_Oftalmico,30-39,LAZ,ITI4
 3,Lazio,TML_CAT_ALTRO,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_30-39",2 - Personale non Sanitario,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,30-39,LAZ,ITI4
 8,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_30-39,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,30-39,LAZ,ITI4
 21,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,40-49,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101901_Ospedale San Camillo de Lellis,40-49,LAZ,ITI4
@@ -6274,6 +6283,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_205_Nomentana Hospital_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,205_Nomentana Hospital,40-49,LAZ,ITI4
 9,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,320751_P.O. A. Fiorini,40-49,LAZ,ITI4
 5,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_631700_Oftalmico_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,631700_Oftalmico,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,40-49,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_40-49,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,40-49,LAZ,ITI4
 20,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
 1,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101901_Ospedale San Camillo de Lellis,50-59,LAZ,ITI4
@@ -6301,7 +6311,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,50-59,LAZ,ITI4
 8,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,50-59,LAZ,ITI4
 36,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_120910_IRCCS SAN RAFFAELE PISANA_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,120910_IRCCS SAN RAFFAELE PISANA,50-59,LAZ,ITI4
-36,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_120910_IRCCS SAN RAFFAELE PISANA_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,120910_IRCCS SAN RAFFAELE PISANA,50-59,LAZ,ITI4
 17,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,50-59,LAZ,ITI4
 7,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,50-59,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASALBERNOCCHI_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,203_VIA CILONE DI CASALBERNOCCHI,50-59,LAZ,ITI4
@@ -6312,6 +6321,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_320751_P.O. A. Fiorini_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,320751_P.O. A. Fiorini,50-59,LAZ,ITI4
 6,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_631700_Oftalmico_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,631700_Oftalmico,50-59,LAZ,ITI4
 5,Lazio,TML_CAT_ALTRO,"12/01/2021_PF/BT_LAZ_HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_50-59",2 - Personale non Sanitario,12,2021-01-12,PF/BT,"HS11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",50-59,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE_50-59,2 - Personale non Sanitario,12,2021-01-12,PF/BT,HSP11-11bis_ASL ROMA 1 OSPEDALE CRISTO RE,50-59,LAZ,ITI4
 26,Lazio,TML_CAT_ALTRO,12/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_60-69,2 - Personale non Sanitario,12,2021-01-12,PF/BT,101600_Santa Maria della Pietà,60-69,LAZ,ITI4
 2,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_112430_CASA DI CURA ICOT LATINA_60-69,2 - Personale non Sanitario,12,2021-01-12,PF/BT,112430_CASA DI CURA ICOT LATINA,60-69,LAZ,ITI4
 1,Lazio,TML_CAT_PERSONALE,12/01/2021_PF/BT_LAZ_120007_OSPEDALE TARQUINIA_60-69,2 - Personale non Sanitario,12,2021-01-12,PF/BT,120007_OSPEDALE TARQUINIA,60-69,LAZ,ITI4
@@ -6453,3 +6463,617 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Lazio,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_LAZ_205_Nomentana Hospital_90+,3 - Ospiti Strutture Residenziali,12,2021-01-12,PF/BT,205_Nomentana Hospital,90+,LAZ,ITI4
 3,Lazio,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_LAZ_205_VILLA ROMANI 2_90+,3 - Ospiti Strutture Residenziali,12,2021-01-12,PF/BT,205_VILLA ROMANI 2,90+,LAZ,ITI4
 2,Lazio,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_LAZ_543704_RSA CLINICA S.ANTONIO SRL_90+,3 - Ospiti Strutture Residenziali,12,2021-01-12,PF/BT,543704_RSA CLINICA S.ANTONIO SRL,90+,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_16-19,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,16-19,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_16-19,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120059_ospedale padre pio bracciano,16-19,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_16-19,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,16-19,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_16-19,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,16-19,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_16-19,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,16-19,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_16-19",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",16-19,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,20-29,LAZ,ITI4
+31,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,20-29,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_11910_San Michele_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,11910_San Michele,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120053_P.O TIVOLI,20-29,LAZ,ITI4
+70,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120059_ospedale padre pio bracciano,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,20-29,LAZ,ITI4
+11,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,20-29,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,20-29,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reviere srtr,20-29,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,20-29,LAZ,ITI4
+17,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,20-29,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,20-29,LAZ,ITI4
+11,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,1202851_San Filippo Neri,20-29,LAZ,ITI4
+23,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,20-29,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,20-29,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,20-29,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,20-29,LAZ,ITI4
+137,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120906_POLICLINICO UMBERTO I,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,20-29,LAZ,ITI4
+34,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,20-29,LAZ,ITI4
+30,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,20-29,LAZ,ITI4
+17,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,20-29,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Palombara Sabina_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Palombara Sabina,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Residenza Alessandrini,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Villa Romani 3,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_20-29,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,20-29,LAZ,ITI4
+123,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_20-29",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",20-29,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,30-39,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,30-39,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,30-39,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_11910_San Michele_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,11910_San Michele,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,30-39,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120046_P.O. Colleferro,30-39,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120053_P.O TIVOLI,30-39,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120059_ospedale padre pio bracciano,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,30-39,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,30-39,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,30-39,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,30-39,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,30-39,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,30-39,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,30-39,LAZ,ITI4
+33,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,30-39,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reviere srtr,30-39,LAZ,ITI4
+23,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
+37,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,30-39,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,30-39,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,1202851_San Filippo Neri,30-39,LAZ,ITI4
+24,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,30-39,LAZ,ITI4
+24,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,30-39,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,30-39,LAZ,ITI4
+43,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,30-39,LAZ,ITI4
+119,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120906_POLICLINICO UMBERTO I,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,30-39,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,30-39,LAZ,ITI4
+35,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,30-39,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,30-39,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,30-39,LAZ,ITI4
+20,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,30-39,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Residenza Alessandrini,30-39,LAZ,ITI4
+11,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),30-39,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,30-39,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,30-39,LAZ,ITI4
+17,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,30-39,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,30-39,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_30-39,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,30-39,LAZ,ITI4
+24,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_30-39",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",30-39,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,40-49,LAZ,ITI4
+25,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,40-49,LAZ,ITI4
+19,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_11910_San Michele_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,11910_San Michele,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,40-49,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120046_P.O. Colleferro,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,40-49,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120053_P.O TIVOLI,40-49,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,40-49,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,40-49,LAZ,ITI4
+25,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,40-49,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_IL BENESSERE_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_IL BENESSERE,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA L'AURORA,40-49,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,40-49,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,40-49,LAZ,ITI4
+27,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reviere srtr,40-49,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,40-49,LAZ,ITI4
+36,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,40-49,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,40-49,LAZ,ITI4
+24,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,1202851_San Filippo Neri,40-49,LAZ,ITI4
+26,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,40-49,LAZ,ITI4
+20,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,40-49,LAZ,ITI4
+15,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,40-49,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,40-49,LAZ,ITI4
+17,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120906_POLICLINICO UMBERTO I,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,40-49,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,40-49,LAZ,ITI4
+20,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,40-49,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,40-49,LAZ,ITI4
+33,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Palombara Sabina_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Palombara Sabina,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Residenza Alessandrini,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),40-49,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Villa Romani 1,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,40-49,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,40-49,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,40-49,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,40-49,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_40-49,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,40-49,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_40-49",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",40-49,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
+29,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,50-59,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_11910_San Michele_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,11910_San Michele,50-59,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,50-59,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,50-59,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120046_P.O. Colleferro,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120053_P.O TIVOLI,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120059_ospedale padre pio bracciano,50-59,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,50-59,LAZ,ITI4
+51,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,50-59,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,50-59,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,50-59,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,50-59,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,50-59,LAZ,ITI4
+23,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,50-59,LAZ,ITI4
+26,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reviere srtr,50-59,LAZ,ITI4
+35,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,50-59,LAZ,ITI4
+26,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,50-59,LAZ,ITI4
+35,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,1202851_San Filippo Neri,50-59,LAZ,ITI4
+38,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,50-59,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,50-59,LAZ,ITI4
+16,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,50-59,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,50-59,LAZ,ITI4
+28,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120906_POLICLINICO UMBERTO I,50-59,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,50-59,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,50-59,LAZ,ITI4
+21,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,50-59,LAZ,ITI4
+14,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,50-59,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,50-59,LAZ,ITI4
+40,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,50-59,LAZ,ITI4
+26,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Palombara Sabina_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Palombara Sabina,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Residenza Alessandrini,50-59,LAZ,ITI4
+17,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Villa Romani 1,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Villa Romani 3,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,50-59,LAZ,ITI4
+20,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,50-59,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,50-59,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_50-59,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,50-59,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_50-59",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",50-59,LAZ,ITI4
+26,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,60-69,LAZ,ITI4
+24,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_11910_San Michele_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,11910_San Michele,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120003_OSPEDALE DI CIVITACASTELLANA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120003_OSPEDALE DI CIVITACASTELLANA,60-69,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,60-69,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120046_P.O. Colleferro,60-69,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120053_P.O TIVOLI,60-69,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,60-69,LAZ,ITI4
+30,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,60-69,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_IL BENESSERE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_IL BENESSERE,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA L'AURORA,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,60-69,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,60-69,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,60-69,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reviere srtr,60-69,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,60-69,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,60-69,LAZ,ITI4
+22,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,60-69,LAZ,ITI4
+12,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,1202851_San Filippo Neri,60-69,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,60-69,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,60-69,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,60-69,LAZ,ITI4
+10,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,60-69,LAZ,ITI4
+19,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120906_POLICLINICO UMBERTO I_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120906_POLICLINICO UMBERTO I,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,60-69,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,60-69,LAZ,ITI4
+6,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,60-69,LAZ,ITI4
+8,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,60-69,LAZ,ITI4
+18,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,60-69,LAZ,ITI4
+35,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Palombara Sabina_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Palombara Sabina,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Residenza Alessandrini,60-69,LAZ,ITI4
+13,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Villa Romani 3,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,60-69,LAZ,ITI4
+19,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,60-69,LAZ,ITI4
+20,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
+7,Lazio,TML_CAT_OSS,"13/01/2021_PF/BT_LAZ_HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma_60-69",1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,"HSP11-11bis_Centro Vaccinale Covid-19 Fondazione Policlinico Universitario A. Gemelli, IRCCS, Roma",60-69,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,70-79,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,70-79,LAZ,ITI4
+4,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120045_OSPEDALE CIVITAVECCHIA SAN PAOLO_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120045_OSPEDALE CIVITAVECCHIA SAN PAOLO,70-79,LAZ,ITI4
+9,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120204_Reverie srtr,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120294_POLICLINICO CASILINO_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120294_POLICLINICO CASILINO,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120904_Ospedale Pediatrico Bambino Gesù_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120904_Ospedale Pediatrico Bambino Gesù,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_180111_Opedale Sandro Pertini_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,180111_Opedale Sandro Pertini,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_Palombara Sabina_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_Palombara Sabina,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_240840_San Raffaele_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,240840_San Raffaele,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,70-79,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_631700_Oftalmico_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,631700_Oftalmico,70-79,LAZ,ITI4
+3,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_70-79,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120133_UPMC SALVATOR MUNDI_80-89,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120133_UPMC SALVATOR MUNDI,80-89,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_80-89,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,80-89,LAZ,ITI4
+2,Lazio,TML_CAT_OSS,13/01/2021_PF/BT_LAZ_120228_OSPEDALE S. SCOLASTICA CASSINO_80-89,1 - Operatori Sanitari e Sociosanitari,12,2021-01-13,PF/BT,120228_OSPEDALE S. SCOLASTICA CASSINO,80-89,LAZ,ITI4
+20,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,20-29,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,20-29,LAZ,ITI4
+13,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Residenza Alessandrini,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 3,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_240840_San Raffaele_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,240840_San Raffaele,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,20-29,LAZ,ITI4
+6,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_20-29,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,20-29,LAZ,ITI4
+30,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120046_P.O. Colleferro,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,30-39,LAZ,ITI4
+9,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,1202851_San Filippo Neri,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120295_POLICLINICO PORTUENSE LUIGI DI LIEGRO,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,30-39,LAZ,ITI4
+8,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,30-39,LAZ,ITI4
+7,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Residenza Alessandrini,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 3,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,30-39,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,30-39,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,30-39,LAZ,ITI4
+21,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_30-39,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,30-39,LAZ,ITI4
+29,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120046_P.O. Colleferro,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120059_ospedale padre pio bracciano_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120059_ospedale padre pio bracciano,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,40-49,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_Reviere srtr,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,1202851_San Filippo Neri,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,40-49,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,40-49,LAZ,ITI4
+10,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),40-49,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 1,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 1,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 3,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_240840_San Raffaele_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,240840_San Raffaele,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,40-49,LAZ,ITI4
+6,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,40-49,LAZ,ITI4
+7,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,40-49,LAZ,ITI4
+30,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_40-49,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,40-49,LAZ,ITI4
+24,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_101901_Ospedale San Camillo de Lellis_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101901_Ospedale San Camillo de Lellis,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120046_P.O. Colleferro,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12007100_OSPEDALE SAN PIETRO FATEBENEFRATELLI,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,50-59,LAZ,ITI4
+14,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
+6,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120271_OSPEDALE BELCOLLE_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120271_OSPEDALE BELCOLLE,50-59,LAZ,ITI4
+14,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,1202851_San Filippo Neri,50-59,LAZ,ITI4
+6,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12090801_ISTITUTI FISIOTERAPICI OSPITALIERI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12090801_ISTITUTI FISIOTERAPICI OSPITALIERI,50-59,LAZ,ITI4
+9,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120919_Azienda Ospedaliera Universitaria Sant'Andrea_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120919_Azienda Ospedaliera Universitaria Sant'Andrea,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,50-59,LAZ,ITI4
+15,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,50-59,LAZ,ITI4
+13,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Residenza Alessandrini,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),50-59,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 1,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 1,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 3,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,50-59,LAZ,ITI4
+8,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,50-59,LAZ,ITI4
+53,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_50-59,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,50-59,LAZ,ITI4
+20,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_110631_Ospedale Santa Maria Goretti_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,110631_Ospedale Santa Maria Goretti,60-69,LAZ,ITI4
+8,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12002600_Santo Spirito in sassia_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12002600_Santo Spirito in sassia,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120046_P.O. Colleferro,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120061_P.O. G.B. GRASSI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120061_P.O. G.B. GRASSI,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120066/02_CENTRO VACCINALE OSPEDALIERO CTO_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120066/02_CENTRO VACCINALE OSPEDALIERO CTO,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120072_Ospedale S.Giovanni Calibita Fatebenefratelli_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120072_Ospedale S.Giovanni Calibita Fatebenefratelli,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120134_CASA DI CURA S. ANNA_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120134_CASA DI CURA S. ANNA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120204_Reviere srtr,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,60-69,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_1202851_San Filippo Neri_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,1202851_San Filippo Neri,60-69,LAZ,ITI4
+6,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120909_Punto unico di vaccinazione COVID19_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120909_Punto unico di vaccinazione COVID19,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120920_Centro Vaccinale UOSD Medicina del Lavoro - UOC Malattie infettive,60-69,LAZ,ITI4
+7,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_203_VIA CILONE DI CASAL BERNOCCHI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,203_VIA CILONE DI CASAL BERNOCCHI,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VALMONTONE HOSPITAL_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VALMONTONE HOSPITAL,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,60-69,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_70951_P.O. San Giovanni di Dio_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,70951_P.O. San Giovanni di Dio,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
+13,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_60-69,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,70-79,LAZ,ITI4
+4,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120046_P.O. Colleferro_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120046_P.O. Colleferro,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120053_P.O TIVOLI_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120053_P.O TIVOLI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_120292_OSPEDALE DEI CASTELLI_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120292_OSPEDALE DEI CASTELLI,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,205_Villa Romani 3,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_631700_Oftalmico_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,631700_Oftalmico,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_70-79,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,70-79,LAZ,ITI4
+4,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA_80-89,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA,80-89,LAZ,ITI4
+3,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_120918_INMI LAZZARO SPALLANZANI_80-89,2 - Personale non Sanitario,12,2021-01-13,PF/BT,120918_INMI LAZZARO SPALLANZANI,80-89,LAZ,ITI4
+2,Lazio,TML_CAT_PERSONALE,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_80-89,2 - Personale non Sanitario,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,80-89,LAZ,ITI4
+1,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI_80-89,2 - Personale non Sanitario,12,2021-01-13,PF/BT,HSP11-11bis_AZIENDA OSPEDALIERA SAN CAMILLO-FORLANINI,80-89,LAZ,ITI4
+2,Lazio,TML_CAT_ALTRO,13/01/2021_PF/BT_LAZ_12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA_90+,2 - Personale non Sanitario,12,2021-01-13,PF/BT,12090201_AZIENDA OSP. S.GIOVANNI/ADDOLORATA ROMA,90+,LAZ,ITI4
+12,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_16-19,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,16-19,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,20-29,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,20-29,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reverie srtr,20-29,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reviere srtr,20-29,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_DIANOVA_20-29,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_DIANOVA,20-29,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,30-39,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,30-39,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,30-39,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,30-39,LAZ,ITI4
+8,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reverie srtr_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reverie srtr,30-39,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reviere srtr,30-39,LAZ,ITI4
+8,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,30-39,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_DIANOVA_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_DIANOVA,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_30-39,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,30-39,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,40-49,LAZ,ITI4
+10,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,40-49,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,40-49,LAZ,ITI4
+8,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reviere srtr,40-49,LAZ,ITI4
+9,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,40-49,LAZ,ITI4
+12,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_DIANOVA_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_DIANOVA,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,40-49,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_40-49,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,40-49,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,50-59,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,50-59,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),50-59,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Reviere srtr_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Reviere srtr,50-59,LAZ,ITI4
+10,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,50-59,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_DIANOVA_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_DIANOVA,50-59,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,50-59,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,50-59,LAZ,ITI4
+8,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,50-59,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_50-59,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,50-59,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,60-69,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,60-69,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_IL BENESSERE_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_IL BENESSERE,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA L'AURORA,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120111_VILLA LETIZIA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120111_VILLA LETIZIA,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120151_S. GIOVANNI DI DIO_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120151_S. GIOVANNI DI DIO,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_REVIERE CENTRO DIURNO_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_REVIERE CENTRO DIURNO,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120206_CASA DI RIPOSO MARIA ASSUNTA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120206_CASA DI RIPOSO MARIA ASSUNTA,60-69,LAZ,ITI4
+14,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_DIANOVA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_DIANOVA,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,60-69,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Residenza Alessandrini,60-69,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,60-69,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,60-69,LAZ,ITI4
+11,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,60-69,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_60-69,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,60-69,LAZ,ITI4
+23,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,70-79,LAZ,ITI4
+17,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,70-79,LAZ,ITI4
+8,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,70-79,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA L'AURORA,70-79,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,70-79,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),70-79,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,70-79,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120206_CASA DI RIPOSO MARIA ASSUNTA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120206_CASA DI RIPOSO MARIA ASSUNTA,70-79,LAZ,ITI4
+9,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,70-79,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Residenza Alessandrini,70-79,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),70-79,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,70-79,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa Romani 1,70-79,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,70-79,LAZ,ITI4
+10,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,70-79,LAZ,ITI4
+18,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,70-79,LAZ,ITI4
+9,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_70-79,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,70-79,LAZ,ITI4
+36,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,80-89,LAZ,ITI4
+35,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,80-89,LAZ,ITI4
+12,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,80-89,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120052_P.O. SUBIACO_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120052_P.O. SUBIACO,80-89,LAZ,ITI4
+18,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,80-89,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_IL BENESSERE_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_IL BENESSERE,80-89,LAZ,ITI4
+10,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,80-89,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA L'AURORA,80-89,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,80-89,LAZ,ITI4
+9,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),80-89,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,80-89,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,80-89,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,80-89,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,80-89,LAZ,ITI4
+15,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120206_CASA DI RIPOSO MARIA ASSUNTA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120206_CASA DI RIPOSO MARIA ASSUNTA,80-89,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,80-89,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,80-89,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,80-89,LAZ,ITI4
+12,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Residenza Alessandrini,80-89,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),80-89,LAZ,ITI4
+6,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,80-89,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa Romani 1,80-89,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa Romani 3,80-89,LAZ,ITI4
+21,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,80-89,LAZ,ITI4
+16,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,80-89,LAZ,ITI4
+23,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,80-89,LAZ,ITI4
+14,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_80-89,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,80-89,LAZ,ITI4
+31,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_101600_Santa Maria della Pietà_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,101600_Santa Maria della Pietà,90+,LAZ,ITI4
+15,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11610_VILLA CARLA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11610_VILLA CARLA,90+,LAZ,ITI4
+15,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_11910_San Michele_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,11910_San Michele,90+,LAZ,ITI4
+11,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120109_VILLA PINI - ARLENA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120109_VILLA PINI - ARLENA,90+,LAZ,ITI4
+2,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_IL BENESSERE_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_IL BENESSERE,90+,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_OPERA PIA S. GIOVANNI BATTISTA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_OPERA PIA S. GIOVANNI BATTISTA,90+,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA L'AURORA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA L'AURORA,90+,LAZ,ITI4
+11,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120110_RSA LONG CARE CLINIC CIRENE_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120110_RSA LONG CARE CLINIC CIRENE,90+,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE)_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CASA FAMIGLIA LA PERLA (SUORE ALCANTARINE),90+,LAZ,ITI4
+7,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_CDR Sabazia Residence - Anguillara Sabazia_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_CDR Sabazia Residence - Anguillara Sabazia,90+,LAZ,ITI4
+11,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Casa di riposo Villa San Tarcisio - Via dei Gerani 47 Civitavecchia,90+,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_Istituto Villa San Biagio - Anguillara Sabazia_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_Istituto Villa San Biagio - Anguillara Sabazia,90+,LAZ,ITI4
+3,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120204_RSA VILLA IRIS_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120204_RSA VILLA IRIS,90+,LAZ,ITI4
+16,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_120206_CASA DI RIPOSO MARIA ASSUNTA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,120206_CASA DI RIPOSO MARIA ASSUNTA,90+,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_12021601_PO UNIFICATO :: FROSINONE - ALATRI_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,12021601_PO UNIFICATO :: FROSINONE - ALATRI,90+,LAZ,ITI4
+5,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_CASALE DEI SOGNI_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_CASALE DEI SOGNI,90+,LAZ,ITI4
+1,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_INI Medicus_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_INI Medicus,90+,LAZ,ITI4
+14,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Residenza Alessandrini_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Residenza Alessandrini,90+,LAZ,ITI4
+12,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_VILLA TORCIGLIANI (120205)_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_VILLA TORCIGLIANI (120205),90+,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa AMMA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa AMMA,90+,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa Romani 1_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa Romani 1,90+,LAZ,ITI4
+4,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_Villa Romani 3_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_Villa Romani 3,90+,LAZ,ITI4
+14,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_205_casa di riposo VILLA ASTORIA Colleferro_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,205_casa di riposo VILLA ASTORIA Colleferro,90+,LAZ,ITI4
+10,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_240840_San Raffaele_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,240840_San Raffaele,90+,LAZ,ITI4
+21,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_501809_RSA SANTA MARIA_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,501809_RSA SANTA MARIA,90+,LAZ,ITI4
+17,Lazio,TML_CAT_RSA_OSPITI,13/01/2021_PF/BT_LAZ_505105_Italian Hospital Group3 RSA Villa Letizia_90+,3 - Ospiti Strutture Residenziali,12,2021-01-13,PF/BT,505105_Italian Hospital Group3 RSA Villa Letizia,90+,LAZ,ITI4
