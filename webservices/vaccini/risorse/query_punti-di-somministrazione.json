@@ -1,0 +1,217 @@
+{
+    "version": "1.0.0",
+    "queries": [
+        {
+            "Query": {
+                "Commands": [
+                    {
+                        "SemanticQueryDataShapeCommand": {
+                            "Query": {
+                                "Version": 2,
+                                "From": [
+                                    {
+                                        "Name": "c",
+                                        "Entity": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI",
+                                        "Type": 0
+                                    }
+                                ],
+                                "Select": [
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "REGIONI"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.REGIONI"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "ID_AREA"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.ID_AREA"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "AREA"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.AREA"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "PROVINCIA"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.PROVINCIA"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "COMUNE"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.COMUNE"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "DEN_PRESIDIO_OSPEDALIERO"
+                                        },
+                                        "Name": "Count(cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.DEN_PRESIDIO_OSPEDALIERO)"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "INDIRIZZO"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.INDIRIZZO"
+                                    },
+                                    {
+                                        "Column": {
+                                            "Expression": {
+                                                "SourceRef": {
+                                                    "Source": "c"
+                                                }
+                                            },
+                                            "Property": "CAP"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.CAP"
+                                    }
+                                ],
+                                "GroupBy": [
+                                    {
+                                        "SourceRef": {
+                                            "Source": "c"
+                                        },
+                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI"
+                                    }
+                                ],
+                                "OrderBy": [
+                                    {
+                                        "Direction": 1,
+                                        "Expression": {
+                                            "Column": {
+                                                "Expression": {
+                                                    "SourceRef": {
+                                                        "Source": "c"
+                                                    }
+                                                },
+                                                "Property": "REGIONI"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Direction": 1,
+                                        "Expression": {
+                                            "Column": {
+                                                "Expression": {
+                                                    "SourceRef": {
+                                                        "Source": "c"
+                                                    }
+                                                },
+                                                "Property": "PROVINCIA"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Direction": 1,
+                                        "Expression": {
+                                            "Column": {
+                                                "Expression": {
+                                                    "SourceRef": {
+                                                        "Source": "c"
+                                                    }
+                                                },
+                                                "Property": "COMUNE"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "Direction": 1,
+                                        "Expression": {
+                                            "Column": {
+                                                "Expression": {
+                                                    "SourceRef": {
+                                                        "Source": "c"
+                                                    }
+                                                },
+                                                "Property": "DEN_PRESIDIO_OSPEDALIERO"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "Binding": {
+                                "Primary": {
+                                    "Groupings": [
+                                        {
+                                            "Projections": [
+                                                0,
+                                                1,
+                                                2,
+                                                3,
+                                                4,
+                                                5,
+                                                6,
+                                                7
+                                            ],
+                                            "GroupBy": [
+                                                0
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "DataReduction": {
+                                    "Primary": {
+                                        "Top": {
+                                            "Count": 1000
+                                        }
+                                    }
+                                },
+                                "Version": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "QueryId": "",
+            "ApplicationContext": {
+                "DatasetId": "5bff6260-1025-49e0-8e9b-169ade7c07f9",
+                "Sources": [
+                    {
+                        "ReportId": "b548a77c-ab0a-4d7c-a457-2e38c2914fc6"
+                    }
+                ]
+            }
+        }
+    ],
+    "cancelQueries": [],
+    "modelId": 4280811
+}

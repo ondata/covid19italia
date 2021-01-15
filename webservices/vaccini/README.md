@@ -13,7 +13,8 @@ Da oggi abbiamo attivato il download giornaliero e l'archiviazione di alcuni di 
 - quelli sulla [**somministrazione**](processing/somministrazioni.csv) per regione;
 - quelli sulla [**fasce d'età**](processing/fasceEta.csv) dei vaccinati;
 - quelli sulle [**categorie**](processing/categoria.csv) dei vaccinati;
-- quelli sul [**sesso**](processing/sesso.csv) dei vaccinati.
+- quelli sul [**sesso**](processing/sesso.csv) dei vaccinati;
+- quelli sui [**punti di somministrazione**](processing/puntiSomministrazione/puntiSomministrazione.csv). Per questi un doveroso grazie a [**Sergio Vavassori**](https://github.com/svavassori) che ha creato lo [script](puntiSomministrazione.py) per l'interpretazione corretta e conversione in `CSV` dei `JSON` di *input*.
 
 Nella stessa [cartella](./processing) sono presenti anche:
 

@@ -1,0 +1,587 @@
+siglaRegione,REGIONI,AREA,PROVINCIA,COMUNE,DEN_PRESIDIO_OSPEDALIERO,INDIRIZZO,CAP,NUTS2,COD_REG
+ABR,Abruzzo,Abruzzo,Chieti,Chieti,Presidio Ospedaliero SS Annunziata,Via dei Vestini,66100,ITF1,13
+ABR,Abruzzo,Abruzzo,Chieti,Chieti,Presidio Ospedaliero SS Annunziata,Via dei Vestini,66100,ITF1,13
+ABR,Abruzzo,Abruzzo,Chieti,Lanciano,Presidio Ospedaliero Renzetti,Via per Fossacesia 1,66034,ITF1,13
+ABR,Abruzzo,Abruzzo,Chieti,Lanciano,Presidio Ospedaliero Renzetti,Via per Fossacesia 1,66034,ITF1,13
+ABR,Abruzzo,Abruzzo,Chieti,Vasto,Presidio Ospedaliero San Pio,Via San Camillo De Lellis,66054,ITF1,13
+ABR,Abruzzo,Abruzzo,Chieti,Vasto,Presidio Ospedaliero San Pio,Via San Camillo De Lellis,66054,ITF1,13
+ABR,Abruzzo,Abruzzo,L'Aquila,Avezzano,P.O. SS. Filippo e Nicola,,67051,ITF1,13
+ABR,Abruzzo,Abruzzo,L'Aquila,Avezzano,P.O. SS. Filippo e Nicola,,67051,ITF1,13
+ABR,Abruzzo,Abruzzo,L'Aquila,L'Aquila,Presidio Ospedaliero San Salvatore,via Lorenzo Natali 1: località Coppito,67100,ITF1,13
+ABR,Abruzzo,Abruzzo,L'Aquila,L'Aquila,Presidio Ospedaliero San Salvatore,via Lorenzo Natali 1: località Coppito,67100,ITF1,13
+ABR,Abruzzo,Abruzzo,Pescara,Pescara,Presidio Ospedaliero Spirito Santo,"Via Renato Paolini, 47",65124,ITF1,13
+ABR,Abruzzo,Abruzzo,Pescara,Pescara,Presidio Ospedaliero Spirito Santo,"Via Renato Paolini, 47",65124,ITF1,13
+ABR,Abruzzo,Abruzzo,Teramo,Teramo,Presidio Ospedaliero Mazzini,Piazzale Italia,64100,ITF1,13
+ABR,Abruzzo,Abruzzo,Teramo,Teramo,Presidio Ospedaliero Mazzini,Piazzale Italia,64100,ITF1,13
+BAS,Basilicata,Basilicata,Matera,Matera,A.S.M. P.O. Madonna delle Grazie,"C.da Cattedra Ambulante, snc",75100,ITF5,17
+BAS,Basilicata,Basilicata,Matera,Matera,A.S.M. P.O. Madonna delle Grazie,"C.da Cattedra Ambulante, snc",75100,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Chiaromonte,CHIAROMONTE-ASP di POTENZA,c.da Santa Lucia,85032,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Chiaromonte,CHIAROMONTE-ASP di POTENZA,c.da Santa Lucia,85032,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Potenza,AOR SAN CARLO,Via P. Petrone,85100,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Potenza,AOR SAN CARLO,Via P. Petrone,85100,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Rionero In Vulture,IRCCS CROB,"Via Padre Pio, 1",85028,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Rionero In Vulture,IRCCS CROB,"Via Padre Pio, 1",85028,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Venosa,VENOSA-ASP di POTENZA,Via Appia,85029,ITF5,17
+BAS,Basilicata,Basilicata,Potenza,Venosa,VENOSA-ASP di POTENZA,Via Appia,85029,ITF5,17
+CAL,Calabria,Calabria,Catanzaro,Catanzaro,Mater Domini,Viale Europa Loc Germaneto,88100,ITF6,18
+CAL,Calabria,Calabria,Catanzaro,Catanzaro,Mater Domini,Viale Europa Loc Germaneto,88100,ITF6,18
+CAL,Calabria,Calabria,Catanzaro,Catanzaro,Pugliese -Ciaccio,Viale Pio X 88100 Catanzaro,88100,ITF6,18
+CAL,Calabria,Calabria,Catanzaro,Catanzaro,Pugliese -Ciaccio,Viale Pio X 88100 Catanzaro,88100,ITF6,18
+CAL,Calabria,Calabria,Cosenza,Cosenza,"AO Cosenza  - Azienda Ospedaliera di Cosenza ""SS. Annunziata""",Via F. Migliori,87100,ITF6,18
+CAL,Calabria,Calabria,Cosenza,Cosenza,"AO Cosenza  - Azienda Ospedaliera di Cosenza ""SS. Annunziata""",Via F. Migliori,87100,ITF6,18
+CAL,Calabria,Calabria,Crotone,Crotone,Ospedale Spoke Crotone,via bologna,88900,ITF6,18
+CAL,Calabria,Calabria,Crotone,Crotone,Ospedale Spoke Crotone,via bologna,88900,ITF6,18
+CAL,Calabria,Calabria,Reggio Calabria,Reggio Calabria,GOM,Via G. Melacrino 89124 Reggio Calabria,89124,ITF6,18
+CAL,Calabria,Calabria,Reggio Calabria,Reggio Calabria,GOM,Via G. Melacrino 89124 Reggio Calabria,89124,ITF6,18
+CAL,Calabria,Calabria,Vibo Valentia,Vibo Valentia,Ospedale Spoke Vibo Valentia,piazza Fleming,89900,ITF6,18
+CAL,Calabria,Calabria,Vibo Valentia,Vibo Valentia,Ospedale Spoke Vibo Valentia,piazza Fleming,89900,ITF6,18
+CAM,Campania,Campania,Avellino,Ariano Irpino,ASL AV P.O. S.Ottone Frangipane,C.so Vittorio Emanuele 2,83031,ITF3,15
+CAM,Campania,Campania,Avellino,Ariano Irpino,ASL AV P.O. S.Ottone Frangipane,C.so Vittorio Emanuele 2,83031,ITF3,15
+CAM,Campania,Campania,Avellino,Avellino,A.O.R.N. Moscati,Contrada Moretta,83100,ITF3,15
+CAM,Campania,Campania,Avellino,Avellino,A.O.R.N. Moscati,Contrada Moretta,83100,ITF3,15
+CAM,Campania,Campania,Benevento,Benevento,A.O. San Pio,Via dell'Angelo,82100,ITF3,15
+CAM,Campania,Campania,Benevento,Benevento,A.O. San Pio,Via dell'Angelo,82100,ITF3,15
+CAM,Campania,Campania,Caserta,Aversa,ASL CE PO Moscati,Via Antonio Gramsci,81031,ITF3,15
+CAM,Campania,Campania,Caserta,Aversa,ASL CE PO Moscati,Via Antonio Gramsci,81031,ITF3,15
+CAM,Campania,Campania,Caserta,Caserta,A.O.R.N. Sant'Anna e San Sebastiano,Via Palasciano 1,81100,ITF3,15
+CAM,Campania,Campania,Caserta,Caserta,A.O.R.N. Sant'Anna e San Sebastiano,Via Palasciano 1,81100,ITF3,15
+CAM,Campania,Campania,Caserta,Maddaloni,ASL CE PO Maddaloni,Via Roma 1,81024,ITF3,15
+CAM,Campania,Campania,Caserta,Maddaloni,ASL CE PO Maddaloni,Via Roma 1,81024,ITF3,15
+CAM,Campania,Campania,Caserta,Marcianise,ASL CE PO Marcianise,Viale Scialla,81025,ITF3,15
+CAM,Campania,Campania,Caserta,Marcianise,ASL CE PO Marcianise,Viale Scialla,81025,ITF3,15
+CAM,Campania,Campania,Caserta,Piedimonte Matese,ASL CE PO Piedimonte Matese,Via Matese,81016,ITF3,15
+CAM,Campania,Campania,Caserta,Piedimonte Matese,ASL CE PO Piedimonte Matese,Via Matese,81016,ITF3,15
+CAM,Campania,Campania,Caserta,Sessa Aurunca,ASL CE PO Sessa Aurunca,Via XXI Luglio,81037,ITF3,15
+CAM,Campania,Campania,Caserta,Sessa Aurunca,ASL CE PO Sessa Aurunca,Via XXI Luglio,81037,ITF3,15
+CAM,Campania,Campania,Napoli,Castellamare Di Stabia,ASL Napoli 3 Sud PO San Leonardo,Viale Europa 283,80053,ITF3,15
+CAM,Campania,Campania,Napoli,Castellamare Di Stabia,ASL Napoli 3 Sud PO San Leonardo,Viale Europa 283,80053,ITF3,15
+CAM,Campania,Campania,Napoli,Frattamaggiore,ASL Napoli 2 Nord PO San Giovanni di Dio,Via Domenico Pirozzi,80020,ITF3,15
+CAM,Campania,Campania,Napoli,Frattamaggiore,ASL Napoli 2 Nord PO San Giovanni di Dio,Via Domenico Pirozzi,80020,ITF3,15
+CAM,Campania,Campania,Napoli,Giugliano In Campania,ASL Napoli 2 Nord PO San Giuliano,Via San Battista Basile,80014,ITF3,15
+CAM,Campania,Campania,Napoli,Giugliano In Campania,ASL Napoli 2 Nord PO San Giuliano,Via San Battista Basile,80014,ITF3,15
+CAM,Campania,Campania,Napoli,Ischia,ASL Napoli 2 Nord PO A.M. Rizzoli,Via Fundera,80077,ITF3,15
+CAM,Campania,Campania,Napoli,Ischia,ASL Napoli 2 Nord PO A.M. Rizzoli,Via Fundera,80077,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O. Dei Colli - PO Cotugno,Via Leonardo Bianchi,80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O. Dei Colli - PO Cotugno,Via Leonardo Bianchi,80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O. Santobono Pausilipon,via mario fiore 6,80129,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O. Santobono Pausilipon,via mario fiore 6,80129,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.R.N. Cardarelli,Via Antonio Cardarelli,80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.R.N. Cardarelli,Via Antonio Cardarelli,80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.U. Federico II,Via Sergio Pansini 5,80138,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.U. Federico II,Via Sergio Pansini 5,80138,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.U. Vanvitelli,"Via S. Pansini 5, Edificio 3 piano terra",80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,A.O.U. Vanvitelli,"Via S. Pansini 5, Edificio 3 piano terra",80131,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,ASL NA 1 Centro PO Del Mare,Viale delle Metamorfosi,80147,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,ASL NA 1 Centro PO Del Mare,Viale delle Metamorfosi,80147,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,ASL NA1 Centro PO San Paolo,Via Terracina,80125,ITF3,15
+CAM,Campania,Campania,Napoli,Napoli,ASL NA1 Centro PO San Paolo,Via Terracina,80125,ITF3,15
+CAM,Campania,Campania,Napoli,Nola,ASL Napoli 3 Sud PO Nola,Via Della Repubblica,80035,ITF3,15
+CAM,Campania,Campania,Napoli,Nola,ASL Napoli 3 Sud PO Nola,Via Della Repubblica,80035,ITF3,15
+CAM,Campania,Campania,Napoli,Pozzuoli,ASL Napoli 2 Nord P.O Santa Maria Delle Grazie,Via Domitiana,80078,ITF3,15
+CAM,Campania,Campania,Napoli,Pozzuoli,ASL Napoli 2 Nord P.O Santa Maria Delle Grazie,Via Domitiana,80078,ITF3,15
+CAM,Campania,Campania,Salerno,Battipaglia,ASL SA PO Santa Maria Della Speranza,Via Fiorignano,84091,ITF3,15
+CAM,Campania,Campania,Salerno,Battipaglia,ASL SA PO Santa Maria Della Speranza,Via Fiorignano,84091,ITF3,15
+CAM,Campania,Campania,Salerno,Nocera Inferiore,ASL SA PO Umberto I,Via Alfonso De Nicola,84014,ITF3,15
+CAM,Campania,Campania,Salerno,Nocera Inferiore,ASL SA PO Umberto I,Via Alfonso De Nicola,84014,ITF3,15
+CAM,Campania,Campania,Salerno,Polla,ASL SA PO Luigi Curto,Via Luigi Curto,84035,ITF3,15
+CAM,Campania,Campania,Salerno,Polla,ASL SA PO Luigi Curto,Via Luigi Curto,84035,ITF3,15
+CAM,Campania,Campania,Salerno,Salerno,A.O.U. Ruggi D'Aragona,Via San Leonardo,84131,ITF3,15
+CAM,Campania,Campania,Salerno,Salerno,A.O.U. Ruggi D'Aragona,Via San Leonardo,84131,ITF3,15
+CAM,Campania,Campania,Salerno,Vallo Della Lucania,ASL SA PO San Luca,Via Francesco Cammarota,84078,ITF3,15
+CAM,Campania,Campania,Salerno,Vallo Della Lucania,ASL SA PO San Luca,Via Francesco Cammarota,84078,ITF3,15
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,AOSP S.Orsola Malpighi,"Via Massarenti, 9 Padiglione 16 piano rialzato",40138,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,AOSP S.Orsola Malpighi,"Via Massarenti, 9 Padiglione 16 piano rialzato",40138,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,AUSL Bologna Osp.le Bellaria,"Via Altura, 3 c/o Anatomia Patologica Padiglione L PT",40139,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,AUSL Bologna Osp.le Bellaria,"Via Altura, 3 c/o Anatomia Patologica Padiglione L PT",40139,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,IRCCS Istituto Ortopedico Rizzoli,"Via di Barbiano, 1/10 Centro di Ricerca Codivilla Putti 1°P Seminterrato",40136,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Bologna,IRCCS Istituto Ortopedico Rizzoli,"Via di Barbiano, 1/10 Centro di Ricerca Codivilla Putti 1°P Seminterrato",40136,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Imola,AUSL Imola,"via Montericco, 4 - 2° P",40026,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Bologna,Imola,AUSL Imola,"via Montericco, 4 - 2° P",40026,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ferrara,Cona,AOU Ferrara,"Via Aldo Moro, 8,Settore 1, corpo E, piano -1",44124,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ferrara,Cona,AOU Ferrara,"Via Aldo Moro, 8,Settore 1, corpo E, piano -1",44124,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ferrara,Lagosanto,AUSL Ferrara Ospedale del Delta  ,"Via Valle Oppio, 2",44023,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ferrara,Lagosanto,AUSL Ferrara Ospedale del Delta  ,"Via Valle Oppio, 2",44023,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Forlì-Cesena,Pievesestina,Centro Servizi Pievesistina,"Viale Primo Maggio, 280 Farmacia Centralizzata Centro Servizi Pievesestina",47522,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Forlì-Cesena,Pievesestina,Centro Servizi Pievesistina,"Viale Primo Maggio, 280 Farmacia Centralizzata Centro Servizi Pievesestina",47522,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Modena,Modena,AUSL/AOU Modena,"Via Minutara, 1 c/o Aeronautica Militare P.T. facilmente accessibile",41122,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Modena,Modena,AUSL/AOU Modena,"Via Minutara, 1 c/o Aeronautica Militare P.T. facilmente accessibile",41122,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Parma,Parma,AUSL/AOU Parma Osp.le Maggiore,"Via Gramsci, 14, Padiglione 18, servizio di farmacia, piano rialzaro",43126,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Parma,Parma,AUSL/AOU Parma Osp.le Maggiore,"Via Gramsci, 14, Padiglione 18, servizio di farmacia, piano rialzaro",43126,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Piacenza,Piacenza,Osp.le Guglielmo da Saliceto,"Via Campania 66, Edificio 6, Ingresso A- Piano Terra",29121,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Piacenza,Piacenza,Osp.le Guglielmo da Saliceto,"Via Campania 66, Edificio 6, Ingresso A- Piano Terra",29121,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ravenna,Ravenna,Ospedale Ravenna,"Via Alberto Missiroli, 10 c/o Palazzina Malattie Infettive PT",48121,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Ravenna,Ravenna,Ospedale Ravenna,"Via Alberto Missiroli, 10 c/o Palazzina Malattie Infettive PT",48121,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Reggio Emilia,Reggio Emilia,IRCCS Santa Maria Nuova,"Viale Umberto I°, 50 - Padiglione spallanzani, ingresso 4, stanza n. stanza 1.078",42123,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Reggio Emilia,Reggio Emilia,IRCCS Santa Maria Nuova,"Viale Umberto I°, 50 - Padiglione spallanzani, ingresso 4, stanza n. stanza 1.078",42123,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Rimini,Rimini,Ospedale Rimini,"Via Settembrini, 2 Magazzini Farmacia PT",47923,ITH5,08
+EMR,Emilia-Romagna,Emilia-Romagna,Rimini,Rimini,Ospedale Rimini,"Via Settembrini, 2 Magazzini Farmacia PT",47923,ITH5,08
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Gorizia,Monfalcone,MONFALCONE,"Via Galvani, 1",34074,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Gorizia,Monfalcone,MONFALCONE,"Via Galvani, 1",34074,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Pordenone,Pordenone,SANTA MARIA DEGLI ANGELI,via Montereale 24Scarico merci: via San Quirino portone D,33170,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Pordenone,Pordenone,SANTA MARIA DEGLI ANGELI,via Montereale 24Scarico merci: via San Quirino portone D,33170,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Trieste,Trieste,CATTINARA,Strada di Fiume 447,34149,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Trieste,Trieste,CATTINARA,Strada di Fiume 447,34149,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Udine,Tolmezzo,TOLMEZZO,"Via Giobatta Morgagni, 18,",33028,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Udine,Tolmezzo,TOLMEZZO,"Via Giobatta Morgagni, 18,",33028,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Udine,Udine,SANTA MARIA DELLA MISERICORDIA,"Piazzale Santa Maria della Misericordia, 15,",33100,ITH4,06
+FVG,Friuli-Venezia Giulia,Friuli-Venezia Giulia,Udine,Udine,SANTA MARIA DELLA MISERICORDIA,"Piazzale Santa Maria della Misericordia, 15,",33100,ITH4,06
+LAZ,Lazio,Lazio,Frosinone,Frosinone,Ospedale Spaziani,"Via Armando Fabi, 5",03100,ITI4,12
+LAZ,Lazio,Lazio,Frosinone,Frosinone,Ospedale Spaziani,"Via Armando Fabi, 5",03100,ITI4,12
+LAZ,Lazio,Lazio,Latina,Latina,Ospedale Santa Maria Goretti,Via Antonio Canova,04100,ITI4,12
+LAZ,Lazio,Lazio,Latina,Latina,Ospedale Santa Maria Goretti,Via Antonio Canova,04100,ITI4,12
+LAZ,Lazio,Lazio,Rieti,Rieti,Ospedale San Camillo De Lellis,Viale Kennedy,02100,ITI4,12
+LAZ,Lazio,Lazio,Rieti,Rieti,Ospedale San Camillo De Lellis,Viale Kennedy,02100,ITI4,12
+LAZ,Lazio,Lazio,Roma,Ariccia,ASL RM6 Ospedale dei Castelli,"Via Nettunense, Km 11,5",00040,ITI4,12
+LAZ,Lazio,Lazio,Roma,Ariccia,ASL RM6 Ospedale dei Castelli,"Via Nettunense, Km 11,5",00040,ITI4,12
+LAZ,Lazio,Lazio,Roma,Civitavecchia,ASL RM4 Ospedale San Paolo,"Largo Donatori del Sangue, 1",00053,ITI4,12
+LAZ,Lazio,Lazio,Roma,Civitavecchia,ASL RM4 Ospedale San Paolo,"Largo Donatori del Sangue, 1",00053,ITI4,12
+LAZ,Lazio,Lazio,Roma,Colleferro,ASL RM5 Ospedale Parodi Delfino Distretto Sanitario G6 Farmacia,Via degli Esplosivi s.n.c,00034,ITI4,12
+LAZ,Lazio,Lazio,Roma,Colleferro,ASL RM5 Ospedale Parodi Delfino Distretto Sanitario G6 Farmacia,Via degli Esplosivi s.n.c,00034,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,AO SAN GIOVANNI ADDOLORATA,VIA DELL'AMBA ARADAM 8,00184,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,AO SAN GIOVANNI ADDOLORATA,VIA DELL'AMBA ARADAM 8,00184,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,ASL RM2 Ospedale Sandro Pertini,"Via dei Monti Tiburtini, 385, 00157",00157,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,ASL RM2 Ospedale Sandro Pertini,"Via dei Monti Tiburtini, 385, 00157",00157,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,ASL RM3 Ospedale G.B. Grassi,"Via Gian Carlo Passeroni, 28",00122,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,ASL RM3 Ospedale G.B. Grassi,"Via Gian Carlo Passeroni, 28",00122,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Azienda OpedalieraSan Camillo-Forlanini,"Circonvallazione Gianicolense, 87",00152,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Azienda OpedalieraSan Camillo-Forlanini,"Circonvallazione Gianicolense, 87",00152,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Azienda Ospedaliera Universitaria Sant'Andrea,Via di Grotta Rossa 1035/1039,00189,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Azienda Ospedaliera Universitaria Sant'Andrea,Via di Grotta Rossa 1035/1039,00189,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Comprensorio Santa Maria della Pietà - Padiglione 28,"Piazza Santa Maria della Pietà, 5",00135,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Comprensorio Santa Maria della Pietà - Padiglione 28,"Piazza Santa Maria della Pietà, 5",00135,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Fondazione Policlinico A. Gemelli IRCCS,"Largo A. Gemelli, 8",00168,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Fondazione Policlinico A. Gemelli IRCCS,"Largo A. Gemelli, 8",00168,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IFO Istituti Fiosioterapici Ospitalieri,"via Elio Chianesi, 5",00144,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IFO Istituti Fiosioterapici Ospitalieri,"via Elio Chianesi, 5",00144,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IRCCS Lazzaro Spallanzani,via Giacomo Folchi 6A,00149 ,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IRCCS Lazzaro Spallanzani,via Giacomo Folchi 6A,00149 ,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IRCCS Ospedale Pediatrico Bambino Gesù,viale Ferdinando Baldelli 38,00165,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,IRCCS Ospedale Pediatrico Bambino Gesù,viale Ferdinando Baldelli 38,00165,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,POLICLINICO TOR VERGATA,via Montpellier 1 ,00133,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,POLICLINICO TOR VERGATA,via Montpellier 1 ,00133,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Policlinico Umberto I,"Via del Policlinico, 155",00161,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Policlinico Umberto I,"Via del Policlinico, 155",00161,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Policlinico Universitario Campus Bio-Medico,"Via Álvaro del Portillo, 200",00128,ITI4,12
+LAZ,Lazio,Lazio,Roma,Roma,Policlinico Universitario Campus Bio-Medico,"Via Álvaro del Portillo, 200",00128,ITI4,12
+LAZ,Lazio,Lazio,Viterbo,Viterbo,Ospedale Bel Colle,Strada Sammartinese,01100,ITI4,12
+LAZ,Lazio,Lazio,Viterbo,Viterbo,Ospedale Bel Colle,Strada Sammartinese,01100,ITI4,12
+LIG,Liguria,Liguria,Genova,Genova,Ente Ospedali Galliera,via Mura delle Cappuccine 14,16128,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ente Ospedali Galliera,via Mura delle Cappuccine 14,16128,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Istituto G. Gaslini-IRCCS,"via Gerolamo Gaslini, 5",16147,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Istituto G. Gaslini-IRCCS,"via Gerolamo Gaslini, 5",16147,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Evangelico Internazionale,"Piazzale Efisio Gianasso, 4",16158,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Evangelico Internazionale,"Piazzale Efisio Gianasso, 4",16158,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Policlinico San Martino-IRCCS,Largo Rosanna Benzi 10,16132,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Policlinico San Martino-IRCCS,Largo Rosanna Benzi 10,16132,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Villa Scassi,"C.so Onofrio Scassi, 1",16149,ITC3,07
+LIG,Liguria,Liguria,Genova,Genova,Ospedale Villa Scassi,"C.so Onofrio Scassi, 1",16149,ITC3,07
+LIG,Liguria,Liguria,Genova,Sestri Levante,Ospedale Sestri Levante,Via Terzi 37,16039,ITC3,07
+LIG,Liguria,Liguria,Genova,Sestri Levante,Ospedale Sestri Levante,Via Terzi 37,16039,ITC3,07
+LIG,Liguria,Liguria,Imperia,Bordighera,Ospedale Bordighera,"Bordighera (IM), via Aurelia 122",18012,ITC3,07
+LIG,Liguria,Liguria,Imperia,Bordighera,Ospedale Bordighera,"Bordighera (IM), via Aurelia 122",18012,ITC3,07
+LIG,Liguria,Liguria,Imperia,Imperia,Ospedale Imperia,via Sant'Agata 97,18100,ITC3,07
+LIG,Liguria,Liguria,Imperia,Imperia,Ospedale Imperia,via Sant'Agata 97,18100,ITC3,07
+LIG,Liguria,Liguria,Imperia,Sanremo,Ospedale Sanremo,"Via Giovanni Borea, 56",18038,ITC3,07
+LIG,Liguria,Liguria,Imperia,Sanremo,Ospedale Sanremo,"Via Giovanni Borea, 56",18038,ITC3,07
+LIG,Liguria,Liguria,La Spezia,La Spezia,Ospedale Sant'Andrea,"La Spezia, Via Vittorio Veneto, 197",19124,ITC3,07
+LIG,Liguria,Liguria,La Spezia,La Spezia,Ospedale Sant'Andrea,"La Spezia, Via Vittorio Veneto, 197",19124,ITC3,07
+LIG,Liguria,Liguria,La Spezia,Sarzana,Ospedale San Bartolomeo,"Sarzana (SP), via Cisa",19038,ITC3,07
+LIG,Liguria,Liguria,La Spezia,Sarzana,Ospedale San Bartolomeo,"Sarzana (SP), via Cisa",19038,ITC3,07
+LIG,Liguria,Liguria,Savona,Cairo Montenotte,Ospedale San Giuseppe - Cairo Montenotte,Corso Martiri della Libertà 30,17014,ITC3,07
+LIG,Liguria,Liguria,Savona,Cairo Montenotte,Ospedale San Giuseppe - Cairo Montenotte,Corso Martiri della Libertà 30,17014,ITC3,07
+LIG,Liguria,Liguria,Savona,Pietra Ligura,Ospedale Santa Corona,"Viale 25 Aprile, 38",17027,ITC3,07
+LIG,Liguria,Liguria,Savona,Pietra Ligura,Ospedale Santa Corona,"Viale 25 Aprile, 38",17027,ITC3,07
+LIG,Liguria,Liguria,Savona,Savona,Ospedale San Paolo,Via Genova 30,17100,ITC3,07
+LIG,Liguria,Liguria,Savona,Savona,Ospedale San Paolo,Via Genova 30,17100,ITC3,07
+LOM,Lombardia,Lombardia,Bergamo,Alzano Lombardo,ASST BERGAMO EST Alzano Lombardo,"Via Giuseppe Mazzini, 88",24022,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Alzano Lombardo,ASST BERGAMO EST Alzano Lombardo,"Via Giuseppe Mazzini, 88",24022,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Bergamo,ASST PAPA GIOVANNI XXIII 03090500 - BERGAMO OSPEDALI RIUNITI,"Piazza OMS 1,",24127,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Bergamo,ASST PAPA GIOVANNI XXIII 03090500 - BERGAMO OSPEDALI RIUNITI,"Piazza OMS 1,",24127,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Piario,ASST DI BERGAMO EST 03038200 - GROPPINO PIARIO OSP. M.O.A. LOCATELLI,Via Groppino 22,24020,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Piario,ASST DI BERGAMO EST 03038200 - GROPPINO PIARIO OSP. M.O.A. LOCATELLI,Via Groppino 22,24020,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Seriate,ASST DI BERGAMO EST 03014000 - SERIATE OSP. BOLOGNINI,Via Paderno 21,24068,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Seriate,ASST DI BERGAMO EST 03014000 - SERIATE OSP. BOLOGNINI,Via Paderno 21,24068,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Treviglio,ASST BERGAMO OVEST Treviglio,"Piazzale Ospedale,1 TREVIGLIO",24047,ITC4,03
+LOM,Lombardia,Lombardia,Bergamo,Treviglio,ASST BERGAMO OVEST Treviglio,"Piazzale Ospedale,1 TREVIGLIO",24047,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,"ASST Spedali Civili di Brescia, UOC Farmacia Aziendale",P.le Spedali Civili 1,25123,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,"ASST Spedali Civili di Brescia, UOC Farmacia Aziendale",P.le Spedali Civili 1,25123,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,Fondazione Poliambulanza,Via Bissolati 57,25124,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,Fondazione Poliambulanza,Via Bissolati 57,25124,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,Istituto Clinico Città di Brescia di Istituti Ospedalieri Bresciani,"via Gualla,15",25128,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Brescia,Istituto Clinico Città di Brescia di Istituti Ospedalieri Bresciani,"via Gualla,15",25128,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Chiari,ASST FRANCIACORTA CHIARI,"Viale Mazzini, 4",25032,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Chiari,ASST FRANCIACORTA CHIARI,"Viale Mazzini, 4",25032,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Desenzano,ASST DEL GARDA Desenzano,Località Montecroce,25077,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Desenzano,ASST DEL GARDA Desenzano,Località Montecroce,25077,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Edolo,ASST DELLA VALCAMONICA 03027402 - OSPEDALE VALCAMONICA - EDOLO,"Piazza Donatori di Sangue 1,",25048,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Edolo,ASST DELLA VALCAMONICA 03027402 - OSPEDALE VALCAMONICA - EDOLO,"Piazza Donatori di Sangue 1,",25048,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Esine,ASST VALCAMONICA ESINE,"via Manzoni,142",25040,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Esine,ASST VALCAMONICA ESINE,"via Manzoni,142",25040,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Gavardo,ASST DEL GARDA 03015700 - GAVARDO OSP. CIV. LA MEMORIA,Via A. Gosa 74,25085,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Gavardo,ASST DEL GARDA 03015700 - GAVARDO OSP. CIV. LA MEMORIA,Via A. Gosa 74,25085,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Iseo,ASST DELLA FRANCIACORTA 03016300 - ISEO OSP. CIVILE,Via Giardini Garibaldi 7,25049,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Iseo,ASST DELLA FRANCIACORTA 03016300 - ISEO OSP. CIVILE,Via Giardini Garibaldi 7,25049,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Manerbio,ASST GARDA Manerbio,"Via Lungomella Valsecchi, 2",25025,ITC4,03
+LOM,Lombardia,Lombardia,Brescia,Manerbio,ASST GARDA Manerbio,"Via Lungomella Valsecchi, 2",25025,ITC4,03
+LOM,Lombardia,Lombardia,Como,Cantù,ASST LARIANA 03002200 - CANTU' OSP. CIRCOLO,Via Domea 4,22063,ITC4,03
+LOM,Lombardia,Lombardia,Como,Cantù,ASST LARIANA 03002200 - CANTU' OSP. CIRCOLO,Via Domea 4,22063,ITC4,03
+LOM,Lombardia,Lombardia,Como,Menaggio,ASST LARIANA 03002600 - MENAGGIO OSP. DI ZONA,Via V. Casartelli,22017,ITC4,03
+LOM,Lombardia,Lombardia,Como,Menaggio,ASST LARIANA 03002600 - MENAGGIO OSP. DI ZONA,Via V. Casartelli,22017,ITC4,03
+LOM,Lombardia,Lombardia,Como,San Fermo Della Battaglia,ASST LARIANA - Presidio Ospedaliero Sant'Anna Como,Via Ravona n. 20,22042,ITC4,03
+LOM,Lombardia,Lombardia,Como,San Fermo Della Battaglia,ASST LARIANA - Presidio Ospedaliero Sant'Anna Como,Via Ravona n. 20,22042,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Casalmaggiore,ASST DI CREMONA 03027300 - CASALMAGGIORE OSPEDALE (OGLIO PO),Via Staffolo 51,26041,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Casalmaggiore,ASST DI CREMONA 03027300 - CASALMAGGIORE OSPEDALE (OGLIO PO),Via Staffolo 51,26041,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Crema,ASST CREMA Ospedale Maggiore di Crema,Largo Ugo Dossena 2,26013,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Crema,ASST CREMA Ospedale Maggiore di Crema,Largo Ugo Dossena 2,26013,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Cremona,ASST CREMONA Presidio Cremona Immunoematologia e Medicina Trasfusionale,"Viale Concordia, n. 1",26100,ITC4,03
+LOM,Lombardia,Lombardia,Cremona,Cremona,ASST CREMONA Presidio Cremona Immunoematologia e Medicina Trasfusionale,"Viale Concordia, n. 1",26100,ITC4,03
+LOM,Lombardia,Lombardia,Lecco,Bellano,ASST DI LECCO 03002300 - BELLANO OSP. CIRCOLO,Via Carlo Alberto 25,23822,ITC4,03
+LOM,Lombardia,Lombardia,Lecco,Bellano,ASST DI LECCO 03002300 - BELLANO OSP. CIRCOLO,Via Carlo Alberto 25,23822,ITC4,03
+LOM,Lombardia,Lombardia,Lecco,Lecco,"ASST DI LECCO ""P.O.MANZONI"" LECCO",VIA DELL'EREMO9-11 LECCO,23900,ITC4,03
+LOM,Lombardia,Lombardia,Lecco,Lecco,"ASST DI LECCO ""P.O.MANZONI"" LECCO",VIA DELL'EREMO9-11 LECCO,23900,ITC4,03
+LOM,Lombardia,Lombardia,Lodi,Codogno,ASST Lodi - Ospedale Codogno,UOC Farmacia - Via dei Canestrai angolo Via Belloni,26845,ITC4,03
+LOM,Lombardia,Lombardia,Lodi,Codogno,ASST Lodi - Ospedale Codogno,UOC Farmacia - Via dei Canestrai angolo Via Belloni,26845,ITC4,03
+LOM,Lombardia,Lombardia,Lodi,Lodi,ASST Lodi - Ospedale Lodi,UOC Farmacia - Viale Savoia,26900,ITC4,03
+LOM,Lombardia,Lombardia,Lodi,Lodi,ASST Lodi - Ospedale Lodi,UOC Farmacia - Viale Savoia,26900,ITC4,03
+LOM,Lombardia,Lombardia,Mantova,Mantova,ASST DI MANTOVA - POMA,"STRADA LAGO PAIOLO, 10",46100,ITC4,03
+LOM,Lombardia,Lombardia,Mantova,Mantova,ASST DI MANTOVA - POMA,"STRADA LAGO PAIOLO, 10",46100,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Cinisello Balsamo,ASST NORD MILANO 03005800 - CINISELLO B. OSP. BASSINI,Via Massimo Gorki 50,20092,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Cinisello Balsamo,ASST NORD MILANO 03005800 - CINISELLO B. OSP. BASSINI,Via Massimo Gorki 50,20092,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Garbagnate Milanese,ASST RHODENSE 03006600 - GARBAGNATE MILANESE OSP. SALVINI,Via Forlanini 95,20024,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Garbagnate Milanese,ASST RHODENSE 03006600 - GARBAGNATE MILANESE OSP. SALVINI,Via Forlanini 95,20024,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Legnano,ASST OVEST MILANESE LEGNANO,VIA PAPA GIOVANNI PAOLO II,20025,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Legnano,ASST OVEST MILANESE LEGNANO,VIA PAPA GIOVANNI PAOLO II,20025,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Magenta,ASST OVEST MILANESE MAGENTA,VIA AL DONATORE DI SANGUE 50,20013,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Magenta,ASST OVEST MILANESE MAGENTA,VIA AL DONATORE DI SANGUE 50,20013,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Melzo,ASST MELEGNANO E DELLA MARTESANA 03007101 - MELZO OSP. S.MARIA DELLE STELLE,Via Volontari del Sangue 5,20066,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Melzo,ASST MELEGNANO E DELLA MARTESANA 03007101 - MELZO OSP. S.MARIA DELLE STELLE,Via Volontari del Sangue 5,20066,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST FATEBENEFRATELLI SACCO 03091000 - MILANO OSP. FATEBENEFRATELLI OFTALMICO,Piazzale Principessa Clotilde 3,20121,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST FATEBENEFRATELLI SACCO 03091000 - MILANO OSP. FATEBENEFRATELLI OFTALMICO,Piazzale Principessa Clotilde 3,20121,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST FBF SACCO - P.O. SACCO,"VIA G.B. GRASSI, N. 74",20157,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST FBF SACCO - P.O. SACCO,"VIA G.B. GRASSI, N. 74",20157,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST GAETANO PINI CTO,P.ZA C.FERRARI N.1,20122,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST GAETANO PINI CTO,P.ZA C.FERRARI N.1,20122,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST Grande Ospedale Metropolitano Niguarda,"Piazza Ospedale Maggiore, 3 - 20162 Milano",20161,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST Grande Ospedale Metropolitano Niguarda,"Piazza Ospedale Maggiore, 3 - 20162 Milano",20161,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST Santi Paolo e Carlo,"Via A. di Rudinì 8,",20142,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST Santi Paolo e Carlo,"Via A. di Rudinì 8,",20142,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST SANTI PAOLO E CARLO 03091500 - MILANO OSP. S.CARLO,Via Pio II 3,20153,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,ASST SANTI PAOLO E CARLO 03091500 - MILANO OSP. S.CARLO,Via Pio II 3,20153,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE POLICLINICO,"VIA FRANCESCO SFORZA, 28",20122,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE POLICLINICO,"VIA FRANCESCO SFORZA, 28",20122,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Fondazione IRCCS Istituto Nazionale dei Tumori Milano,Via G. Venezian 1 MILANO,20133,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Fondazione IRCCS Istituto Nazionale dei Tumori Milano,Via G. Venezian 1 MILANO,20133,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Fondazione IRCCS ISTITUTO NEUROLOGICO BESTA,"Via Celoria, 11-Milano",20133,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Fondazione IRCCS ISTITUTO NEUROLOGICO BESTA,"Via Celoria, 11-Milano",20133,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Gruppo multimedica - Ospedale San Giuseppe,Via San Vittore 12,20123,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Gruppo multimedica - Ospedale San Giuseppe,Via San Vittore 12,20123,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,IRCCS Ospedale San Raffaele,"VIA Olgettina, 60",20132,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,IRCCS Ospedale San Raffaele,"VIA Olgettina, 60",20132,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,IRCSS Santa Maria Nascente (Don Gnocchi),Via Alfonso Capecelatro 66,20148,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,IRCSS Santa Maria Nascente (Don Gnocchi),Via Alfonso Capecelatro 66,20148,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Istituto Auxologico Italiano - Ospedale San Luca,"Piazzale Brescia, 20",20149,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,Istituto Auxologico Italiano - Ospedale San Luca,"Piazzale Brescia, 20",20149,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,PIO ALBERGO TRIVULZIO,Via Trivulzio 15,20146,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Milano,PIO ALBERGO TRIVULZIO,Via Trivulzio 15,20146,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Rho,ASST RHODENSE 03007300 - RHO OSP. CIRCOLO,Corso Europa 250,20017,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Rho,ASST RHODENSE 03007300 - RHO OSP. CIRCOLO,Corso Europa 250,20017,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Rozzano,HUMANTIAS MIRASOLE,Via Manzoni 56,20089,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Rozzano,HUMANTIAS MIRASOLE,Via Manzoni 56,20089,ITC4,03
+LOM,Lombardia,Lombardia,Milano,San Donato Milanese,IRCCS Policlinico San Donato S.p.A.,Via Morandi n. 30,20097,ITC4,03
+LOM,Lombardia,Lombardia,Milano,San Donato Milanese,IRCCS Policlinico San Donato S.p.A.,Via Morandi n. 30,20097,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Sesto,ASST NORD MILANO - P.O. SESTO S.G.,"VIA MATTEOTTI 83,",20099,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Sesto,ASST NORD MILANO - P.O. SESTO S.G.,"VIA MATTEOTTI 83,",20099,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Vizzolo Predabissi,ASST MELEGNANO E DELLA MARTESANA 03007201 - MELEGNANO OSP. PREDABISSI,"Via Pandina 1,",20070,ITC4,03
+LOM,Lombardia,Lombardia,Milano,Vizzolo Predabissi,ASST MELEGNANO E DELLA MARTESANA 03007201 - MELEGNANO OSP. PREDABISSI,"Via Pandina 1,",20070,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Desio,ASST DI MONZA 03006800 - DESIO OSP. CIRCOLO,Via Mazzini 1,20832,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Desio,ASST DI MONZA 03006800 - DESIO OSP. CIRCOLO,Via Mazzini 1,20832,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Monza,ASST DI MONZA 03090900 - MONZA OSP. S.GERARDO,Via Pergolesi 33,20900,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Monza,ASST DI MONZA 03090900 - MONZA OSP. S.GERARDO,Via Pergolesi 33,20900,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Vimercate,ASST VIMERCATE,VIA SANTI COSMA E DAMIANO 10,20871,ITC4,03
+LOM,Lombardia,Lombardia,Monza Brianza,Vimercate,ASST VIMERCATE,VIA SANTI COSMA E DAMIANO 10,20871,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Pavia,FONDAZIONE IRCCS POLICLINICO SAN MATTEO,VIALE GOLGI 19 PAVIA,27100,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Pavia,FONDAZIONE IRCCS POLICLINICO SAN MATTEO,VIALE GOLGI 19 PAVIA,27100,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Vigevano,ASST DI PAVIA 03019300 - VIGEVANO OSP. CIVILE,"Corso Milano 19,",27029,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Vigevano,ASST DI PAVIA 03019300 - VIGEVANO OSP. CIVILE,"Corso Milano 19,",27029,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Voghera,ASST DI PAVIA 03019400 - VOGHERA OSP. CIVILE,"Via Volturno 14,",27058,ITC4,03
+LOM,Lombardia,Lombardia,Pavia,Voghera,ASST DI PAVIA 03019400 - VOGHERA OSP. CIVILE,"Via Volturno 14,",27058,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Chiavenna,ASST DELLA VALTELLINA E DELL'ALTO LARIO 03004400 - CHIAVENNA OSP. CIVILE,Via della Cereria 4,23022,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Chiavenna,ASST DELLA VALTELLINA E DELL'ALTO LARIO 03004400 - CHIAVENNA OSP. CIVILE,Via della Cereria 4,23022,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Sondalo,ASST DELLA VALTELLINA E DELL'ALTO LARIO 03090400 - SONDALO OSP. EUGENIO MORELLI,Via Zubiani 33,23035,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Sondalo,ASST DELLA VALTELLINA E DELL'ALTO LARIO 03090400 - SONDALO OSP. EUGENIO MORELLI,Via Zubiani 33,23035,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Sondrio,ASST VALTELLINA E DELL'ALTO LARIO PO DI SONDRIO,Via Stelvio n. 25,23100,ITC4,03
+LOM,Lombardia,Lombardia,Sondrio,Sondrio,ASST VALTELLINA E DELL'ALTO LARIO PO DI SONDRIO,Via Stelvio n. 25,23100,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Angera,ASST DEI SETTE LAGHI 03001200 - ANGERA OSP. ONDOLI,Via Bordini 9,21021,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Angera,ASST DEI SETTE LAGHI 03001200 - ANGERA OSP. ONDOLI,Via Bordini 9,21021,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Busto Arsizio,ASST VALLE OLONA di Busto Arsizio - Presidio di Busto Arsizio,Viale Stelvio snc,21052,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Busto Arsizio,ASST VALLE OLONA di Busto Arsizio - Presidio di Busto Arsizio,Viale Stelvio snc,21052,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Gallarate,ASST DELLA VALLE OLONA 03000600 - GALLARATE OSP. S.ANTONIO ABATE,Via Eusebio Pastori -,21013,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Gallarate,ASST DELLA VALLE OLONA 03000600 - GALLARATE OSP. S.ANTONIO ABATE,Via Eusebio Pastori -,21013,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Luino,ASST DEI SETTE LAGHI 03028202 - LUINO PRES.DEL VERBANO,Via Forlanini 6,21016,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Luino,ASST DEI SETTE LAGHI 03028202 - LUINO PRES.DEL VERBANO,Via Forlanini 6,21016,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Saronno,ASST DELLA VALLE OLONA 03000800 - SARONNO OSP. CIRCOLO,Piazza Borella 1,21047,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Saronno,ASST DELLA VALLE OLONA 03000800 - SARONNO OSP. CIRCOLO,Piazza Borella 1,21047,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Varese,ASST SETTE LAGHI,"viale Borri, 57",21100,ITC4,03
+LOM,Lombardia,Lombardia,Varese,Varese,ASST SETTE LAGHI,"viale Borri, 57",21100,ITC4,03
+MAR,Marche,Marche,Ancona,Ancona,INRCA - PRESIDIO OSPEDALIERO DI RICERCA,"Via della Montagnola, 81",60127,ITI3,11
+MAR,Marche,Marche,Ancona,Ancona,INRCA - PRESIDIO OSPEDALIERO DI RICERCA,"Via della Montagnola, 81",60127,ITI3,11
+MAR,Marche,Marche,Ancona,Jesi,"Ospedale ""Carlo Urbani"" - HUB","Via Aldo Moro, 25",60035,ITI3,11
+MAR,Marche,Marche,Ancona,Jesi,"Ospedale ""Carlo Urbani"" - HUB","Via Aldo Moro, 25",60035,ITI3,11
+MAR,Marche,Marche,Ascoli Piceno,San Benedetto Del Tronto,Ospedale Madonna del Soccorso,"Via Manara, 7",63074,ITI3,11
+MAR,Marche,Marche,Ascoli Piceno,San Benedetto Del Tronto,Ospedale Madonna del Soccorso,"Via Manara, 7",63074,ITI3,11
+MAR,Marche,Marche,Fermo,Fermo,Ospedale Augusto Murri - FERMO,"Via Zeppilli, 18",63900,ITI3,11
+MAR,Marche,Marche,Fermo,Fermo,Ospedale Augusto Murri - FERMO,"Via Zeppilli, 18",63900,ITI3,11
+MAR,Marche,Marche,Macerata,Camerino,Ospedale di Camerino,"Località Caselle, 1",62032,ITI3,11
+MAR,Marche,Marche,Macerata,Camerino,Ospedale di Camerino,"Località Caselle, 1",62032,ITI3,11
+MAR,Marche,Marche,Macerata,Civitanova Marche,Ospedale di Civitanova Marche,C.DA SANDOMENICO 132/A,62012,ITI3,11
+MAR,Marche,Marche,Macerata,Civitanova Marche,Ospedale di Civitanova Marche,C.DA SANDOMENICO 132/A,62012,ITI3,11
+MAR,Marche,Marche,Pesaro Urbino,Fossombrone,OSPEDALE DI COMUNITÀ FOSSOMBRONE,"Via Fratelli Kennedy, 19",61034,ITI3,11
+MAR,Marche,Marche,Pesaro Urbino,Fossombrone,OSPEDALE DI COMUNITÀ FOSSOMBRONE,"Via Fratelli Kennedy, 19",61034,ITI3,11
+MOL,Molise,Molise,Campobasso,Campobasso,"P.O. ""A. Cardarelli""",Contrada Tappino,86100,ITF2,14
+MOL,Molise,Molise,Campobasso,Campobasso,"P.O. ""A. Cardarelli""",Contrada Tappino,86100,ITF2,14
+MOL,Molise,Molise,Campobasso,Termoli,"P.O. ""San Timoteo""","Viale S. Francesco, 1",86039,ITF2,14
+MOL,Molise,Molise,Campobasso,Termoli,"P.O. ""San Timoteo""","Viale S. Francesco, 1",86039,ITF2,14
+PIE,Piemonte,Piemonte,Alessandria,Alessandria,AOU SANTI ANTONIO BIAGIO E CESARE ARRIGO ALESSANDRIA,Via Venezia 16,15121,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Alessandria,AOU SANTI ANTONIO BIAGIO E CESARE ARRIGO ALESSANDRIA,Via Venezia 16,15121,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Casale Monferrato,ASL AL OSPEDALE CASALE MONFERRATO,Viale Giovanni Giolitti 2,15033,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Casale Monferrato,ASL AL OSPEDALE CASALE MONFERRATO,Viale Giovanni Giolitti 2,15033,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Novi Ligure,ASL AL OSPEDALE NOVI LIGURE,Via Edilio Raggio 12,15067,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Novi Ligure,ASL AL OSPEDALE NOVI LIGURE,Via Edilio Raggio 12,15067,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Tortona,ASL AL OSPEDALE TORTONA,Via XX settembre,15057,ITC1,01
+PIE,Piemonte,Piemonte,Alessandria,Tortona,ASL AL OSPEDALE TORTONA,Via XX settembre,15057,ITC1,01
+PIE,Piemonte,Piemonte,Asti,Asti,ASL AT OSPEDALE CARDINAL MASSAIA ASTI,Corso Dante Alighieri 202,14100,ITC1,01
+PIE,Piemonte,Piemonte,Asti,Asti,ASL AT OSPEDALE CARDINAL MASSAIA ASTI,Corso Dante Alighieri 202,14100,ITC1,01
+PIE,Piemonte,Piemonte,Asti,Nizza Monferrato,ASL AT OSPEDALE NIZZA MONFERRATO,Piazza Giuseppe Garibali 16,14049,ITC1,01
+PIE,Piemonte,Piemonte,Asti,Nizza Monferrato,ASL AT OSPEDALE NIZZA MONFERRATO,Piazza Giuseppe Garibali 16,14049,ITC1,01
+PIE,Piemonte,Piemonte,Biella,Ponderano,ASL BI OSPEDALE DEGLI INFERMI BIELLA,Via dei Ponderanesi 2,13875,ITC1,01
+PIE,Piemonte,Piemonte,Biella,Ponderano,ASL BI OSPEDALE DEGLI INFERMI BIELLA,Via dei Ponderanesi 2,13875,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Cuneo,AO S. CROCE E CARLE CUNEO,Via Michele Coppino 26,12100,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Cuneo,AO S. CROCE E CARLE CUNEO,Via Michele Coppino 26,12100,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Mondovì,ASL CN 1 OSPEDALE MONDOVI’,Via San Rocchetto 99,12084,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Mondovì,ASL CN 1 OSPEDALE MONDOVI’,Via San Rocchetto 99,12084,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Savigliano,ASL CN 1 OSPEDALE SAVIGLIANO,Via Ospedali 9,12038,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Savigliano,ASL CN 1 OSPEDALE SAVIGLIANO,Via Ospedali 9,12038,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Verduno,ASL CN 2 OSPEDALE VERDUNO,Strada del Tanaro 7/9,12060,ITC1,01
+PIE,Piemonte,Piemonte,Cuneo,Verduno,ASL CN 2 OSPEDALE VERDUNO,Strada del Tanaro 7/9,12060,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Borgomanero,ASL NO OSPEDALE BORGOMANERO,Viale Zoppis 10,28021,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Borgomanero,ASL NO OSPEDALE BORGOMANERO,Viale Zoppis 10,28021,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Novara,AOU MAGGIORE DELLA CARITA’ NOVARA,Corso Giuseppe Mazzini 18,28100,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Novara,AOU MAGGIORE DELLA CARITA’ NOVARA,Corso Giuseppe Mazzini 18,28100,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Novara,ASL NOVARA,Viale Roma 7,28100,ITC1,01
+PIE,Piemonte,Piemonte,Novara,Novara,ASL NOVARA,Viale Roma 7,28100,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Chivasso,ASL TO 4 OSPEDALE CHIVASSO,Corso Galileo Ferraris 3,10034,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Chivasso,ASL TO 4 OSPEDALE CHIVASSO,Corso Galileo Ferraris 3,10034,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Cirie’,ASL TO 4 OSPEDALE CIRIE’,Via battitore 7/9,10073,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Cirie’,ASL TO 4 OSPEDALE CIRIE’,Via battitore 7/9,10073,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Ivrea,ASL TO 4 OSPEDALE IVREA,Piazza Credenza 2,10015,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Ivrea,ASL TO 4 OSPEDALE IVREA,Piazza Credenza 2,10015,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Moncalieri,ASL TO 5 OSPEDALE MONCALIERI,Piazza Amedeo Ferdinando 3,10024,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Moncalieri,ASL TO 5 OSPEDALE MONCALIERI,Piazza Amedeo Ferdinando 3,10024,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Orbassano,AOU SAN LUIGI GONZAGA ORBASSANO,Regione Gonzole 10,10043,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Orbassano,AOU SAN LUIGI GONZAGA ORBASSANO,Regione Gonzole 10,10043,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Pinerolo,ASL TO 3 OSPEDALE PINEROLO,Via Brigata Cagliari 39,10064,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Pinerolo,ASL TO 3 OSPEDALE PINEROLO,Via Brigata Cagliari 39,10064,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Rivoli,ASL TO 3 OSPEDALE RIVOLI,Via Rivalta 29,10098,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Rivoli,ASL TO 3 OSPEDALE RIVOLI,Via Rivalta 29,10098,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,AO MAURIZIANO TORINO,Largo Filippo Turati 62,10128,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,AO MAURIZIANO TORINO,Largo Filippo Turati 62,10128,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,AOU CITTA’ DELLA SALUTE E DELLA SCIENZA DI TORINO,Corso Bramante 88,10126,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,AOU CITTA’ DELLA SALUTE E DELLA SCIENZA DI TORINO,Corso Bramante 88,10126,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,ASL CITTA’ DI TORINO OSPEDALE SAN GIOVANNI BOSCO/OSPEDALE MARIA VITTORIA,Via Pergolesi 30,10154,ITC1,01
+PIE,Piemonte,Piemonte,Torino,Torino,ASL CITTA’ DI TORINO OSPEDALE SAN GIOVANNI BOSCO/OSPEDALE MARIA VITTORIA,Via Pergolesi 30,10154,ITC1,01
+PIE,Piemonte,Piemonte,Verbano Cusio Ossola,Domodossola,ASL VCO OSPEDALE DOMODOSSOLA,Piazza Vittime dei Lager Nazifascisti 1,28845,ITC1,01
+PIE,Piemonte,Piemonte,Verbano Cusio Ossola,Domodossola,ASL VCO OSPEDALE DOMODOSSOLA,Piazza Vittime dei Lager Nazifascisti 1,28845,ITC1,01
+PIE,Piemonte,Piemonte,Verbano Cusio Ossola,Pallanza,ASL VCO OSPEDALE VERBANIA,Via Fiume 18,28922,ITC1,01
+PIE,Piemonte,Piemonte,Verbano Cusio Ossola,Pallanza,ASL VCO OSPEDALE VERBANIA,Via Fiume 18,28922,ITC1,01
+PIE,Piemonte,Piemonte,Vercelli,Borgosesia,ASL VC OSPEDALE BORGOSESIA,Via A. F. Ilorini Mo 20,13011,ITC1,01
+PIE,Piemonte,Piemonte,Vercelli,Borgosesia,ASL VC OSPEDALE BORGOSESIA,Via A. F. Ilorini Mo 20,13011,ITC1,01
+PIE,Piemonte,Piemonte,Vercelli,Vercelli,ASL VC OSPEDALE S. ANDREA VERCELLI,Corso Mario Abbiate 21,13100,ITC1,01
+PIE,Piemonte,Piemonte,Vercelli,Vercelli,ASL VC OSPEDALE S. ANDREA VERCELLI,Corso Mario Abbiate 21,13100,ITC1,01
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Bolzano,Ospedale di Bolzano,Via Lorenz Boehler 5,39100,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Bolzano,Ospedale di Bolzano,Via Lorenz Boehler 5,39100,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Bressanone,Ospedale di Bressanone,Via Dante 51,39042,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Bressanone,Ospedale di Bressanone,Via Dante 51,39042,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Brunico,Ospedale di Brunico,Via Ospedale 11,39031,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Brunico,Ospedale di Brunico,Via Ospedale 11,39031,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Merano,Ospedale di Merano,Via Rossini 5,39012,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Merano,Ospedale di Merano,Via Rossini 5,39012,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,San Candido,Ospedale di San Candido,"Via Freising, 2",39038,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,San Candido,Ospedale di San Candido,"Via Freising, 2",39038,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Silandro,Ospedale di Silandro,Via Ospedale 3,39028,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Silandro,Ospedale di Silandro,Via Ospedale 3,39028,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Vipiteno,Ospedale di Vipiteno,"Via Santa Margherita, 24,",39049,ITH1,04
+PAB,Trentino-Alto Adige,P.A. Bolzano,P.A. Bolzano,Vipiteno,Ospedale di Vipiteno,"Via Santa Margherita, 24,",39049,ITH1,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Ravina,HUB - UNIFARM,"Via Provina 3, 38123",38123,ITH2,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Ravina,HUB - UNIFARM,"Via Provina 3, 38123",38123,ITH2,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Rovereto,OSPEDALE DI ROVERETO,Corso Verona n. 4,38068,ITH2,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Rovereto,OSPEDALE DI ROVERETO,Corso Verona n. 4,38068,ITH2,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Trento,OSPEDALE DI TRENTO,Largo Medaglie d'Oro n. 9,38122,ITH2,04
+PAT,Trentino-Alto Adige,P.A. Trento,P.A. Trento,Trento,OSPEDALE DI TRENTO,Largo Medaglie d'Oro n. 9,38122,ITH2,04
+PUG,Puglia,Puglia,Bari,Acquaviva Delle Fonti,IRCCS Miulli,Strada Provinciale 127 Acquaviva - Santeramo km 4,70021,ITF4,16
+PUG,Puglia,Puglia,Bari,Acquaviva Delle Fonti,IRCCS Miulli,Strada Provinciale 127 Acquaviva - Santeramo km 4,70021,ITF4,16
+PUG,Puglia,Puglia,Bari,Bari,Consorziale Policlinico,"Piazza Giulio Cesare, 11",70124,ITF4,16
+PUG,Puglia,Puglia,Bari,Bari,Consorziale Policlinico,"Piazza Giulio Cesare, 11",70124,ITF4,16
+PUG,Puglia,Puglia,Bari,Bari,IRCCS Giovanni Paolo II,Viale Orazio Flacco 65,70124,ITF4,16
+PUG,Puglia,Puglia,Bari,Bari,IRCCS Giovanni Paolo II,Viale Orazio Flacco 65,70124,ITF4,16
+PUG,Puglia,Puglia,Bari,Castellana Grotte,IRCCS De Bellis,Via Turi 27,70013,ITF4,16
+PUG,Puglia,Puglia,Bari,Castellana Grotte,IRCCS De Bellis,Via Turi 27,70013,ITF4,16
+PUG,Puglia,Puglia,Barletta Andria Trani,Barletta,Dimiccoli (Barletta),Viale Ippocrate 15,70051,ITF4,16
+PUG,Puglia,Puglia,Barletta Andria Trani,Barletta,Dimiccoli (Barletta),Viale Ippocrate 15,70051,ITF4,16
+PUG,Puglia,Puglia,Brindisi,Brindisi,Ospedale Di Summa Perrino,SS7 per Mesagne,72100,ITF4,16
+PUG,Puglia,Puglia,Brindisi,Brindisi,Ospedale Di Summa Perrino,SS7 per Mesagne,72100,ITF4,16
+PUG,Puglia,Puglia,Foggia,Foggia,Ospedali Riuniti,Viale Plinio n.1,71100,ITF4,16
+PUG,Puglia,Puglia,Foggia,Foggia,Ospedali Riuniti,Viale Plinio n.1,71100,ITF4,16
+PUG,Puglia,Puglia,Foggia,San Giovanni Rotondo,IRCCS Casa Sollievo Sofferenza,Viale Cappuccini 1,71013,ITF4,16
+PUG,Puglia,Puglia,Foggia,San Giovanni Rotondo,IRCCS Casa Sollievo Sofferenza,Viale Cappuccini 1,71013,ITF4,16
+PUG,Puglia,Puglia,Lecce,Lecce,Ospedale Vito Fazzi,Piazza Filippo Muratore 1,73100,ITF4,16
+PUG,Puglia,Puglia,Lecce,Lecce,Ospedale Vito Fazzi,Piazza Filippo Muratore 1,73100,ITF4,16
+PUG,Puglia,Puglia,Lecce,Tricase,IRCCS Card. G. Panico,via Pio X n. 4,73039,ITF4,16
+PUG,Puglia,Puglia,Lecce,Tricase,IRCCS Card. G. Panico,via Pio X n. 4,73039,ITF4,16
+PUG,Puglia,Puglia,Taranto,Statte,OSPEDALE SAN GIUSEPPE MOSCATI,Via per Martina Franca,74010,ITF4,16
+PUG,Puglia,Puglia,Taranto,Statte,OSPEDALE SAN GIUSEPPE MOSCATI,Via per Martina Franca,74010,ITF4,16
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,A. Businco - ARNAS G Brotzu,Via Jenner,09134,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,A. Businco - ARNAS G Brotzu,Via Jenner,09134,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,PO BINAGHI,VIA IS GUADAZZONIS 2,09126,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,PO BINAGHI,VIA IS GUADAZZONIS 2,09126,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,San Michele - ARNAS G Brotzu,Piazzale A Ricchi 1,09134,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Cagliari,San Michele - ARNAS G Brotzu,Piazzale A Ricchi 1,09134,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Monserrato,AOU Cagliari Policlinico Duilio Casula,SS 554 bivio per Sestu Monserrato,09042,ITG2,20
+SAR,Sardegna,Sardegna,Cagliari,Monserrato,AOU Cagliari Policlinico Duilio Casula,SS 554 bivio per Sestu Monserrato,09042,ITG2,20
+SAR,Sardegna,Sardegna,Carbonia Iglesias,Carbonia,PO SIRAI,LOC. SIRAI,09013,ITG2,20
+SAR,Sardegna,Sardegna,Carbonia Iglesias,Carbonia,PO SIRAI,LOC. SIRAI,09013,ITG2,20
+SAR,Sardegna,Sardegna,Medio Campidano,San Gavino Monreale,PO NS DI BONARIA,VIA ROMA N. 1,09037,ITG2,20
+SAR,Sardegna,Sardegna,Medio Campidano,San Gavino Monreale,PO NS DI BONARIA,VIA ROMA N. 1,09037,ITG2,20
+SAR,Sardegna,Sardegna,Nuoro,Nuoro,PO SAN FRANCESCO,VIA MANNIRONI,08100,ITG2,20
+SAR,Sardegna,Sardegna,Nuoro,Nuoro,PO SAN FRANCESCO,VIA MANNIRONI,08100,ITG2,20
+SAR,Sardegna,Sardegna,Ogliastra,Lanusei,PO NOSTRA SIGNORA DELLA MERCEDE,VIA G.PILIA 1,08045,ITG2,20
+SAR,Sardegna,Sardegna,Ogliastra,Lanusei,PO NOSTRA SIGNORA DELLA MERCEDE,VIA G.PILIA 1,08045,ITG2,20
+SAR,Sardegna,Sardegna,Olbia Tempio,Olbia,PO GIOVANNI PAOLO II,VIA BAZZONI-SIRCANA LOC. TANNAULE,07026,ITG2,20
+SAR,Sardegna,Sardegna,Olbia Tempio,Olbia,PO GIOVANNI PAOLO II,VIA BAZZONI-SIRCANA LOC. TANNAULE,07026,ITG2,20
+SAR,Sardegna,Sardegna,Oristano,Oristano,PO SAN MARTINO,VIA ROCKFELLER,09170,ITG2,20
+SAR,Sardegna,Sardegna,Oristano,Oristano,PO SAN MARTINO,VIA ROCKFELLER,09170,ITG2,20
+SAR,Sardegna,Sardegna,Sassari,Ozieri,PO ANTONIO SEGNI,VIA COLLE CAPPUCINI,07014,ITG2,20
+SAR,Sardegna,Sardegna,Sassari,Ozieri,PO ANTONIO SEGNI,VIA COLLE CAPPUCINI,07014,ITG2,20
+SAR,Sardegna,Sardegna,Sassari,Sassari,AOU DI SASSARI,VIALE SAN PIETRO 10,07100,ITG2,20
+SAR,Sardegna,Sardegna,Sassari,Sassari,AOU DI SASSARI,VIALE SAN PIETRO 10,07100,ITG2,20
+SIC,Sicilia,Sicilia,Agrigento,Agrigento,P.O. “S. Giovanni Di Dio” di Agrigento,Contrada Consolida,92100,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Agrigento,P.O. “S. Giovanni Di Dio” di Agrigento,Contrada Consolida,92100,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Canicattì,"P.O. ""Barone Lombardo"" di Canicattì",Via Saetta,92024,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Canicattì,"P.O. ""Barone Lombardo"" di Canicattì",Via Saetta,92024,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Licata,"P.O. ""San Giacomo D'Altopasso"" di Licata",Contrada Cannavecchia,92027,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Licata,"P.O. ""San Giacomo D'Altopasso"" di Licata",Contrada Cannavecchia,92027,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Ribera,"P.O. ""F.lli Parlapiano"" di Ribera",Via Circonvallazione,92016,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Ribera,"P.O. ""F.lli Parlapiano"" di Ribera",Via Circonvallazione,92016,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Sciacca,P.O. “Ospedali Civili Riuniti” di Sciacca,Via Pompei,92019,ITG1,19
+SIC,Sicilia,Sicilia,Agrigento,Sciacca,P.O. “Ospedali Civili Riuniti” di Sciacca,Via Pompei,92019,ITG1,19
+SIC,Sicilia,Sicilia,Caltanissetta,Caltanissetta,P.O. “S. Elia” di Caltanissetta,"Via Luigi Russo, 6",93100,ITG1,19
+SIC,Sicilia,Sicilia,Caltanissetta,Caltanissetta,P.O. “S. Elia” di Caltanissetta,"Via Luigi Russo, 6",93100,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Caltagirone,P.O. Gravina di Caltagirone ASP CT,"Via Portasalvo, 1",95041,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Caltagirone,P.O. Gravina di Caltagirone ASP CT,"Via Portasalvo, 1",95041,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,"A.O. per l'Emergenza ""Cannizzaro"" – Catania","Via Messina, 829",95126,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,"A.O. per l'Emergenza ""Cannizzaro"" – Catania","Via Messina, 829",95126,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,"A.O. Universitaria Policlinico di Catania ""S. Marco""","Via C. Azeglio Ciampi, Edificio C",95121,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,"A.O. Universitaria Policlinico di Catania ""S. Marco""","Via C. Azeglio Ciampi, Edificio C",95121,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,Nuovo Ospedale Garibaldi - Nesima – Ospedale Garibaldi – Centro,"Via Palermo, 636",95122,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,Nuovo Ospedale Garibaldi - Nesima – Ospedale Garibaldi – Centro,"Via Palermo, 636",95122,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,P.O. Gasapare Rodolico,"Via Santa Sofia, 78 Edificio 14",95123,ITG1,19
+SIC,Sicilia,Sicilia,Catania,Catania,P.O. Gasapare Rodolico,"Via Santa Sofia, 78 Edificio 14",95123,ITG1,19
+SIC,Sicilia,Sicilia,Enna,Enna,P.O. “Umberto I” – Enna,"Contrada Ferrante, Enna bassa",94100,ITG1,19
+SIC,Sicilia,Sicilia,Enna,Enna,P.O. “Umberto I” – Enna,"Contrada Ferrante, Enna bassa",94100,ITG1,19
+SIC,Sicilia,Sicilia,Enna,Troina,IRCCS Oasi Maria SS.,Via Conte Ruggero 73,94018,ITG1,19
+SIC,Sicilia,Sicilia,Enna,Troina,IRCCS Oasi Maria SS.,Via Conte Ruggero 73,94018,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,AUOP G. MARTINO,Via Consolare Valeria,98124,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,AUOP G. MARTINO,Via Consolare Valeria,98124,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,IRCCS CENTRO NEUROLESI 2 – BONINO PULEJO – P.O. CASAZZA,"Via Palermo, C/da Casazza s.s. 113",98123,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,IRCCS CENTRO NEUROLESI 2 – BONINO PULEJO – P.O. CASAZZA,"Via Palermo, C/da Casazza s.s. 113",98123,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,IRCCS CENTRO NEUROLESI 2 – BONINO PULEJO – P.O. PIEMONTE,Viale Europa,98124,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,IRCCS CENTRO NEUROLESI 2 – BONINO PULEJO – P.O. PIEMONTE,Viale Europa,98124,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,P.O. Papardo Messina,C/da Papardo,98158,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Messina,P.O. Papardo Messina,C/da Papardo,98158,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Patti,P.O. PATTI,VIA GIUSEPPE MAZZINI,98066,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Patti,P.O. PATTI,VIA GIUSEPPE MAZZINI,98066,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Taormina,P.O. TAORMINA,C.DA SIRINA TAORMINA,98039,ITG1,19
+SIC,Sicilia,Sicilia,Messina,Taormina,P.O. TAORMINA,C.DA SIRINA TAORMINA,98039,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. “Dei Bianchi” – Corleone,"Via Don G.Colletto, 25",90034,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. “Dei Bianchi” – Corleone,"Via Don G.Colletto, 25",90034,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. “G. F. Ingrassia” /Villa delle Ginestre,"Corso Calatafimi, 1002 – PA",90131,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. “G. F. Ingrassia” /Villa delle Ginestre,"Corso Calatafimi, 1002 – PA",90131,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. Partinico,"Via Circonvallazione, 1 – 90047 PA",90047,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,,P.O. Partinico,"Via Circonvallazione, 1 – 90047 PA",90047,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,A.O.O.R. Villa Sofia – Cervello P.O. CTO,Via Antonio Cassarà – 90146 PA,90146,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,A.O.O.R. Villa Sofia – Cervello P.O. CTO,Via Antonio Cassarà – 90146 PA,90146,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,A.U.O.P. Palermo,"Via Del Vespro, 129 – 90127 PA",90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,A.U.O.P. Palermo,"Via Del Vespro, 129 – 90127 PA",90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,ISMETT,via Tricomi 5,90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,ISMETT,via Tricomi 5,90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,P.O. ARNAS CIVICO PA,"Piazza Nicola Leotta, 4, 90127",90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Palermo,P.O. ARNAS CIVICO PA,"Piazza Nicola Leotta, 4, 90127",90127,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Petralia Sottana,P.O. Madonna Dell’Alto – Petralia Sottana,"C/da Sant'Elia, 90027 Petralia Sottana PA",90027,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Petralia Sottana,P.O. Madonna Dell’Alto – Petralia Sottana,"C/da Sant'Elia, 90027 Petralia Sottana PA",90027,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Termini Imerese,P.O. S.Cimino Termini Imerese,"Via Salvatore Cimino, 2",90141,ITG1,19
+SIC,Sicilia,Sicilia,Palermo,Termini Imerese,P.O. S.Cimino Termini Imerese,"Via Salvatore Cimino, 2",90141,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,DEA I LIVELLO RAGUSA (SIMT)\Giovanni Paolo II,Piazza Igea 1 – RG - C/da Cisternazzi,97100,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,DEA I LIVELLO RAGUSA (SIMT)\Giovanni Paolo II,Piazza Igea 1 – RG - C/da Cisternazzi,97100,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Busacca” di Scicli,Via Ospedale Scicli – RG,97018,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Busacca” di Scicli,Via Ospedale Scicli – RG,97018,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Guzzardi” di Vittoria,"Via Giovanni Paolo XXIII, Vittoria – RG",97019,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Guzzardi” di Vittoria,"Via Giovanni Paolo XXIII, Vittoria – RG",97019,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Maggiore” di Modica,Via Aldo Moro Modica – RG,97015,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “Maggiore” di Modica,Via Aldo Moro Modica – RG,97015,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “R. Margherita” di comiso,"Via Paolo Borsellino, Comiso – RG",97013,ITG1,19
+SIC,Sicilia,Sicilia,Ragusa,Ragusa,P.O. “R. Margherita” di comiso,"Via Paolo Borsellino, Comiso – RG",97013,ITG1,19
+SIC,Sicilia,Sicilia,Siracusa,Siracusa,P.O. “Umberto I” – Siracusa,"Via Giuseppe Testaferrata, 1",96100,ITG1,19
+SIC,Sicilia,Sicilia,Siracusa,Siracusa,P.O. “Umberto I” – Siracusa,"Via Giuseppe Testaferrata, 1",96100,ITG1,19
+SIC,Sicilia,Sicilia,Trapani,Casa Santa,“S. Antonio Abate” di Trapani,"Via Cosenza, 82 – Erice – Casa Santa -TP",91016,ITG1,19
+SIC,Sicilia,Sicilia,Trapani,Casa Santa,“S. Antonio Abate” di Trapani,"Via Cosenza, 82 – Erice – Casa Santa -TP",91016,ITG1,19
+SIC,Sicilia,Sicilia,Trapani,Mazara Del Vallo,"P.O. ""Abele Ajello"" - Mazara del Vallo","Via B. Salemi, 175",91026,ITG1,19
+SIC,Sicilia,Sicilia,Trapani,Mazara Del Vallo,"P.O. ""Abele Ajello"" - Mazara del Vallo","Via B. Salemi, 175",91026,ITG1,19
+TOS,Toscana,Toscana,Arezzo,Arezzo,Ospedale S. Donato,Ospedale S. Donato Arezzo - Via Pietro Nenni 20,52100,ITI1,09
+TOS,Toscana,Toscana,Arezzo,Arezzo,Ospedale S. Donato,Ospedale S. Donato Arezzo - Via Pietro Nenni 20,52100,ITI1,09
+TOS,Toscana,Toscana,Firenze,Empoli,Ospedale San Giuseppe,"Viale Giovanni Boccaccio 16, Empoli",50053,ITI1,09
+TOS,Toscana,Toscana,Firenze,Empoli,Ospedale San Giuseppe,"Viale Giovanni Boccaccio 16, Empoli",50053,ITI1,09
+TOS,Toscana,Toscana,Firenze,Firenze,AOU Careggi,Largo Brambilla 3 Firenze,50139,ITI1,09
+TOS,Toscana,Toscana,Firenze,Firenze,AOU Careggi,Largo Brambilla 3 Firenze,50139,ITI1,09
+TOS,Toscana,Toscana,Firenze,Firenze,Ospedale Nuovo S.Giovanni di Dio,"Via Torregalli 3, Firenze",50143,ITI1,09
+TOS,Toscana,Toscana,Firenze,Firenze,Ospedale Nuovo S.Giovanni di Dio,"Via Torregalli 3, Firenze",50143,ITI1,09
+TOS,Toscana,Toscana,Grosseto,Grosseto,Ospedale Della Misericordia,"Ospedale Della Misericordia, Via Senese 161",58100,ITI1,09
+TOS,Toscana,Toscana,Grosseto,Grosseto,Ospedale Della Misericordia,"Ospedale Della Misericordia, Via Senese 161",58100,ITI1,09
+TOS,Toscana,Toscana,Livorno,Livorno,OSPEDALE LIVORNO,VIALE ALFIERI,57100,ITI1,09
+TOS,Toscana,Toscana,Livorno,Livorno,OSPEDALE LIVORNO,VIALE ALFIERI,57100,ITI1,09
+TOS,Toscana,Toscana,Lucca,Lucca,PRESIDIO OSPEDALIERO SAN LUCA,Via Guglielmo Lippi Francesconi,55100,ITI1,09
+TOS,Toscana,Toscana,Lucca,Lucca,PRESIDIO OSPEDALIERO SAN LUCA,Via Guglielmo Lippi Francesconi,55100,ITI1,09
+TOS,Toscana,Toscana,Massa-Carrara,Massa,Ospedale delle Apuane,Via Mattei 21,54100,ITI1,09
+TOS,Toscana,Toscana,Massa-Carrara,Massa,Ospedale delle Apuane,Via Mattei 21,54100,ITI1,09
+TOS,Toscana,Toscana,Pisa,Pisa,AOU Pisana,Via Roma 67 Pisa,56126,ITI1,09
+TOS,Toscana,Toscana,Pisa,Pisa,AOU Pisana,Via Roma 67 Pisa,56126,ITI1,09
+TOS,Toscana,Toscana,Pistoia,Pistoia,Ospedale San Iacopo,"Via Ciliegiole 97, Pistoia",51100,ITI1,09
+TOS,Toscana,Toscana,Pistoia,Pistoia,Ospedale San Iacopo,"Via Ciliegiole 97, Pistoia",51100,ITI1,09
+TOS,Toscana,Toscana,Prato,Prato,Ospedale Santo Stefano,"Via Suor Niccolina, Prato",59100,ITI1,09
+TOS,Toscana,Toscana,Prato,Prato,Ospedale Santo Stefano,"Via Suor Niccolina, Prato",59100,ITI1,09
+TOS,Toscana,Toscana,Siena,Siena,AOU Senese,Strada delle Scotte 14 Siena,53100,ITI1,09
+TOS,Toscana,Toscana,Siena,Siena,AOU Senese,Strada delle Scotte 14 Siena,53100,ITI1,09
+UMB,Umbria,Umbria,Perugia,Città Di Castello,OSPEDALE DI CITTA' DI CASTELLO,"Via Luigi Angelini, 10",06018,ITI2,10
+UMB,Umbria,Umbria,Perugia,Città Di Castello,OSPEDALE DI CITTA' DI CASTELLO,"Via Luigi Angelini, 10",06018,ITI2,10
+UMB,Umbria,Umbria,Perugia,Foligno,OSPEDALE DI FOLIGNO,Viale Massimo Arcamone,06034,ITI2,10
+UMB,Umbria,Umbria,Perugia,Foligno,OSPEDALE DI FOLIGNO,Viale Massimo Arcamone,06034,ITI2,10
+UMB,Umbria,Umbria,Perugia,Perugia,AZIENDA OSPEDALIERA DI PERUGIA,"Piazzale Giorgio Menghini, 1",06124,ITI2,10
+UMB,Umbria,Umbria,Perugia,Perugia,AZIENDA OSPEDALIERA DI PERUGIA,"Piazzale Giorgio Menghini, 1",06124,ITI2,10
+UMB,Umbria,Umbria,Terni,Terni,AZIENDA OSPEDALIERA DI TERNI,Viale Tristano di Joannuccio,05100,ITI2,10
+UMB,Umbria,Umbria,Terni,Terni,AZIENDA OSPEDALIERA DI TERNI,Viale Tristano di Joannuccio,05100,ITI2,10
+VDA,Valle D'Aosta,Valle D'Aosta,Aosta,Aosta,Ospedale Umberto Parini,viale Ginevra n. 3,11100,ITC2,02
+VDA,Valle D'Aosta,Valle D'Aosta,Aosta,Aosta,Ospedale Umberto Parini,viale Ginevra n. 3,11100,ITC2,02
+VDA,Valle D'Aosta,Valle D'Aosta,Aosta,Aosta,Ospedale Umberto Parini - HUB,viale Ginevra n. 3,11100,ITC2,02
+VDA,Valle D'Aosta,Valle D'Aosta,Aosta,Aosta,Ospedale Umberto Parini - HUB,viale Ginevra n. 3,11100,ITC2,02
+VEN,Veneto,Veneto,Belluno,Belluno,OSPEDALE S. MARTINO BELLUNO,Viale Europa 22,32100,ITH3,05
+VEN,Veneto,Veneto,Belluno,Belluno,OSPEDALE S. MARTINO BELLUNO,Viale Europa 22,32100,ITH3,05
+VEN,Veneto,Veneto,Padova,Padova,AZIENDA OSPEDALE UNIVERSITA' PADOVA,Via Giustiniani 2,35128,ITH3,05
+VEN,Veneto,Veneto,Padova,Padova,AZIENDA OSPEDALE UNIVERSITA' PADOVA,Via Giustiniani 2,35128,ITH3,05
+VEN,Veneto,Veneto,Rovigo,Rovigo,"OSPEDALE ""SANTA MARIA DELLA MISERICORDIA""",Viale Tre Martiri 140,45100,ITH3,05
+VEN,Veneto,Veneto,Rovigo,Rovigo,"OSPEDALE ""SANTA MARIA DELLA MISERICORDIA""",Viale Tre Martiri 140,45100,ITH3,05
+VEN,Veneto,Veneto,Treviso,Vittorio Veneto,OSPEDALE DI VITTORIO VENETO,Via Carlo Forlanini 71,31029,ITH3,05
+VEN,Veneto,Veneto,Treviso,Vittorio Veneto,OSPEDALE DI VITTORIO VENETO,Via Carlo Forlanini 71,31029,ITH3,05
+VEN,Veneto,Veneto,Venezia,Venezia Mestre,OSPEDALE DELL'ANGELO,Via Paccagnella 11,30174,ITH3,05
+VEN,Veneto,Veneto,Venezia,Venezia Mestre,OSPEDALE DELL'ANGELO,Via Paccagnella 11,30174,ITH3,05
+VEN,Veneto,Veneto,Verona,Verona,AZIENDA OSPEDALIERA UNIVERSITARIA INTEGRATA DI VERONA,Piazzale Stefani 1,37126,ITH3,05
+VEN,Veneto,Veneto,Verona,Verona,AZIENDA OSPEDALIERA UNIVERSITARIA INTEGRATA DI VERONA,Piazzale Stefani 1,37126,ITH3,05
+VEN,Veneto,Veneto,Vicenza,Vicenza,OSPEDALE DI VICENZA,Viale Ridolfi 37,36100,ITH3,05
+VEN,Veneto,Veneto,Vicenza,Vicenza,OSPEDALE DI VICENZA,Viale Ridolfi 37,36100,ITH3,05
