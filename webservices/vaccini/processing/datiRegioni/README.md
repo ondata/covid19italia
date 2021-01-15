@@ -46,6 +46,8 @@ Disaggregandoli e riunendoli si possono ottenere dati ad oggi non pubblicati (co
 | 2 | Sicilia | TML_CAT_OSS | 08/01/2021_PF/BT_SIC_19020770_Casa di Riposo Maria Santissima - Comiso_60-69 | 1 - Operatori Sanitari e Sociosanitari | 19 | 2021-01-08 | PF/BT | 19020770_Casa di Riposo Maria Santissima - Comiso | 60-69 | SIC | ITG1 |
 | 3 | Marche | TML_CAT_PERSONALE | 11/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69 | 2 - Personale non Sanitario | 11 | 2021-01-11 | PF/BT | 11090501_Az.Osp. Riuniti di Ancona | 60-69 | MAR | ITI3 |
 
+**NOTA BENE**: i dati estratti e presenti in questo *repository*, sono ricavati interrogando le API non documentate della *dashboard*. Non sono stati resi palesemente accessibili; i dati aperti ufficiali sono quelli pubblicati [qui](https://github.com/italia/covid19-opendata-vaccini), che ad oggi (15 gennaio 2021) non contengono questi dati di dettaglio. Inoltre la nostra procedura di estrazione potrebbe contenere degli errori.
+
 ## Note
 
 Ci preme sottolineare due elementi:

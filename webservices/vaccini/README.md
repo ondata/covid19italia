@@ -1,7 +1,3 @@
-⚠⚠⚠ **NOTA BENE**: al momento l'aggiornamento dei dati avviene circa 15 minuti dopo le **7**, le **13**, e **19**, nelle modalità definite [qui](https://github.com/ondata/covid19italia/blob/master/.github/workflows/vaccini.yml#L7) ⚠⚠⚠
-
----
-
 La Presidenza del Consiglio dei Ministri, il Commissario Straordinario Covid-19 e il Ministero della Salute hanno pubblicato il 31/12/2020 una **dashboard** con **informazioni** sui **vaccini**:
 
 <https://app.powerbi.com/view?r=eyJrIjoiMzg4YmI5NDQtZDM5ZC00ZTIyLTgxN2MtOTBkMWM4MTUyYTg0IiwidCI6ImFmZDBhNzVjLTg2NzEtNGNjZS05MDYxLTJjYTBkOTJlNDIyZiIsImMiOjh9>
@@ -25,6 +21,8 @@ Nella stessa [cartella](./processing) sono presenti anche:
 - i file che contengono soltanto, per ogni giornata di dati archiviati, il valore più recente raccolto. Sono quelli con il suffisso `Top`;
 - il file di [insieme](./processing/datiRegioni.csv), con i dati disaggregati regionali raccolti e descritti [qui](./processing/datiRegioni/README.md) (da giorno 8 gennaio 2020 non ne cureremo più l'estrazione).
 
+**NOTA BENE**: i dati estratti e presenti in questo *repository*, sono ricavati interrogando le API non documentate della *dashboard*. Non sono stati resi palesemente accessibili; i dati aperti ufficiali sono quelli pubblicati [qui](https://github.com/italia/covid19-opendata-vaccini). Inoltre la nostra procedura di estrazione potrebbe contenere degli errori.
+
 ## File geografici
 
 La suddivisione geografica usata al momento per i dati sui vaccini è quella regionale [`NUTS2`](https://ec.europa.eu/eurostat/web/nuts/nuts-maps). In questa l'Italia è divisa in 21 unità e non 20, con il Trentino-Alto Adige suddiviso nelle due province autonome.<br>
@@ -39,7 +37,7 @@ Nel dettaglio:
 - [NUTS2.zip](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2.zip), file con limiti non generalizzati, formato shapefile, sistema di coordinate [`EPSG:32632`](https://epsg.io/32632);
 - [NUTS2_g.geojson](https://github.com/ondata/covid19italia/raw/master/risorse/fileGeografici/NUTS2_g.geojson), file con limiti generalizzati, sistema di coordinate [`EPSG:4326`](https://epsg.io/4326).
 
-## Note
+## Note sui file
 
 L'*enconding* dei CSV è `UTF-8` e il separatore delle colonne è la `,`.
 
