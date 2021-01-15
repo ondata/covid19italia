@@ -27,7 +27,7 @@ if [ $code -eq 200 ]; then
   mlr -I --csv clean-whitespace then rename ID_AREA,siglaRegione "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv
 
   # aggiungi codice geografici standard
-  mlr --csv join --ul -j siglaRegione -f "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv then unsparsify then cut -x -f  Name,ITTER107 then clean-whitespace "$folder"/risorse/codiciTerritoriali.csv >"$folder"/processing/puntiSomministrazione/tmp.csv
+  mlr --csv join --ul -j siglaRegione -f "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv then unsparsify then cut -x -f  Name,ITTER107 then clean-whitespace then uniq -a "$folder"/risorse/codiciTerritoriali.csv >"$folder"/processing/puntiSomministrazione/tmp.csv
 
   mv "$folder"/processing/puntiSomministrazione/tmp.csv "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv
 
