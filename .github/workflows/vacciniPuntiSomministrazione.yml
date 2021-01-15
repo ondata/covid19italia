@@ -1,7 +1,7 @@
 name: aggiorna dati vaccini punti somministrazione
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '17 2 * * *'
