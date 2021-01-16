@@ -24,8 +24,7 @@
                                                 }
                                             },
                                             "Property": "REGIONI"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.REGIONI"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -35,8 +34,7 @@
                                                 }
                                             },
                                             "Property": "ID_AREA"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.ID_AREA"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -46,8 +44,7 @@
                                                 }
                                             },
                                             "Property": "AREA"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.AREA"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -57,8 +54,7 @@
                                                 }
                                             },
                                             "Property": "PROVINCIA"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.PROVINCIA"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -68,8 +64,7 @@
                                                 }
                                             },
                                             "Property": "COMUNE"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.COMUNE"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -79,8 +74,7 @@
                                                 }
                                             },
                                             "Property": "DEN_PRESIDIO_OSPEDALIERO"
-                                        },
-                                        "Name": "Count(cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.DEN_PRESIDIO_OSPEDALIERO)"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -90,8 +84,7 @@
                                                 }
                                             },
                                             "Property": "INDIRIZZO"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.INDIRIZZO"
+                                        }
                                     },
                                     {
                                         "Column": {
@@ -101,8 +94,7 @@
                                                 }
                                             },
                                             "Property": "CAP"
-                                        },
-                                        "Name": "cfg VACCINI_PUNTI_SOMMINISTRAZIONE_DOSI_REGIONI.CAP"
+                                        }
                                     }
                                 ],
                                 "GroupBy": [
@@ -181,9 +173,6 @@
                                                 5,
                                                 6,
                                                 7
-                                            ],
-                                            "GroupBy": [
-                                                0
                                             ]
                                         }
                                     ]
