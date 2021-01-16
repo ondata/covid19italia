@@ -5,7 +5,7 @@ import json
 
 # Converts the JSON output of a PowerBI query to a CSV file
 def extract(input_file, output_file):
-    input_json = read_json(input_file) 
+    input_json = read_json(input_file)
     data = input_json["results"][0]["result"]["data"]
     dm0 = data["dsr"]["DS"][0]["PH"][0]["DM0"]
     columns_types = dm0[0]["S"]
@@ -14,7 +14,7 @@ def extract(input_file, output_file):
 
     reconstruct_arrays(columns_types, dm0)
     expand_values(columns_types, dm0, value_dicts)
-    
+
     replace_newlines_with(dm0, "")
     write_csv(output_file, columns, dm0)
 
@@ -29,15 +29,15 @@ def write_csv(output_file, columns, dm0):
         for item in dm0:
             wrt.writerow(item["C"])
 
-def reconstruct_arrays(columns_types, dm0):    
-    # fixes array index by applying 
+def reconstruct_arrays(columns_types, dm0):
+    # fixes array index by applying
     # "R" bitset to copy previous values
-    # "Ø" bitset to null values
+    # "Ø" bitset to set null values
     lenght = len(columns_types)
     for item in dm0:
         currentItem = item["C"]
-        if "R" in item:
-            copyBitset = item["R"]
+        if "R" in item or "Ø" in item:
+            copyBitset = item.get("R", 0)
             deleteBitSet = item.get("Ø", 0)
             for i in range(lenght):
                 if is_bit_set_for_index(i, copyBitset):
