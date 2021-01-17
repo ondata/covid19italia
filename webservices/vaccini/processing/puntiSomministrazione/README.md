@@ -12,7 +12,7 @@ La *dashboard* è quella raggiungibile a questo URL:<br>
 ## puntiSomministrazioneDatiVax.csv
 
 È un file in cui, per ogni punto di somministrazione, è riportato il numero di somministrazioni per **sesso** e categoria delle persone, e se si tratta di **prima** o **seconda dose**.<br>
-Il file è [**puntiSomministrazioneDatiVax.csv**](processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv).
+Il file è [**puntiSomministrazioneDatiVax.csv**](puntiSomministrazioneDatiVax.csv).
 
 Grazie a [**Salvatore Larosa**](https://twitter.com/lrssvt), che li ha resi disponibili nel suo [repository](https://github.com/slarosa/vax).
 
