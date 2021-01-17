@@ -14,7 +14,8 @@ Da oggi abbiamo attivato il download giornaliero e l'archiviazione di alcuni di 
 - quelli sulla [**fasce d'età**](processing/fasceEta.csv) dei vaccinati;
 - quelli sulle [**categorie**](processing/categoria.csv) dei vaccinati;
 - quelli sul [**sesso**](processing/sesso.csv) dei vaccinati;
-- quelli sui [**punti di somministrazione**](processing/puntiSomministrazione/puntiSomministrazione.csv). Per questi un doveroso grazie a [**Sergio Vavassori**](https://github.com/svavassori) che ha creato lo [script](puntiSomministrazione.py) per l'interpretazione corretta e conversione in `CSV` dei `JSON` di *input*.
+- quelli sui [**punti di somministrazione**](processing/puntiSomministrazione/puntiSomministrazione.csv). Per questi un doveroso grazie a [**Sergio Vavassori**](https://github.com/svavassori) che ha creato lo [script](puntiSomministrazione.py) per l'interpretazione corretta e conversione in `CSV` dei `JSON` di *input*;
+- quelli su dose (se prima o seconda), sesso e categoria delle persone vaccinate, per ogni punto di somministrazione. Il file è [puntiSomministrazioneDatiVax.csv](processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv). Qui il grazie va a [**Salvatore Larosa**](https://twitter.com/lrssvt), che li ha resi disponibili nel suo [repository](https://github.com/slarosa/vax).
 
 Nella stessa [cartella](./processing) sono presenti anche:
 

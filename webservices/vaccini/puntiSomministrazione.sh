@@ -27,8 +27,26 @@ if [ $code -eq 200 ]; then
   mlr -I --csv clean-whitespace then rename ID_AREA,siglaRegione "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv
 
   # aggiungi codice geografici standard
-  mlr --csv join --ul -j siglaRegione -f "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv then unsparsify then cut -x -f  Name,ITTER107 then clean-whitespace then uniq -a "$folder"/risorse/codiciTerritoriali.csv >"$folder"/processing/puntiSomministrazione/tmp.csv
+  mlr --csv join --ul -j siglaRegione -f "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv then unsparsify then cut -x -f Name,ITTER107 then clean-whitespace then uniq -a "$folder"/risorse/codiciTerritoriali.csv >"$folder"/processing/puntiSomministrazione/tmp.csv
 
   mv "$folder"/processing/puntiSomministrazione/tmp.csv "$folder"/processing/puntiSomministrazione/puntiSomministrazione.csv
+
+fi
+
+# scarica dettagli su dosi, sesso e categorie per punti di somministrazione
+
+URLdati="https://github.com/slarosa/vax/raw/main/data/vax_total.csv"
+
+# leggi la risposta HTTP del sito
+code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URLdati")
+
+# se il sito è raggiungibile scarica e "lavora" i dati
+if [ $code -eq 200 ]; then
+
+  # scarica dati in formato JSON
+  curl -kL "$URLdati" >"$folder"/processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv
+
+  mlr -I --csv sort -f TML_DTA_SOMM,TML_REGIONE,TML_DES_STRUTTURA,TML_VAX_FORNITORE \
+    then rename TML_DTA_SOMM,data,TML_VAX_FORNITORE,vaccino,TML_AREA,siglaRegione,TML_REGIONE,regione,TML_NUTS,NUTS2 "$folder"/processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv
 
 fi
