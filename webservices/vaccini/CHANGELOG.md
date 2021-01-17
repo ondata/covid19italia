@@ -2,6 +2,10 @@
 
 Qui le variazioni sul set di dati sui vaccini.
 
+## 2020-01-15
+
+- aggiunto [file](processing/puntiSomministrazione/puntiSomministrazione.csv) dettagli punti di somministrazione
+
 ## 2020-01-10
 
 -- aggiunta colonna codici NUTS2 ai [dati regionali disaggregati](processing/datiRegioni/)
