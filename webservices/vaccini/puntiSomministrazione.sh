@@ -47,6 +47,7 @@ if [ $code -eq 200 ]; then
   curl -kL "$URLdati" >"$folder"/processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv
 
   mlr -I --csv sort -f TML_DTA_SOMM,TML_REGIONE,TML_DES_STRUTTURA,TML_VAX_FORNITORE \
-    then rename TML_DTA_SOMM,data,TML_VAX_FORNITORE,vaccino,TML_AREA,siglaRegione,TML_REGIONE,regione,TML_NUTS,NUTS2 "$folder"/processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv
+    then rename TML_DTA_SOMM,data,TML_VAX_FORNITORE,vaccino,TML_AREA,siglaRegione,TML_REGIONE,regione,TML_NUTS,NUTS2 \
+    then clean-whitespace "$folder"/processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv
 
 fi
