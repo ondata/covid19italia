@@ -9,7 +9,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110927_RSA INRCA C/O RESIDENZA DORICA,30-39,MAR,ITI3
 7,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110018_DT04 RSA ARCEVIA,40-49,MAR,ITI3
 2,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110901_A.O. OSPEDALI RIUNITI MARCHE NORD_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110901_A.O. OSPEDALI RIUNITI MARCHE NORD,40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110905_A.O.U.OSPEDALI RIUNITI - ANCONA,40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110905_A.O.U.OSPEDALI RIUNITI - ANCONA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110905_A.O.U.OSPEDALI RIUNITI - ANCONA,40-49,MAR,ITI3
 4,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110921_OSPEDALI INRCA MARCHE_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110921_OSPEDALI INRCA MARCHE,40-49,MAR,ITI3
 5,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110927_RSA INRCA C/O RESIDENZA DORICA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110927_RSA INRCA C/O RESIDENZA DORICA,40-49,MAR,ITI3
 6,Marche,TML_CAT_OSS,27/12/2020_PF/BT_MAR_110018_DT04 RSA ARCEVIA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2020-12-27,PF/BT,110018_DT04 RSA ARCEVIA,50-59,MAR,ITI3
@@ -79,19 +79,19 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera,20-29,MAR,ITI3
 2,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO,20-29,MAR,ITI3
 1,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI',20-29,MAR,ITI3
-10,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11092101_OSPEDALE GERIATRICO IRCCS INRCA,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11092101_OSPEDALE GERIATRICO IRCCS INRCA,20-29,MAR,ITI3
 4,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_113500_AIOP - S. Marco_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,113500_AIOP - S. Marco,20-29,MAR,ITI3
 26,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO,30-39,MAR,ITI3
 18,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera,30-39,MAR,ITI3
 14,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI',30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI',30-39,MAR,ITI3
 18,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11092101_OSPEDALE GERIATRICO IRCCS INRCA,30-39,MAR,ITI3
 8,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_113500_AIOP - S. Marco_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,113500_AIOP - S. Marco,30-39,MAR,ITI3
 1,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000101_Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11000101_Presidio Ospedaliero Unico “Santa Maria della Misericordia” Urbino,40-49,MAR,ITI3
 35,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO,40-49,MAR,ITI3
 19,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera,40-49,MAR,ITI3
 17,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090102_A.O. OSPEDALI RIUNITI MARCHE NORD - STABILIMENTO DI FANO,40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI',40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI'_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11090501_A.O.U.OSPEDALI RIUNITI - ANCONA - STABILIMENTO 'UMBERTO I - G. M. LANCISI',40-49,MAR,ITI3
 32,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11092101_OSPEDALE GERIATRICO IRCCS INRCA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11092101_OSPEDALE GERIATRICO IRCCS INRCA,40-49,MAR,ITI3
 8,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_113500_AIOP - S. Marco_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,113500_AIOP - S. Marco,40-49,MAR,ITI3
 51,Marche,TML_CAT_OSS,02/01/2021_PF/BT_MAR_11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-02,PF/BT,11000501_OSPEDALE SANTA MARIA DEL SOCCORSO SAN BENEDETTO DEL TRONTO,50-59,MAR,ITI3
@@ -123,7 +123,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_ALTRO,02/01/2021_PF/BT_MAR_113500_AIOP - S. Marco_80-89,2 - Personale non Sanitario,11,2021-01-02,PF/BT,113500_AIOP - S. Marco,80-89,MAR,ITI3
 4,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11000201_Ospedale di Senigallia - ASUR - Area Vasta 2,20-29,MAR,ITI3
 10,Marche,TML_CAT_OSS,"03/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2_20-29",1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - ASUR - Area Vasta 2",20-29,MAR,ITI3
-10,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,20-29,MAR,ITI3
 18,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5,20-29,MAR,ITI3
 22,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera,20-29,MAR,ITI3
 19,Marche,TML_CAT_OSS,03/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-03,PF/BT,11000201_Ospedale di Senigallia - ASUR - Area Vasta 2,30-39,MAR,ITI3
@@ -214,7 +214,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 32,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11092101_INRCA - Ospedale Geriatrico_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11092101_INRCA - Ospedale Geriatrico,50-59,MAR,ITI3
 2,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino - Asur - Area Vasta 1_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11000101_AV1 - Ospedale di Urbino - Asur - Area Vasta 1,60-69,MAR,ITI3
 14,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11000201_Ospedale di Senigallia - ASUR - Area Vasta 2,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,"04/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" Jesi - ASUR - Area Vasta 2_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,"11000202_Ospedale ""Carlo Urbani"" Jesi - ASUR - Area Vasta 2",60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,"04/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" Jesi - ASUR - Area Vasta 2_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,"11000202_Ospedale ""Carlo Urbani"" Jesi - ASUR - Area Vasta 2",60-69,MAR,ITI3
 13,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,60-69,MAR,ITI3
 38,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11000301_Ospedale di Civitanova Marche - ASUR - Area Vasta 3_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11000301_Ospedale di Civitanova Marche - ASUR - Area Vasta 3,60-69,MAR,ITI3
 49,Marche,TML_CAT_OSS,04/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata - ASUR - Area Vasta 3_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-04,PF/BT,11000302_Ospedale di Macerata - ASUR - Area Vasta 3,60-69,MAR,ITI3
@@ -287,7 +287,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 19,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,40-49,MAR,ITI3
 124,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata - ASUR - Area Vasta 3_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000302_Ospedale di Macerata - ASUR - Area Vasta 3,40-49,MAR,ITI3
 1,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO - ASUR - Area Vasta 4_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000401_Ospedale Augusto Murri - FERMO - ASUR - Area Vasta 4,40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO - ASUR - Area Vasta 4_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000401_Ospedale Augusto Murri - FERMO - ASUR - Area Vasta 4,40-49,MAR,ITI3
 3,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno - ASUR - Area Vasta 5_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11000502_Ospedale Ascoli Piceno - ASUR - Area Vasta 5,40-49,MAR,ITI3
 45,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro - Azienda Ospedaliera,40-49,MAR,ITI3
 53,Marche,TML_CAT_OSS,05/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-05,PF/BT,11090501_Az.Osp. Riuniti di Ancona - Azienda Ospedaliera,40-49,MAR,ITI3
@@ -378,7 +378,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 18,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,30-39,MAR,ITI3
 10,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
 41,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000401_Ospedale Augusto Murri - FERMO,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5,30-39,MAR,ITI3
 58,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,30-39,MAR,ITI3
 67,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11090501_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
 13,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,30-39,MAR,ITI3
@@ -403,7 +403,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_113500_AIOP - S. Marco_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,113500_AIOP - S. Marco,40-49,MAR,ITI3
 1,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_113907_DT13 RESIDENZA PROTETTA ACQUASANTA TERME_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,113907_DT13 RESIDENZA PROTETTA ACQUASANTA TERME,40-49,MAR,ITI3
 25,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_10000301_ospedale di Civitanova Marche_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,10000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
-10,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_10000302_Ospedale Macerata_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,10000302_Ospedale Macerata,50-59,MAR,ITI3
+11,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_10000302_Ospedale Macerata_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,10000302_Ospedale Macerata,50-59,MAR,ITI3
 7,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_10000303_Ospedale di Camerino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,10000303_Ospedale di Camerino,50-59,MAR,ITI3
 53,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000201_Ospedale di Senigallia - ASUR - Area Vasta 2,50-59,MAR,ITI3
 12,Marche,TML_CAT_OSS,"06/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
@@ -424,10 +424,10 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 19,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_10000303_Ospedale di Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,10000303_Ospedale di Camerino,60-69,MAR,ITI3
 21,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000201_Ospedale di Senigallia - ASUR - Area Vasta 2,60-69,MAR,ITI3
 3,Marche,TML_CAT_OSS,"06/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,"06/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI - ASUR - Area Vasta 2_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI - ASUR - Area Vasta 2",60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,"06/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI - ASUR - Area Vasta 2_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI - ASUR - Area Vasta 2",60-69,MAR,ITI3
 24,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano - ASUR - Area Vasta 2_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000204_Ospedale di Fabriano - ASUR - Area Vasta 2,60-69,MAR,ITI3
 3,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
 18,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11000501_Ospedale Madonna del Soccorso - ASUR - Area Vasta 5,60-69,MAR,ITI3
 35,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,60-69,MAR,ITI3
 24,Marche,TML_CAT_OSS,06/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-06,PF/BT,11090501_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
@@ -536,7 +536,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 10,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000101_AV1 - Ospedale di Urbino,30-39,MAR,ITI3
 66,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000101_Az.Osp. Riuniti di Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000101_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
 15,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,"07/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,"07/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
 7,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000204_Ospedale di Fabriano,30-39,MAR,ITI3
 40,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
 4,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000302_Ospedale Macerata,30-39,MAR,ITI3
@@ -587,14 +587,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,002707_AIOP - Villa Verde,60-69,MAR,ITI3
 36,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa dei Pini_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,005401_AIOP - Casa di Cura Villa dei Pini,60-69,MAR,ITI3
 21,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_10000302_Ospedale Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,10000302_Ospedale Macerata,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000101_AV1 - Ospedale di Urbino,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000101_AV1 - Ospedale di Urbino,60-69,MAR,ITI3
 15,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000101_Az.Osp. Riuniti di Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000101_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
 8,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
 4,Marche,TML_CAT_OSS,"07/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
 13,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
 13,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
 18,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000303_Ospedale Camerino,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
 10,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000501_Ospedale Madonna del Soccorso,60-69,MAR,ITI3
 4,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000502_Ospedale Ascoli Piceno,60-69,MAR,ITI3
 4,Marche,TML_CAT_OSS,07/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno - ASUR - Area Vasta 5_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-07,PF/BT,11000502_Ospedale Ascoli Piceno - ASUR - Area Vasta 5,60-69,MAR,ITI3
@@ -625,9 +625,9 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_ALTRO,07/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,002707_AIOP - Villa Verde,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,002707_AIOP - Villa Verde,40-49,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa dei Pini_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,005401_AIOP - Casa di Cura Villa dei Pini,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_10000302_Ospedale Macerata_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,10000302_Ospedale Macerata,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_10000302_Ospedale Macerata_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,10000302_Ospedale Macerata,40-49,MAR,ITI3
 1,Marche,TML_CAT_ALTRO,07/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,07/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,2 - Personale non Sanitario,11,2021-01-07,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
@@ -661,7 +661,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,001001_AIOP - Villa Serena,20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,002707_AIOP - Villa Verde,20-29,MAR,ITI3
 2,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa dei Pini_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,005401_AIOP - Casa di Cura Villa dei Pini,20-29,MAR,ITI3
-10,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000201_Ospedale di Senigallia,20-29,MAR,ITI3
 2,Marche,TML_CAT_OSS,"08/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_20-29",1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",20-29,MAR,ITI3
 5,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000204_Ospedale di Fabriano,20-29,MAR,ITI3
@@ -678,7 +678,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_112721_AIOP - Villa Anna_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,112721_AIOP - Villa Anna,20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,001001_AIOP - Villa Serena,30-39,MAR,ITI3
 12,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,002707_AIOP - Villa Verde,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa dei Pini_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,005401_AIOP - Casa di Cura Villa dei Pini,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa dei Pini_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,005401_AIOP - Casa di Cura Villa dei Pini,30-39,MAR,ITI3
 10,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000101_AV1 - Ospedale di Urbino,30-39,MAR,ITI3
 10,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
 4,Marche,TML_CAT_OSS,"08/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
@@ -700,7 +700,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 19,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
 18,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
 4,Marche,TML_CAT_OSS,"08/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
 20,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
 33,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
 25,Marche,TML_CAT_OSS,08/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-08,PF/BT,11000303_Ospedale di Camerino,40-49,MAR,ITI3
@@ -786,7 +786,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000303_Ospedale di Camerino,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000502_Ospedale Ascoli Piceno,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_112721_AIOP - Villa Anna_40-49,2 - Personale non Sanitario,11,2021-01-08,PF/BT,112721_AIOP - Villa Anna,40-49,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_50-59,2 - Personale non Sanitario,11,2021-01-08,PF/BT,001001_AIOP - Villa Serena,50-59,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_50-59,2 - Personale non Sanitario,11,2021-01-08,PF/BT,002707_AIOP - Villa Verde,50-59,MAR,ITI3
@@ -807,7 +807,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
 1,Marche,TML_CAT_ALTRO,08/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000303_Ospedale di Camerino,60-69,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,08/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_60-69,2 - Personale non Sanitario,11,2021-01-08,PF/BT,11000502_Ospedale Ascoli Piceno,60-69,MAR,ITI3
@@ -824,7 +824,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-08,PF/BT,002707_AIOP - Villa Verde,70-79,MAR,ITI3
 1,Marche,TML_CAT_RSA_OSPITI,08/01/2021_PF/BT_MAR_002707_AIOP - Villa Verde_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-08,PF/BT,002707_AIOP - Villa Verde,80-89,MAR,ITI3
 2,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_16-19,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,16-19,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001001_AIOP - Villa Serena,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001001_AIOP - Villa Serena,20-29,MAR,ITI3
 25,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),20-29,MAR,ITI3
 12,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa Pini_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,005401_AIOP - Casa di Cura Villa Pini,20-29,MAR,ITI3
 1,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_107341_DT07 CURE INTERMEDIE LORETO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,107341_DT07 CURE INTERMEDIE LORETO,20-29,MAR,ITI3
@@ -835,7 +835,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000302_Ospedale di Macerata,20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000303_Ospedale di Camerino,20-29,MAR,ITI3
 20,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000401_Ospedale Augusto Murri - FERMO,20-29,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000502_Ospedale Ascoli Piceno,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000502_Ospedale Ascoli Piceno,20-29,MAR,ITI3
 1,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,20-29,MAR,ITI3
 32,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090501_Az.Osp. Riuniti di Ancona,20-29,MAR,ITI3
 14,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona,20-29,MAR,ITI3
@@ -845,31 +845,31 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 8,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,30-39,MAR,ITI3
 7,Marche,TML_CAT_OSS,"09/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
 7,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
 15,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
 2,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000303_Ospedale di Camerino,30-39,MAR,ITI3
 38,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000401_Ospedale Augusto Murri - FERMO,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
 8,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,30-39,MAR,ITI3
 59,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090501_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
 14,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona,30-39,MAR,ITI3
 8,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001001_AIOP - Villa Serena,40-49,MAR,ITI3
 28,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),40-49,MAR,ITI3
 3,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa Pini_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,005401_AIOP - Casa di Cura Villa Pini,40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
 23,Marche,TML_CAT_OSS,"09/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
 17,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
 21,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
 31,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
 33,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
 23,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000502_Ospedale Ascoli Piceno,40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,40-49,MAR,ITI3
 75,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11090501_Az.Osp. Riuniti di Ancona,40-49,MAR,ITI3
 37,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11092101_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Ancona,40-49,MAR,ITI3
 19,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001001_AIOP - Villa Serena,50-59,MAR,ITI3
 41,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),50-59,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_107341_DT07 CURE INTERMEDIE LORETO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,107341_DT07 CURE INTERMEDIE LORETO,50-59,MAR,ITI3
-10,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,50-59,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_107341_DT07 CURE INTERMEDIE LORETO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,107341_DT07 CURE INTERMEDIE LORETO,50-59,MAR,ITI3
+11,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,50-59,MAR,ITI3
 17,Marche,TML_CAT_OSS,"09/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
 22,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,50-59,MAR,ITI3
 18,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
@@ -884,7 +884,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 93,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),60-69,MAR,ITI3
 7,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa Pini_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,005401_AIOP - Casa di Cura Villa Pini,60-69,MAR,ITI3
 21,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,"09/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,"09/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
 19,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
 12,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
 40,Marche,TML_CAT_OSS,09/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-09,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
@@ -924,7 +924,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_001001_AIOP - Villa Serena_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,001001_AIOP - Villa Serena,40-49,MAR,ITI3
 2,Marche,TML_CAT_ALTRO,09/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa Pini_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,005401_AIOP - Casa di Cura Villa Pini,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_005401_AIOP - Casa di Cura Villa Pini_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,005401_AIOP - Casa di Cura Villa Pini,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000201_Ospedale di Senigallia,40-49,MAR,ITI3
 6,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,09/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
@@ -959,7 +959,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_ALTRO,09/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_70-79,2 - Personale non Sanitario,11,2021-01-09,PF/BT,11000401_Ospedale Augusto Murri - FERMO,70-79,MAR,ITI3
 4,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_16-19,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,16-19,MAR,ITI3
 9,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),20-29,MAR,ITI3
-10,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
 26,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,20-29,MAR,ITI3
 7,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,20-29,MAR,ITI3
 7,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
@@ -1010,8 +1010,8 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 22,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000201_Ospedale di Senigallia_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000201_Ospedale di Senigallia,60-69,MAR,ITI3
 13,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
 12,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000303_Ospedale di Camerino,60-69,MAR,ITI3
 27,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
 156,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090101_AZ.Osp.Marche Nord - Sede Pesaro_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090101_AZ.Osp.Marche Nord - Sede Pesaro,60-69,MAR,ITI3
 19,Marche,TML_CAT_OSS,10/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-10,PF/BT,11090501_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
@@ -1090,7 +1090,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 20,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
 13,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000303_Ospedale di Camerino,30-39,MAR,ITI3
 13,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000501_Ospedale Madonna del Soccorso,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
 56,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11090501_Az.Osp. Riuniti di Ancona,30-39,MAR,ITI3
 8,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11092102_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - FERMO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11092102_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - FERMO,30-39,MAR,ITI3
 15,Marche,TML_CAT_OSS,11/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-11,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
@@ -1141,7 +1141,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Marche,TML_CAT_PERSONALE,"11/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",2 - Personale non Sanitario,11,2021-01-11,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
 8,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000303_Ospedale di Camerino,40-49,MAR,ITI3
 9,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000501_Ospedale Madonna del Soccorso,40-49,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_40-49,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000502_Ospedale Ascoli Piceno,40-49,MAR,ITI3
@@ -1153,7 +1153,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
 12,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000303_Ospedale di Camerino_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000303_Ospedale di Camerino,50-59,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000501_Ospedale Madonna del Soccorso,50-59,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000501_Ospedale Madonna del Soccorso_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000501_Ospedale Madonna del Soccorso,50-59,MAR,ITI3
 5,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11000502_Ospedale Ascoli Piceno,50-59,MAR,ITI3
 6,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11090501_Az.Osp. Riuniti di Ancona,50-59,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,11/01/2021_PF/BT_MAR_11092102_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - FERMO_50-59,2 - Personale non Sanitario,11,2021-01-11,PF/BT,11092102_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - FERMO,50-59,MAR,ITI3
@@ -1180,7 +1180,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110926_RSA Riabilitativa di Treia (Mc)_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110926_RSA Riabilitativa di Treia (Mc),20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_000212_SRR Psichiatria - Gagliole (MC)_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,000212_SRR Psichiatria - Gagliole (MC),30-39,MAR,ITI3
 9,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001508_DT07 ABITARE IL TEMPO RSA - LORETO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001508_DT07 ABITARE IL TEMPO RSA - LORETO,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),30-39,MAR,ITI3
 14,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,30-39,MAR,ITI3
 7,Marche,TML_CAT_OSS,"12/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
 6,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11000302_Ospedale Macerata,30-39,MAR,ITI3
@@ -1205,7 +1205,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 25,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110354_ARIS - Santo Stefano,40-49,MAR,ITI3
 54,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11090501_Az.Osp. Riuniti di Ancona,40-49,MAR,ITI3
 3,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110926_RSA Riabilitativa di Treia (Mc)_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110926_RSA Riabilitativa di Treia (Mc),40-49,MAR,ITI3
-10,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001508_DT07 ABITARE IL TEMPO RSA - LORETO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001508_DT07 ABITARE IL TEMPO RSA - LORETO,50-59,MAR,ITI3
+11,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001508_DT07 ABITARE IL TEMPO RSA - LORETO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001508_DT07 ABITARE IL TEMPO RSA - LORETO,50-59,MAR,ITI3
 17,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),50-59,MAR,ITI3
 13,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,50-59,MAR,ITI3
 10,Marche,TML_CAT_OSS,"12/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
@@ -1222,14 +1222,14 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001508_DT07 ABITARE IL TEMPO RSA - LORETO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001508_DT07 ABITARE IL TEMPO RSA - LORETO,60-69,MAR,ITI3
 19,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001509_AV2 - Poliambulatorio 2000 (ex CRASS)_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001509_AV2 - Poliambulatorio 2000 (ex CRASS),60-69,MAR,ITI3
 2,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,"12/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,"12/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
 15,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11000302_Ospedale Macerata,60-69,MAR,ITI3
 7,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11000303_Ospedale Camerino,60-69,MAR,ITI3
 6,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11000401_Ospedale Augusto Murri - FERMO,60-69,MAR,ITI3
 6,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11000401_STABILIMENTO DI FERMO_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11000401_STABILIMENTO DI FERMO,60-69,MAR,ITI3
 9,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110006_AV1 - OSPEDALE DI COMUNITÀ FOSSOMBRONE_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110006_AV1 - OSPEDALE DI COMUNITÀ FOSSOMBRONE,60-69,MAR,ITI3
 3,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11007902_ARIS - Villa Adria,60-69,MAR,ITI3
-10,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110354_ARIS - Santo Stefano,60-69,MAR,ITI3
+11,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110354_ARIS - Santo Stefano,60-69,MAR,ITI3
 21,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_11090501_Az.Osp. Riuniti di Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,11090501_Az.Osp. Riuniti di Ancona,60-69,MAR,ITI3
 5,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_110926_RSA Riabilitativa di Treia (Mc)_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,110926_RSA Riabilitativa di Treia (Mc),60-69,MAR,ITI3
 1,Marche,TML_CAT_OSS,12/01/2021_PF/BT_MAR_001508_DT07 ABITARE IL TEMPO RSA - LORETO_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-12,PF/BT,001508_DT07 ABITARE IL TEMPO RSA - LORETO,70-79,MAR,ITI3
@@ -1302,7 +1302,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Marche,TML_CAT_RSA_OSPITI,"12/01/2021_PF/BT_MAR_110904_DT Anziani ""A. Chierichetti"" - Gagliole_60-69",3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,"110904_DT Anziani ""A. Chierichetti"" - Gagliole",60-69,MAR,ITI3
 1,Marche,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_MAR_000212_SRR Psichiatria - Gagliole (MC)_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,000212_SRR Psichiatria - Gagliole (MC),70-79,MAR,ITI3
 3,Marche,TML_CAT_RSA_OSPITI,"12/01/2021_PF/BT_MAR_110904_DT Anziani ""A. Chierichetti"" - Gagliole_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,"110904_DT Anziani ""A. Chierichetti"" - Gagliole",70-79,MAR,ITI3
-10,Marche,TML_CAT_RSA_OSPITI,"12/01/2021_PF/BT_MAR_110904_DT Anziani ""A. Chierichetti"" - Gagliole_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,"110904_DT Anziani ""A. Chierichetti"" - Gagliole",80-89,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,"12/01/2021_PF/BT_MAR_110904_DT Anziani ""A. Chierichetti"" - Gagliole_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,"110904_DT Anziani ""A. Chierichetti"" - Gagliole",80-89,MAR,ITI3
 4,Marche,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_MAR_110926_RSA Riabilitativa di Treia (Mc)_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,110926_RSA Riabilitativa di Treia (Mc),80-89,MAR,ITI3
 18,Marche,TML_CAT_RSA_OSPITI,"12/01/2021_PF/BT_MAR_110904_DT Anziani ""A. Chierichetti"" - Gagliole_90+",3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,"110904_DT Anziani ""A. Chierichetti"" - Gagliole",90+,MAR,ITI3
 2,Marche,TML_CAT_RSA_OSPITI,12/01/2021_PF/BT_MAR_110926_RSA Riabilitativa di Treia (Mc)_90+,3 - Ospiti Strutture Residenziali,11,2021-01-12,PF/BT,110926_RSA Riabilitativa di Treia (Mc),90+,MAR,ITI3
@@ -1324,7 +1324,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11092101_STABILIMENTO INRCA DI ANCONA_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11092101_STABILIMENTO INRCA DI ANCONA,20-29,MAR,ITI3
 3,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO,20-29,MAR,ITI3
 7,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_001508_RSA ABITARE IL TEMPO - LORETO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,001508_RSA ABITARE IL TEMPO - LORETO,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
 1,Marche,TML_CAT_OSS,"13/01/2021_PF/BT_MAR_108907_DT08 RP ANZIANI COMUNALE ""A.GATTI"" - MONTECOSARO_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,"108907_DT08 RP ANZIANI COMUNALE ""A.GATTI"" - MONTECOSARO",30-39,MAR,ITI3
 15,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11000101_STABILIMENTO DI URBINO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11000101_STABILIMENTO DI URBINO,30-39,MAR,ITI3
 4,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,30-39,MAR,ITI3
@@ -1410,7 +1410,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,70-79,MAR,ITI3
 1,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11000204_STABILIMENTO DI FABRIANO_80-89,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11000204_STABILIMENTO DI FABRIANO,80-89,MAR,ITI3
 1,Marche,TML_CAT_OSS,13/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_80-89,1 - Operatori Sanitari e Sociosanitari,11,2021-01-13,PF/BT,11000303_Ospedale Camerino,80-89,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_16-19,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000301_ospedale di Civitanova Marche,16-19,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_16-19,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000301_ospedale di Civitanova Marche,16-19,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_20-29,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,20-29,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000202_STABILIMENTO DI JESI_20-29,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000202_STABILIMENTO DI JESI,20-29,MAR,ITI3
 19,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
@@ -1449,7 +1449,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
 1,Marche,TML_CAT_ALTRO,13/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000401_Ospedale Augusto Murri - FERMO_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000401_Ospedale Augusto Murri - FERMO,40-49,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,40-49,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,40-49,MAR,ITI3
 10,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11000502_STABILIMENTO DI ASCOLI PICENO_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11000502_STABILIMENTO DI ASCOLI PICENO,40-49,MAR,ITI3
 6,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA,40-49,MAR,ITI3
 26,Marche,TML_CAT_PERSONALE,13/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_40-49,2 - Personale non Sanitario,11,2021-01-13,PF/BT,110354_ARIS - Santo Stefano,40-49,MAR,ITI3
@@ -1520,7 +1520,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO,20-29,MAR,ITI3
 2,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_112801_AIOP - Casa di Cura Privata San Benedetto spa_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,112801_AIOP - Casa di Cura Privata San Benedetto spa,20-29,MAR,ITI3
 5,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_005401_DT08 Casa di Cura villa Pini_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,005401_DT08 Casa di Cura villa Pini,30-39,MAR,ITI3
-10,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
 5,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_107900_DT07 RP RESIDENZA DORICA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,107900_DT07 RP RESIDENZA DORICA,30-39,MAR,ITI3
 2,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,30-39,MAR,ITI3
 8,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11000101_STABILIMENTO DI URBINO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11000101_STABILIMENTO DI URBINO,30-39,MAR,ITI3
@@ -1562,7 +1562,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 4,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11000303_Ospedale Camerino,50-59,MAR,ITI3
 7,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,50-59,MAR,ITI3
 6,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11000502_STABILIMENTO DI ASCOLI PICENO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11000502_STABILIMENTO DI ASCOLI PICENO,50-59,MAR,ITI3
-10,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA,50-59,MAR,ITI3
+11,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA,50-59,MAR,ITI3
 34,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,110354_ARIS - Santo Stefano,50-59,MAR,ITI3
 54,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,50-59,MAR,ITI3
 3,Marche,TML_CAT_OSS,14/01/2021_PF/BT_MAR_112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-14,PF/BT,112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO,50-59,MAR,ITI3
@@ -1611,7 +1611,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000204_STABILIMENTO DI FABRIANO_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000204_STABILIMENTO DI FABRIANO,30-39,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000302_Ospedale Macerata,30-39,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000303_Ospedale Camerino,30-39,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,30-39,MAR,ITI3
+11,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,30-39,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000502_STABILIMENTO DI ASCOLI PICENO_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000502_STABILIMENTO DI ASCOLI PICENO,30-39,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA,30-39,MAR,ITI3
 10,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_30-39,2 - Personale non Sanitario,11,2021-01-14,PF/BT,110354_ARIS - Santo Stefano,30-39,MAR,ITI3
@@ -1630,7 +1630,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 2,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000302_Ospedale Macerata,40-49,MAR,ITI3
 7,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
 15,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,40-49,MAR,ITI3
-15,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000501_STABILIMENTO DI S.BENEDETTO_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000501_STABILIMENTO DI S.BENEDETTO,40-49,MAR,ITI3
 14,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000502_STABILIMENTO DI ASCOLI PICENO_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000502_STABILIMENTO DI ASCOLI PICENO,40-49,MAR,ITI3
 8,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,110354_ARIS - Santo Stefano,40-49,MAR,ITI3
 10,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_40-49,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,40-49,MAR,ITI3
@@ -1644,6 +1643,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_107900_DT07 RP RESIDENZA DORICA_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,107900_DT07 RP RESIDENZA DORICA,50-59,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,"14/01/2021_PF/BT_MAR_109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO_50-59",2 - Personale non Sanitario,11,2021-01-14,PF/BT,"109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO",50-59,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,50-59,MAR,ITI3
+11,Marche,TML_CAT_ALTRO,14/01/2021_PF/BT_MAR_109913_DT09 RP ANZIANI 'L'IMMACOLATA' - SANT'ANGELO IN PONTANO_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,109913_DT09 RP ANZIANI 'L'IMMACOLATA' - SANT'ANGELO IN PONTANO,50-59,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000101_STABILIMENTO DI URBINO_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000101_STABILIMENTO DI URBINO,50-59,MAR,ITI3
 4,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000204_STABILIMENTO DI FABRIANO_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000204_STABILIMENTO DI FABRIANO,50-59,MAR,ITI3
 3,Marche,TML_CAT_PERSONALE,14/01/2021_PF/BT_MAR_11000302_Ospedale Macerata_50-59,2 - Personale non Sanitario,11,2021-01-14,PF/BT,11000302_Ospedale Macerata,50-59,MAR,ITI3
@@ -1695,12 +1695,12 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 7,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA,70-79,MAR,ITI3
 26,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_001508_RSA ABITARE IL TEMPO - LORETO_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,001508_RSA ABITARE IL TEMPO - LORETO,80-89,MAR,ITI3
 1,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_107900_DT07 RP RESIDENZA DORICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,107900_DT07 RP RESIDENZA DORICA,80-89,MAR,ITI3
-10,Marche,TML_CAT_RSA_OSPITI,"14/01/2021_PF/BT_MAR_109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,"109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO",80-89,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,"14/01/2021_PF/BT_MAR_109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,"109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO",80-89,MAR,ITI3
 13,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,80-89,MAR,ITI3
 1,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_109913_DT09 RP ANZIANI 'L'IMMACOLATA' - SANT'ANGELO IN PONTANO_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,109913_DT09 RP ANZIANI 'L'IMMACOLATA' - SANT'ANGELO IN PONTANO,80-89,MAR,ITI3
 13,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO,80-89,MAR,ITI3
-10,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA,80-89,MAR,ITI3
-10,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_001508_RSA ABITARE IL TEMPO - LORETO_90+,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,001508_RSA ABITARE IL TEMPO - LORETO,90+,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,112900_DT12 RP ANZIANI 'CLEMENTI E NELLA CICCARELLI' - CUPRAMARITTIMA,80-89,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_001508_RSA ABITARE IL TEMPO - LORETO_90+,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,001508_RSA ABITARE IL TEMPO - LORETO,90+,MAR,ITI3
 5,Marche,TML_CAT_RSA_OSPITI,"14/01/2021_PF/BT_MAR_109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO_90+",3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,"109905_DT09 RP ANZIANI COMUNALE ""MURRI"" - MONTECASSIANO",90+,MAR,ITI3
 7,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_90+,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,90+,MAR,ITI3
 6,Marche,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_MAR_112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO_90+,3 - Ospiti Strutture Residenziali,11,2021-01-14,PF/BT,112317_RSA SAN GIUSEPPE ANNI AZZURRI - SAN BENEDETTO DEL TRONTO,90+,MAR,ITI3
@@ -1864,7 +1864,6 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,11007902_IST. DI RIAB. S. STEFANO - VILLA ADRIA,50-59,MAR,ITI3
 1,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_110079_CENTRO SANTO STEFANO - ASCOLI PICENO_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,110079_CENTRO SANTO STEFANO - ASCOLI PICENO,50-59,MAR,ITI3
 10,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_110318_ Anffas Macerata (MC)_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,110318_ Anffas Macerata (MC),50-59,MAR,ITI3
-10,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_110318_ Anffas Macerata (MC)_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,110318_ Anffas Macerata (MC),50-59,MAR,ITI3
 2,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_110354_ARIS - Santo Stefano_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,110354_ARIS - Santo Stefano,50-59,MAR,ITI3
 21,Marche,TML_CAT_PERSONALE,15/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,50-59,MAR,ITI3
 3,Marche,TML_CAT_ALTRO,15/01/2021_PF/BT_MAR_113900_DT13 RP ISTITUTO SANTA MARTA_50-59,2 - Personale non Sanitario,11,2021-01-15,PF/BT,113900_DT13 RP ISTITUTO SANTA MARTA,50-59,MAR,ITI3
@@ -1909,7 +1908,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 6,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO",70-79,MAR,ITI3
 7,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto",70-79,MAR,ITI3
 4,Marche,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_MAR_113900_DT13 RP ISTITUTO SANTA MARTA_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,113900_DT13 RP ISTITUTO SANTA MARTA,70-79,MAR,ITI3
-10,Marche,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_MAR_107900_DT07 RP RESIDENZA DORICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,107900_DT07 RP RESIDENZA DORICA,80-89,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_MAR_107900_DT07 RP RESIDENZA DORICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,107900_DT07 RP RESIDENZA DORICA,80-89,MAR,ITI3
 5,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_109906_DT09 RP ANZIANI ""PAOLO BUROCCHI"" - PENNA SAN GIOVANNI_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"109906_DT09 RP ANZIANI ""PAOLO BUROCCHI"" - PENNA SAN GIOVANNI",80-89,MAR,ITI3
 30,Marche,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_MAR_110905_DT10 RP ANZIANI 'E. MATTEI' - MATELICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,110905_DT10 RP ANZIANI 'E. MATTEI' - MATELICA,80-89,MAR,ITI3
 22,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO",80-89,MAR,ITI3
@@ -1922,3 +1921,264 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 20,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO_90+",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"111903_DT11 RP ANZIANI ""OPERA PIA ARPILI"" - MONTE GIBERTO",90+,MAR,ITI3
 9,Marche,TML_CAT_RSA_OSPITI,"15/01/2021_PF/BT_MAR_112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto_90+",3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,"112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto",90+,MAR,ITI3
 9,Marche,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_MAR_113900_DT13 RP ISTITUTO SANTA MARTA_90+,3 - Ospiti Strutture Residenziali,11,2021-01-15,PF/BT,113900_DT13 RP ISTITUTO SANTA MARTA,90+,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,20-29,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_20-29",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",20-29,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,20-29,MAR,ITI3
+2,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_20-29",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",20-29,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,20-29,MAR,ITI3
+7,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
+12,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,20-29,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,20-29,MAR,ITI3
+7,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,20-29,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,20-29,MAR,ITI3
+19,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,20-29,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,20-29,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,20-29,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_20-29,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,20-29,MAR,ITI3
+21,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,30-39,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,30-39,MAR,ITI3
+13,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
+5,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",30-39,MAR,ITI3
+15,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,30-39,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,30-39,MAR,ITI3
+6,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
+37,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,30-39,MAR,ITI3
+10,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,30-39,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,30-39,MAR,ITI3
+14,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,30-39,MAR,ITI3
+42,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,30-39,MAR,ITI3
+2,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA_30-39",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA",30-39,MAR,ITI3
+9,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,30-39,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111340_DT11 RSA MONTEGRANARO_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111340_DT11 RSA MONTEGRANARO,30-39,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,30-39,MAR,ITI3
+11,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_30-39,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,30-39,MAR,ITI3
+27,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,40-49,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,40-49,MAR,ITI3
+13,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,40-49,MAR,ITI3
+7,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_40-49",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",40-49,MAR,ITI3
+20,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
+14,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,40-49,MAR,ITI3
+22,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
+40,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,40-49,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,40-49,MAR,ITI3
+13,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,40-49,MAR,ITI3
+34,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,40-49,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,40-49,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111340_DT11 RSA MONTEGRANARO_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111340_DT11 RSA MONTEGRANARO,40-49,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,40-49,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,40-49,MAR,ITI3
+10,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_40-49,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,40-49,MAR,ITI3
+31,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,50-59,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,50-59,MAR,ITI3
+12,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,50-59,MAR,ITI3
+9,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",50-59,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,50-59,MAR,ITI3
+10,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,50-59,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,50-59,MAR,ITI3
+10,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,50-59,MAR,ITI3
+14,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
+28,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,50-59,MAR,ITI3
+20,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,50-59,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,50-59,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,50-59,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,50-59,MAR,ITI3
+44,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,50-59,MAR,ITI3
+1,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA",50-59,MAR,ITI3
+10,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,50-59,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,50-59,MAR,ITI3
+8,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,50-59,MAR,ITI3
+1,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto_50-59",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto",50-59,MAR,ITI3
+7,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_50-59,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,50-59,MAR,ITI3
+18,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,60-69,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,60-69,MAR,ITI3
+10,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,60-69,MAR,ITI3
+3,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",60-69,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,60-69,MAR,ITI3
+7,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,60-69,MAR,ITI3
+7,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
+6,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
+25,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,60-69,MAR,ITI3
+9,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,60-69,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,60-69,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,60-69,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,60-69,MAR,ITI3
+12,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,60-69,MAR,ITI3
+5,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,60-69,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,60-69,MAR,ITI3
+2,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto_60-69",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto",60-69,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_60-69,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,60-69,MAR,ITI3
+4,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,70-79,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,70-79,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,70-79,MAR,ITI3
+3,Marche,TML_CAT_OSS,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_70-79",1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,70-79,MAR,ITI3
+7,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,70-79,MAR,ITI3
+2,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_70-79,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,70-79,MAR,ITI3
+1,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_80-89,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,80-89,MAR,ITI3
+3,Marche,TML_CAT_OSS,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_80-89,1 - Operatori Sanitari e Sociosanitari,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,80-89,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_16-19,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,16-19,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_16-19,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,16-19,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,20-29,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,20-29,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,20-29,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,20-29,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,20-29,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_20-29,2 - Personale non Sanitario,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,20-29,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_30-39",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_109907_DT09 RP ANZIANI - POLLENZA_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,109907_DT09 RP ANZIANI - POLLENZA,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,30-39,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_30-39",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
+6,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,30-39,MAR,ITI3
+4,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,30-39,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,30-39,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,30-39,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,30-39,MAR,ITI3
+10,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,30-39,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_30-39,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,30-39,MAR,ITI3
+8,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,40-49,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,40-49,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,40-49,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_40-49",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,40-49,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,40-49,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_40-49",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",40-49,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,40-49,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
+7,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,40-49,MAR,ITI3
+2,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,40-49,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,40-49,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,40-49,MAR,ITI3
+22,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,40-49,MAR,ITI3
+15,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,40-49,MAR,ITI3
+15,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,40-49,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_40-49,2 - Personale non Sanitario,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,40-49,MAR,ITI3
+19,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,50-59,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,50-59,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,50-59,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_103324_DT03 CURE INTERMEDIE FOSSOMBRONE_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,103324_DT03 CURE INTERMEDIE FOSSOMBRONE,50-59,MAR,ITI3
+10,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_50-59",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_109911_DT09 RP ANZIANI - TREIA_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,109911_DT09 RP ANZIANI - TREIA,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,50-59,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_50-59",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",50-59,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,50-59,MAR,ITI3
+6,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,50-59,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
+7,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,50-59,MAR,ITI3
+4,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,50-59,MAR,ITI3
+5,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,50-59,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,50-59,MAR,ITI3
+46,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,50-59,MAR,ITI3
+14,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,50-59,MAR,ITI3
+6,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,50-59,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,50-59,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_50-59,2 - Personale non Sanitario,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,50-59,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,60-69,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,60-69,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_60-69",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,60-69,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000201_STABILIMENTO DI SENIGALLIA_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000201_STABILIMENTO DI SENIGALLIA,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,"16/01/2021_PF/BT_MAR_11000202_Ospedale ""Carlo Urbani"" - JESI_60-69",2 - Personale non Sanitario,11,2021-01-16,PF/BT,"11000202_Ospedale ""Carlo Urbani"" - JESI",60-69,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000204_Ospedale di Fabriano_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000204_Ospedale di Fabriano,60-69,MAR,ITI3
+7,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000301_ospedale di Civitanova Marche_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000301_ospedale di Civitanova Marche,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+7,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,60-69,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000303_Ospedale Camerino_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000303_Ospedale Camerino,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000502_Ospedale Ascoli Piceno_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000502_Ospedale Ascoli Piceno,60-69,MAR,ITI3
+4,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,60-69,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,60-69,MAR,ITI3
+15,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,60-69,MAR,ITI3
+3,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092101_STABILIMENTO INRCA DI ANCONA_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092101_STABILIMENTO INRCA DI ANCONA,60-69,MAR,ITI3
+6,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11092103_INRCA - PRESIDIO OSPEDALIERO DI RICERCA - Osimo,60-69,MAR,ITI3
+3,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,60-69,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_60-69,2 - Personale non Sanitario,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,60-69,MAR,ITI3
+2,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,70-79,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,70-79,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11000101_AV1 - Ospedale di Urbino_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000101_AV1 - Ospedale di Urbino,70-79,MAR,ITI3
+3,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_11000302_Ospedale di Macerata_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11000302_Ospedale di Macerata,70-79,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11007601_Casa di cura Villa Igea Ancona_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11007601_Casa di cura Villa Igea Ancona,70-79,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,11090501_STABILIMENTO UMBERTO I° - G.M.LANCISI,70-79,MAR,ITI3
+2,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO,70-79,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,70-79,MAR,ITI3
+1,Marche,TML_CAT_PERSONALE,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_70-79,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,70-79,MAR,ITI3
+1,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_101316_DT01 Residenza Villa Fastiggi - Pesaro_80-89,2 - Personale non Sanitario,11,2021-01-16,PF/BT,101316_DT01 Residenza Villa Fastiggi - Pesaro,80-89,MAR,ITI3
+9,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO_80-89,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO,80-89,MAR,ITI3
+12,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_80-89,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,80-89,MAR,ITI3
+7,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO_90+,2 - Personale non Sanitario,11,2021-01-16,PF/BT,110907_DT10 RP ANZIANI 'A. MATALONI' - PIORACO,90+,MAR,ITI3
+7,Marche,TML_CAT_ALTRO,16/01/2021_PF/BT_MAR_111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE_90+,2 - Personale non Sanitario,11,2021-01-16,PF/BT,111902_DT11 RP ANZIANI OPERE PIE DECENTRATE DI CURA E RICOVERO - FRANCAVILLA D'ETE,90+,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_60-69",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",60-69,MAR,ITI3
+1,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_Moderna_MAR_109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO_60-69",3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,"109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO",60-69,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_60-69,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,60-69,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA_60-69,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA,60-69,MAR,ITI3
+4,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_60-69,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,60-69,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,70-79,MAR,ITI3
+6,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",70-79,MAR,ITI3
+4,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_Moderna_MAR_109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,"109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO",70-79,MAR,ITI3
+5,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,70-79,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,70-79,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110309_DT10 CURE INTERMEDIE MATELICA_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110309_DT10 CURE INTERMEDIE MATELICA,70-79,MAR,ITI3
+1,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA,70-79,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA_70-79",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA",70-79,MAR,ITI3
+5,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,70-79,MAR,ITI3
+3,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_70-79,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,70-79,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_000407_DT10 R.S.A. - MATELICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,000407_DT10 R.S.A. - MATELICA,80-89,MAR,ITI3
+12,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,80-89,MAR,ITI3
+21,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",80-89,MAR,ITI3
+9,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_Moderna_MAR_109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,"109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO",80-89,MAR,ITI3
+5,Marche,TML_CAT_RSA_OSPITI,16/01/2021_Moderna_MAR_109902_DT09 RP ANZIANI COMUNALE - LORO PICENO_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,109902_DT09 RP ANZIANI COMUNALE - LORO PICENO,80-89,MAR,ITI3
+14,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,80-89,MAR,ITI3
+6,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,80-89,MAR,ITI3
+4,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110309_DT10 CURE INTERMEDIE MATELICA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110309_DT10 CURE INTERMEDIE MATELICA,80-89,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA,80-89,MAR,ITI3
+14,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA",80-89,MAR,ITI3
+11,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,80-89,MAR,ITI3
+1,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto_80-89",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"112317_DT12 RSA ""San Giuseppe"" Anni Azzurri - San Benedetto",80-89,MAR,ITI3
+20,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_80-89,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,80-89,MAR,ITI3
+5,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_001509_DT07 PRES.SAN. POLIAMBULATORIO 2000_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,001509_DT07 PRES.SAN. POLIAMBULATORIO 2000,90+,MAR,ITI3
+17,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE_90+",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"108900_DT08 RP ANZIANI ""VILLA LETIZIA"" - CIVITANOVA MARCHE",90+,MAR,ITI3
+9,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_Moderna_MAR_109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO_90+",3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,"109304_DT09 RP ANZIANI ""SANTA COLOMBA"" - MOGLIANO",90+,MAR,ITI3
+8,Marche,TML_CAT_RSA_OSPITI,16/01/2021_Moderna_MAR_109902_DT09 RP ANZIANI COMUNALE - LORO PICENO_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,Moderna,109902_DT09 RP ANZIANI COMUNALE - LORO PICENO,90+,MAR,ITI3
+4,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_11007902_ARIS - Villa Adria_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,11007902_ARIS - Villa Adria,90+,MAR,ITI3
+2,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110201_DT09 FISIOSPORT SRL CENTRO TERAPIA_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110201_DT09 FISIOSPORT SRL CENTRO TERAPIA,90+,MAR,ITI3
+1,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110309_DT10 CURE INTERMEDIE MATELICA_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110309_DT10 CURE INTERMEDIE MATELICA,90+,MAR,ITI3
+6,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,110902_DT10 RP ANZIANI 'ANGELA PAPARELLI' -CASTELSANTANGELO SUL NERA,90+,MAR,ITI3
+6,Marche,TML_CAT_RSA_OSPITI,"16/01/2021_PF/BT_MAR_110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA_90+",3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,"110906_DT10 RP ANZIANI ""SANT'AGOSTINO"" - PIEVE TORINA",90+,MAR,ITI3
+10,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,111907_DT11 RP ANZIANI 'P. MARINI' - PETRITOLI,90+,MAR,ITI3
+6,Marche,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MAR_113908_DT13 RP ANZIANI SANITAS_90+,3 - Ospiti Strutture Residenziali,11,2021-01-16,PF/BT,113908_DT13 RP ANZIANI SANITAS,90+,MAR,ITI3

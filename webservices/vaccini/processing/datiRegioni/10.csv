@@ -1078,6 +1078,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 13,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,40-49,UMB,ITI2
 35,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
 24,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,100902_AZIENDA OSPEDALIERA SANTA MARIA DI TERNI,40-49,UMB,ITI2
+2,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_La dolce vita- Amelia_La dolce vita- Amelia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,La dolce vita- Amelia_La dolce vita- Amelia,40-49,UMB,ITI2
 2,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_0_RS MONTEGRAPPA_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,0_RS MONTEGRAPPA,50-59,UMB,ITI2
 13,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,10080101_Ospedale di Città di Castello,50-59,UMB,ITI2
 12,Umbria,TML_CAT_OSS,15/01/2021_PF/BT_UMB_10080307_OSPEDALE MEDIA VALLE DEL TEVERE_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-15,PF/BT,10080307_OSPEDALE MEDIA VALLE DEL TEVERE,50-59,UMB,ITI2
@@ -1121,15 +1122,97 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Umbria,TML_CAT_PERSONALE,15/01/2021_PF/BT_UMB_10080901_OSPEDALE DI FOLIGNO_80-89,2 - Personale non Sanitario,10,2021-01-15,PF/BT,10080901_OSPEDALE DI FOLIGNO,80-89,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS MONTEGRAPPA_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS MONTEGRAPPA,60-69,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_La dolce vita- Amelia_La dolce vita- Amelia_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,La dolce vita- Amelia_La dolce vita- Amelia,60-69,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS MONTEGRAPPA_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS MONTEGRAPPA,70-79,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS RESIDENCE REGINA_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS RESIDENCE REGINA,70-79,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS Villa Arzilla Fabro_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS Villa Arzilla Fabro,70-79,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_Residenza servita don giovanni ermini Montegabbione_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_Residenza servita don giovanni ermini Montegabbione,70-79,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_La dolce vita- Amelia_La dolce vita- Amelia_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,La dolce vita- Amelia_La dolce vita- Amelia,70-79,UMB,ITI2
 6,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS MONTEGRAPPA_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS MONTEGRAPPA,80-89,UMB,ITI2
 6,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS RESIDENCE REGINA_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS RESIDENCE REGINA,80-89,UMB,ITI2
 14,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS Villa Arzilla Fabro_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS Villa Arzilla Fabro,80-89,UMB,ITI2
 5,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_Residenza servita don giovanni ermini Montegabbione_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_Residenza servita don giovanni ermini Montegabbione,80-89,UMB,ITI2
 1,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_100810_Ospedale di Gubbio Gualdo Tadino_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,100810_Ospedale di Gubbio Gualdo Tadino,80-89,UMB,ITI2
+4,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_La dolce vita- Amelia_La dolce vita- Amelia_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,La dolce vita- Amelia_La dolce vita- Amelia,80-89,UMB,ITI2
 6,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS MONTEGRAPPA_90+,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS MONTEGRAPPA,90+,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS RESIDENCE REGINA_90+,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS RESIDENCE REGINA,90+,UMB,ITI2
 3,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_0_RS Villa Arzilla Fabro_90+,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,0_RS Villa Arzilla Fabro,90+,UMB,ITI2
+4,Umbria,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_UMB_La dolce vita- Amelia_La dolce vita- Amelia_90+,3 - Ospiti Strutture Residenziali,10,2021-01-15,PF/BT,La dolce vita- Amelia_La dolce vita- Amelia,90+,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,20-29,UMB,ITI2
+4,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080101_Ospedale di Città di Castello,20-29,UMB,ITI2
+4,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080501_Presidio Ospedaliero di Spoleto,20-29,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,20-29,UMB,ITI2
+8,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_20-29,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,20-29,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO,30-39,UMB,ITI2
+3,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,30-39,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,30-39,UMB,ITI2
+3,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,30-39,UMB,ITI2
+5,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080101_Ospedale di Città di Castello,30-39,UMB,ITI2
+4,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,30-39,UMB,ITI2
+5,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,30-39,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_30-39,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,30-39,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO,40-49,UMB,ITI2
+5,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,40-49,UMB,ITI2
+6,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,40-49,UMB,ITI2
+8,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080101_Ospedale di Città di Castello,40-49,UMB,ITI2
+5,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080501_Presidio Ospedaliero di Spoleto,40-49,UMB,ITI2
+8,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,40-49,UMB,ITI2
+3,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_40-49,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,40-49,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,50-59,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,50-59,UMB,ITI2
+11,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,50-59,UMB,ITI2
+15,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080101_Ospedale di Città di Castello,50-59,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080501_Presidio Ospedaliero di Spoleto,50-59,UMB,ITI2
+12,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,50-59,UMB,ITI2
+4,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,50-59,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_50-59,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,50-59,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,60-69,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,60-69,UMB,ITI2
+4,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080101_Ospedale di Città di Castello_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080101_Ospedale di Città di Castello,60-69,UMB,ITI2
+1,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_10080501_Presidio Ospedaliero di Spoleto_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,10080501_Presidio Ospedaliero di Spoleto,60-69,UMB,ITI2
+2,Umbria,TML_CAT_OSS,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_60-69,1 - Operatori Sanitari e Sociosanitari,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,60-69,UMB,ITI2
+2,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_20-29,2 - Personale non Sanitario,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,20-29,UMB,ITI2
+3,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_30-39,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,30-39,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_30-39,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,30-39,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_30-39,2 - Personale non Sanitario,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,30-39,UMB,ITI2
+2,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_40-49,2 - Personale non Sanitario,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,40-49,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_40-49,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,40-49,UMB,ITI2
+4,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_40-49,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,40-49,UMB,ITI2
+3,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_40-49,2 - Personale non Sanitario,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,40-49,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,50-59,UMB,ITI2
+3,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100061_RP VILLA VITTORIA Terni_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100061_RP VILLA VITTORIA Terni,50-59,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,50-59,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,50-59,UMB,ITI2
+3,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,50-59,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_50-59,2 - Personale non Sanitario,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,50-59,UMB,ITI2
+2,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_60-69,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,60-69,UMB,ITI2
+1,Umbria,TML_CAT_ALTRO,16/01/2021_PF/BT_UMB_100806_OSPEDALE DI ORVIETO_60-69,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100806_OSPEDALE DI ORVIETO,60-69,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100901_OPV Azienda Ospedaliera di Perugia_60-69,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100901_OPV Azienda Ospedaliera di Perugia,60-69,UMB,ITI2
+2,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_70-79,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,70-79,UMB,ITI2
+1,Umbria,TML_CAT_PERSONALE,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_80-89,2 - Personale non Sanitario,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,80-89,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_50-59,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,50-59,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO,60-69,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA TARQUINI FOLIGNO_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA TARQUINI FOLIGNO,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_RP VILLA AURORA Terni_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_RP VILLA AURORA Terni,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_60-69,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,60-69,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO,70-79,UMB,ITI2
+4,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA TARQUINI FOLIGNO_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA TARQUINI FOLIGNO,70-79,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,70-79,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_70-79,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,70-79,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO,80-89,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA TARQUINI FOLIGNO_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA TARQUINI FOLIGNO,80-89,UMB,ITI2
+6,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO,80-89,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_100074_R.P. Grande Albergo Amerino Terni_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,100074_R.P. Grande Albergo Amerino Terni,80-89,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,80-89,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_80-89,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,80-89,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO_90+,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA CONIGLIO DINO FOLIGNO,90+,UMB,ITI2
+1,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_GRUPPO FAMIGLIA TARQUINI FOLIGNO_90+,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_GRUPPO FAMIGLIA TARQUINI FOLIGNO,90+,UMB,ITI2
+3,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO_90+,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,0_RESIDENZA SERVITA COLLE FIORITO GUALDO CATTANEO,90+,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme_90+,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,Montecastrilli- Villa delle Palme_Montecastrilli- Villa delle Palme,90+,UMB,ITI2
+2,Umbria,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_UMB_RP000027_RP Opere Pie Muzi Betti_90+,3 - Ospiti Strutture Residenziali,10,2021-01-16,PF/BT,RP000027_RP Opere Pie Muzi Betti,90+,UMB,ITI2
