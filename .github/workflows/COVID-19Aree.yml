@@ -1,10 +1,10 @@
 name: aggiorna dati sulla suddisione dell'Italia in aree
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '17 2 * * *'
+    - cron:  '37 2 * * *'
 
 jobs:
   scheduled:

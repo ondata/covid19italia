@@ -2,10 +2,6 @@
 
 Qui le variazioni sul set di dati sui vaccini.
 
-## 2020-01-18
-
-- prima versione file geografici con zone
-
 ## 2020-01-17
 
 - aggiunti dati su dose (se prima o seconda), sesso e categoria per ogni punto di somministrazione, nel file [puntiSomministrazioneDatiVax.csv](processing/puntiSomministrazione/puntiSomministrazioneDatiVax.csv). Fonte il [repository di Salvatore Larosa](https://github.com/slarosa/vax).
