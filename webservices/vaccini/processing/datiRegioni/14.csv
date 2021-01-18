@@ -779,12 +779,15 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Capozio R.A._30-39,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Capozio R.A.,30-39,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Albergo Dei Nonni_40-49,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Albergo Dei Nonni,40-49,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Geriadrico Sant'Anna_40-49,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Geriadrico Sant'Anna,40-49,MOL,ITF2
+3,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO_50-59,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO,50-59,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Albergo Dei Nonni_50-59,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Albergo Dei Nonni,50-59,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Geriadrico Sant'Anna_50-59,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Geriadrico Sant'Anna,50-59,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_50-59,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,50-59,MOL,ITF2
+7,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO_60-69,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO,60-69,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Albergo Dei Nonni_60-69,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Albergo Dei Nonni,60-69,MOL,ITF2
 2,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Il Giardino Dei Gelsi_60-69,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Il Giardino Dei Gelsi,60-69,MOL,ITF2
-1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_60-69,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,60-69,MOL,ITF2
+3,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_60-69,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,60-69,MOL,ITF2
+6,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO_70-79,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO,70-79,MOL,ITF2
 4,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Albergo Dei Nonni_70-79,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Albergo Dei Nonni,70-79,MOL,ITF2
 6,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Il Giardino Dei Gelsi_70-79,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Il Giardino Dei Gelsi,70-79,MOL,ITF2
 1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Villa Serena_70-79,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Villa Serena,70-79,MOL,ITF2
@@ -796,10 +799,21 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 9,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Villa Serena_80-89,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Villa Serena,80-89,MOL,ITF2
 5,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Capozio R.A._80-89,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Capozio R.A.,80-89,MOL,ITF2
 11,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Geriadrico Sant'Anna_80-89,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Geriadrico Sant'Anna,80-89,MOL,ITF2
-12,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_80-89,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,80-89,MOL,ITF2
+17,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_80-89,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,80-89,MOL,ITF2
+1,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_CASA ALLOGGIO CIVITANOVA DEL SANNIO,90+,MOL,ITF2
 6,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Albergo Dei Nonni_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Albergo Dei Nonni,90+,MOL,ITF2
 6,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Il Giardino Dei Gelsi_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Il Giardino Dei Gelsi,90+,MOL,ITF2
 8,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Casa Di Riposo Villa Serena_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Casa Di Riposo Villa Serena,90+,MOL,ITF2
 9,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Capozio R.A._90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Capozio R.A.,90+,MOL,ITF2
 3,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Istituto Geriadrico Sant'Anna_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Istituto Geriadrico Sant'Anna,90+,MOL,ITF2
-4,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,90+,MOL,ITF2
+6,Molise,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_MOL_140201_Villa Rosa_90+,3 - Ospiti Strutture Residenziali,14,2021-01-16,PF/BT,140201_Villa Rosa,90+,MOL,ITF2
+2,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_20-29,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000100_P.O. A.CARDARELLI-CAMPOBASSO,20-29,MOL,ITF2
+8,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_30-39,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000100_P.O. A.CARDARELLI-CAMPOBASSO,30-39,MOL,ITF2
+1,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000301_P.O. ISERNIA_30-39,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000301_P.O. ISERNIA,30-39,MOL,ITF2
+7,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_40-49,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000100_P.O. A.CARDARELLI-CAMPOBASSO,40-49,MOL,ITF2
+6,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000301_P.O. ISERNIA_40-49,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000301_P.O. ISERNIA,40-49,MOL,ITF2
+10,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_50-59,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000100_P.O. A.CARDARELLI-CAMPOBASSO,50-59,MOL,ITF2
+16,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000301_P.O. ISERNIA_50-59,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000301_P.O. ISERNIA,50-59,MOL,ITF2
+3,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000100_P.O. A.CARDARELLI-CAMPOBASSO_60-69,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000100_P.O. A.CARDARELLI-CAMPOBASSO,60-69,MOL,ITF2
+24,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000301_P.O. ISERNIA_60-69,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000301_P.O. ISERNIA,60-69,MOL,ITF2
+1,Molise,TML_CAT_OSS,17/01/2021_PF/BT_MOL_14000301_P.O. ISERNIA_70-79,1 - Operatori Sanitari e Sociosanitari,14,2021-01-17,PF/BT,14000301_P.O. ISERNIA,70-79,MOL,ITF2

@@ -181,3 +181,18 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Valle d'Aosta,TML_CAT_RSA_OSPITI,16/01/2021_Moderna_VDA_3601_DONNAS_70-79,3 - Ospiti Strutture Residenziali,02,2021-01-16,Moderna,3601_DONNAS,70-79,VDA,ITC2
 9,Valle d'Aosta,TML_CAT_RSA_OSPITI,16/01/2021_Moderna_VDA_3601_DONNAS_80-89,3 - Ospiti Strutture Residenziali,02,2021-01-16,Moderna,3601_DONNAS,80-89,VDA,ITC2
 5,Valle d'Aosta,TML_CAT_RSA_OSPITI,16/01/2021_Moderna_VDA_3601_DONNAS_90+,3 - Ospiti Strutture Residenziali,02,2021-01-16,Moderna,3601_DONNAS,90+,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_16-19,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,16-19,VDA,ITC2
+8,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_20-29,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,20-29,VDA,ITC2
+7,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_30-39,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,30-39,VDA,ITC2
+17,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_40-49,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,40-49,VDA,ITC2
+15,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_50-59,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,50-59,VDA,ITC2
+1,Valle d'Aosta,TML_CAT_OSS,17/01/2021_Moderna_VDA_900006_Refuge Pere Laurent_50-59,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,Moderna,900006_Refuge Pere Laurent,50-59,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_OSS,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_60-69,1 - Operatori Sanitari e Sociosanitari,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,60-69,VDA,ITC2
+7,Valle d'Aosta,TML_CAT_ALTRO,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_80-89,2 - Personale non Sanitario,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,80-89,VDA,ITC2
+52,Valle d'Aosta,TML_CAT_ALTRO,17/01/2021_PF/BT_VDA_20001_Presidio Ospedaliero Parini_90+,2 - Personale non Sanitario,02,2021-01-17,PF/BT,20001_Presidio Ospedaliero Parini,90+,VDA,ITC2
+1,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_20101_SAINT CHRISTOPHE_70-79,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,20101_SAINT CHRISTOPHE,70-79,VDA,ITC2
+3,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_900006_Refuge Pere Laurent_70-79,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,900006_Refuge Pere Laurent,70-79,VDA,ITC2
+6,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_20101_SAINT CHRISTOPHE_80-89,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,20101_SAINT CHRISTOPHE,80-89,VDA,ITC2
+6,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_900006_Refuge Pere Laurent_80-89,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,900006_Refuge Pere Laurent,80-89,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_20101_SAINT CHRISTOPHE_90+,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,20101_SAINT CHRISTOPHE,90+,VDA,ITC2
+2,Valle d'Aosta,TML_CAT_RSA_OSPITI,17/01/2021_Moderna_VDA_900006_Refuge Pere Laurent_90+,3 - Ospiti Strutture Residenziali,02,2021-01-17,Moderna,900006_Refuge Pere Laurent,90+,VDA,ITC2

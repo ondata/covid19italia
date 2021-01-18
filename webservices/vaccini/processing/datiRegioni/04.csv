@@ -107,7 +107,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41011_Ospedale di Base di Silandro,30-39,PAB,ITH1
 24,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,041005_Ospedale Aziendale di Brunico,40-49,PAB,ITH1
 16,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41001_OSPEDALE CENTRALE DI BOLZANO,40-49,PAB,ITH1
-33,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41002_Ospedale di Merano,40-49,PAB,ITH1
+32,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41002_Ospedale di Merano,40-49,PAB,ITH1
 16,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,40-49,PAB,ITH1
 13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41006_Ospedale di Base di Vipiteno,40-49,PAB,ITH1
 13,Trentino-Alto Adige,TML_CAT_OSS,04/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-04,PF/BT,41011_Ospedale di Base di Silandro,40-49,PAB,ITH1
@@ -415,6 +415,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 1,Trentino-Alto Adige,TML_CAT_ALTRO,08/01/2021_PF/BT_PAB_272_Von Kurz Stiftung_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,272_Von Kurz Stiftung,50-59,PAB,ITH1
 8,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_272_Von Kurz Stiftung_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,272_Von Kurz Stiftung,50-59,PAB,ITH1
 3,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_2T5093_Fondazione Pitsch APSP - Casa di riposo Maia Bassa_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,2T5093_Fondazione Pitsch APSP - Casa di riposo Maia Bassa,50-59,PAB,ITH1
+32,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,41001_OSPEDALE CENTRALE DI BOLZANO,50-59,PAB,ITH1
 32,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,41001_OSPEDALE CENTRALE DI BOLZANO,50-59,PAB,ITH1
 21,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,41002_Ospedale di Merano,50-59,PAB,ITH1
 7,Trentino-Alto Adige,TML_CAT_PERSONALE,08/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,2 - Personale non Sanitario,04,2021-01-08,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,50-59,PAB,ITH1
@@ -989,7 +990,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 15,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,30-39,PAB,ITH1
 3,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,41006_Ospedale di Base di Vipiteno,30-39,PAB,ITH1
 3,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_4T4001_Residenza per Anziani Ojöp Frëinademetz_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,4T4001_Residenza per Anziani Ojöp Frëinademetz,30-39,PAB,ITH1
-33,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,041005_Ospedale Aziendale di Brunico,40-49,PAB,ITH1
+32,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,041005_Ospedale Aziendale di Brunico,40-49,PAB,ITH1
 2,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_1T3500_FONDAZIONE SARENTINO_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,1T3500_FONDAZIONE SARENTINO,40-49,PAB,ITH1
 3,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_1T4500_FONDAZIONE PILSENHOF APSP_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,1T4500_FONDAZIONE PILSENHOF APSP,40-49,PAB,ITH1
 5,Trentino-Alto Adige,TML_CAT_OSS,13/01/2021_PF/BT_PAB_1T4540_JESUHEIM-CASA DI GESU' - VIA CASA DEL GESU' 24 - CORNAIANO - 39057 APPIANO SULLA STRADA DEL VINO_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-13,PF/BT,1T4540_JESUHEIM-CASA DI GESU' - VIA CASA DEL GESU' 24 - CORNAIANO - 39057 APPIANO SULLA STRADA DEL VINO,40-49,PAB,ITH1
@@ -1265,7 +1266,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 3,Trentino-Alto Adige,TML_CAT_OSS,"14/01/2021_PF/BT_PAB_2T5507_""Fonte S Martino"" - struttura residenziale_50-59",1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,"2T5507_""Fonte S Martino"" - struttura residenziale",50-59,PAB,ITH1
 11,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41001_OSPEDALE CENTRALE DI BOLZANO_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41001_OSPEDALE CENTRALE DI BOLZANO,50-59,PAB,ITH1
 16,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41002_Ospedale di Merano_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41002_Ospedale di Merano,50-59,PAB,ITH1
-33,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,50-59,PAB,ITH1
+32,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,50-59,PAB,ITH1
 5,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41006_Ospedale di Base di Vipiteno,50-59,PAB,ITH1
 34,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_41011_Ospedale di Base di Silandro_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,41011_Ospedale di Base di Silandro,50-59,PAB,ITH1
 17,Trentino-Alto Adige,TML_CAT_OSS,14/01/2021_PF/BT_PAB_4T2001_Wohn und Pflegeheim Bruneck & Pflegeabteilung Krankenhaus Bruneck_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-14,PF/BT,4T2001_Wohn und Pflegeheim Bruneck & Pflegeabteilung Krankenhaus Bruneck,50-59,PAB,ITH1
@@ -1473,7 +1474,7 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 9,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_1T7600_BLINDENZENTRUM/CENTRO CIECHI ST.RAPHAEL ONLUS_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,1T7600_BLINDENZENTRUM/CENTRO CIECHI ST.RAPHAEL ONLUS,90+,PAB,ITH1
 12,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_1T7630_Fondazione San Elisabetta 'Grieserhof'_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,1T7630_Fondazione San Elisabetta 'Grieserhof',90+,PAB,ITH1
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,"14/01/2021_PF/BT_PAB_2T5081_Residenza per anziani Lagundo ""Mathias Ladurner""_90+",3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,"2T5081_Residenza per anziani Lagundo ""Mathias Ladurner""",90+,PAB,ITH1
-33,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_2T5083_Casa di riposo Lorenzerhof APSP_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,2T5083_Casa di riposo Lorenzerhof APSP,90+,PAB,ITH1
+32,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_2T5083_Casa di riposo Lorenzerhof APSP_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,2T5083_Casa di riposo Lorenzerhof APSP,90+,PAB,ITH1
 9,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_2T5089_Altenheim Eden Cooperativa sociale_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,2T5089_Altenheim Eden Cooperativa sociale,90+,PAB,ITH1
 9,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,"14/01/2021_PF/BT_PAB_2T5504_Casa di riposo ""St. Michael"" Tesimo_90+",3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,"2T5504_Casa di riposo ""St. Michael"" Tesimo",90+,PAB,ITH1
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,14/01/2021_PF/BT_PAB_4T2001_Wohn und Pflegeheim Bruneck & Pflegeabteilung Krankenhaus Bruneck_90+,3 - Ospiti Strutture Residenziali,04,2021-01-14,PF/BT,4T2001_Wohn und Pflegeheim Bruneck & Pflegeabteilung Krankenhaus Bruneck,90+,PAB,ITH1
@@ -1829,6 +1830,36 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_60-69,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,60-69,PAB,ITH1
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_70-79,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,70-79,PAB,ITH1
 1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_80-89,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,80-89,PAB,ITH1
+4,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,20-29,PAB,ITH1
+5,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,30-39,PAB,ITH1
+3,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,40-49,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,041005_Ospedale Aziendale di Brunico,50-59,PAB,ITH1
+7,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,50-59,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41002_Ospedale di Merano,60-69,PAB,ITH1
+2,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,60-69,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_OSS,17/01/2021_PF/BT_PAB_HSP11-11bis_KH Innichen/041007_70-79,1 - Operatori Sanitari e Sociosanitari,04,2021-01-17,PF/BT,HSP11-11bis_KH Innichen/041007,70-79,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_16-19,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,16-19,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_HSP11-11bis_KH Innichen/041007_20-29,2 - Personale non Sanitario,04,2021-01-17,PF/BT,HSP11-11bis_KH Innichen/041007,20-29,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_30-39,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,30-39,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_30-39,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,30-39,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_HSP11-11bis_KH Innichen/041007_30-39,2 - Personale non Sanitario,04,2021-01-17,PF/BT,HSP11-11bis_KH Innichen/041007,30-39,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,40-49,PAB,ITH1
+3,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_40-49,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,40-49,PAB,ITH1
+6,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_40-49,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,40-49,PAB,ITH1
+13,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_50-59,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,50-59,PAB,ITH1
+3,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_60-69,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,60-69,PAB,ITH1
+4,Trentino-Alto Adige,TML_CAT_PERSONALE,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_60-69,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,60-69,PAB,ITH1
+9,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_70-79,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,70-79,PAB,ITH1
+1,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_70-79,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,70-79,PAB,ITH1
+223,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_041005_Ospedale Aziendale di Brunico_80-89,2 - Personale non Sanitario,04,2021-01-17,PF/BT,041005_Ospedale Aziendale di Brunico,80-89,PAB,ITH1
+395,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_80-89,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,80-89,PAB,ITH1
+96,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_80-89,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,80-89,PAB,ITH1
+37,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_80-89,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41006_Ospedale di Base di Vipiteno,80-89,PAB,ITH1
+54,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_HSP11-11bis_KH Innichen/041007_80-89,2 - Personale non Sanitario,04,2021-01-17,PF/BT,HSP11-11bis_KH Innichen/041007,80-89,PAB,ITH1
+43,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41002_Ospedale di Merano_90+,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41002_Ospedale di Merano,90+,PAB,ITH1
+13,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41004_OSPEDALE AZIENDALE DI BRESSANONE_90+,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41004_OSPEDALE AZIENDALE DI BRESSANONE,90+,PAB,ITH1
+5,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_41006_Ospedale di Base di Vipiteno_90+,2 - Personale non Sanitario,04,2021-01-17,PF/BT,41006_Ospedale di Base di Vipiteno,90+,PAB,ITH1
+9,Trentino-Alto Adige,TML_CAT_ALTRO,17/01/2021_PF/BT_PAB_HSP11-11bis_KH Innichen/041007_90+,2 - Personale non Sanitario,04,2021-01-17,PF/BT,HSP11-11bis_KH Innichen/041007,90+,PAB,ITH1
 2,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042001_Ospedale S.Chiara di Trento_20-29,1 - Operatori Sanitari e Sociosanitari,04,2020-12-27,PF/BT,042001_Ospedale S.Chiara di Trento,20-29,PAT,ITH2
 1,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_042014_Ospedale di Fiemme di Cavalese_20-29,1 - Operatori Sanitari e Sociosanitari,04,2020-12-27,PF/BT,042014_Ospedale di Fiemme di Cavalese,20-29,PAT,ITH2
 1,Trentino-Alto Adige,TML_CAT_OSS,27/12/2020_PF/BT_PAT_052008_SPES Villa Belfonte di Trento_20-29,1 - Operatori Sanitari e Sociosanitari,04,2020-12-27,PF/BT,052008_SPES Villa Belfonte di Trento,20-29,PAT,ITH2
@@ -3927,3 +3958,33 @@ somministrazioni,regione,siglaCategoria,identificativo,categoria,codice_regione,
 5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_PAT_050502_RSAO S.Camillo Trento_90+,3 - Ospiti Strutture Residenziali,04,2021-01-15,PF/BT,050502_RSAO S.Camillo Trento,90+,PAT,ITH2
 3,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_PAT_052005_APSP S.Giovanni Mezzolombardo_90+,3 - Ospiti Strutture Residenziali,04,2021-01-15,PF/BT,052005_APSP S.Giovanni Mezzolombardo,90+,PAT,ITH2
 2,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,15/01/2021_PF/BT_PAT_103601_Sacra Famiglia Rovereto_90+,3 - Ospiti Strutture Residenziali,04,2021-01-15,PF/BT,103601_Sacra Famiglia Rovereto,90+,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT BORGO VALSUGANA_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT BORGO VALSUGANA,20-29,PAT,ITH2
+12,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,20-29,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_20-29,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,20-29,PAT,ITH2
+4,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT BORGO VALSUGANA_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT BORGO VALSUGANA,30-39,PAT,ITH2
+25,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,30-39,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,30-39,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_30-39,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103002_APSP RSA di Borgo Sacco Rovereto,30-39,PAT,ITH2
+4,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT BORGO VALSUGANA_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT BORGO VALSUGANA,40-49,PAT,ITH2
+28,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,40-49,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,40-49,PAT,ITH2
+3,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_40-49,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103002_APSP RSA di Borgo Sacco Rovereto,40-49,PAT,ITH2
+5,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT BORGO VALSUGANA_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT BORGO VALSUGANA,50-59,PAT,ITH2
+56,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,50-59,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_101_PVT TRENTO_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,101_PVT TRENTO,50-59,PAT,ITH2
+8,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,50-59,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103002_APSP RSA di Borgo Sacco Rovereto_50-59,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103002_APSP RSA di Borgo Sacco Rovereto,50-59,PAT,ITH2
+2,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT BORGO VALSUGANA_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT BORGO VALSUGANA,60-69,PAT,ITH2
+22,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,60-69,PAT,ITH2
+31,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_101_PVT TRENTO_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,101_PVT TRENTO,60-69,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,60-69,PAT,ITH2
+76,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_101_PVT TRENTO_70-79,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,101_PVT TRENTO,70-79,PAT,ITH2
+9,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_101_PVT TRENTO_80-89,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,101_PVT TRENTO,80-89,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_OSS,16/01/2021_PF/BT_PAT_101_PVT TRENTO_90+,1 - Operatori Sanitari e Sociosanitari,04,2021-01-16,PF/BT,101_PVT TRENTO,90+,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_ALTRO,16/01/2021_PF/BT_PAT_042101_PVT PERGINE VALSUGANA_40-49,2 - Personale non Sanitario,04,2021-01-16,PF/BT,042101_PVT PERGINE VALSUGANA,40-49,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_ALTRO,16/01/2021_PF/BT_PAT_101_PVT TRENTO_70-79,2 - Personale non Sanitario,04,2021-01-16,PF/BT,101_PVT TRENTO,70-79,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_40-49,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,40-49,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_60-69,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,60-69,PAT,ITH2
+1,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_70-79,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,70-79,PAT,ITH2
+5,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_80-89,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,80-89,PAT,ITH2
+7,Trentino-Alto Adige,TML_CAT_RSA_OSPITI,16/01/2021_PF/BT_PAT_103001_APSP Clementino Vannetti di Rovereto_90+,3 - Ospiti Strutture Residenziali,04,2021-01-16,PF/BT,103001_APSP Clementino Vannetti di Rovereto,90+,PAT,ITH2
