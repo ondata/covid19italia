@@ -30,6 +30,7 @@ jobs:
       run: |-
         export PATH=$PATH:~/bin
         export PATH=$PATH:~/.local/bin
+        export PATH=~/.npm-global/bin:$PATH
         cd ./webservices/COVID-19Aree
         chmod +x ./COVID-19Aree.sh
         ./COVID-19Aree.sh
