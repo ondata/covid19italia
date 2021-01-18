@@ -1,0 +1,43 @@
+name: aggiorna dati sulla suddisione dell'Italia in aree
+
+on:
+  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '17 2 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa mapshaper e gdal/ogr
+      run: |-
+        sudo apt-get install gdal-bin
+        mkdir ~/.npm-global
+        npm config set prefix '~/.npm-global'
+        export PATH=~/.npm-global/bin:$PATH
+        source ~/.profile
+        npm install -g mapshaper
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cd ~/bin
+        chmod +x mlr
+    - name: scarica i dati
+      run: |-
+        export PATH=$PATH:~/bin
+        export PATH=$PATH:~/.local/bin
+        cd ./webservices/COVID-19Aree
+        chmod +x ./COVID-19Aree.sh
+        ./COVID-19Aree.sh
+    - name: Committa e pusha se ci sono variazioni nei dati
+      run: |-
+        git config user.name "automatico"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --iso-8601=seconds)
+        git commit -m "Italia in zone: ${timestamp}" || exit 0
+        git push

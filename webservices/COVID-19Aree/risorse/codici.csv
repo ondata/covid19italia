@@ -1,0 +1,23 @@
+nomeTesto,NUTS_code,NUTS_level
+Abruzzo,ITF1,2
+Basilicata,ITF5,2
+Calabria,ITF6,2
+Campania,ITF3,2
+Emilia-Romagna,ITH5,2
+Friuli Venezia Giulia,ITH4,2
+Lazio,ITI4,2
+Liguria,ITC3,2
+Lombardia,ITC4,2
+Marche,ITI3,2
+Molise,ITF2,2
+Piemonte,ITC1,2
+Provincia autonoma Bolzano,ITH1,2
+Provincia autonoma Trento,ITH2,2
+Puglia,ITF4,2
+Sardegna,ITG2,2
+Sicilia,ITG1,2
+Toscana,ITI1,2
+Umbria,ITI2,2
+Valle d'Aosta,ITC2,2
+Veneto,ITH3,2
+Intero territorio nazionale,IT,0
