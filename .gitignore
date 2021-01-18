@@ -14,3 +14,5 @@ webservices/agenas/rawdata/*
 webservices/iss_epicentro_dati/rawdata/*
 webservices/vaccini/rawdata/*.csv
 webservices/vaccini/rawdata/*.json
+
+webservices/COVID-19Aree/rawdata/*
