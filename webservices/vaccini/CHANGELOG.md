@@ -4,7 +4,7 @@ Qui le variazioni sul set di dati sui vaccini.
 
 ## 2020-01-19
 
-- La dashboard di riferimento è stata spenta, quindi non ci saranno più aggiornamenti di dati. Vedi [#97](https://github.com/ondata/covid19italia/issues/97)
+- La dashboard di riferimento è stata spenta, quindi **non ci saranno più aggiornamenti di dati**. Vedi [#97](https://github.com/ondata/covid19italia/issues/97)
 
 ## 2020-01-17
 
