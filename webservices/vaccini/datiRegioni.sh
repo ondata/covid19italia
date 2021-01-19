@@ -23,6 +23,27 @@ if [ $code -eq 200 ]; then
   # scarica microdati su regioni
   scaricaR="sì"
 
+  rispostaAPI=$(curl 'https://wabi-europe-north-b-api.analysis.windows.net/public/reports/querydata?synchronous=true' \
+    -H 'Connection: keep-alive' \
+    -H 'Accept: application/json, text/plain, */*' \
+    -H 'X-PowerBI-ResourceKey: 388bb944-d39d-4e22-817c-90d1c8152a84' \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+    -H 'Origin: https://app.powerbi.com' \
+    -H 'Sec-Fetch-Site: cross-site' \
+    -H 'Sec-Fetch-Mode: cors' \
+    -H 'Sec-Fetch-Dest: empty' \
+    -H 'Referer: https://app.powerbi.com/' \
+    -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' \
+    --data-binary $'{ "version": "1.0.0", "queries": [ { "Query": { "Commands": [ { "SemanticQueryDataShapeCommand": { "Query": { "Version": 2, "From": [ { "Name": "t", "Entity": "TAB_MASTER_PIVOT", "Type": 0 }, { "Name": "t1", "Entity": "TAB_REGIONI", "Type": 0 } ], "Select": [ { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "Valore" }, "Name": "Sum(TAB_MASTER_PIVOT.Valore)" }, { "Column": { "Expression": { "SourceRef": { "Source": "t1" } }, "Property": "REGIONE" }, "Name": "TAB_REGIONI.REGIONE" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "Attributo" }, "Name": "TAB_MASTER_PIVOT.Attributo" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "KEY" }, "Name": "TAB_MASTER_PIVOT.KEY" }, { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "Categoria Attributo" }, "Name": "TAB_MASTER_PIVOT.Categoria Attributo" } ], "Where": [
+{ "Condition": { "Comparison": { "ComparisonKind": 1, "Left": { "Column": { "Expression": { "SourceRef": { "Source": "t" } }, "Property": "Valore" } }, "Right": { "Literal": { "Value": "0L" } } } } },
+{ "Condition": { "In": { "Expressions": [ { "Column": { "Expression": { "SourceRef": { "Source": "t1" } }, "Property": "REGIONE" } } ], "Values": [ [ { "Literal": { "Value":"\'Valle d\'\'Aosta\'" } } ] ] } } } ], "GroupBy": [ { "SourceRef": { "Source": "t" }, "Name": "TAB_MASTER_PIVOT" } ] }, "Binding": { "Primary": { "Groupings": [ { "Projections": [ 0, 1, 2, 3, 4 ], "GroupBy": [ 0 ] } ] }, "DataReduction": { "Primary": { "Top": { "Count": 30000 } } }, "Version": 1 } } } ] }, "QueryId": "", "ApplicationContext": { "DatasetId": "5bff6260-1025-49e0-8e9b-169ade7c07f9", "Sources": [ { "ReportId": "b548a77c-ab0a-4d7c-a457-2e38c2914fc6" } ] } } ], "cancelQueries": [], "modelId": 4280811 }' \
+    --compressed | jq -r '.error.code')
+
+  if [[ $rispostaAPI == "KeyFoundInDeletedResourceKeyCacheException" ]]; then
+    exit
+  fi
+
   if [[ $scaricaR == "sì" ]]; then
     while IFS=$'\t' read -r nome codice; do
       echo "$nome"
@@ -125,6 +146,5 @@ if [ $code -eq 200 ]; then
 
   # fai il merge dei dati di dettaglio regionali
   mlr --csv sort -f codice_regione,data,categoria,classeEta,punto -n somministrazioni "$folder"/processing/datiRegioni/*.csv >"$folder"/processing/datiRegioni.csv
-
 
 fi
