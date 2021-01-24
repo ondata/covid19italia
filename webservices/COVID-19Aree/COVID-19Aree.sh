@@ -71,6 +71,10 @@ from tmp"
   # genera SVG
   mapshaper "$folder"/processing/aree.geojson -colorizer name=calcFill colors='red,orange,yellow' categories='rossa,arancione,gialla' -style fill='calcFill(zona)' stroke-width=1 stroke=gray -o id-field=NUTS_code "$folder"/processing/aree.svg
 
+  # genera png
+  rsvg-convert "$folder"/processing/aree.svg -o "$folder"/processing/aree.png
+
+
   # estrai da SVG governativa
   # curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg'  | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")'
 

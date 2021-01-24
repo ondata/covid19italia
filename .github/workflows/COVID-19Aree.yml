@@ -1,7 +1,7 @@
 name: aggiorna dati sulla suddisione dell'Italia in aree
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '37 2 * * *'
@@ -17,6 +17,7 @@ jobs:
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa mapshaper e gdal/ogr
       run: |-
         sudo apt-get install gdal-bin
+        sudo apt-get install librsvg2-bin
         mkdir ~/.npm-global
         npm config set prefix '~/.npm-global'
         export PATH=~/.npm-global/bin:$PATH
