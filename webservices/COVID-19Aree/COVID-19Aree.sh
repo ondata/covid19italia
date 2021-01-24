@@ -69,6 +69,6 @@ from tmp"
   rm "$folder"/processing/tmp.geojson
 
   # genera SVG
-  mapshaper "$folder"/processing/aree.geojson -colorizer name=calcFill colors='red,orange,yellow' categories='rossa,arancione,gialla' -style fill='calcFill(zona)' stroke-width=1 stroke=gray -o "$folder"/processing/aree.svg
+  mapshaper "$folder"/processing/aree.geojson -colorizer name=calcFill colors='red,orange,yellow' categories='rossa,arancione,gialla' -style fill='calcFill(zona)' stroke-width=1 stroke=gray -o id-field=NUTS_code "$folder"/processing/aree.svg
 
 fi
