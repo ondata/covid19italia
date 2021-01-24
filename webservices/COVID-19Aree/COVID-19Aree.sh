@@ -76,7 +76,7 @@ from tmp"
 
 fi
 
-# url dato geografico
+# URL fonte dati
 URL="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638"
 
 # leggi la risposta HTTP del sito
@@ -90,6 +90,13 @@ if [ $code -eq 200 ]; then
 
   mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
 
-  mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
+  # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
+  conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
+
+  if [[ $conteggio == 22 ]]; then
+
+    mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
+
+  fi
 
 fi
