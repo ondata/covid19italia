@@ -22,8 +22,11 @@ if [ $code -eq 200 ]; then
   # decomprimi i dati
   yes | unzip -j "$folder"/rawdata/aree.zip -d "$folder"/rawdata
 
-  # estrai soltanto le geometrie corrispondenti alla versione più recente delle norme
-  ogr2ogr -f geojson "$folder"/rawdata/aree_raw.geojson "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'select * from "dpc-covid-19-aree-nuove-g" where versionID IN (select max(CAST(versionID AS integer)) max from "dpc-covid-19-aree-nuove-g")' -lco RFC7946=YES
+  # estrai ID con dei poligoni regionali più aggiornati
+  fidMax=$(ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID from (select FID,nometesto,max(versionid) versionid from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' group by nomeTesto)' | sed 's/"//g' | tr '\n' ',' | sed -r 's/FID,,//g;s/,$//g;s/[^0-9]$//g')
+
+  # estrai soltanto le geometrie con gli ID di sopra
+  ogr2ogr -f geojson "$folder"/rawdata/aree_raw.geojson "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'select * from "dpc-covid-19-aree-nuove-g" where FID IN ('"$fidMax"')' -lco RFC7946=YES
 
   # crea CSV di questo file
   ogr2ogr -f CSV "$folder"/rawdata/aree_raw.csv "$folder"/rawdata/aree_raw.geojson
