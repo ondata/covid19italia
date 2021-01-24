@@ -74,8 +74,22 @@ from tmp"
   # genera png
   rsvg-convert "$folder"/processing/aree.svg -o "$folder"/processing/aree.png
 
+fi
+
+# url dato geografico
+URL="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638"
+
+# leggi la risposta HTTP del sito
+code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
+
+# se il sito è raggiungibile scarica e "lavora" i dati
+if [ $code -eq 200 ]; then
 
   # estrai da SVG governativa
-  # curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg'  | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")'
+  curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg' | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")' >"$folder"/rawdata/areeGov.csv
+
+  mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
+
+  mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
 
 fi

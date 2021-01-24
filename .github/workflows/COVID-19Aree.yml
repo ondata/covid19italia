@@ -1,7 +1,7 @@
 name: aggiorna dati sulla suddisione dell'Italia in aree
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '37 2,8,12,17 * * *'
@@ -25,8 +25,11 @@ jobs:
         npm install -g mapshaper
         mkdir -p ~/bin
         cp bin/mlr ~/bin
+        cp bin/scrape ~/bin
         cd ~/bin
         chmod +x mlr
+        chmod +x scrape
+        sudo pip install yq
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
