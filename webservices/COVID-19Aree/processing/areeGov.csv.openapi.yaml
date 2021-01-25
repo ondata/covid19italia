@@ -1,0 +1,179 @@
+info:
+    version: 1.0.0
+    title: 'COVID-19: i colori delle regioni Italiane'
+    contact:
+        name: 'Associazione onData'
+        url: 'https://ondata.it'
+        email: info@ondata.it
+    x-gitrows-repository: 'https://github.com/ondata/covid19italia/blob/master/webservices/COVID-19Aree/processing/areeGov.csv'
+    x-gitrows-api-path: '@github/ondata/covid19italia/webservices/COVID-19Aree/processing/areeGov.csv'
+    description: "Il Governo Italiano pubblica le informazioni sui colori delle regioni in formato machine readable sul sito della [Presidenza del Consiglio dei Ministri](http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638).\n\n\n\n---\n\nKeywords: COVID-19, Italia, Colori\n\n---\n\nCreated with [GitRows](https://gitrows.com)"
+    x-gitrows-keywords:
+        - COVID-19
+        - Italia
+        - Colori
+    license:
+        name: 'Creative Commons Zero v1.0 Universal'
+        url: 'https://creativecommons.org/publicdomain/zero/1.0/deed'
+components:
+    schemas:
+        Error:
+            type: object
+            properties:
+                code:
+                    type: integer
+                    format: int32
+                message:
+                    type: string
+                documentation:
+                    type: object
+                    properties:
+                        description:
+                            type: string
+                        url:
+                            type: string
+        Record:
+            type: object
+            properties:
+                id:
+                    type: string
+                    description: 'L''identificativo della regione, usato nel file sorgente'
+                colore:
+                    type: string
+                    description: 'L''etichetta del colore della zona (gialla, arancione, rossa)'
+                nomeTesto:
+                    type: string
+                    description: 'L''etichetta dell''area geografica'
+                NUTS_code:
+                    type: string
+                    description: 'Il codice NUTS associato alla regione'
+                NUTS_level:
+                    type: integer
+                    format: int32
+                    description: 'Il livello del codice NUTS'
+openapi: 3.0.0
+servers:
+    -
+        url: 'https://api.gitrows.com'
+paths:
+    /@github/ondata/covid19italia/webservices/COVID-19Aree/processing/areeGov.csv:
+        get:
+            description: 'Return a list of records'
+            operationId: listRecords
+            parameters:
+                -
+                    in: query
+                    name: id
+                    schema:
+                        type: string
+                    description: "Select records that match value for `id`.\n\nYou can optionally use the following comparison operators as prefixes to your values, e.g. `id=*:foo`:\n\n`starts:` text starts with, alias: `^:`; `contains:` contains text, alias: `*:`; `ends:` text ends with, alias: `$:`"
+                    allowReserved: true
+                -
+                    in: query
+                    name: colore
+                    schema:
+                        type: string
+                    description: "Select records that match value for `colore`.\n\nYou can optionally use the following comparison operators as prefixes to your values, e.g. `colore=*:foo`:\n\n`starts:` text starts with, alias: `^:`; `contains:` contains text, alias: `*:`; `ends:` text ends with, alias: `$:`"
+                    allowReserved: true
+                -
+                    in: query
+                    name: nomeTesto
+                    schema:
+                        type: string
+                    description: "Select records that match value for `nomeTesto`.\n\nYou can optionally use the following comparison operators as prefixes to your values, e.g. `nomeTesto=*:foo`:\n\n`starts:` text starts with, alias: `^:`; `contains:` contains text, alias: `*:`; `ends:` text ends with, alias: `$:`"
+                    allowReserved: true
+                -
+                    in: query
+                    name: NUTS_code
+                    schema:
+                        type: string
+                    description: "Select records that match value for `NUTS_code`.\n\nYou can optionally use the following comparison operators as prefixes to your values, e.g. `NUTS_code=*:foo`:\n\n`starts:` text starts with, alias: `^:`; `contains:` contains text, alias: `*:`; `ends:` text ends with, alias: `$:`"
+                    allowReserved: true
+                -
+                    in: query
+                    name: NUTS_level
+                    schema:
+                        oneOf:
+                            -
+                                type: integer
+                            -
+                                type: string
+                    description: "Select records that match value for `NUTS_level`.\n\nYou can optionally use the following comparison operators as prefixes to your values, e.g. `NUTS_level=gt:10`:\n\n`not:` equals not; `lt:` less than; `lte:` less than or equal; `gt:` greater than; `gte:` greater than or equal"
+                    allowReserved: true
+                -
+                    in: query
+                    name: $count
+                    schema:
+                        type: string
+                    description: 'Counts the records in the data set, use `*` or any `columnName` as parameter'
+                    allowReserved: true
+                -
+                    in: query
+                    name: $avg
+                    schema:
+                        type: string
+                    description: 'Calculates the average of all numeric values in `columnName`'
+                    allowReserved: true
+                -
+                    in: query
+                    name: $sum
+                    schema:
+                        type: string
+                    description: 'Calculates the sum of all numeric values in `columnName`'
+                    allowReserved: true
+                -
+                    in: query
+                    name: $min
+                    schema:
+                        type: string
+                    description: 'Returns the smallest of all numeric values in `columnName`'
+                    allowReserved: true
+                -
+                    in: query
+                    name: $max
+                    schema:
+                        type: string
+                    description: 'Returns the largest of all numeric values in `columnName`'
+                    allowReserved: true
+            responses:
+                '200':
+                    description: 'A list of records with any optionally provided filters applied.'
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Record'
+                default:
+                    description: 'Error Payload'
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/Error'
+    '/@github/ondata/covid19italia/webservices/COVID-19Aree/processing/areeGov.csv/{id}':
+        get:
+            description: 'Return a specific record'
+            operationId: getRecordById
+            parameters:
+                -
+                    name: id
+                    description: 'Distinct id to select data set by'
+                    in: path
+                    required: true
+                    schema:
+                        type: string
+            responses:
+                '200':
+                    description: 'Returns a distinct record'
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: '#/components/schemas/Record'
+                default:
+                    description: 'Error Payload'
+                    content:
+                        application/json:
+                            schema:
+                                $ref: '#/components/schemas/Error'
