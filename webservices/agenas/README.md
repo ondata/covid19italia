@@ -3,7 +3,7 @@ L'[Agenzia Nazionale per i Servizi Sanitari Regionali](https://www.agenas.gov.it
 - [Positivi Covid-19 e ricoverati Covid-19 in area non critica ed in reparti di terapia intensiva](https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab1);
 - [Ricoverati e posti letto in area non critica e terapia intensiva](https://www.agenas.gov.it/covid19/web/index.php?r=site%2Ftab2).
 
-Ogni giorno vengono scaricare, trasformate in formato CSV e pubblicate in questa [cartella](processing/).
+Ogni giorno vengono scaricate, trasformate in formato CSV e pubblicate in questa [cartella](processing/).
 
 ---
 
