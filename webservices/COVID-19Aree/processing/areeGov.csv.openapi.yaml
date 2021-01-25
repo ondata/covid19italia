@@ -40,7 +40,7 @@ components:
                     description: 'L''identificativo della regione, usato nel file sorgente'
                 colore:
                     type: string
-                    description: 'L''etichetta del colore della zona (gialla, arancione, rossa)'
+                    description: 'L''etichetta del colore della zona (giallo, arancione, rosso)'
                 nomeTesto:
                     type: string
                     description: 'L''etichetta dell''area geografica'
