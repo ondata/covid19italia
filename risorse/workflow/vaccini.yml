@@ -1,0 +1,47 @@
+name: aggiorna dati vaccini
+
+on:
+#  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '7 0,8,12,15,19,22 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa yq, chrome headless
+      run: |-
+        sudo apt-get install -y libappindicator1 fonts-liberation
+        sudo apt-get -f install
+        wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo dpkg -i google-chrome*.deb
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cp bin/scrape ~/bin
+        cd ~/bin
+        chmod +x mlr
+        chmod +x scrape
+        sudo apt-get install python3-setuptools
+        pip3 install wheel
+        pip3 install lxml
+        sudo pip install yq
+    - name: scarica i dati
+      run: |-
+        export PATH=$PATH:~/bin
+        export PATH=$PATH:~/.local/bin
+        cd ./webservices/vaccini/
+        chmod +x ./vaccini.sh
+        ./vaccini.sh
+    - name: Committa e pusha se ci sono variazioni nei dati
+      run: |-
+        git config user.name "automatico"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --iso-8601=seconds)
+        git commit -m "Vaccini - Data e ora aggiornamento: ${timestamp}" || exit 0
+        git push
