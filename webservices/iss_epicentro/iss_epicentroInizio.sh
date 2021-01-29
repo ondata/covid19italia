@@ -13,6 +13,8 @@ debugMode="off"
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 date=$(date '+%Y-%m-%d')
 
 mkdir -p "$folder"/rawdata
