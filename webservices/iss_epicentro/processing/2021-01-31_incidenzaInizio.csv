@@ -1,0 +1,1025 @@
+data,regione,classe_incidenza
+20-02-17,Piemonte,0.01-1
+20-02-24,Piemonte,0.01-1
+20-07-13,Piemonte,0.01-1
+20-06-08,Valle Aosta,0.01-1
+20-07-13,Valle Aosta,0.01-1
+20-08-10,Valle Aosta,0.01-1
+20-02-24,PA Bolzano,0.01-1
+20-05-25,PA Bolzano,0.01-1
+20-02-17,Veneto,0.01-1
+20-06-01,Veneto,0.01-1
+20-06-08,Veneto,0.01-1
+20-06-15,Veneto,0.01-1
+20-06-22,Veneto,0.01-1
+20-06-15,Friuli,0.01-1
+20-06-22,Friuli,0.01-1
+20-07-06,Friuli,0.01-1
+20-02-17,Emilia,0.01-1
+20-02-24,Toscana,0.01-1
+20-05-25,Toscana,0.01-1
+20-06-01,Toscana,0.01-1
+20-06-15,Toscana,0.01-1
+20-07-06,Toscana,0.01-1
+20-02-24,Umbria,0.01-1
+20-05-11,Umbria,0.01-1
+20-05-18,Umbria,0.01-1
+20-05-25,Umbria,0.01-1
+20-06-01,Umbria,0.01-1
+20-06-08,Umbria,0.01-1
+20-06-15,Umbria,0.01-1
+20-06-22,Umbria,0.01-1
+20-06-29,Umbria,0.01-1
+20-07-06,Umbria,0.01-1
+20-07-13,Umbria,0.01-1
+20-07-20,Umbria,0.01-1
+20-06-22,Marche,0.01-1
+20-06-29,Marche,0.01-1
+20-07-06,Marche,0.01-1
+20-07-13,Marche,0.01-1
+20-02-24,Lazio,0.01-1
+20-06-15,Lazio,0.01-1
+20-02-24,Abruzzo,0.01-1
+20-06-08,Abruzzo,0.01-1
+20-06-15,Abruzzo,0.01-1
+20-06-22,Abruzzo,0.01-1
+20-07-13,Abruzzo,0.01-1
+20-03-09,Molise,0.01-1
+20-06-01,Molise,0.01-1
+20-06-08,Molise,0.01-1
+20-06-22,Molise,0.01-1
+20-07-06,Molise,0.01-1
+20-08-03,Molise,0.01-1
+20-02-24,Campania,0.01-1
+20-05-25,Campania,0.01-1
+20-06-01,Campania,0.01-1
+20-06-08,Campania,0.01-1
+20-06-15,Campania,0.01-1
+20-07-06,Campania,0.01-1
+20-02-24,Puglia,0.01-1
+20-05-25,Puglia,0.01-1
+20-06-01,Puglia,0.01-1
+20-06-08,Puglia,0.01-1
+20-06-15,Puglia,0.01-1
+20-06-22,Puglia,0.01-1
+20-06-29,Puglia,0.01-1
+20-07-06,Puglia,0.01-1
+20-07-13,Puglia,0.01-1
+20-07-20,Puglia,0.01-1
+20-05-11,Basilicata,0.01-1
+20-05-25,Basilicata,0.01-1
+20-06-01,Basilicata,0.01-1
+20-06-08,Basilicata,0.01-1
+20-06-22,Basilicata,0.01-1
+20-06-29,Basilicata,0.01-1
+20-07-06,Basilicata,0.01-1
+20-07-13,Basilicata,0.01-1
+20-07-27,Basilicata,0.01-1
+20-02-24,Calabria,0.01-1
+20-03-02,Calabria,0.01-1
+20-04-27,Calabria,0.01-1
+20-05-11,Calabria,0.01-1
+20-05-18,Calabria,0.01-1
+20-05-25,Calabria,0.01-1
+20-06-01,Calabria,0.01-1
+20-06-08,Calabria,0.01-1
+20-06-15,Calabria,0.01-1
+20-06-22,Calabria,0.01-1
+20-06-29,Calabria,0.01-1
+20-07-20,Calabria,0.01-1
+20-02-24,Sicilia,0.01-1
+20-05-11,Sicilia,0.01-1
+20-05-18,Sicilia,0.01-1
+20-05-25,Sicilia,0.01-1
+20-06-01,Sicilia,0.01-1
+20-06-08,Sicilia,0.01-1
+20-06-15,Sicilia,0.01-1
+20-06-22,Sicilia,0.01-1
+20-06-29,Sicilia,0.01-1
+20-07-06,Sicilia,0.01-1
+20-07-13,Sicilia,0.01-1
+20-02-24,Sardegna,0.01-1
+20-05-11,Sardegna,0.01-1
+20-05-18,Sardegna,0.01-1
+20-05-25,Sardegna,0.01-1
+20-06-01,Sardegna,0.01-1
+20-06-08,Sardegna,0.01-1
+20-06-15,Sardegna,0.01-1
+20-06-22,Sardegna,0.01-1
+20-06-29,Sardegna,0.01-1
+20-07-06,Sardegna,0.01-1
+20-07-13,Sardegna,0.01-1
+20-07-20,Sardegna,0.01-1
+20-06-01,Piemonte,1.01-5
+20-06-08,Piemonte,1.01-5
+20-06-15,Piemonte,1.01-5
+20-06-22,Piemonte,1.01-5
+20-06-29,Piemonte,1.01-5
+20-07-06,Piemonte,1.01-5
+20-07-20,Piemonte,1.01-5
+20-07-27,Piemonte,1.01-5
+20-08-03,Piemonte,1.01-5
+20-05-25,Valle Aosta,1.01-5
+20-06-01,Valle Aosta,1.01-5
+20-06-15,Valle Aosta,1.01-5
+20-06-22,Valle Aosta,1.01-5
+20-06-29,Valle Aosta,1.01-5
+20-08-17,Valle Aosta,1.01-5
+20-08-31,Valle Aosta,1.01-5
+20-02-17,Lombardia,1.01-5
+20-07-13,Lombardia,1.01-5
+20-07-20,Lombardia,1.01-5
+20-07-27,Lombardia,1.01-5
+20-05-11,PA Bolzano,1.01-5
+20-05-18,PA Bolzano,1.01-5
+20-06-01,PA Bolzano,1.01-5
+20-06-08,PA Bolzano,1.01-5
+20-06-15,PA Bolzano,1.01-5
+20-06-22,PA Bolzano,1.01-5
+20-06-29,PA Bolzano,1.01-5
+20-07-13,PA Bolzano,1.01-5
+20-07-20,PA Bolzano,1.01-5
+20-06-01,PA Trento,1.01-5
+20-06-08,PA Trento,1.01-5
+20-06-15,PA Trento,1.01-5
+20-06-22,PA Trento,1.01-5
+20-06-29,PA Trento,1.01-5
+20-07-06,PA Trento,1.01-5
+20-07-13,PA Trento,1.01-5
+20-07-27,PA Trento,1.01-5
+20-08-03,PA Trento,1.01-5
+20-08-10,PA Trento,1.01-5
+20-08-17,PA Trento,1.01-5
+20-05-11,Veneto,1.01-5
+20-05-18,Veneto,1.01-5
+20-05-25,Veneto,1.01-5
+20-06-29,Veneto,1.01-5
+20-07-06,Veneto,1.01-5
+20-07-20,Veneto,1.01-5
+20-02-24,Friuli,1.01-5
+20-05-11,Friuli,1.01-5
+20-05-18,Friuli,1.01-5
+20-05-25,Friuli,1.01-5
+20-06-01,Friuli,1.01-5
+20-06-08,Friuli,1.01-5
+20-06-29,Friuli,1.01-5
+20-07-13,Friuli,1.01-5
+20-07-20,Friuli,1.01-5
+20-07-27,Friuli,1.01-5
+20-08-03,Friuli,1.01-5
+20-02-24,Liguria,1.01-5
+20-06-08,Liguria,1.01-5
+20-06-15,Liguria,1.01-5
+20-06-22,Liguria,1.01-5
+20-06-29,Liguria,1.01-5
+20-07-06,Liguria,1.01-5
+20-07-20,Liguria,1.01-5
+20-07-27,Liguria,1.01-5
+20-08-03,Liguria,1.01-5
+20-05-25,Emilia,1.01-5
+20-06-01,Emilia,1.01-5
+20-06-08,Emilia,1.01-5
+20-06-15,Emilia,1.01-5
+20-06-29,Emilia,1.01-5
+20-03-02,Toscana,1.01-5
+20-05-11,Toscana,1.01-5
+20-05-18,Toscana,1.01-5
+20-06-08,Toscana,1.01-5
+20-06-22,Toscana,1.01-5
+20-06-29,Toscana,1.01-5
+20-07-13,Toscana,1.01-5
+20-07-20,Toscana,1.01-5
+20-07-27,Toscana,1.01-5
+20-08-03,Toscana,1.01-5
+20-03-02,Umbria,1.01-5
+20-04-13,Umbria,1.01-5
+20-04-20,Umbria,1.01-5
+20-04-27,Umbria,1.01-5
+20-05-04,Umbria,1.01-5
+20-07-27,Umbria,1.01-5
+20-08-03,Umbria,1.01-5
+20-08-10,Umbria,1.01-5
+20-02-24,Marche,1.01-5
+20-05-18,Marche,1.01-5
+20-05-25,Marche,1.01-5
+20-06-01,Marche,1.01-5
+20-06-08,Marche,1.01-5
+20-06-15,Marche,1.01-5
+20-07-20,Marche,1.01-5
+20-07-27,Marche,1.01-5
+20-08-03,Marche,1.01-5
+20-08-17,Marche,1.01-5
+20-03-02,Lazio,1.01-5
+20-05-04,Lazio,1.01-5
+20-05-11,Lazio,1.01-5
+20-05-18,Lazio,1.01-5
+20-05-25,Lazio,1.01-5
+20-06-01,Lazio,1.01-5
+20-06-08,Lazio,1.01-5
+20-06-22,Lazio,1.01-5
+20-06-29,Lazio,1.01-5
+20-07-06,Lazio,1.01-5
+20-07-13,Lazio,1.01-5
+20-07-20,Lazio,1.01-5
+20-07-27,Lazio,1.01-5
+20-08-03,Lazio,1.01-5
+20-03-02,Abruzzo,1.01-5
+20-05-18,Abruzzo,1.01-5
+20-05-25,Abruzzo,1.01-5
+20-06-01,Abruzzo,1.01-5
+20-06-29,Abruzzo,1.01-5
+20-07-06,Abruzzo,1.01-5
+20-07-20,Abruzzo,1.01-5
+20-07-27,Abruzzo,1.01-5
+20-08-10,Abruzzo,1.01-5
+20-03-02,Molise,1.01-5
+20-04-20,Molise,1.01-5
+20-04-27,Molise,1.01-5
+20-05-18,Molise,1.01-5
+20-05-25,Molise,1.01-5
+20-06-15,Molise,1.01-5
+20-07-27,Molise,1.01-5
+20-08-17,Molise,1.01-5
+20-03-02,Campania,1.01-5
+20-04-20,Campania,1.01-5
+20-04-27,Campania,1.01-5
+20-05-04,Campania,1.01-5
+20-05-11,Campania,1.01-5
+20-05-18,Campania,1.01-5
+20-06-22,Campania,1.01-5
+20-06-29,Campania,1.01-5
+20-07-13,Campania,1.01-5
+20-07-20,Campania,1.01-5
+20-07-27,Campania,1.01-5
+20-08-03,Campania,1.01-5
+20-08-10,Campania,1.01-5
+20-03-02,Puglia,1.01-5
+20-04-27,Puglia,1.01-5
+20-05-04,Puglia,1.01-5
+20-05-11,Puglia,1.01-5
+20-05-18,Puglia,1.01-5
+20-07-27,Puglia,1.01-5
+20-08-03,Puglia,1.01-5
+20-08-10,Puglia,1.01-5
+20-03-02,Basilicata,1.01-5
+20-03-09,Basilicata,1.01-5
+20-04-06,Basilicata,1.01-5
+20-04-20,Basilicata,1.01-5
+20-04-27,Basilicata,1.01-5
+20-05-04,Basilicata,1.01-5
+20-05-18,Basilicata,1.01-5
+20-08-03,Basilicata,1.01-5
+20-08-10,Basilicata,1.01-5
+20-08-17,Basilicata,1.01-5
+20-08-24,Basilicata,1.01-5
+20-09-14,Basilicata,1.01-5
+20-03-09,Calabria,1.01-5
+20-04-20,Calabria,1.01-5
+20-05-04,Calabria,1.01-5
+20-07-06,Calabria,1.01-5
+20-07-13,Calabria,1.01-5
+20-07-27,Calabria,1.01-5
+20-08-03,Calabria,1.01-5
+20-08-10,Calabria,1.01-5
+20-08-17,Calabria,1.01-5
+20-09-07,Calabria,1.01-5
+20-03-02,Sicilia,1.01-5
+20-03-09,Sicilia,1.01-5
+20-04-13,Sicilia,1.01-5
+20-04-20,Sicilia,1.01-5
+20-04-27,Sicilia,1.01-5
+20-05-04,Sicilia,1.01-5
+20-07-20,Sicilia,1.01-5
+20-07-27,Sicilia,1.01-5
+20-08-03,Sicilia,1.01-5
+20-08-10,Sicilia,1.01-5
+20-03-02,Sardegna,1.01-5
+20-04-20,Sardegna,1.01-5
+20-04-27,Sardegna,1.01-5
+20-05-04,Sardegna,1.01-5
+20-07-27,Sardegna,1.01-5
+20-08-03,Sardegna,1.01-5
+20-08-10,Sardegna,1.01-5
+20-05-25,Piemonte,5.01-10
+20-08-10,Piemonte,5.01-10
+20-08-17,Piemonte,5.01-10
+20-08-31,Piemonte,5.01-10
+20-05-11,Valle Aosta,5.01-10
+20-05-18,Valle Aosta,5.01-10
+20-08-03,Valle Aosta,5.01-10
+20-09-07,Valle Aosta,5.01-10
+20-06-15,Lombardia,5.01-10
+20-06-22,Lombardia,5.01-10
+20-06-29,Lombardia,5.01-10
+20-07-06,Lombardia,5.01-10
+20-08-03,Lombardia,5.01-10
+20-08-10,Lombardia,5.01-10
+20-03-02,PA Bolzano,5.01-10
+20-04-27,PA Bolzano,5.01-10
+20-05-04,PA Bolzano,5.01-10
+20-07-06,PA Bolzano,5.01-10
+20-07-27,PA Bolzano,5.01-10
+20-08-03,PA Bolzano,5.01-10
+20-08-10,PA Bolzano,5.01-10
+20-03-02,PA Trento,5.01-10
+20-05-25,PA Trento,5.01-10
+20-02-24,Veneto,5.01-10
+20-05-04,Veneto,5.01-10
+20-07-13,Veneto,5.01-10
+20-07-27,Veneto,5.01-10
+20-08-03,Veneto,5.01-10
+20-03-02,Friuli,5.01-10
+20-04-27,Friuli,5.01-10
+20-05-04,Friuli,5.01-10
+20-08-10,Friuli,5.01-10
+20-03-02,Liguria,5.01-10
+20-05-25,Liguria,5.01-10
+20-06-01,Liguria,5.01-10
+20-07-13,Liguria,5.01-10
+20-02-24,Emilia,5.01-10
+20-05-11,Emilia,5.01-10
+20-05-18,Emilia,5.01-10
+20-06-22,Emilia,5.01-10
+20-07-06,Emilia,5.01-10
+20-07-13,Emilia,5.01-10
+20-07-20,Emilia,5.01-10
+20-07-27,Emilia,5.01-10
+20-08-03,Emilia,5.01-10
+20-08-10,Emilia,5.01-10
+20-04-27,Toscana,5.01-10
+20-05-04,Toscana,5.01-10
+20-08-10,Toscana,5.01-10
+20-08-17,Toscana,5.01-10
+20-04-06,Umbria,5.01-10
+20-05-11,Marche,5.01-10
+20-08-10,Marche,5.01-10
+20-08-24,Marche,5.01-10
+20-08-31,Marche,5.01-10
+20-09-21,Marche,5.01-10
+20-04-20,Lazio,5.01-10
+20-04-27,Lazio,5.01-10
+20-08-10,Lazio,5.01-10
+20-04-27,Abruzzo,5.01-10
+20-05-04,Abruzzo,5.01-10
+20-05-11,Abruzzo,5.01-10
+20-08-03,Abruzzo,5.01-10
+20-08-17,Abruzzo,5.01-10
+20-08-24,Abruzzo,5.01-10
+20-09-07,Abruzzo,5.01-10
+20-04-13,Molise,5.01-10
+20-07-20,Molise,5.01-10
+20-08-10,Molise,5.01-10
+20-08-24,Molise,5.01-10
+20-08-31,Molise,5.01-10
+20-09-07,Molise,5.01-10
+20-09-21,Molise,5.01-10
+20-03-09,Campania,5.01-10
+20-04-13,Campania,5.01-10
+20-03-09,Puglia,5.01-10
+20-04-20,Puglia,5.01-10
+20-08-17,Puglia,5.01-10
+20-08-24,Puglia,5.01-10
+20-03-30,Basilicata,5.01-10
+20-04-13,Basilicata,5.01-10
+20-07-20,Basilicata,5.01-10
+20-08-31,Basilicata,5.01-10
+20-09-07,Basilicata,5.01-10
+20-03-30,Calabria,5.01-10
+20-04-06,Calabria,5.01-10
+20-04-13,Calabria,5.01-10
+20-08-24,Calabria,5.01-10
+20-08-31,Calabria,5.01-10
+20-09-14,Calabria,5.01-10
+20-09-21,Calabria,5.01-10
+20-09-28,Calabria,5.01-10
+20-03-30,Sicilia,5.01-10
+20-04-06,Sicilia,5.01-10
+20-08-17,Sicilia,5.01-10
+20-08-24,Sicilia,5.01-10
+20-03-09,Sardegna,5.01-10
+20-04-13,Sardegna,5.01-10
+20-03-02,Piemonte,10.01-15
+20-05-11,Piemonte,10.01-15
+20-05-18,Piemonte,10.01-15
+20-08-24,Piemonte,10.01-15
+20-09-07,Piemonte,10.01-15
+20-09-14,Piemonte,10.01-15
+20-09-21,Piemonte,10.01-15
+20-03-02,Valle Aosta,10.01-15
+20-04-20,Valle Aosta,10.01-15
+20-05-04,Valle Aosta,10.01-15
+20-07-27,Valle Aosta,10.01-15
+20-08-24,Valle Aosta,10.01-15
+20-09-14,Valle Aosta,10.01-15
+20-09-21,Valle Aosta,10.01-15
+20-02-24,Lombardia,10.01-15
+20-05-25,Lombardia,10.01-15
+20-06-01,Lombardia,10.01-15
+20-06-08,Lombardia,10.01-15
+20-08-17,Lombardia,10.01-15
+20-08-24,Lombardia,10.01-15
+20-08-31,Lombardia,10.01-15
+20-09-07,Lombardia,10.01-15
+20-09-14,Lombardia,10.01-15
+20-09-21,Lombardia,10.01-15
+20-04-20,PA Bolzano,10.01-15
+20-08-17,PA Bolzano,10.01-15
+20-08-24,PA Bolzano,10.01-15
+20-08-31,PA Bolzano,10.01-15
+20-05-18,PA Trento,10.01-15
+20-07-20,PA Trento,10.01-15
+20-08-24,PA Trento,10.01-15
+20-03-02,Veneto,10.01-15
+20-04-27,Veneto,10.01-15
+20-08-10,Veneto,10.01-15
+20-08-17,Veneto,10.01-15
+20-08-24,Veneto,10.01-15
+20-09-07,Veneto,10.01-15
+20-04-20,Friuli,10.01-15
+20-08-17,Friuli,10.01-15
+20-08-24,Friuli,10.01-15
+20-08-31,Friuli,10.01-15
+20-09-14,Friuli,10.01-15
+20-05-18,Liguria,10.01-15
+20-08-10,Liguria,10.01-15
+20-08-17,Liguria,10.01-15
+20-08-24,Liguria,10.01-15
+20-05-04,Emilia,10.01-15
+20-08-17,Emilia,10.01-15
+20-08-31,Emilia,10.01-15
+20-09-07,Emilia,10.01-15
+20-09-14,Emilia,10.01-15
+20-09-21,Emilia,10.01-15
+20-03-09,Toscana,10.01-15
+20-04-20,Toscana,10.01-15
+20-08-24,Toscana,10.01-15
+20-08-31,Toscana,10.01-15
+20-09-07,Toscana,10.01-15
+20-09-14,Toscana,10.01-15
+20-09-21,Toscana,10.01-15
+20-03-09,Umbria,10.01-15
+20-08-17,Umbria,10.01-15
+20-08-24,Umbria,10.01-15
+20-08-31,Umbria,10.01-15
+20-09-07,Umbria,10.01-15
+20-09-14,Umbria,10.01-15
+20-09-21,Umbria,10.01-15
+20-04-27,Marche,10.01-15
+20-05-04,Marche,10.01-15
+20-09-07,Marche,10.01-15
+20-09-14,Marche,10.01-15
+20-09-28,Marche,10.01-15
+20-03-09,Lazio,10.01-15
+20-03-30,Lazio,10.01-15
+20-04-06,Lazio,10.01-15
+20-04-13,Lazio,10.01-15
+20-08-24,Lazio,10.01-15
+20-08-31,Lazio,10.01-15
+20-09-07,Lazio,10.01-15
+20-03-09,Abruzzo,10.01-15
+20-04-13,Abruzzo,10.01-15
+20-04-20,Abruzzo,10.01-15
+20-08-31,Abruzzo,10.01-15
+20-09-14,Abruzzo,10.01-15
+20-09-21,Abruzzo,10.01-15
+20-09-28,Abruzzo,10.01-15
+20-03-16,Molise,10.01-15
+20-04-06,Molise,10.01-15
+20-05-11,Molise,10.01-15
+20-09-14,Molise,10.01-15
+20-09-28,Molise,10.01-15
+20-03-16,Campania,10.01-15
+20-03-23,Campania,10.01-15
+20-03-30,Campania,10.01-15
+20-04-06,Campania,10.01-15
+20-08-17,Campania,10.01-15
+20-08-31,Campania,10.01-15
+20-09-07,Campania,10.01-15
+20-09-14,Campania,10.01-15
+20-03-16,Puglia,10.01-15
+20-03-30,Puglia,10.01-15
+20-04-06,Puglia,10.01-15
+20-04-13,Puglia,10.01-15
+20-08-31,Puglia,10.01-15
+20-09-07,Puglia,10.01-15
+20-09-14,Puglia,10.01-15
+20-09-21,Puglia,10.01-15
+20-09-28,Puglia,10.01-15
+20-03-16,Basilicata,10.01-15
+20-03-16,Calabria,10.01-15
+20-03-23,Calabria,10.01-15
+20-10-05,Calabria,10.01-15
+20-03-16,Sicilia,10.01-15
+20-03-23,Sicilia,10.01-15
+20-08-31,Sicilia,10.01-15
+20-09-07,Sicilia,10.01-15
+20-09-14,Sicilia,10.01-15
+20-09-21,Sicilia,10.01-15
+20-03-16,Sardegna,10.01-15
+20-03-23,Sardegna,10.01-15
+20-03-30,Sardegna,10.01-15
+20-04-06,Sardegna,10.01-15
+20-08-17,Sardegna,10.01-15
+20-03-09,Piemonte,15.01-20
+20-05-04,Piemonte,15.01-20
+20-09-28,Piemonte,15.01-20
+21-01-25,Piemonte,15.01-20
+20-04-27,Valle Aosta,15.01-20
+20-09-28,Valle Aosta,15.01-20
+21-01-25,Valle Aosta,15.01-20
+20-05-04,Lombardia,15.01-20
+20-05-11,Lombardia,15.01-20
+20-05-18,Lombardia,15.01-20
+20-09-28,Lombardia,15.01-20
+20-03-09,PA Bolzano,15.01-20
+20-09-07,PA Bolzano,15.01-20
+20-09-14,PA Bolzano,15.01-20
+20-09-21,PA Bolzano,15.01-20
+20-09-28,PA Bolzano,15.01-20
+20-05-11,PA Trento,15.01-20
+20-09-07,PA Trento,15.01-20
+20-03-09,Veneto,15.01-20
+20-04-13,Veneto,15.01-20
+20-04-20,Veneto,15.01-20
+20-08-31,Veneto,15.01-20
+20-09-14,Veneto,15.01-20
+20-09-21,Veneto,15.01-20
+20-09-28,Veneto,15.01-20
+20-03-09,Friuli,15.01-20
+20-03-30,Friuli,15.01-20
+20-04-06,Friuli,15.01-20
+20-04-13,Friuli,15.01-20
+20-09-07,Friuli,15.01-20
+20-09-21,Friuli,15.01-20
+20-09-28,Friuli,15.01-20
+20-05-04,Liguria,15.01-20
+20-05-11,Liguria,15.01-20
+20-08-31,Liguria,15.01-20
+20-09-21,Liguria,15.01-20
+20-03-02,Emilia,15.01-20
+20-04-20,Emilia,15.01-20
+20-04-27,Emilia,15.01-20
+20-08-24,Emilia,15.01-20
+20-09-28,Emilia,15.01-20
+20-04-06,Toscana,15.01-20
+20-04-13,Toscana,15.01-20
+20-09-28,Toscana,15.01-20
+20-03-30,Umbria,15.01-20
+20-09-28,Umbria,15.01-20
+20-03-02,Marche,15.01-20
+20-04-13,Marche,15.01-20
+20-04-20,Marche,15.01-20
+20-10-05,Marche,15.01-20
+20-03-16,Lazio,15.01-20
+20-03-23,Lazio,15.01-20
+20-08-17,Lazio,15.01-20
+20-09-14,Lazio,15.01-20
+20-09-21,Lazio,15.01-20
+20-09-28,Lazio,15.01-20
+21-01-25,Lazio,15.01-20
+20-03-30,Abruzzo,15.01-20
+20-04-06,Abruzzo,15.01-20
+20-03-23,Molise,15.01-20
+20-03-30,Molise,15.01-20
+20-05-04,Molise,15.01-20
+21-01-25,Molise,15.01-20
+20-08-24,Campania,15.01-20
+20-09-21,Campania,15.01-20
+20-03-23,Puglia,15.01-20
+20-10-05,Puglia,15.01-20
+20-03-23,Basilicata,15.01-20
+20-09-21,Basilicata,15.01-20
+20-09-28,Basilicata,15.01-20
+20-10-05,Basilicata,15.01-20
+20-10-12,Calabria,15.01-20
+20-09-28,Sicilia,15.01-20
+20-08-24,Sardegna,15.01-20
+20-08-31,Sardegna,15.01-20
+20-09-07,Sardegna,15.01-20
+20-09-14,Sardegna,15.01-20
+20-09-21,Sardegna,15.01-20
+20-09-28,Sardegna,15.01-20
+21-01-25,Sardegna,15.01-20
+20-03-16,Piemonte,20.01-40
+20-04-27,Piemonte,20.01-40
+20-10-05,Piemonte,20.01-40
+20-03-02,Lombardia,20.01-40
+20-04-13,Lombardia,20.01-40
+20-04-20,Lombardia,20.01-40
+20-04-27,Lombardia,20.01-40
+20-10-05,Lombardia,20.01-40
+20-04-06,PA Bolzano,20.01-40
+20-04-13,PA Bolzano,20.01-40
+20-03-09,PA Trento,20.01-40
+20-04-27,PA Trento,20.01-40
+20-05-04,PA Trento,20.01-40
+20-08-31,PA Trento,20.01-40
+20-09-14,PA Trento,20.01-40
+20-09-21,PA Trento,20.01-40
+20-09-28,PA Trento,20.01-40
+20-10-05,PA Trento,20.01-40
+20-03-16,Veneto,20.01-40
+20-03-23,Veneto,20.01-40
+20-03-30,Veneto,20.01-40
+20-04-06,Veneto,20.01-40
+20-10-05,Veneto,20.01-40
+20-03-16,Friuli,20.01-40
+20-03-23,Friuli,20.01-40
+20-10-05,Friuli,20.01-40
+20-03-09,Liguria,20.01-40
+20-04-06,Liguria,20.01-40
+20-04-13,Liguria,20.01-40
+20-04-20,Liguria,20.01-40
+20-04-27,Liguria,20.01-40
+20-09-07,Liguria,20.01-40
+20-09-14,Liguria,20.01-40
+20-09-28,Liguria,20.01-40
+21-01-25,Liguria,20.01-40
+20-03-09,Emilia,20.01-40
+20-04-06,Emilia,20.01-40
+20-04-13,Emilia,20.01-40
+20-10-05,Emilia,20.01-40
+20-03-16,Toscana,20.01-40
+20-03-23,Toscana,20.01-40
+20-03-30,Toscana,20.01-40
+20-12-21,Toscana,20.01-40
+21-01-11,Toscana,20.01-40
+21-01-25,Toscana,20.01-40
+20-03-16,Umbria,20.01-40
+20-03-23,Umbria,20.01-40
+20-03-09,Marche,20.01-40
+20-03-30,Marche,20.01-40
+20-04-06,Marche,20.01-40
+20-10-12,Marche,20.01-40
+20-10-05,Lazio,20.01-40
+20-03-16,Abruzzo,20.01-40
+20-03-23,Abruzzo,20.01-40
+20-10-05,Abruzzo,20.01-40
+20-10-05,Molise,20.01-40
+20-09-28,Campania,20.01-40
+20-10-12,Puglia,20.01-40
+20-10-12,Basilicata,20.01-40
+20-12-21,Basilicata,20.01-40
+21-01-18,Basilicata,20.01-40
+21-01-25,Basilicata,20.01-40
+20-10-19,Calabria,20.01-40
+20-12-07,Calabria,20.01-40
+20-12-14,Calabria,20.01-40
+21-01-25,Calabria,20.01-40
+20-10-05,Sicilia,20.01-40
+20-10-12,Sicilia,20.01-40
+21-01-25,Sicilia,20.01-40
+20-10-05,Sardegna,20.01-40
+20-10-12,Sardegna,20.01-40
+20-03-23,Piemonte,40+
+20-03-30,Piemonte,40+
+20-04-06,Piemonte,40+
+20-04-13,Piemonte,40+
+20-04-20,Piemonte,40+
+20-10-12,Piemonte,40+
+20-10-19,Piemonte,40+
+20-10-26,Piemonte,40+
+20-11-02,Piemonte,40+
+20-11-09,Piemonte,40+
+20-11-16,Piemonte,40+
+20-11-23,Piemonte,40+
+20-11-30,Piemonte,40+
+20-12-07,Piemonte,40+
+20-12-14,Piemonte,40+
+20-12-21,Piemonte,40+
+20-12-28,Piemonte,40+
+21-01-04,Piemonte,40+
+21-01-11,Piemonte,40+
+21-01-18,Piemonte,40+
+20-03-09,Valle Aosta,40+
+20-03-16,Valle Aosta,40+
+20-03-23,Valle Aosta,40+
+20-03-30,Valle Aosta,40+
+20-04-06,Valle Aosta,40+
+20-04-13,Valle Aosta,40+
+20-10-05,Valle Aosta,40+
+20-10-12,Valle Aosta,40+
+20-10-19,Valle Aosta,40+
+20-10-26,Valle Aosta,40+
+20-11-02,Valle Aosta,40+
+20-11-09,Valle Aosta,40+
+20-11-16,Valle Aosta,40+
+20-11-23,Valle Aosta,40+
+20-11-30,Valle Aosta,40+
+20-12-07,Valle Aosta,40+
+20-12-14,Valle Aosta,40+
+20-12-21,Valle Aosta,40+
+20-12-28,Valle Aosta,40+
+21-01-04,Valle Aosta,40+
+21-01-11,Valle Aosta,40+
+21-01-18,Valle Aosta,40+
+20-03-09,Lombardia,40+
+20-03-16,Lombardia,40+
+20-03-23,Lombardia,40+
+20-03-30,Lombardia,40+
+20-04-06,Lombardia,40+
+20-10-12,Lombardia,40+
+20-10-19,Lombardia,40+
+20-10-26,Lombardia,40+
+20-11-02,Lombardia,40+
+20-11-09,Lombardia,40+
+20-11-16,Lombardia,40+
+20-11-23,Lombardia,40+
+20-11-30,Lombardia,40+
+20-12-07,Lombardia,40+
+20-12-14,Lombardia,40+
+20-12-21,Lombardia,40+
+20-12-28,Lombardia,40+
+21-01-04,Lombardia,40+
+21-01-11,Lombardia,40+
+21-01-18,Lombardia,40+
+21-01-25,Lombardia,40+
+20-03-16,PA Bolzano,40+
+20-03-23,PA Bolzano,40+
+20-03-30,PA Bolzano,40+
+20-10-05,PA Bolzano,40+
+20-10-12,PA Bolzano,40+
+20-10-19,PA Bolzano,40+
+20-10-26,PA Bolzano,40+
+20-11-02,PA Bolzano,40+
+20-11-09,PA Bolzano,40+
+20-11-16,PA Bolzano,40+
+20-11-23,PA Bolzano,40+
+20-11-30,PA Bolzano,40+
+20-12-07,PA Bolzano,40+
+20-12-14,PA Bolzano,40+
+20-12-21,PA Bolzano,40+
+20-12-28,PA Bolzano,40+
+21-01-04,PA Bolzano,40+
+21-01-11,PA Bolzano,40+
+21-01-18,PA Bolzano,40+
+21-01-25,PA Bolzano,40+
+20-03-16,PA Trento,40+
+20-03-23,PA Trento,40+
+20-03-30,PA Trento,40+
+20-04-06,PA Trento,40+
+20-04-13,PA Trento,40+
+20-04-20,PA Trento,40+
+20-10-12,PA Trento,40+
+20-10-19,PA Trento,40+
+20-10-26,PA Trento,40+
+20-11-02,PA Trento,40+
+20-11-09,PA Trento,40+
+20-11-16,PA Trento,40+
+20-11-23,PA Trento,40+
+20-11-30,PA Trento,40+
+20-12-07,PA Trento,40+
+20-12-14,PA Trento,40+
+20-12-21,PA Trento,40+
+20-12-28,PA Trento,40+
+21-01-04,PA Trento,40+
+21-01-11,PA Trento,40+
+21-01-18,PA Trento,40+
+21-01-25,PA Trento,40+
+20-10-12,Veneto,40+
+20-10-19,Veneto,40+
+20-10-26,Veneto,40+
+20-11-02,Veneto,40+
+20-11-09,Veneto,40+
+20-11-16,Veneto,40+
+20-11-23,Veneto,40+
+20-11-30,Veneto,40+
+20-12-07,Veneto,40+
+20-12-14,Veneto,40+
+20-12-21,Veneto,40+
+20-12-28,Veneto,40+
+21-01-04,Veneto,40+
+21-01-11,Veneto,40+
+21-01-18,Veneto,40+
+21-01-25,Veneto,40+
+20-10-12,Friuli,40+
+20-10-19,Friuli,40+
+20-10-26,Friuli,40+
+20-11-02,Friuli,40+
+20-11-09,Friuli,40+
+20-11-16,Friuli,40+
+20-11-23,Friuli,40+
+20-11-30,Friuli,40+
+20-12-07,Friuli,40+
+20-12-14,Friuli,40+
+20-12-21,Friuli,40+
+20-12-28,Friuli,40+
+21-01-04,Friuli,40+
+21-01-11,Friuli,40+
+21-01-18,Friuli,40+
+21-01-25,Friuli,40+
+20-03-16,Liguria,40+
+20-03-23,Liguria,40+
+20-03-30,Liguria,40+
+20-10-05,Liguria,40+
+20-10-12,Liguria,40+
+20-10-19,Liguria,40+
+20-10-26,Liguria,40+
+20-11-02,Liguria,40+
+20-11-09,Liguria,40+
+20-11-16,Liguria,40+
+20-11-23,Liguria,40+
+20-11-30,Liguria,40+
+20-12-07,Liguria,40+
+20-12-14,Liguria,40+
+20-12-21,Liguria,40+
+20-12-28,Liguria,40+
+21-01-04,Liguria,40+
+21-01-11,Liguria,40+
+21-01-18,Liguria,40+
+20-03-16,Emilia,40+
+20-03-23,Emilia,40+
+20-03-30,Emilia,40+
+20-10-12,Emilia,40+
+20-10-19,Emilia,40+
+20-10-26,Emilia,40+
+20-11-02,Emilia,40+
+20-11-09,Emilia,40+
+20-11-16,Emilia,40+
+20-11-23,Emilia,40+
+20-11-30,Emilia,40+
+20-12-07,Emilia,40+
+20-12-14,Emilia,40+
+20-12-21,Emilia,40+
+20-12-28,Emilia,40+
+21-01-04,Emilia,40+
+21-01-11,Emilia,40+
+21-01-18,Emilia,40+
+21-01-25,Emilia,40+
+20-10-05,Toscana,40+
+20-10-12,Toscana,40+
+20-10-19,Toscana,40+
+20-10-26,Toscana,40+
+20-11-02,Toscana,40+
+20-11-09,Toscana,40+
+20-11-16,Toscana,40+
+20-11-23,Toscana,40+
+20-11-30,Toscana,40+
+20-12-07,Toscana,40+
+20-12-14,Toscana,40+
+20-12-28,Toscana,40+
+21-01-04,Toscana,40+
+21-01-18,Toscana,40+
+20-10-05,Umbria,40+
+20-10-12,Umbria,40+
+20-10-19,Umbria,40+
+20-10-26,Umbria,40+
+20-11-02,Umbria,40+
+20-11-09,Umbria,40+
+20-11-16,Umbria,40+
+20-11-23,Umbria,40+
+20-11-30,Umbria,40+
+20-12-07,Umbria,40+
+20-12-14,Umbria,40+
+20-12-21,Umbria,40+
+20-12-28,Umbria,40+
+21-01-04,Umbria,40+
+21-01-11,Umbria,40+
+21-01-18,Umbria,40+
+21-01-25,Umbria,40+
+20-03-16,Marche,40+
+20-03-23,Marche,40+
+20-10-19,Marche,40+
+20-10-26,Marche,40+
+20-11-02,Marche,40+
+20-11-09,Marche,40+
+20-11-16,Marche,40+
+20-11-23,Marche,40+
+20-11-30,Marche,40+
+20-12-07,Marche,40+
+20-12-14,Marche,40+
+20-12-21,Marche,40+
+20-12-28,Marche,40+
+21-01-04,Marche,40+
+21-01-11,Marche,40+
+21-01-18,Marche,40+
+21-01-25,Marche,40+
+20-10-12,Lazio,40+
+20-10-19,Lazio,40+
+20-10-26,Lazio,40+
+20-11-02,Lazio,40+
+20-11-09,Lazio,40+
+20-11-16,Lazio,40+
+20-11-23,Lazio,40+
+20-11-30,Lazio,40+
+20-12-07,Lazio,40+
+20-12-14,Lazio,40+
+20-12-21,Lazio,40+
+20-12-28,Lazio,40+
+21-01-04,Lazio,40+
+21-01-11,Lazio,40+
+21-01-18,Lazio,40+
+20-10-12,Abruzzo,40+
+20-10-19,Abruzzo,40+
+20-10-26,Abruzzo,40+
+20-11-02,Abruzzo,40+
+20-11-09,Abruzzo,40+
+20-11-16,Abruzzo,40+
+20-11-23,Abruzzo,40+
+20-11-30,Abruzzo,40+
+20-12-07,Abruzzo,40+
+20-12-14,Abruzzo,40+
+20-12-21,Abruzzo,40+
+20-12-28,Abruzzo,40+
+21-01-04,Abruzzo,40+
+21-01-11,Abruzzo,40+
+21-01-18,Abruzzo,40+
+21-01-25,Abruzzo,40+
+20-10-12,Molise,40+
+20-10-19,Molise,40+
+20-10-26,Molise,40+
+20-11-02,Molise,40+
+20-11-09,Molise,40+
+20-11-16,Molise,40+
+20-11-23,Molise,40+
+20-11-30,Molise,40+
+20-12-07,Molise,40+
+20-12-14,Molise,40+
+20-12-21,Molise,40+
+20-12-28,Molise,40+
+21-01-04,Molise,40+
+21-01-11,Molise,40+
+21-01-18,Molise,40+
+20-10-05,Campania,40+
+20-10-12,Campania,40+
+20-10-19,Campania,40+
+20-10-26,Campania,40+
+20-11-02,Campania,40+
+20-11-09,Campania,40+
+20-11-16,Campania,40+
+20-11-23,Campania,40+
+20-11-30,Campania,40+
+20-12-07,Campania,40+
+20-12-14,Campania,40+
+20-12-21,Campania,40+
+20-12-28,Campania,40+
+21-01-04,Campania,40+
+21-01-11,Campania,40+
+21-01-18,Campania,40+
+21-01-25,Campania,40+
+20-10-19,Puglia,40+
+20-10-26,Puglia,40+
+20-11-02,Puglia,40+
+20-11-09,Puglia,40+
+20-11-16,Puglia,40+
+20-11-23,Puglia,40+
+20-11-30,Puglia,40+
+20-12-07,Puglia,40+
+20-12-14,Puglia,40+
+20-12-21,Puglia,40+
+20-12-28,Puglia,40+
+21-01-04,Puglia,40+
+21-01-11,Puglia,40+
+21-01-18,Puglia,40+
+21-01-25,Puglia,40+
+20-10-19,Basilicata,40+
+20-10-26,Basilicata,40+
+20-11-02,Basilicata,40+
+20-11-09,Basilicata,40+
+20-11-16,Basilicata,40+
+20-11-23,Basilicata,40+
+20-11-30,Basilicata,40+
+20-12-07,Basilicata,40+
+20-12-14,Basilicata,40+
+20-12-28,Basilicata,40+
+21-01-04,Basilicata,40+
+21-01-11,Basilicata,40+
+20-10-26,Calabria,40+
+20-11-02,Calabria,40+
+20-11-09,Calabria,40+
+20-11-16,Calabria,40+
+20-11-23,Calabria,40+
+20-11-30,Calabria,40+
+20-12-21,Calabria,40+
+20-12-28,Calabria,40+
+21-01-04,Calabria,40+
+21-01-11,Calabria,40+
+21-01-18,Calabria,40+
+20-10-19,Sicilia,40+
+20-10-26,Sicilia,40+
+20-11-02,Sicilia,40+
+20-11-09,Sicilia,40+
+20-11-16,Sicilia,40+
+20-11-23,Sicilia,40+
+20-11-30,Sicilia,40+
+20-12-07,Sicilia,40+
+20-12-14,Sicilia,40+
+20-12-21,Sicilia,40+
+20-12-28,Sicilia,40+
+21-01-04,Sicilia,40+
+21-01-11,Sicilia,40+
+21-01-18,Sicilia,40+
+20-10-19,Sardegna,40+
+20-10-26,Sardegna,40+
+20-11-02,Sardegna,40+
+20-11-09,Sardegna,40+
+20-11-16,Sardegna,40+
+20-11-23,Sardegna,40+
+20-11-30,Sardegna,40+
+20-12-07,Sardegna,40+
+20-12-14,Sardegna,40+
+20-12-21,Sardegna,40+
+20-12-28,Sardegna,40+
+21-01-04,Sardegna,40+
+21-01-11,Sardegna,40+
+21-01-18,Sardegna,40+
