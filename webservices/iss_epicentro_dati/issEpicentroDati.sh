@@ -7,6 +7,8 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
+git pull
+
 URL="https://www.epicentro.iss.it/coronavirus/open-data/covid_19-iss.xlsx"
 
 # leggi la risposta HTTP del sito
