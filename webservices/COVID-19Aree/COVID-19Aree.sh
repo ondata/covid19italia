@@ -8,7 +8,7 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
 # url dato geografico
-URL="https://github.com/pcm-dpc/COVID-19/raw/master/aree/geojson/dpc-covid-19-ita-aree-nuove-g-json.zip"
+URL="https://github.com/pcm-dpc/COVID-19/raw/master/aree/geojson/dpc-covid-19-aree-nuove-g-json.zip"
 
 
 
@@ -26,10 +26,10 @@ if [ $code -eq 200 ]; then
   yes | unzip -j "$folder"/rawdata/aree.zip -d "$folder"/rawdata
 
   # estrai ID dei poligoni regionali più aggiornati
-  fidMax=$(ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-ita-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID from (select FID,nometesto,max(versionid) versionid from "dpc-covid-19-ita-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' group by nomeTesto)' | sed 's/"//g' | tr '\n' ',' | sed -r 's/FID,,//g;s/,$//g;s/[^0-9]$//g')
+  fidMax=$(ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID from (select FID,nometesto,max(versionid) versionid from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' group by nomeTesto)' | sed 's/"//g' | tr '\n' ',' | sed -r 's/FID,,//g;s/,$//g;s/[^0-9]$//g')
 
   # estrai soltanto le geometrie con gli ID di sopra
-  ogr2ogr -f geojson "$folder"/rawdata/aree_raw.geojson "$folder"/rawdata/dpc-covid-19-ita-aree-nuove-g.json -dialect sqlite -sql 'select * from "dpc-covid-19-ita-aree-nuove-g" where FID IN ('"$fidMax"')' -lco RFC7946=YES
+  ogr2ogr -f geojson "$folder"/rawdata/aree_raw.geojson "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'select * from "dpc-covid-19-aree-nuove-g" where FID IN ('"$fidMax"')' -lco RFC7946=YES
 
   # crea CSV di questo file
   ogr2ogr -f CSV "$folder"/rawdata/aree_raw.csv "$folder"/rawdata/aree_raw.geojson
