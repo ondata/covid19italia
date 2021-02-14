@@ -38,14 +38,14 @@ if [ $code -eq 200 ]; then
   mlr --csv cut -f nomeTesto,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link \
     then clean-whitespace \
     then put -S '
-if($legSpecRif=="art.1")
-  {$zona="gialla"}
-elif ($legSpecRif=="art.2")
-  {$zona="arancione"}
-elif ($legSpecRif=="art.3")
-  {$zona="rossa"}
-else
-  {$zona="NA"}' "$folder"/rawdata/aree_raw.csv >"$folder"/processing/tmp_aree.csv
+      if($legSpecRif=="art.1")
+        {$zona="gialla"}
+      elif ($legSpecRif=="art.2")
+        {$zona="arancione"}
+      elif ($legSpecRif=="art.3")
+        {$zona="rossa"}
+      else
+        {$zona="NA"}' "$folder"/rawdata/aree_raw.csv >"$folder"/processing/tmp_aree.csv
 
   # aggiungi al CSV codici NUTS
   mlr --csv join --ul -j nomeTesto -f "$folder"/processing/tmp_aree.csv \
