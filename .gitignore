@@ -16,3 +16,4 @@ webservices/vaccini/rawdata/*.csv
 webservices/vaccini/rawdata/*.json
 
 webservices/COVID-19Aree/rawdata/*
+webservices/regioneLombardiaStatiClinici/rawdata/*
