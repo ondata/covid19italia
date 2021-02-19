@@ -10,7 +10,7 @@ L'aggiornamento previsto a monte è settimanale, qui verranno verificati gli agg
 
 ## Nota
 
-Tra i record ce ne è uno in cui la data non è valorizzata, con dati che sembrano frutto di aggregazione. Nel sito sorgente non ci sono indicazioni in merito.<br>
+Tra i record ce ne è uno in cui la data non è valorizzata, con valori dei campi che sembrano frutto di aggregazione di record. Nel sito sorgente non ci sono indicazioni in merito.<br>
 Fabio Riccardo Colombo su [twitter](https://twitter.com/fr_colombo/status/1362594216610783238) ci ha segnalato che:
 
 > La riga senza data raccoglie la somma dei casi per stato clinico senza la data inizio sintomi.
