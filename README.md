@@ -193,3 +193,4 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Vincenzo Sciascia](https://www.linkedin.com/in/vincenzosciascia/) > covidApp <https://3hy2c.glideapp.io/>
 - [@OpencovidM](https://twitter.com/OpencovidM) > "Erreti (leggermente) maggiore di uno" <https://web.archive.org/web/20200810105626/https://opencoviditaly.netsons.org/erreti-leggermente-maggiore-di-uno/>
 - [@OpencovidM](https://twitter.com/OpencovidM) > "Cosa succede quando si utilizzano dati non consolidati?" <https://opencoviditaly.netsons.org/cosa-succede-quando-si-utilizzano-dati-non-consolidati/>
+- [Rt estimation](https://vienne.shinyapps.io/rt_estimation/), a cura di [Nicoletta V.](https://twitter.com/vi__enne), collaborazione con [OpenCovid](https://opencoviditaly.netsons.org/), [Vegro L.](https://twitter.com/l_vegro) e [Ruffino L.](https://twitter.com/Ruffino_Lorenzo)
