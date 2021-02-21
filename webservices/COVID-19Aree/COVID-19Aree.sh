@@ -4,6 +4,8 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+git pull
+
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 

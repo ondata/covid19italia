@@ -1,7 +1,7 @@
 name: aggiorna dati sulla suddisione dell'Italia in aree
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '37 2,8,12,17 * * *'
