@@ -99,6 +99,7 @@ if [ $code -eq 200 ]; then
   if [[ $conteggio == 22 ]]; then
 
     mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
+    dos2unix "$folder"/processing/areeGov.csv
 
   fi
 
