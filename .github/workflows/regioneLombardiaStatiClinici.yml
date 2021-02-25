@@ -20,6 +20,7 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
+        sudo apt-get install dos2unix
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin

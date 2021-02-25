@@ -25,4 +25,7 @@ if [ $code -eq 200 ]; then
   mlr --csv --ifs ";" put -S '$date = strftime(strptime($DATA_INIZIO_SINTOMI, "%d/%m/%Y"),"%Y-%m-%d")' then sort -f date "$folder"/rawdata/"$nome".csv >"$folder"/processing/"$nome".csv
 
   curl -kL "$URLJSON" | jq -c 'sort_by(.data_inizio_sintomi)|.[]' >"$folder"/processing/"$nome".jsonl
+
+  dos2unix "$folder"/processing/"$nome".jsonl
+  dos2unix "$folder"/processing/"$nome".csv
 fi
