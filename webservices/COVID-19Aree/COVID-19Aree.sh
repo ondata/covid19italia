@@ -109,3 +109,6 @@ if [ $code -eq 200 ]; then
   fi
 
 fi
+
+# altra possibile fonte dati colori zone
+# http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto
