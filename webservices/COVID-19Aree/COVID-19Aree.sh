@@ -67,6 +67,7 @@ CASE
 WHEN legSpecRif = 'art.3' Then 'rossa'
 WHEN legSpecRif = 'art.2' Then 'arancione'
 WHEN legSpecRif = 'art.1' Then 'gialla'
+WHEN legSpecRif = 'art.1 comma 11' Then 'bianca'
 ELSE 'NA' END as zona
 from tmp"
 
@@ -74,7 +75,7 @@ from tmp"
   rm "$folder"/processing/tmp.geojson
 
   # genera SVG
-  mapshaper "$folder"/processing/aree.geojson -colorizer name=calcFill colors='red,orange,yellow' categories='rossa,arancione,gialla' -style fill='calcFill(zona)' stroke-width=1 stroke=gray -o id-field=NUTS_code "$folder"/processing/aree.svg
+  mapshaper "$folder"/processing/aree.geojson -colorizer name=calcFill colors='red,orange,yellow,white' categories='rossa,arancione,gialla,bianca' -style fill='calcFill(zona)' stroke-width=1 stroke=gray -o id-field=NUTS_code "$folder"/processing/aree.svg
 
   # genera png
   rsvg-convert "$folder"/processing/aree.svg -o "$folder"/processing/aree.png
