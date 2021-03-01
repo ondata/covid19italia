@@ -46,6 +46,8 @@ if [ $code -eq 200 ]; then
         {$zona="arancione"}
       elif ($legSpecRif=="art.3")
         {$zona="rossa"}
+      elif ($legSpecRif=="art.1 comma 11")
+        {$zona="bianca"}
       else
         {$zona="NA"}' "$folder"/rawdata/aree_raw.csv >"$folder"/processing/tmp_aree.csv
 
