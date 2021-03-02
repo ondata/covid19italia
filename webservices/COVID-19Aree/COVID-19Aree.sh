@@ -98,6 +98,8 @@ if [ $code -eq 200 ]; then
 
   mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
 
+  mlr -I --csv put -S 'if ($colore==""){$colore="bianco"}else{$colore=$colore}' "$folder"/rawdata/tmp.csv
+
   # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
   conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
 
