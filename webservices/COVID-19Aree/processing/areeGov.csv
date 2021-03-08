@@ -2,9 +2,9 @@ id,colore,nomeTesto,NUTS_code,NUTS_level
 abruzzo,arancione,Abruzzo,ITF1,2
 basilicata,rosso,Basilicata,ITF5,2
 calabria,giallo,Calabria,ITF6,2
-campania,arancione,Campania,ITF3,2
+campania,rosso,Campania,ITF3,2
 emiliaromagna,arancione,Emilia-Romagna,ITH5,2
-friuliveneziagiulia,giallo,Friuli Venezia Giulia,ITH4,2
+friuliveneziagiulia,arancione,Friuli Venezia Giulia,ITH4,2
 lazio,giallo,Lazio,ITI4,2
 liguria,giallo,Liguria,ITC3,2
 lombardia,arancione,Lombardia,ITC4,2
@@ -19,4 +19,4 @@ sicilia,giallo,Sicilia,ITG1,2
 toscana,arancione,Toscana,ITI1,2
 umbria,arancione,Umbria,ITI2,2
 valledaosta,giallo,Valle d'Aosta,ITC2,2
-veneto,giallo,Veneto,ITH3,2
+veneto,arancione,Veneto,ITH3,2
