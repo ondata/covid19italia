@@ -1,6 +1,9 @@
 #!/bin/bash
 
 set -x
+set -e
+set -u
+set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -12,20 +15,20 @@ mkdir -p "$folder"/processing
 # url dato geografico
 URL="https://github.com/pcm-dpc/COVID-19/raw/master/aree/geojson/dpc-covid-19-aree-nuove-g-json.zip"
 
-
-
-
 # leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
 
 # se il sito è raggiungibile scarica e "lavora" i dati
 if [ $code -eq 200 ]; then
 
+  # svuota cartella
+  rm "$folder"/rawdata/*
+
   # scarica dati
   curl -kL "$URL" >"$folder"/rawdata/aree.zip
 
   # decomprimi i dati
-  yes | unzip -j "$folder"/rawdata/aree.zip -d "$folder"/rawdata
+  unzip -j "$folder"/rawdata/aree.zip -d "$folder"/rawdata
 
   # estrai ID dei poligoni regionali più aggiornati
   fidMax=$(ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID from (select FID,nometesto,max(versionid) versionid from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' group by nomeTesto)' | sed 's/"//g' | tr '\n' ',' | sed -r 's/FID,,//g;s/,$//g;s/[^0-9]$//g')
