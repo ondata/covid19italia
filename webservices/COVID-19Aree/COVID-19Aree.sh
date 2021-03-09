@@ -21,8 +21,13 @@ code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
 # se il sito è raggiungibile scarica e "lavora" i dati
 if [ $code -eq 200 ]; then
 
-  # svuota cartella
-  rm "$folder"/rawdata/*
+  # svuota cartella rawdata se non è vuota
+
+  if [ "$(ls -A "$folder"/rawdata)" ]; then
+    rm "$folder"/rawdata/*
+  else
+    echo "è vuota"
+  fi
 
   # scarica dati
   curl -kL "$URL" >"$folder"/rawdata/aree.zip
