@@ -2,6 +2,7 @@
   - [Output dati](#output-dati)
     - [soglia_duecentocinquanta](#soglia_duecentocinquanta)
     - [soglia_duecentocinquanta_wide](#soglia_duecentocinquanta_wide)
+  - [Output visuale](#output-visuale)
   - [Accesso via API](#accesso-via-api)
   - [Fonti dati](#fonti-dati)
 
@@ -13,14 +14,11 @@ Nel "[DECRETO-LEGGE 13 marzo 2021, n. 30](https://www.gazzettaufficiale.it/eli/i
 
 Abbiamo creato una [procedura](soglia250.sh) per calcolare questo indice:
 - vengono scaricati i dati regionali;
-- per ogni regione, vengono sommati i dati sui `nuovi_positivi` della data corrente a quelli dei 6 giorni precedenti;
+- per ogni regione, vengono sommati i dati sui `nuovi_positivi` della riga corrente a quelli dei 6 giorni precedenti;
 - questo valore viene diviso per la popolazione residente e moltiplicato per `100.000`.
 
 Quest'ultimo valore è l'incidenza cumulativa settimanale dei contagi.
 
-Qui sotto un *output* visuale d'esempio, alla data del 15 marzo 2021.
-
-[![](https://i.imgur.com/5nHPnCz.png)](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/)
 
 ## Output dati
 
@@ -62,6 +60,15 @@ A seguire un estratto di esempio:
 | 2021-03-12T17:00:00 | 228 | 170 | 93 | 322 | 452 | 412 | 187 | 149 | 329 | 340 | 137 | 231 | 358 | 323 | 240 | 42 | 89 | 231 | 184 | 114 | 211 |
 | 2021-03-13T17:00:00 | 219 | 162 | 92 | 324 | 446 | 436 | 195 | 151 | 330 | 350 | 155 | 224 | 342 | 331 | 246 | 44 | 90 | 232 | 174 | 126 | 235 |
 | 2021-03-14T17:00:00 | 201 | 155 | 96 | 322 | 445 | 448 | 202 | 147 | 330 | 335 | 150 | 209 | 342 | 331 | 256 | 46 | 91 | 231 | 177 | 147 | 242 |
+
+## Output visuale
+
+Abbiamo predisposto un [*output* visuale](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/), con due elementi:
+
+- una **mappa** con evidenziate in rosso le regioni con valori `>=` 250;
+- la **tabella** con tutti valori per ogni regione.
+
+[![](https://i.imgur.com/5nHPnCz.png)](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/)
 
 ## Accesso via API
 
