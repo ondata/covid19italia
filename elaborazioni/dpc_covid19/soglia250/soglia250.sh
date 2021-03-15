@@ -21,7 +21,7 @@ if [ -f "$folder"/rawdata/dpc_covid.db ]; then
 fi
 
 # crea file sqlite e importa dati regionali
-sqlite3 -separator ',' "$folder"/rawdata/dpc_covid.db ".import $folder/rawdata/tmp_regioni.csv dpc-covid19-ita-regioni"
+sqlite3 -separator ',' "$folder"/rawdata/dpc_covid.db ".import $folder/rawdata/tmp_regioni.csv dpc_covid19-ita_regioni"
 
 # calcola somma nuovi contagi settimanali
 echo '
@@ -34,7 +34,7 @@ OVER (PARTITION BY denominazione_regione
         ORDER BY data
         ROWS BETWEEN 6 PRECEDING AND CURRENT ROW
     ) nuoviContagiSettimanali
-FROM `dpc-covid19-ita-regioni`
+FROM "dpc_covid19-ita_regioni"
 ORDER BY data ASC
 ' | sqlite3 "$folder"/rawdata/dpc_covid.db
 
