@@ -19,7 +19,10 @@ Abbiamo creato una [procedura](soglia250.sh) per calcolare questo indice:
 
 Quest'ultimo valore è l'incidenza cumulativa settimanale dei contagi.
 
-**NOBA BENE**: nel decreto si legge che la data di riferimento sarà quello dell'ultimo monitoraggio disponibile. Qui è calcolato ogni giorno, a partire dall'ultima dati di aggiornamento dei dati della Protezione Civile.
+**NOBA BENE**:
+
+- nel decreto si legge che la data di riferimento sarà quello dell'ultimo monitoraggio disponibile. Qui è calcolato ogni giorno, a partire dall'ultima dati di aggiornamento dei dati della Protezione Civile;
+- questo della soglia non è l'unico criterio per finire in zona rossa. Se la si supera, si applicano i provvedimenti da zona rossa.
 
 ## Output dati
 
