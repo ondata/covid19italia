@@ -70,6 +70,8 @@ A seguire un estratto di esempio:
 
 La *query* si modifica modificando questa parte di URL `codice_regione=19&data=*:2021-03-13`, in cui c'è da inserire il codice regionale ISTAT e la data in forma `AAAA-MM-GG` (anno, mese e giorno).
 
+Queste API esistono grazie al fantastico [gitrows](https://gitrows.com/).
+
 ## Fonti dati
 
 - repository del **Dipartimento della Protezione Civile** <https://github.com/pcm-dpc/COVID-19>;
