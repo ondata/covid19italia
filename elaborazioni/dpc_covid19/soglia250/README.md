@@ -2,6 +2,7 @@
   - [Output dati](#output-dati)
     - [soglia_duecentocinquanta](#soglia_duecentocinquanta)
     - [soglia_duecentocinquanta_wide](#soglia_duecentocinquanta_wide)
+  - [Accesso via API](#accesso-via-api)
   - [Fonti dati](#fonti-dati)
 
 # Calcolo regionale incidenza cumulativa settimanale dei contagi
@@ -61,6 +62,13 @@ A seguire un estratto di esempio:
 | 2021-03-12T17:00:00 | 228 | 170 | 93 | 322 | 452 | 412 | 187 | 149 | 329 | 340 | 137 | 231 | 358 | 323 | 240 | 42 | 89 | 231 | 184 | 114 | 211 |
 | 2021-03-13T17:00:00 | 219 | 162 | 92 | 324 | 446 | 436 | 195 | 151 | 330 | 350 | 155 | 224 | 342 | 331 | 246 | 44 | 90 | 232 | 174 | 126 | 235 |
 | 2021-03-14T17:00:00 | 201 | 155 | 96 | 322 | 445 | 448 | 202 | 147 | 330 | 335 | 150 | 209 | 342 | 331 | 256 | 46 | 91 | 231 | 177 | 147 | 242 |
+
+## Accesso via API
+
+È possibile interrogare questi dati via API. Ad esempio per accedere a valore per la Sicilia (`codice regionale ISTAT = 19`), per la data del `2021-03-13` (il 13 marzo 2021), basta chiamare questo URL:
+<https://api.gitrows.com/@github/ondata/covid19italia/elaborazioni/dpc_covid19/soglia250/processing/soglia_duecentocinquanta.csv?codice_regione=19&data=*:2021-03-13>
+
+La *query* si modifica modificando questa parte di URL `codice_regione=19&data=*:2021-03-13`, in cui c'è da inserire il codice regionale ISTAT e la data in forma `AAAA-MM-GG` (anno, mese e giorno).
 
 ## Fonti dati
 
