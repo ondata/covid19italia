@@ -19,7 +19,7 @@ Quest'ultimo valore è l'incidenza cumulativa settimanale dei contagi.
 
 Qui sotto un *output* visuale d'esempio, alla data del 15 marzo 2021.
 
-![](https://i.imgur.com/5nHPnCz.png)
+[![](https://i.imgur.com/5nHPnCz.png)](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/)
 
 ## Output dati
 
