@@ -1,5 +1,11 @@
 #!/bin/bash
 
+### requisiti ###
+# sqlite3 https://www.sqlite.org/index.html
+# miller https://github.com/johnkerl/miller
+# moreutils https://joeyh.name/code/moreutils/
+### requisiti ###
+
 set -x
 set -e
 set -u
