@@ -1,10 +1,10 @@
 name: calcola soglia a 250 decreto del 13 marzo 2021
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '37 2,8,12,17 * * *'
+    - cron:  '17 2,8,12,17,18,20 * * *'
 
 jobs:
   scheduled:
