@@ -63,7 +63,7 @@ A seguire un estratto di esempio:
 
 ## Output visuale
 
-Abbiamo predisposto un [*output* visuale](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/), con due elementi:
+Abbiamo predisposto un [***output* visuale**](https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/), con due elementi:
 
 - una **mappa** con evidenziate in rosso le regioni con valori `>=` 250;
 - la **tabella** con tutti valori per ogni regione.
