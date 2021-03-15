@@ -13,7 +13,7 @@ mkdir -p "$folder"/processing
 URL="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
 
 # scarica dati
-wget -O "$folder"/tmp_regioni.csv "$URL"
+wget -O "$folder"/rawdata/tmp_regioni.csv "$URL"
 
 # se il db esiste, cancellalo
 if [ -f "$folder"/rawdata/dpc_covid.db ]; then
