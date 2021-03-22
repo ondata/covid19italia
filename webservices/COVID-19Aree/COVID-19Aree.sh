@@ -118,6 +118,31 @@ if [ $code -eq 200 ]; then
 
   fi
 
+  # estrai file di insieme
+  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' ' >"$folder"/processing/areeStorico.csv
+
+  # classifica le zone
+  mlr -I --csv clean-whitespace \
+    then put -S '
+      if($legSpecRif=="art.1")
+        {$zona="gialla"}
+      elif ($legSpecRif=="art.2")
+        {$zona="arancione"}
+      elif ($legSpecRif=="art.3")
+        {$zona="rossa"}
+      elif ($legSpecRif=="art.1 comma 11")
+        {$zona="bianca"}
+      else
+        {$zona="NA"}' then \
+    put -S '$datasetIniISO = strftime(strptime($datasetIni, "%d/%m/%Y"),"%Y-%m-%d");$datasetFinISO = strftime(strptime($datasetFin, "%d/%m/%Y"),"%Y-%m-%d")' then \
+    sort -f datasetIniISO,nomeTesto "$folder"/processing/areeStorico.csv
+
+  # aggiungi codici NUTS
+  mlr --csv join --ul -j nomeTesto -f "$folder"/processing/areeStorico.csv \
+    then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/risorse/codici.csv >"$folder"/processing/tmp_areeStorico.csv
+  # rinomina
+  mv "$folder"/processing/tmp_areeStorico.csv "$folder"/processing/areeStorico.csv
+
 fi
 
 # altra possibile fonte dati colori zone
