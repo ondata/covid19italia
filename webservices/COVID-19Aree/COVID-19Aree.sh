@@ -119,7 +119,7 @@ if [ $code -eq 200 ]; then
   fi
 
   # estrai file di insieme
-  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' ' >"$folder"/processing/areeStorico.csv
+  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' ' >"$folder"/processing/areeStorico.csv
 
   # classifica le zone
   mlr -I --csv clean-whitespace \
@@ -135,13 +135,21 @@ if [ $code -eq 200 ]; then
       else
         {$zona="NA"}' then \
     put -S '$datasetIniISO = strftime(strptime($datasetIni, "%d/%m/%Y"),"%Y-%m-%d");$datasetFinISO = strftime(strptime($datasetFin, "%d/%m/%Y"),"%Y-%m-%d")' then \
-    sort -f datasetIniISO,nomeTesto "$folder"/processing/areeStorico.csv
+    sort -f datasetIniISO,nomeTesto then put -S '$versionID=sub($versionID,"^0+","")' "$folder"/processing/areeStorico.csv
 
   # aggiungi codici NUTS
   mlr --csv join --ul -j nomeTesto -f "$folder"/processing/areeStorico.csv \
     then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/risorse/codici.csv >"$folder"/processing/tmp_areeStorico.csv
   # rinomina
   mv "$folder"/processing/tmp_areeStorico.csv "$folder"/processing/areeStorico.csv
+
+  mlr --csv stats1 -a max -f versionID -g NUTS_code,datasetIniISO then rename versionID_max,versionID "$folder"/processing/areeStorico.csv >"$folder"/rawdata/tmp_max.csv
+
+  mlr --csv join -j NUTS_code,datasetIniISO,versionID  -f "$folder"/processing/areeStorico.csv then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/rawdata/tmp_max.csv >"$folder"/rawdata/tmp.csv
+
+  mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeStorico.csv
+
+  rm "$folder"/rawdata/tmp*.csv
 
 fi
 
