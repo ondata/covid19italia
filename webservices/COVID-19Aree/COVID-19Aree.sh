@@ -143,12 +143,14 @@ if [ $code -eq 200 ]; then
   # rinomina
   mv "$folder"/processing/tmp_areeStorico.csv "$folder"/processing/areeStorico.csv
 
+  # estrai valori di versionID per coppia NUTS_code,datasetIniISO
   mlr --csv stats1 -a max -f versionID -g NUTS_code,datasetIniISO then rename versionID_max,versionID "$folder"/processing/areeStorico.csv >"$folder"/rawdata/tmp_max.csv
 
+  # filtra per ogni regione, tramite JOIN, soltanto l'ultima versione di assegnazione zona per giorno
   mlr --csv join -j NUTS_code,datasetIniISO,versionID  -f "$folder"/processing/areeStorico.csv then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/rawdata/tmp_max.csv >"$folder"/rawdata/tmp.csv
-
+  # rinomina file
   mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeStorico.csv
-
+  # rimuovi file temporanei
   rm "$folder"/rawdata/tmp*.csv
 
 fi
