@@ -167,6 +167,15 @@ if [ $code -eq 200 ]; then
     sort -f datasetIniISO then \
     label NUTS_code,datasetIniISO,zona "$folder"/processing/areeStorico_wide.csv >"$folder"/processing/areeStorico_long.csv
 
+  cp "$folder"/processing/areeStorico_wide.csv "$folder"/processing/areeStorico_wide_fill_down.csv
+  mlr --csv put -q 'NR == 1 {for (key in $*) {if (key=~"^.{4}$") {print key}}}' "$folder"/processing/areeStorico_wide.csv |
+    while read line; do
+      mlr -I --csv fill-down -f "$line" "$folder"/processing/areeStorico_wide_fill_down.csv
+    done
+
+  mlr -I --csv cut -x -f IT "$folder"/processing/areeStorico_wide_fill_down.csv
+
+
   # rimuovi file temporanei
   rm "$folder"/rawdata/tmp*.csv
 
