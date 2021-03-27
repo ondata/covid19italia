@@ -168,7 +168,7 @@ if [ $code -eq 200 ]; then
     reshape -r "^IT.+" -o item,value then \
     filter -S '$value=~".+"' then \
     sort -f datasetIniISO then \
-    label NUTS_code,datasetIniISO,zona "$folder"/processing/areeStorico_wide.csv >"$folder"/processing/areeStorico_long.csv
+    label datasetIniISO,NUTS_code,zona "$folder"/processing/areeStorico_wide.csv >"$folder"/processing/areeStorico_long.csv
 
   # crea copia file wide
   cp "$folder"/processing/areeStorico_wide.csv "$folder"/processing/areeStorico_wide_fill_down.csv
