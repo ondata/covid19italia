@@ -151,28 +151,35 @@ if [ $code -eq 200 ]; then
   # rinomina file
   mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeStorico.csv
 
+  # crea la versione wide, colonna data e una colonna per ogni codice NUTS
+  # laddove c'è un decreto che si applica a tutta la nazione applicalo a tutti i territori
   mlr --csv cut -f NUTS_code,datasetIniISO,zona then \
     reshape -s NUTS_code,zona then \
     unsparsify then \
     sort -f datasetIniISO then \
     put '
-  for (key, value in $*) {
-      if(key=~"^.{4}$" && $IT=~".+"){$[key]=$IT}else{$[key]=value};
-    }
-  ' "$folder"/processing/areeStorico.csv >"$folder"/processing/areeStorico_wide.csv
+      for (key, value in $*) {
+          if(key=~"^.{4}$" && $IT=~".+"){$[key]=$IT}else{$[key]=value};
+        }
+    ' "$folder"/processing/areeStorico.csv >"$folder"/processing/areeStorico_wide.csv
 
+  # crea la versione long, con una sola colonna per i codici NUTS
   mlr --csv cut -x -f IT then \
     reshape -r "^IT.+" -o item,value then \
     filter -S '$value=~".+"' then \
     sort -f datasetIniISO then \
     label NUTS_code,datasetIniISO,zona "$folder"/processing/areeStorico_wide.csv >"$folder"/processing/areeStorico_long.csv
 
+  # crea copia file wide
   cp "$folder"/processing/areeStorico_wide.csv "$folder"/processing/areeStorico_wide_fill_down.csv
+
+  # per ogni colonna che contiene codici NUTS di livello 2 (regioni e province), applica il fill-down
   mlr --csv put -q 'NR == 1 {for (key in $*) {if (key=~"^.{4}$") {print key}}}' "$folder"/processing/areeStorico_wide.csv |
     while read line; do
       mlr -I --csv fill-down -f "$line" "$folder"/processing/areeStorico_wide_fill_down.csv
     done
 
+  # rimuovi colonna con i valori di NUTS per l'intero paese
   mlr -I --csv cut -x -f IT "$folder"/processing/areeStorico_wide_fill_down.csv
 
 
