@@ -119,7 +119,7 @@ if [ $code -eq 200 ]; then
   fi
 
   # estrai file di insieme
-  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g" where nomeTesto not LIKE '\''%nazio%'\'' ' >"$folder"/processing/areeStorico.csv
+  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g"' >"$folder"/processing/areeStorico.csv
 
   # classifica le zone
   mlr -I --csv clean-whitespace \
@@ -147,9 +147,26 @@ if [ $code -eq 200 ]; then
   mlr --csv stats1 -a max -f versionID -g NUTS_code,datasetIniISO then rename versionID_max,versionID "$folder"/processing/areeStorico.csv >"$folder"/rawdata/tmp_max.csv
 
   # filtra per ogni regione, tramite JOIN, soltanto l'ultima versione di assegnazione zona per giorno
-  mlr --csv join -j NUTS_code,datasetIniISO,versionID  -f "$folder"/processing/areeStorico.csv then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/rawdata/tmp_max.csv >"$folder"/rawdata/tmp.csv
+  mlr --csv join -j NUTS_code,datasetIniISO,versionID -f "$folder"/processing/areeStorico.csv then unsparsify then sort -f datasetIniISO,nomeTesto "$folder"/rawdata/tmp_max.csv >"$folder"/rawdata/tmp.csv
   # rinomina file
   mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeStorico.csv
+
+  mlr --csv cut -f NUTS_code,datasetIniISO,zona then \
+    reshape -s NUTS_code,zona then \
+    unsparsify then \
+    sort -f datasetIniISO then \
+    put '
+  for (key, value in $*) {
+      if(key=~"^.{4}$" && $IT=~".+"){$[key]=$IT}else{$[key]=value};
+    }
+  ' "$folder"/processing/areeStorico.csv >"$folder"/processing/areeStorico_wide.csv
+
+  mlr --csv cut -x -f IT then \
+    reshape -r "^IT.+" -o item,value then \
+    filter -S '$value=~".+"' then \
+    sort -f datasetIniISO then \
+    label NUTS_code,datasetIniISO,zona "$folder"/processing/areeStorico_wide.csv >"$folder"/processing/areeStorico_long.csv
+
   # rimuovi file temporanei
   rm "$folder"/rawdata/tmp*.csv
 
