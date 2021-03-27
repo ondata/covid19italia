@@ -151,8 +151,8 @@ if [ $code -eq 200 ]; then
   # rinomina file
   mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeStorico.csv
 
-  # crea la versione wide, colonna data e una colonna per ogni codice NUTS
-  # laddove c'è un decreto che si applica a tutta la nazione applicalo a tutti i territori
+  # crea la versione wide: una colonna con la data e una nuova colonna per ogni codice NUTS
+  # laddove c'è un decreto che si applica a tutta la nazione applicalo a tutti i codici NUTS
   mlr --csv cut -f NUTS_code,datasetIniISO,zona then \
     reshape -s NUTS_code,zona then \
     unsparsify then \
