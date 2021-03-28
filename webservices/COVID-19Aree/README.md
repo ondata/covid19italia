@@ -18,7 +18,7 @@ Il **Dipartimento della Protezione Civile** pubblica i dati sulle **misure** di 
 
 Due link di riferimento:
 
-- i dati <https://github.com/pcm-dpc/COVID-19>;
+- i dati <https://github.com/pcm-dpc/COVID-19/tree/master/aree>;
 - la loro descrizione <https://github.com/pcm-dpc/COVID-19/blob/master/dati-aree-covid19.md>.
 
 Abbiamo prodotto degli elaborati altri a partire da questa fonte per due ragioni principali:
