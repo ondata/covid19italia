@@ -21,10 +21,10 @@ Due link di riferimento:
 - i dati <https://github.com/pcm-dpc/COVID-19/tree/master/aree>;
 - la loro descrizione <https://github.com/pcm-dpc/COVID-19/blob/master/dati-aree-covid19.md>.
 
-Abbiamo prodotto degli elaborati altri a partire da questa fonte per due ragioni principali:
+Abbiamo prodotto degli altri elaborati a partire da questa fonte per due ragioni principali:
 
 - non è presente in modo diretto la classificazione a "colori";
-- le aree non sono associate codici geografici standard, ma ai relativi nomi.
+- le aree non sono associate a codici geografici standard, ma ai relativi nomi.
 
 ## Output prodotti
 
