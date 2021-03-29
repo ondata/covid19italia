@@ -90,33 +90,7 @@ from tmp"
   # genera png
   rsvg-convert "$folder"/processing/aree.svg -o "$folder"/processing/aree.png
 
-fi
-
-# URL fonte dati
-URL="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638"
-
-# leggi la risposta HTTP del sito
-code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
-
-# se il sito è raggiungibile scarica e "lavora" i dati
-if [ $code -eq 200 ]; then
-
-  # estrai da SVG governativa
-  curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg' | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")' >"$folder"/rawdata/areeGov.csv
-
-  mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
-
-  mlr -I --csv put -S 'if ($colore==""){$colore="bianco"}else{$colore=$colore}' "$folder"/rawdata/tmp.csv
-
-  # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
-  conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
-
-  if [[ $conteggio == 22 ]]; then
-
-    mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
-    dos2unix "$folder"/processing/areeGov.csv
-
-  fi
+  ## test ##
 
   # estrai file di insieme
   ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g"' >"$folder"/processing/areeStorico.csv
@@ -185,5 +159,35 @@ if [ $code -eq 200 ]; then
 
   # rimuovi file temporanei
   rm "$folder"/rawdata/tmp*.csv
+
+fi
+
+# URL fonte dati
+URL="http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638"
+
+# leggi la risposta HTTP del sito
+code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
+
+# se il sito è raggiungibile scarica e "lavora" i dati
+if [ $code -eq 200 ]; then
+
+  # estrai da SVG governativa
+  curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg' | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")' >"$folder"/rawdata/areeGov.csv
+
+  mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
+
+  mlr -I --csv put -S 'if ($colore==""){$colore="bianco"}else{$colore=$colore}' "$folder"/rawdata/tmp.csv
+
+  # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
+  conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
+
+  if [[ $conteggio == 22 ]]; then
+
+    mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
+    dos2unix "$folder"/processing/areeGov.csv
+
+  fi
+
+
 
 fi
