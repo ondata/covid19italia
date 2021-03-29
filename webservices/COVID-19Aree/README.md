@@ -94,6 +94,9 @@ In [questa pagina](https://www.governo.it/it/articolo/domande-frequenti-sulle-mi
 <path id="campania" onclick="campania('rosso')"
 fill="#e2001a" d="m733.25 763.44c-0.28304 8e-3 -0.56492 0.0313-0.8125 0.0625s-0.46385 ...."></path>
 ```
+
+Estraiamo da qui questo CSV: [`areeGov.csv`](./processing/areeGov.csv).
+
 ### La pagina "COVID-19 - Situazione in Italia" del sito del Ministero della Salute
 
 La pagina "[COVID-19 - Situazione in Italia](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto)" del sito del Ministero della Salute, contiene del codice `HTML` da cui è possibile estrarre l'accoppiata colori zone/regioni-province autonome
