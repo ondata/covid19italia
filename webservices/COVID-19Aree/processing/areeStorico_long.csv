@@ -288,7 +288,7 @@ datasetIniISO,NUTS_code,zona
 2021-03-08,ITH5,arancione
 2021-03-08,ITH4,arancione
 2021-03-15,ITF6,arancione
-2021-03-15,ITI4,rossa
+2021-03-15,ITI4,arancione
 2021-03-15,ITC4,rossa
 2021-03-15,ITF2,rossa
 2021-03-15,ITC1,rossa
@@ -304,3 +304,14 @@ datasetIniISO,NUTS_code,zona
 2021-03-22,ITF3,rossa
 2021-03-22,ITF2,arancione
 2021-03-22,ITG2,arancione
+2021-03-29,ITF6,rossa
+2021-03-29,ITC2,rossa
+2021-03-29,ITI1,rossa
+2021-03-30,ITC4,rossa
+2021-03-30,ITC1,rossa
+2021-03-30,ITH2,rossa
+2021-03-30,ITF4,rossa
+2021-03-30,ITH3,rossa
+2021-03-30,ITH5,rossa
+2021-03-30,ITH4,rossa
+2021-03-30,ITI3,rossa
