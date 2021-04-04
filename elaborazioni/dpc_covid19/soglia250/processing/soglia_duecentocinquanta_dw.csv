@@ -1,0 +1,22 @@
+codice_regione,data,codice_nuts_2,denominazione_regione,soglia250,tendenza,Sopra soglia
+02,2021-04-04T17:00:00,ITC2,Valle d'Aosta,410,▲,◼
+01,2021-04-04T17:00:00,ITC1,Piemonte,319,▼,◼
+16,2021-04-04T17:00:00,ITF4,Puglia,315,▼,◼
+06,2021-04-04T17:00:00,ITH4,Friuli Venezia Giulia,283,▼,◼
+09,2021-04-04T17:00:00,ITI1,Toscana,274,▲,◼
+08,2021-04-04T17:00:00,ITH5,Emilia-Romagna,265,▼,◼
+03,2021-04-04T17:00:00,ITC4,Lombardia,245,▼,◼
+15,2021-04-04T17:00:00,ITF3,Campania,233,▼,◼
+11,2021-04-04T17:00:00,ITI3,Marche,226,▼,◼
+07,2021-04-04T17:00:00,ITC3,Liguria,214,▲,◼
+05,2021-04-04T17:00:00,ITH3,Veneto,207,▼,◼
+12,2021-04-04T17:00:00,ITI4,Lazio,203,▼,◼
+22,2021-04-04T17:00:00,ITH2,P.A. Trento,186,▲,◼
+13,2021-04-04T17:00:00,ITF1,Abruzzo,158,▲,◼
+17,2021-04-04T17:00:00,ITF5,Basilicata,157,▼,◼
+21,2021-04-04T17:00:00,ITH1,P.A. Bolzano,152,~,◼
+18,2021-04-04T17:00:00,ITF6,Calabria,148,▲,◼
+19,2021-04-04T17:00:00,ITG1,Sicilia,144,▲,◼
+20,2021-04-04T17:00:00,ITG2,Sardegna,142,▲,◼
+10,2021-04-04T17:00:00,ITI2,Umbria,117,▼,◼
+14,2021-04-04T17:00:00,ITF2,Molise,66,▼,◼

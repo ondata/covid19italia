@@ -58,3 +58,15 @@ mlr --csv join --ul -j codice_regione -f "$folder"/processing/soglia_duecentocin
 mlr --csv cut -f data,denominazione_regione,soglia250 \
   then reshape -s denominazione_regione,soglia250 \
   then sort -f data "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_wide.csv
+
+
+max=$(mlr --c2n stats1 -a max -f data "$folder"/processing/soglia_duecentocinquanta.csv)
+mlr --csv step -a delta -f soglia250 -g codice_regione then \
+put -S 'if($soglia250_delta=="0"){$soglia250_delta="~"}elif($soglia250_delta=~"-.+"){$soglia250_delta="▼"}elif($soglia250_delta=~"^[^0]"){$soglia250_delta="▲"}else{$soglia250_delta=$soglia250_delta}' then \
+put 'if($soglia250>=0){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
+rename soglia250_delta,tendenza then \
+filter -S '$data=="'"$max"'"' then \
+sort -nr soglia250  "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_dw.csv
+
+# crea le sparkline
+#   mlr --csv put '$datetime = strftime(strptime($data, "%Y-%m-%dT%H:%M:%S"),"%Y-%m-%d")' then cat -n then tail -n 840 then cut -f datetime,codice_regione,soglia250 then reshape -s datetime,soglia250 then unsparsify processing/soglia_duecentocinquanta.csv
