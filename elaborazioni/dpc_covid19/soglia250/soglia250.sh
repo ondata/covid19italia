@@ -63,7 +63,7 @@ mlr --csv cut -f data,denominazione_regione,soglia250 \
 max=$(mlr --c2n stats1 -a max -f data "$folder"/processing/soglia_duecentocinquanta.csv)
 mlr --csv step -a delta -f soglia250 -g codice_regione then \
 put -S 'if($soglia250_delta=="0"){$soglia250_delta="~"}elif($soglia250_delta=~"-.+"){$soglia250_delta="▼"}elif($soglia250_delta=~"^[^0]"){$soglia250_delta="▲"}else{$soglia250_delta=$soglia250_delta}' then \
-put 'if($soglia250>=0){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
+put 'if($soglia250>=250){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
 rename soglia250_delta,tendenza then \
 filter -S '$data=="'"$max"'"' then \
 sort -nr soglia250  "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_dw.csv
