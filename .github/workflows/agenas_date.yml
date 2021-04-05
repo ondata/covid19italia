@@ -23,6 +23,9 @@ jobs:
         cd ~/bin
         chmod +x mlr
         chmod +x scrape
+        sudo locale-gen it_IT
+        sudo locale-gen it_IT.UTF-8
+        sudo update-locale
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
