@@ -1,7 +1,7 @@
 name: aggiorna dati agenas
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '30 21 */1 * *'
@@ -31,6 +31,10 @@ jobs:
         pip3 install visidata
         pip3 install lxml
         sudo pip install yq
+        sudo apt-get install dateutils
+        sudo locale-gen it_IT
+        sudo locale-gen it_IT.UTF-8
+        sudo update-locale
     - name: scarica i dati
       run: |-
         export PATH=$PATH:~/bin
@@ -38,6 +42,8 @@ jobs:
         cd ./webservices/agenas/
         chmod +x ./agenas.sh
         ./agenas.sh
+        chmod +x ./agenas_date.sh
+        ./agenas_date.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
