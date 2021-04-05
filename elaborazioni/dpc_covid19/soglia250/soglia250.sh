@@ -60,15 +60,23 @@ mlr --csv cut -f data,denominazione_regione,soglia250 \
   then sort -f data "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_wide.csv
 
 
+### crea dati per tabella datawrapper ###
+
+# ultima data
 max=$(mlr --c2n stats1 -a max -f data "$folder"/processing/soglia_duecentocinquanta.csv)
+
+# crea colonna con check superamento soglia e tendenza rispetto al giorno precedente
 mlr --csv step -a delta -f soglia250 -g codice_regione then \
-put -S 'if($soglia250_delta=="0"){$soglia250_delta="~"}elif($soglia250_delta=~"-.+"){$soglia250_delta="▼"}elif($soglia250_delta=~"^[^0]"){$soglia250_delta="▲"}else{$soglia250_delta=$soglia250_delta}' then \
-put 'if($soglia250>=250){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
-rename soglia250_delta,tendenza then \
-filter -S '$data=="'"$max"'"' then \
-sort -nr soglia250  "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_dw.csv
+  put -S 'if($soglia250_delta=="0"){$soglia250_delta="~"}elif($soglia250_delta=~"-.+"){$soglia250_delta="▼"}elif($soglia250_delta=~"^[^0]"){$soglia250_delta="▲"}else{$soglia250_delta=$soglia250_delta}' then \
+  put 'if($soglia250>=250){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
+  rename soglia250_delta,tendenza then \
+  filter -S '$data=="'"$max"'"' then \
+  sort -nr soglia250 "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_dw.csv
 
 # crea dati per sparkline
 mlr --csv put '$datetime = strftime(strptime($data, "%Y-%m-%dT%H:%M:%S"),"%Y-%m-%d")' then cat -n then tail -n 630 then cut -f datetime,codice_regione,soglia250 then reshape -s datetime,soglia250 then unsparsify "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/tmp_soglia_duecentocinquanta_lc.csv
 
+# aggiungi i dati sparkline ai dati di base
 mlr --csv join -j codice_regione -f "$folder"/processing/soglia_duecentocinquanta_dw.csv then unsparsify then sort -nr soglia250 "$folder"/processing/tmp_soglia_duecentocinquanta_lc.csv | sponge "$folder"/processing/soglia_duecentocinquanta_dw.csv
+
+### crea dati per tabella datawrapper ###
