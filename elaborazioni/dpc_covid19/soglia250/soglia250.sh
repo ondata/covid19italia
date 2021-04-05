@@ -68,5 +68,7 @@ rename soglia250_delta,tendenza then \
 filter -S '$data=="'"$max"'"' then \
 sort -nr soglia250  "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_dw.csv
 
-# crea le sparkline
-#   mlr --csv put '$datetime = strftime(strptime($data, "%Y-%m-%dT%H:%M:%S"),"%Y-%m-%d")' then cat -n then tail -n 840 then cut -f datetime,codice_regione,soglia250 then reshape -s datetime,soglia250 then unsparsify processing/soglia_duecentocinquanta.csv
+# crea dati per sparkline
+mlr --csv put '$datetime = strftime(strptime($data, "%Y-%m-%dT%H:%M:%S"),"%Y-%m-%d")' then cat -n then tail -n 630 then cut -f datetime,codice_regione,soglia250 then reshape -s datetime,soglia250 then unsparsify "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/tmp_soglia_duecentocinquanta_lc.csv
+
+mlr --csv join -j codice_regione -f "$folder"/processing/soglia_duecentocinquanta_dw.csv then unsparsify then sort -nr soglia250 "$folder"/processing/tmp_soglia_duecentocinquanta_lc.csv | sponge "$folder"/processing/soglia_duecentocinquanta_dw.csv
