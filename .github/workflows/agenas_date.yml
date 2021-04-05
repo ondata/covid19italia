@@ -32,7 +32,7 @@ jobs:
         export PATH=$PATH:~/.local/bin
         cd ./webservices/agenas/
         chmod +x ./agenas_date.sh
-        echo "a=Dati della Protezione Civile del 13 Novembre 2020 ore 21:59" | mlr --ojson put '$test=system("echo \"".regextract_or_else($a,"[0-9]{1,} .+[0-9]{4}","")."\" | dateutils.dconv --from-locale it_IT  -i \"%d %B %Y\"")'
+        ./agenas_date.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
