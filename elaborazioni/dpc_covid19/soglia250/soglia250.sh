@@ -6,6 +6,13 @@
 # moreutils https://joeyh.name/code/moreutils/
 ### requisiti ###
 
+### output ###
+
+# https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/
+
+### output ###
+
+
 set -x
 set -e
 set -u
