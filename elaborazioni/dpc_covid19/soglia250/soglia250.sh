@@ -84,4 +84,6 @@ mlr --csv put '$datetime = strftime(strptime($data, "%Y-%m-%dT%H:%M:%S"),"%Y-%m-
 # aggiungi i dati sparkline ai dati di base
 mlr --csv join -j codice_regione -f "$folder"/processing/soglia_duecentocinquanta_dw.csv then unsparsify then sort -nr soglia250 "$folder"/processing/tmp_soglia_duecentocinquanta_lc.csv | sponge "$folder"/processing/soglia_duecentocinquanta_dw.csv
 
+mlr -I --csv label codice_regione,data,codice_nuts_2,denominazione_regione,soglia250,tendenza,"Sopra soglia",01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30 "$folder"/processing/soglia_duecentocinquanta_dw.csv
+
 ### crea dati per tabella datawrapper ###
