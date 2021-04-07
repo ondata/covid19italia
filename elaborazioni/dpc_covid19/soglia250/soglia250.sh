@@ -89,7 +89,7 @@ mlr --csv join -j codice_regione -f "$folder"/processing/soglia_duecentocinquant
 
 mlr -I --csv label codice_regione,data,codice_nuts_2,denominazione_regione,soglia250,tendenza,"Sopra soglia",01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30 "$folder"/processing/soglia_duecentocinquanta_dw.csv
 
-# aggiorna info data
+# aggiorna info data sulla tabella datawrapper
 
 curl --request PATCH \
   --url https://api.datawrapper.de/v3/charts/4w9um \
