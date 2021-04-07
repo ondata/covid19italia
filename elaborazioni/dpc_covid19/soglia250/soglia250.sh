@@ -103,8 +103,9 @@ curl --request PATCH \
           }
         }
     }'
+
 curl --request POST \
   --url https://api.datawrapper.de/charts/4w9um/publish \
-  --header 'Authorization: Bearer '"$maxDW"''
+  --header 'Authorization: Bearer '"$DW"''
 
 ### crea dati per tabella datawrapper ###
