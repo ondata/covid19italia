@@ -18,4 +18,4 @@ webservices/vaccini/rawdata/*.json
 webservices/COVID-19Aree/rawdata/*
 webservices/regioneLombardiaStatiClinici/rawdata/*
 
-elaborazioni/dpc_covid19/soglia250/rawdata/*
+elaborazioni/dpc_covid19/soglia250/.config

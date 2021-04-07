@@ -22,6 +22,8 @@ jobs:
         cd ~/bin
         chmod +x mlr
     - name: scarica i dati
+      env:
+          DW: ${{ secrets.DW }}
       run: |-
         export PATH=$PATH:~/bin
         export PATH=$PATH:~/.local/bin
