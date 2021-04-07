@@ -99,7 +99,7 @@ curl --request PATCH \
   '{
         "metadata": {
           "describe": {
-              "intro": "<b>soglia250</b> = numero di <strong>nuovi contagi</strong> ogni <strong>100.000 abitanti</strong>, negli ultimi 7 giorni.<br>Se <strong>>= 250</strong> si applicano <strong><a href=\"https://www.gazzettaufficiale.it/eli/id/2021/03/13/21G00040/sg\">provvedimenti zona rossa</a></strong> (<a href=\"https://github.com/ondata/covid19italia/blob/master/elaborazioni/dpc_covid19/soglia250/README.md#fonti-dati\" target=\"_blank\">dati</a>). <b>Data di riferimento</b>: '"$maxDW"'"
+              "intro": "<b>soglia250</b> = numero di <strong>nuovi contagi</strong> ogni <strong>100.000 abitanti</strong>, negli ultimi 7 giorni.<br>Se <strong>>= 250</strong> si applicano <strong><a href=\"https://www.gazzettaufficiale.it/eli/id/2021/03/13/21G00040/sg\">provvedimenti zona rossa</a></strong> (<a href=\"https://github.com/ondata/covid19italia/blob/master/elaborazioni/dpc_covid19/soglia250/README.md#fonti-dati\" target=\"_blank\">dati</a>). 📅<b>Data di riferimento</b>: '"$maxDW"'"
           }
         }
     }'
