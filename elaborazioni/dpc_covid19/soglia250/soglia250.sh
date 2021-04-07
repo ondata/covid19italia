@@ -10,7 +10,6 @@
 # https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/
 ### output ###
 
-
 set -x
 set -e
 set -u
@@ -68,13 +67,11 @@ mlr --csv cut -f data,denominazione_regione,soglia250 \
   then reshape -s denominazione_regione,soglia250 \
   then sort -f data "$folder"/processing/soglia_duecentocinquanta.csv >"$folder"/processing/soglia_duecentocinquanta_wide.csv
 
-
 ### crea dati per tabella datawrapper ###
 
 # ultima data
 max=$(mlr --c2n stats1 -a max -f data "$folder"/processing/soglia_duecentocinquanta.csv)
 maxDW=$(mlr --c2n stats1 -a max -f data then put '$data_max=sub($data_max,"T.+","")' "$folder"/processing/soglia_duecentocinquanta.csv)
-
 
 # crea colonna con check superamento soglia e tendenza rispetto al giorno precedente
 mlr --csv step -a delta -f soglia250 -g codice_regione then \
@@ -94,17 +91,20 @@ mlr -I --csv label codice_regione,data,codice_nuts_2,denominazione_regione,sogli
 
 # aggiorna info data
 
-curl  --request PATCH \
-      --url https://api.datawrapper.de/v3/charts/4w9um \
-      --header 'Authorization: Bearer '"$DW"'' \
-        --header 'content-type: application/json' \
-      --data \
-     '{
+curl --request PATCH \
+  --url https://api.datawrapper.de/v3/charts/4w9um \
+  --header 'Authorization: Bearer '"$DW"'' \
+  --header 'content-type: application/json' \
+  --data \
+  '{
         "metadata": {
           "describe": {
               "intro": "<b>soglia250</b> = numero di <strong>nuovi contagi</strong> ogni <strong>100.000 abitanti</strong>, negli ultimi 7 giorni.<br>Se <strong>>= 250</strong> si applicano <strong><a href=\"https://www.gazzettaufficiale.it/eli/id/2021/03/13/21G00040/sg\">provvedimenti zona rossa</a></strong> (<a href=\"https://github.com/ondata/covid19italia/blob/master/elaborazioni/dpc_covid19/soglia250/README.md#fonti-dati\" target=\"_blank\">dati</a>). <b>Data di riferimento</b>: '"$maxDW"'"
           }
         }
     }'
+curl --request POST \
+  --url https://api.datawrapper.de/charts/4w9um/publish \
+  --header 'Authorization: Bearer '"$maxDW"''
 
 ### crea dati per tabella datawrapper ###
