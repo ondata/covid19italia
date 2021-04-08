@@ -1,10 +1,10 @@
 name: aggiorna dati protezione civile sicilia
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '30 22 */1 * *'
+    - cron:  '10 22 */1 * *'
 
 jobs:
   scheduled:
