@@ -1,46 +1,117 @@
 {"FID":0,"COD_REG":19,"COD_PROV":89,"COMUNE":"Portopalo di Capo Passero"}
-{"FID":1,"COD_REG":19,"COD_PROV":82,"COMUNE":"San Mauro Castelverde"}
-{"FID":2,"COD_REG":19,"COD_PROV":84,"COMUNE":"Raffadali"}
-{"FID":3,"COD_REG":19,"COD_PROV":85,"COMUNE":"Montedoro"}
-{"FID":4,"COD_REG":19,"COD_PROV":82,"COMUNE":"Altavilla Milicia"}
-{"FID":5,"COD_REG":19,"COD_PROV":82,"COMUNE":"Caltavuturo"}
-{"FID":6,"COD_REG":19,"COD_PROV":84,"COMUNE":"Palma di Montechiaro"}
-{"FID":7,"COD_REG":19,"COD_PROV":88,"COMUNE":"Scicli"}
-{"FID":8,"COD_REG":19,"COD_PROV":82,"COMUNE":"Trabia"}
-{"FID":9,"COD_REG":19,"COD_PROV":85,"COMUNE":"Serradifalco"}
-{"FID":10,"COD_REG":19,"COD_PROV":87,"COMUNE":"Santa Maria di Licodia"}
-{"FID":11,"COD_REG":19,"COD_PROV":83,"COMUNE":"Francavilla di Sicilia"}
-{"FID":12,"COD_REG":19,"COD_PROV":83,"COMUNE":"Gaggi"}
-{"FID":13,"COD_REG":19,"COD_PROV":84,"COMUNE":"Santa Margherita di Belice"}
-{"FID":14,"COD_REG":19,"COD_PROV":85,"COMUNE":"Caltanissetta"}
-{"FID":15,"COD_REG":19,"COD_PROV":87,"COMUNE":"Biancavilla"}
-{"FID":16,"COD_REG":19,"COD_PROV":84,"COMUNE":"Porto Empedocle"}
-{"FID":17,"COD_REG":19,"COD_PROV":82,"COMUNE":"Partinico"}
-{"FID":18,"COD_REG":19,"COD_PROV":86,"COMUNE":"Pietraperzia"}
-{"FID":19,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ventimiglia di Sicilia"}
-{"FID":20,"COD_REG":19,"COD_PROV":86,"COMUNE":"Regalbuto"}
-{"FID":21,"COD_REG":19,"COD_PROV":89,"COMUNE":"Priolo Gargallo"}
-{"FID":22,"COD_REG":19,"COD_PROV":82,"COMUNE":"Borgetto"}
-{"FID":23,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ciminna"}
-{"FID":24,"COD_REG":19,"COD_PROV":82,"COMUNE":"Mezzojuso"}
-{"FID":25,"COD_REG":19,"COD_PROV":84,"COMUNE":"Lampedusa e Linosa"}
-{"FID":26,"COD_REG":19,"COD_PROV":85,"COMUNE":"Mazzarino"}
-{"FID":27,"COD_REG":19,"COD_PROV":84,"COMUNE":"Montallegro"}
-{"FID":28,"COD_REG":19,"COD_PROV":85,"COMUNE":"Sommatino"}
-{"FID":29,"COD_REG":19,"COD_PROV":83,"COMUNE":"Moio Alcantara"}
-{"FID":30,"COD_REG":19,"COD_PROV":89,"COMUNE":"Buscemi"}
-{"FID":31,"COD_REG":19,"COD_PROV":89,"COMUNE":"Rosolini"}
-{"FID":32,"COD_REG":19,"COD_PROV":89,"COMUNE":"Solarino"}
-{"FID":33,"COD_REG":19,"COD_PROV":84,"COMUNE":"Ribera"}
-{"FID":34,"COD_REG":19,"COD_PROV":84,"COMUNE":"Comitini"}
-{"FID":35,"COD_REG":19,"COD_PROV":84,"COMUNE":"Siculiana"}
-{"FID":36,"COD_REG":19,"COD_PROV":88,"COMUNE":"Acate"}
-{"FID":37,"COD_REG":19,"COD_PROV":84,"COMUNE":"Racalmuto"}
-{"FID":38,"COD_REG":19,"COD_PROV":86,"COMUNE":"Centuripe"}
-{"FID":39,"COD_REG":19,"COD_PROV":82,"COMUNE":"Palermo"}
-{"FID":40,"COD_REG":19,"COD_PROV":83,"COMUNE":"Barcellona Pozzo di Gotto"}
-{"FID":41,"COD_REG":19,"COD_PROV":84,"COMUNE":"Alessandria della Rocca"}
-{"FID":42,"COD_REG":19,"COD_PROV":84,"COMUNE":"Cattolica Eraclea"}
-{"FID":43,"COD_REG":19,"COD_PROV":85,"COMUNE":"Acquaviva Platani"}
-{"FID":44,"COD_REG":19,"COD_PROV":85,"COMUNE":"Marianopoli"}
-{"FID":45,"COD_REG":19,"COD_PROV":86,"COMUNE":"Calascibetta"}
+{"FID":1,"COD_REG":19,"COD_PROV":84,"COMUNE":"Raffadali"}
+{"FID":2,"COD_REG":19,"COD_PROV":85,"COMUNE":"Montedoro"}
+{"FID":3,"COD_REG":19,"COD_PROV":84,"COMUNE":"Palma di Montechiaro"}
+{"FID":4,"COD_REG":19,"COD_PROV":88,"COMUNE":"Scicli"}
+{"FID":5,"COD_REG":19,"COD_PROV":85,"COMUNE":"Serradifalco"}
+{"FID":6,"COD_REG":19,"COD_PROV":87,"COMUNE":"Santa Maria di Licodia"}
+{"FID":7,"COD_REG":19,"COD_PROV":83,"COMUNE":"Francavilla di Sicilia"}
+{"FID":8,"COD_REG":19,"COD_PROV":84,"COMUNE":"Santa Margherita di Belice"}
+{"FID":9,"COD_REG":19,"COD_PROV":85,"COMUNE":"Caltanissetta"}
+{"FID":10,"COD_REG":19,"COD_PROV":87,"COMUNE":"Biancavilla"}
+{"FID":11,"COD_REG":19,"COD_PROV":84,"COMUNE":"Porto Empedocle"}
+{"FID":12,"COD_REG":19,"COD_PROV":86,"COMUNE":"Pietraperzia"}
+{"FID":13,"COD_REG":19,"COD_PROV":86,"COMUNE":"Regalbuto"}
+{"FID":14,"COD_REG":19,"COD_PROV":84,"COMUNE":"Lampedusa e Linosa"}
+{"FID":15,"COD_REG":19,"COD_PROV":85,"COMUNE":"Mazzarino"}
+{"FID":16,"COD_REG":19,"COD_PROV":84,"COMUNE":"Montallegro"}
+{"FID":17,"COD_REG":19,"COD_PROV":85,"COMUNE":"Sommatino"}
+{"FID":18,"COD_REG":19,"COD_PROV":83,"COMUNE":"Moio Alcantara"}
+{"FID":19,"COD_REG":19,"COD_PROV":89,"COMUNE":"Rosolini"}
+{"FID":20,"COD_REG":19,"COD_PROV":89,"COMUNE":"Solarino"}
+{"FID":21,"COD_REG":19,"COD_PROV":84,"COMUNE":"Ribera"}
+{"FID":22,"COD_REG":19,"COD_PROV":84,"COMUNE":"Comitini"}
+{"FID":23,"COD_REG":19,"COD_PROV":84,"COMUNE":"Siculiana"}
+{"FID":24,"COD_REG":19,"COD_PROV":88,"COMUNE":"Acate"}
+{"FID":25,"COD_REG":19,"COD_PROV":84,"COMUNE":"Racalmuto"}
+{"FID":26,"COD_REG":19,"COD_PROV":86,"COMUNE":"Centuripe"}
+{"FID":27,"COD_REG":19,"COD_PROV":83,"COMUNE":"Barcellona Pozzo di Gotto"}
+{"FID":28,"COD_REG":19,"COD_PROV":84,"COMUNE":"Alessandria della Rocca"}
+{"FID":29,"COD_REG":19,"COD_PROV":84,"COMUNE":"Cattolica Eraclea"}
+{"FID":30,"COD_REG":19,"COD_PROV":85,"COMUNE":"Acquaviva Platani"}
+{"FID":31,"COD_REG":19,"COD_PROV":85,"COMUNE":"Marianopoli"}
+{"FID":32,"COD_REG":19,"COD_PROV":86,"COMUNE":"Calascibetta"}
+{"FID":33,"COD_REG":19,"COD_PROV":82,"COMUNE":"Alia"}
+{"FID":34,"COD_REG":19,"COD_PROV":82,"COMUNE":"Aliminusa"}
+{"FID":35,"COD_REG":19,"COD_PROV":82,"COMUNE":"Altofonte"}
+{"FID":36,"COD_REG":19,"COD_PROV":82,"COMUNE":"Bagheria"}
+{"FID":37,"COD_REG":19,"COD_PROV":82,"COMUNE":"Bisacquino"}
+{"FID":38,"COD_REG":19,"COD_PROV":82,"COMUNE":"Caccamo"}
+{"FID":39,"COD_REG":19,"COD_PROV":82,"COMUNE":"Cerda"}
+{"FID":40,"COD_REG":19,"COD_PROV":82,"COMUNE":"Cinisi"}
+{"FID":41,"COD_REG":19,"COD_PROV":82,"COMUNE":"Giuliana"}
+{"FID":42,"COD_REG":19,"COD_PROV":82,"COMUNE":"Godrano"}
+{"FID":43,"COD_REG":19,"COD_PROV":82,"COMUNE":"Gratteri"}
+{"FID":44,"COD_REG":19,"COD_PROV":82,"COMUNE":"Isola delle Femmine"}
+{"FID":45,"COD_REG":19,"COD_PROV":82,"COMUNE":"Lascari"}
+{"FID":46,"COD_REG":19,"COD_PROV":82,"COMUNE":"Marineo"}
+{"FID":47,"COD_REG":19,"COD_PROV":82,"COMUNE":"Misilmeri"}
+{"FID":48,"COD_REG":19,"COD_PROV":82,"COMUNE":"Monreale"}
+{"FID":49,"COD_REG":19,"COD_PROV":82,"COMUNE":"Montemaggiore Belsito"}
+{"FID":50,"COD_REG":19,"COD_PROV":82,"COMUNE":"Palazzo Adriano"}
+{"FID":51,"COD_REG":19,"COD_PROV":82,"COMUNE":"Petralia Sottana"}
+{"FID":52,"COD_REG":19,"COD_PROV":82,"COMUNE":"Piana degli Albanesi"}
+{"FID":53,"COD_REG":19,"COD_PROV":82,"COMUNE":"Polizzi Generosa"}
+{"FID":54,"COD_REG":19,"COD_PROV":82,"COMUNE":"San Giuseppe Jato"}
+{"FID":55,"COD_REG":19,"COD_PROV":82,"COMUNE":"Santa Cristina Gela"}
+{"FID":56,"COD_REG":19,"COD_PROV":82,"COMUNE":"Sclafani Bagni"}
+{"FID":57,"COD_REG":19,"COD_PROV":82,"COMUNE":"Termini Imerese"}
+{"FID":58,"COD_REG":19,"COD_PROV":82,"COMUNE":"Torretta"}
+{"FID":59,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ustica"}
+{"FID":60,"COD_REG":19,"COD_PROV":82,"COMUNE":"Valledolmo"}
+{"FID":61,"COD_REG":19,"COD_PROV":82,"COMUNE":"Vicari"}
+{"FID":62,"COD_REG":19,"COD_PROV":82,"COMUNE":"Villafrati"}
+{"FID":63,"COD_REG":19,"COD_PROV":82,"COMUNE":"Alimena"}
+{"FID":64,"COD_REG":19,"COD_PROV":82,"COMUNE":"Altavilla Milicia"}
+{"FID":65,"COD_REG":19,"COD_PROV":82,"COMUNE":"Balestrate"}
+{"FID":66,"COD_REG":19,"COD_PROV":82,"COMUNE":"Baucina"}
+{"FID":67,"COD_REG":19,"COD_PROV":82,"COMUNE":"Belmonte Mezzagno"}
+{"FID":68,"COD_REG":19,"COD_PROV":82,"COMUNE":"Bolognetta"}
+{"FID":69,"COD_REG":19,"COD_PROV":82,"COMUNE":"Bompietro"}
+{"FID":70,"COD_REG":19,"COD_PROV":82,"COMUNE":"Borgetto"}
+{"FID":71,"COD_REG":19,"COD_PROV":82,"COMUNE":"Caltavuturo"}
+{"FID":72,"COD_REG":19,"COD_PROV":82,"COMUNE":"Campofelice di Fitalia"}
+{"FID":73,"COD_REG":19,"COD_PROV":82,"COMUNE":"Campofelice di Roccella"}
+{"FID":74,"COD_REG":19,"COD_PROV":82,"COMUNE":"Campofiorito"}
+{"FID":75,"COD_REG":19,"COD_PROV":82,"COMUNE":"Camporeale"}
+{"FID":76,"COD_REG":19,"COD_PROV":82,"COMUNE":"Capaci"}
+{"FID":77,"COD_REG":19,"COD_PROV":82,"COMUNE":"Carini"}
+{"FID":78,"COD_REG":19,"COD_PROV":82,"COMUNE":"Castelbuono"}
+{"FID":79,"COD_REG":19,"COD_PROV":82,"COMUNE":"Casteldaccia"}
+{"FID":80,"COD_REG":19,"COD_PROV":82,"COMUNE":"Castellana Sicula"}
+{"FID":81,"COD_REG":19,"COD_PROV":82,"COMUNE":"Castronovo di Sicilia"}
+{"FID":82,"COD_REG":19,"COD_PROV":82,"COMUNE":"Cefalà Diana"}
+{"FID":83,"COD_REG":19,"COD_PROV":82,"COMUNE":"Cefalù"}
+{"FID":84,"COD_REG":19,"COD_PROV":82,"COMUNE":"Chiusa Sclafani"}
+{"FID":85,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ciminna"}
+{"FID":86,"COD_REG":19,"COD_PROV":82,"COMUNE":"Collesano"}
+{"FID":87,"COD_REG":19,"COD_PROV":82,"COMUNE":"Contessa Entellina"}
+{"FID":88,"COD_REG":19,"COD_PROV":82,"COMUNE":"Corleone"}
+{"FID":89,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ficarazzi"}
+{"FID":90,"COD_REG":19,"COD_PROV":82,"COMUNE":"Gangi"}
+{"FID":91,"COD_REG":19,"COD_PROV":82,"COMUNE":"Geraci Siculo"}
+{"FID":92,"COD_REG":19,"COD_PROV":82,"COMUNE":"Giardinello"}
+{"FID":93,"COD_REG":19,"COD_PROV":82,"COMUNE":"Isnello"}
+{"FID":94,"COD_REG":19,"COD_PROV":82,"COMUNE":"Lercara Friddi"}
+{"FID":95,"COD_REG":19,"COD_PROV":82,"COMUNE":"Mezzojuso"}
+{"FID":96,"COD_REG":19,"COD_PROV":82,"COMUNE":"Montelepre"}
+{"FID":97,"COD_REG":19,"COD_PROV":82,"COMUNE":"Palermo"}
+{"FID":98,"COD_REG":19,"COD_PROV":82,"COMUNE":"Partinico"}
+{"FID":99,"COD_REG":19,"COD_PROV":82,"COMUNE":"Petralia Soprana"}
+{"FID":100,"COD_REG":19,"COD_PROV":82,"COMUNE":"Pollina"}
+{"FID":101,"COD_REG":19,"COD_PROV":82,"COMUNE":"Prizzi"}
+{"FID":102,"COD_REG":19,"COD_PROV":82,"COMUNE":"Roccamena"}
+{"FID":103,"COD_REG":19,"COD_PROV":82,"COMUNE":"Roccapalumba"}
+{"FID":104,"COD_REG":19,"COD_PROV":82,"COMUNE":"San Cipirello"}
+{"FID":105,"COD_REG":19,"COD_PROV":82,"COMUNE":"San Mauro Castelverde"}
+{"FID":106,"COD_REG":19,"COD_PROV":82,"COMUNE":"Santa Flavia"}
+{"FID":107,"COD_REG":19,"COD_PROV":82,"COMUNE":"Sciara"}
+{"FID":108,"COD_REG":19,"COD_PROV":82,"COMUNE":"Terrasini"}
+{"FID":109,"COD_REG":19,"COD_PROV":82,"COMUNE":"Trabia"}
+{"FID":110,"COD_REG":19,"COD_PROV":82,"COMUNE":"Trappeto"}
+{"FID":111,"COD_REG":19,"COD_PROV":82,"COMUNE":"Ventimiglia di Sicilia"}
+{"FID":112,"COD_REG":19,"COD_PROV":82,"COMUNE":"Villabate"}
+{"FID":113,"COD_REG":19,"COD_PROV":82,"COMUNE":"Scillato"}
+{"FID":114,"COD_REG":19,"COD_PROV":82,"COMUNE":"Blufi"}
+{"FID":115,"COD_REG":19,"COD_PROV":81,"COMUNE":"Marsala"}
+{"FID":116,"COD_REG":19,"COD_PROV":85,"COMUNE":"San Cataldo"}
