@@ -31,5 +31,10 @@ if [ $code -eq 200 ]; then
   curl -kL "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province-latest.csv" >"$folder"/rawdata/dpc-covid19-ita-province-latest.csv
   max=$(mlr --c2n stats1 -a max -f data "$folder"/rawdata/dpc-covid19-ita-province-latest.csv)
 
-  mlr --csv filter -S '$data=="'"$max"'" && $codice_nuts_3=~".+"' "$folder"/rawdata/dpc-covid19-ita-province-latest.csv >"$folder"/processing/dpc-covid19-ita-province-latest.csv
+  # divido per 100, impostando così un punto per ogni 100 persone
+  mlr --csv filter -S '$data=="'"$max"'" && $codice_nuts_3=~".+"' then put '$totale_casi=int($totale_casi/100)' "$folder"/rawdata/dpc-covid19-ita-province-latest.csv >"$folder"/processing/dpc-covid19-ita-province-latest.csv
 fi
+
+mapshaper "$folder"/../../../risorse/fileGeografici/NUTS3_102013.geojson -join "$folder"/processing/dpc-covid19-ita-province-latest.csv keys=NUTS_ID,codice_nuts_3 field-types=NUTS_ID:str,codice_nuts_3:str -o "$folder"/rawdata/tmp_joined.geojson
+
+mapshaper "$folder"/rawdata/tmp_joined.geojson -dots fields=totale_casi colors=red -o "$folder"/processing/dpc-covid19-ita-province-latest.geojson
