@@ -23,3 +23,9 @@ if [ -f "$folder"/processing/postiletto-e-ricoverati-areaNonCritica.csv ]; then
   mv "$folder"/tmp.csv "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv
 fi
 
+dos2unix "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv
+
+# per datawraper
+latest=$(mlr --c2n stats1 -a max -f data "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv)
+
+mlr --csv filter -S '$data=="'"$latest"'"' "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv >"$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw.csv
