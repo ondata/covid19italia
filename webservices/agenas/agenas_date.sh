@@ -23,9 +23,22 @@ if [ -f "$folder"/processing/postiletto-e-ricoverati-areaNonCritica.csv ]; then
   mv "$folder"/tmp.csv "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv
 fi
 
+
 dos2unix "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv
 
 # per datawraper
 latest=$(mlr --c2n stats1 -a max -f data "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv)
 
+
 mlr --csv filter -S '$data=="'"$latest"'"' "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv >"$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw.csv
+
+# soglia posti letto area non critica
+mlr --csv cut -x -f soglia30,sopraSoglia "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date.csv >"$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw_soglia40.csv
+
+dos2unix "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw_soglia40.csv
+
+mlr --csv put '$soglia40=${Ricoverati in Area Non Critica}/${PL in Area Non Critica}*100;if($soglia40>=40){$sopraSoglia="◼"}else{$sopraSoglia=""}' "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw_soglia40.csv >"$folder"/processing/tmp.csv
+mv "$folder"/processing/tmp.csv "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw_soglia40.csv
+
+mlr --csv filter -S '$data=="'"$latest"'"' "$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_dw_soglia40.csv >"$folder"/processing/postiletto-e-ricoverati-areaNonCritica_date_soglia40_dw.csv
+
