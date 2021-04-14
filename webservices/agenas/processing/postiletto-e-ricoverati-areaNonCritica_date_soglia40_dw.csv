@@ -1,22 +1,22 @@
 Regioni,Ricoverati in Area Non Critica,PL in Area Non Critica,Ricoverati in Terapia intensiva,PL in Terapia Intensiva,PL Terapia Intensiva attivabili,fonte,data,NUTS_code,NUTS_level,soglia40,sopraSoglia
-Abruzzo,553,1495,59,215,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF1,2,36.989967,
-Basilicata,169,452,12,88,13,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF5,2,37.389381,
-Calabria,471,951,43,152,25,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF6,2,49.526814,◼
-Campania,1592,4320,133,620,36,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF3,2,36.851852,
-Emilia-Romagna,2654,6538,331,760,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITH5,2,40.593454,◼
-Friuli Venezia Giulia,493,1277,75,175,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITH4,2,38.606108,
-Lazio,3064,6421,392,943,193,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITI4,2,47.718424,◼
-Liguria,658,1854,87,226,12,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITC3,2,35.490831,
-Lombardia,5727,13132,787,1416,114,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITC4,2,43.611027,◼
-Marche,713,1408,127,247,19,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITI3,2,50.639205,◼
-Molise,46,221,15,39,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF2,2,20.814480,
-P.A. Bolzano,74,465,13,100,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITH1,2,15.913978,
-P.A. Trento,147,584,37,90,15,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITH2,2,25.171233,
-Piemonte,3526,5824,316,628,99,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITC1,2,60.542582,◼
-Puglia,1966,3768,262,586,80,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITF4,2,52.176221,◼
-Sardegna,340,1602,56,208,35,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITG2,2,21.223471,
-Sicilia,1214,3894,176,835,196,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITG1,2,31.176168,
-Toscana,1664,5033,283,631,13,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITI1,2,33.061792,
-Umbria,279,844,41,132,2,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITI2,2,33.056872,
-Valle d'Aosta,68,227,12,30,6,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITC2,2,29.955947,
-Veneto,1534,6000,269,1000,0,Dati della Protezione Civile del 13 Aprile 2021 ore 17:50,2021-04-13,ITH3,2,25.566667,
+Abruzzo,557,1495,58,215,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF1,2,37.257525,
+Basilicata,169,448,12,88,13,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF5,2,37.723214,
+Calabria,476,963,44,152,25,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF6,2,49.428868,◼
+Campania,1585,4320,127,620,36,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF3,2,36.689815,
+Emilia-Romagna,2590,6538,317,760,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITH5,2,39.614561,
+Friuli Venezia Giulia,471,1277,72,175,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITH4,2,36.883320,
+Lazio,2977,6421,398,943,193,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITI4,2,46.363495,◼
+Liguria,633,1854,84,226,12,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITC3,2,34.142395,
+Lombardia,5589,12998,781,1416,114,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITC4,2,42.998923,◼
+Marche,671,1410,116,247,19,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITI3,2,47.588652,◼
+Molise,44,221,17,39,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF2,2,19.909502,
+P.A. Bolzano,74,465,12,100,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITH1,2,15.913978,
+P.A. Trento,135,584,37,90,15,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITH2,2,23.116438,
+Piemonte,3430,5824,311,628,99,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITC1,2,58.894231,◼
+Puglia,1935,3768,270,586,80,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITF4,2,51.353503,◼
+Sardegna,350,1602,57,208,35,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITG2,2,21.847690,
+Sicilia,1230,3894,185,835,196,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITG1,2,31.587057,
+Toscana,1664,5033,282,632,13,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITI1,2,33.061792,
+Umbria,262,844,38,132,2,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITI2,2,31.042654,
+Valle d'Aosta,66,227,12,30,6,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITC2,2,29.074890,
+Veneto,1461,6000,260,1000,0,Dati della Protezione Civile del 14 Aprile 2021 ore 18:32,2021-04-14,ITH3,2,24.350000,
