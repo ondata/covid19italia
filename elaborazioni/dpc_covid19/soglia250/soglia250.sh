@@ -23,6 +23,7 @@ fi
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
+mkdir -p "$folder"/risorse
 
 URL="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
 
@@ -109,3 +110,40 @@ curl --request POST \
   --header 'Authorization: Bearer '"$DW"''
 
 ### crea dati per tabella datawrapper ###
+
+### soglia 250 province ###
+
+URLprov="https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-province/dpc-covid19-ita-province.csv"
+
+code=$(curl -s -kL -o /dev/null -w "%{http_code}" "$URLprov")
+
+# se il server risponde fai partire lo script
+if [ $code -eq 200 ]; then
+  curl -kL "$URLprov" >"$folder"/rawdata/dpc-covid19-ita-province.csv
+
+  mlr --csv filter -x -S '$sigla_provincia==""' then filter -x -S '$codice_nuts_3==""' then cut -f data,codice_nuts_3,totale_casi then step -f totale_casi -a delta -g codice_nuts_3 then cat -n -g codice_nuts_3 then sort -f data "$folder"/rawdata/dpc-covid19-ita-province.csv >"$folder"/rawdata/tmp.csv
+
+  # estrai id ultima settimana
+  lastWeek=$(mlr --c2n stats1 -a max -f n "$folder"/rawdata/tmp.csv)
+
+  ultimoGiorno=$(mlr --c2n stats1 -a max -f data "$folder"/rawdata/dpc-covid19-ita-province.csv)
+
+  # popolazione
+
+  if [ -f "$folder"/risorse/province_popolazione.csv ]; then
+    echo "nulla"
+  else
+    mlr --csv cut -f codice_nuts_3,Totale,Provincia "$folder"/../../../risorse/province_popolazione.csv >"$folder"/risorse/province_popolazione.csv
+  fi
+
+  #
+  mlr -I --csv filter '$n>=('"$lastWeek"'-6)' then stats1 -a sum -f totale_casi_delta -g codice_nuts_3 then put '$data="'"$ultimoGiorno"'"' "$folder"/rawdata/tmp.csv
+
+  mlr --csv join --ul -j codice_nuts_3 -f "$folder"/rawdata/tmp.csv then \
+   unsparsify then \
+   put '$soglia250=int($totale_casi_delta_sum/$Totale*100000)' then \
+   put 'if($soglia250>=250){${Sopra soglia}="◼"}else{${Sopra soglia}=""}' then \
+   rename totale_casi_delta_sum,totale_casi,Totale,popolazione "$folder"/risorse/province_popolazione.csv >"$folder"/processing/soglia_duecentocinquanta_province.csv
+fi
+
+### soglia 250 province ###
