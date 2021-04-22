@@ -20,3 +20,5 @@ webservices/regioneLombardiaStatiClinici/rawdata/*
 
 elaborazioni/dpc_covid19/soglia250/.config
 elaborazioni/dpc_covid19/soglia250/rawdata
+
+webservices/regioneLombardiaVaccini/rawdata/*
