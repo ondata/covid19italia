@@ -27,7 +27,7 @@ if [ $code -eq 200 ]; then
 
   nomeD=$(echo "$data" | sed -r 's/T.+$//g')
 
-  mlr --csv --ifs ";" put -S '$date = "'"$data"'"' then sort -f date "$folder"/rawdata/"$nome".csv >"$folder"/processing/"$nome"_latest.csv
+  mlr --csv --ifs ";" put -S '$date = "'"$data"'"' then sort -f date,CODISTAT_COMUNE_DOM "$folder"/rawdata/"$nome".csv >"$folder"/processing/"$nome"_latest.csv
   cp "$folder"/processing/"$nome"_latest.csv "$folder"/processing/"$nome"_"$nomeD".csv
 
   dos2unix "$folder"/processing/"$nome"_"$nomeD".csv
