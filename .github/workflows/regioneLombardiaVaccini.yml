@@ -1,7 +1,7 @@
 name: aggiorna dati Regione Lombardia Matrice degli stati clinici Covid-19 inviati a ISS
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '30 20 */1 * *'
