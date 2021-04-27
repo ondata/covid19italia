@@ -1,22 +1,22 @@
 Regioni,Ricoverati in Area Non Critica,PL in Area Non Critica,Ricoverati in Terapia intensiva,PL in Terapia Intensiva,PL Terapia Intensiva attivabili,fonte,data,NUTS_code,NUTS_level,soglia30,sopraSoglia
-Abruzzo,419,1426,44,187,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF1,2,23.529412,
-Basilicata,166,462,10,88,13,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF5,2,11.363636,
-Calabria,482,970,46,156,25,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF6,2,29.487179,
-Campania,1527,4304,141,620,36,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF3,2,22.741935,
-Emilia-Romagna,1861,6538,268,760,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITH5,2,35.263158,◼
-Friuli Venezia Giulia,286,1277,37,175,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITH4,2,21.142857,
-Lazio,2411,6421,331,943,193,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITI4,2,35.100742,◼
-Liguria,526,1811,69,226,12,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITC3,2,30.530973,◼
-Lombardia,3824,11656,601,1416,114,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITC4,2,42.443503,◼
-Marche,478,1279,68,198,64,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITI3,2,34.343434,◼
-Molise,42,221,14,39,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF2,2,35.897436,◼
-P.A. Bolzano,65,460,6,100,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITH1,2,6.000000,
-P.A. Trento,89,557,26,90,15,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITH2,2,28.888889,
-Piemonte,2404,5824,247,628,99,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITC1,2,39.331210,◼
-Puglia,1723,3768,232,586,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITF4,2,39.590444,◼
-Sardegna,362,1602,47,216,33,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITG2,2,21.759259,
-Sicilia,1254,3852,174,835,196,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITG1,2,20.838323,
-Toscana,1466,5033,262,627,16,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITI1,2,41.786284,◼
-Umbria,169,807,31,117,2,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITI2,2,26.495726,
-Valle d'Aosta,46,227,8,30,6,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITC2,2,26.666667,
-Veneto,1035,6000,187,1000,0,Dati della Protezione Civile del 26 Aprile 2021 ore 18:04,2021-04-26,ITH3,2,18.700000,
+Abruzzo,400,1426,45,187,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF1,2,24.064171,
+Basilicata,166,462,10,88,13,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF5,2,11.363636,
+Calabria,474,970,45,156,25,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF6,2,28.846154,
+Campania,1506,4304,136,620,36,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF3,2,21.935484,
+Emilia-Romagna,1833,6538,246,760,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITH5,2,32.368421,◼
+Friuli Venezia Giulia,267,1277,32,175,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITH4,2,18.285714,
+Lazio,2369,6421,317,943,193,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITI4,2,33.616119,◼
+Liguria,504,1811,66,226,12,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITC3,2,29.203540,
+Lombardia,3819,11497,582,1416,114,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITC4,2,41.101695,◼
+Marche,457,1251,66,210,54,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITI3,2,31.428571,◼
+Molise,43,221,11,39,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF2,2,28.205128,
+P.A. Bolzano,65,460,6,100,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITH1,2,6.000000,
+P.A. Trento,82,557,24,90,15,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITH2,2,26.666667,
+Piemonte,2308,5824,240,628,99,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITC1,2,38.216561,◼
+Puglia,1726,3768,227,586,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITF4,2,38.737201,◼
+Sardegna,371,1602,46,216,33,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITG2,2,21.296296,
+Sicilia,1254,3849,168,835,196,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITG1,2,20.119760,
+Toscana,1449,5033,257,625,17,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITI1,2,41.120000,◼
+Umbria,164,807,33,117,2,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITI2,2,28.205128,
+Valle d'Aosta,48,227,8,30,6,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITC2,2,26.666667,
+Veneto,1007,6000,183,1000,0,Dati della Protezione Civile del 27 Aprile 2021 ore 17:54,2021-04-27,ITH3,2,18.300000,
