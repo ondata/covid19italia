@@ -156,7 +156,6 @@ from tmp"
   # rimuovi colonna con i valori di NUTS per l'intero paese
   mlr -I --csv cut -x -f IT "$folder"/processing/areeStorico_wide_fill_down.csv
 
-
   # rimuovi file temporanei
   rm "$folder"/rawdata/tmp*.csv
 
@@ -188,9 +187,12 @@ if [ $code -eq 200 ]; then
 
   fi
 
+  # dati di insieme numero giorni regioni in zone
+  # nota bene: si fa partire dal 15 novembre per avere un range confrontabile tra tutte le regioni
+  mlr --csv reshape -r "[0-9]" -o item,value then sort -f item,datasetIniISO then filter -S '$datasetIniISO>"2020-11-14"' then rename item,NUTS_code,value,zona "$folder"/processing/areeStorico_wide_fill_down.csv | mlr --csv put -S '$c=strptime($datasetIniISO,"%Y-%m-%d")' then step -a delta -f c -g NUTS_code then step -a shift -f zona -g NUTS_code then stats1 -a sum -f c_delta -g NUTS_code,zona then put '$c_delta_sum=int($c_delta_sum/60/60/24)' then reshape -s zona,c_delta_sum then unsparsify >"$folder"/processing/areeStorico_giorni_nuts_wide.csv
 
+  mlr --csv join --ul -j NUTS_code -f "$folder"/processing/areeStorico_giorni_nuts_wide.csv then unsparsify "$folder"/risorse/codici.csv >"$folder"/processing/tmp.csv
+
+  mv "$folder"/processing/tmp.csv "$folder"/processing/areeStorico_giorni_nuts_wide.csv
 
 fi
-
-# dati di insieme
-# mlr --csv reshape -r  "[0-9]" -o item,value then sort -f item,datasetIniISO then filter -S '$datasetIniISO>"2020-11-14"' then rename item,NUTS_code,value,zona areeStorico_wide_fill_down.csv | mlr --csv put -S '$c=strptime($datasetIniISO,"%Y-%m-%d")' then step -a delta -f c -g NUTS_code then step -a shift -f zona -g NUTS_code then stats1 -a sum -f c_delta -g NUTS_code,zona then put '$c_delta_sum=int($c_delta_sum/60/60/24)' then reshape -s zona,c_delta_sum then unsparsify
