@@ -16,6 +16,7 @@ jobs:
         fetch-depth: 0
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa mapshaper e gdal/ogr
       run: |-
+        sudo apt-get install moreutils
         sudo apt-get install gdal-bin
         sudo apt-get install librsvg2-bin
         sudo apt-get install dos2unix
