@@ -36,6 +36,6 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date --iso-8601=seconds)
-        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
+        git commit -m "Aggiornamento dati dashboard ISS: ${timestamp}" || exit 0
         git push
 
