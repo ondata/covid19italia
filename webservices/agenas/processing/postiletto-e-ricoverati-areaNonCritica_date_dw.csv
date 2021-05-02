@@ -1,22 +1,22 @@
 Regioni,Ricoverati in Area Non Critica,PL in Area Non Critica,Ricoverati in Terapia intensiva,PL in Terapia Intensiva,PL Terapia Intensiva attivabili,fonte,data,NUTS_code,NUTS_level,soglia30,sopraSoglia
-Abruzzo,348,1376,32,187,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF1,2,17.112299,
-Basilicata,158,448,9,88,13,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF5,2,10.227273,
-Calabria,444,991,45,156,25,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF6,2,28.846154,
-Campania,1441,4304,137,620,36,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF3,2,22.096774,
-Emilia-Romagna,1640,6538,216,760,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITH5,2,28.421053,
-Friuli Venezia Giulia,216,1277,30,175,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITH4,2,17.142857,
-Lazio,2145,6421,276,943,193,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITI4,2,29.268293,
-Liguria,459,1838,63,226,12,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITC3,2,27.876106,
-Lombardia,3403,10872,536,1416,114,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITC4,2,37.853107,◼
-Marche,398,1215,66,210,54,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITI3,2,31.428571,◼
-Molise,34,221,6,39,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF2,2,15.384615,
-P.A. Bolzano,61,449,4,100,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITH1,2,4.000000,
-P.A. Trento,61,537,20,90,15,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITH2,2,22.222222,
-Piemonte,2084,5824,200,628,99,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITC1,2,31.847134,◼
-Puglia,1596,3768,228,586,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITF4,2,38.907850,◼
-Sardegna,371,1602,49,216,33,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITG2,2,22.685185,
-Sicilia,1136,3854,167,835,196,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITG1,2,20.000000,
-Toscana,1279,5033,248,619,19,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITI1,2,40.064620,◼
-Umbria,165,749,28,117,2,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITI2,2,23.931624,
-Valle d'Aosta,35,227,8,30,6,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITC2,2,26.666667,
-Veneto,907,6000,154,1000,0,Dati della Protezione Civile del 01 Maggio 2021 ore 19:00,2021-05-01,ITH3,2,15.400000,
+Abruzzo,355,1376,31,187,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF1,2,16.577540,
+Basilicata,159,448,9,88,13,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF5,2,10.227273,
+Calabria,434,991,48,156,25,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF6,2,30.769231,◼
+Campania,1467,4304,143,620,36,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF3,2,23.064516,
+Emilia-Romagna,1671,6538,217,760,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITH5,2,28.552632,
+Friuli Venezia Giulia,217,1277,34,175,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITH4,2,19.428571,
+Lazio,2160,6421,269,943,193,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITI4,2,28.525981,
+Liguria,475,1838,61,226,12,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITC3,2,26.991150,
+Lombardia,3290,10872,542,1416,114,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITC4,2,38.276836,◼
+Marche,415,1215,67,210,54,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITI3,2,31.904762,◼
+Molise,34,221,7,39,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF2,2,17.948718,
+P.A. Bolzano,65,450,5,100,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITH1,2,5.000000,
+P.A. Trento,63,517,20,90,15,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITH2,2,22.222222,
+Piemonte,2034,5824,203,628,99,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITC1,2,32.324841,◼
+Puglia,1594,3768,219,586,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITF4,2,37.372014,◼
+Sardegna,362,1602,49,216,33,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITG2,2,22.685185,
+Sicilia,1148,3855,163,835,196,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITG1,2,19.520958,
+Toscana,1296,5033,250,620,18,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITI1,2,40.322581,◼
+Umbria,171,749,30,117,2,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITI2,2,25.641026,
+Valle d'Aosta,38,227,8,30,6,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITC2,2,26.666667,
+Veneto,897,6000,149,1000,0,Dati della Protezione Civile del 02 Maggio 2021 ore 19:27,2021-05-02,ITH3,2,14.900000,
