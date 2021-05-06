@@ -214,4 +214,6 @@ if [ $code -eq 200 ]; then
 
   mv "$folder"/processing/tmp.csv "$folder"/processing/areeStorico_giorni_nuts_wide.csv
 
+  mlr -I --csv sort -nr rossa,arancione,gialla "$folder"/processing/areeStorico_giorni_nuts_wide.csv
+
 fi
