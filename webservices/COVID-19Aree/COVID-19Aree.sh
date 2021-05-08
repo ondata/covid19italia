@@ -95,7 +95,7 @@ from tmp"
   # estrai file di insieme
   ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g"' >"$folder"/processing/areeStorico.csv
 
-  mapshaper "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -o format=json >"$folder"/processing/areeStorico.json
+  mapshaper "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -o format=json "$folder"/processing/areeStorico.json
 
   # classifica le zone
   mlr -I --csv clean-whitespace \
