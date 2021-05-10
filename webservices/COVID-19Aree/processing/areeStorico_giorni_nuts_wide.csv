@@ -1,22 +1,22 @@
 NUTS_code,rossa,arancione,gialla,bianca,nomeTesto,NUTS_level
-ITF3,71,31,73,,Campania,2
-ITC2,70,39,66,,Valle d'Aosta,2
-ITF4,57,60,58,,Puglia,2
-ITH2,57,35,83,,Provincia autonoma Trento,2
-ITH3,57,25,93,,Veneto,2
-ITC4,55,56,64,,Lombardia,2
-ITC1,54,57,64,,Piemonte,2
-ITH5,45,65,65,,Emilia-Romagna,2
-ITI1,45,61,69,,Toscana,2
-ITH4,45,51,79,,Friuli Venezia Giulia,2
-ITH1,41,91,43,,Provincia autonoma Bolzano,2
-ITI3,41,63,71,,Marche,2
-ITF2,41,47,87,,Molise,2
-ITF6,40,76,59,,Calabria,2
-ITG2,38,77,38,22,Sardegna,2
-ITF1,35,93,47,,Abruzzo,2
-ITG1,27,84,64,,Sicilia,2
-ITI2,19,113,43,,Umbria,2
-ITF5,19,104,52,,Basilicata,2
-ITC3,19,65,91,,Liguria,2
-ITI4,19,56,100,,Lazio,2
+ITC2,71,39,66,,Valle d'Aosta,2
+ITF3,71,31,74,,Campania,2
+ITF4,57,61,58,,Puglia,2
+ITH2,57,35,84,,Provincia autonoma Trento,2
+ITH3,57,25,94,,Veneto,2
+ITC4,55,56,65,,Lombardia,2
+ITC1,54,57,65,,Piemonte,2
+ITH5,45,65,66,,Emilia-Romagna,2
+ITI1,45,61,70,,Toscana,2
+ITH4,45,51,80,,Friuli Venezia Giulia,2
+ITH1,41,91,44,,Provincia autonoma Bolzano,2
+ITI3,41,63,72,,Marche,2
+ITF2,41,47,88,,Molise,2
+ITF6,40,77,59,,Calabria,2
+ITG2,38,78,38,22,Sardegna,2
+ITF1,35,93,48,,Abruzzo,2
+ITG1,27,85,64,,Sicilia,2
+ITI2,19,113,44,,Umbria,2
+ITF5,19,105,52,,Basilicata,2
+ITC3,19,65,92,,Liguria,2
+ITI4,19,56,101,,Lazio,2
