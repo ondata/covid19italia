@@ -1,0 +1,11 @@
+.vl-responsive {
+  width: 100%;
+}
+
+details {
+  display: none !important;
+}
+
+body {
+font-family: 'Roboto', sans-serif;
+}

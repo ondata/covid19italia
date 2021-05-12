@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "name": "trellis_barley",
+  "description": "Trellis",
+  "title": {
+    "text": null,
+    "color": "#168CC7",
+    "fontSize": 18,
+    "anchor": "start",
+    "font": "Montserrat",
+    "subtitle": null,
+    "subtitleFont": "Montserrat"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/ondata/covid19italia/master/elaborazioni/dpc_covid19/terapiaIntensiva/processing/terapiaIntensivaReg.csv"
+  },
+  "params": [
+    {
+      "name": "paintbrush",
+      "select": {
+        "type": "point",
+        "on": "mouseover",
+        "nearest": true,
+        "clear": "click"
+      }
+    }
+  ],
+  "mark": "point",
+  "height": {
+    "step": 12
+  },
+  "encoding": {
+    "facet": {
+      "field": "denominazione_regione",
+      "type": "ordinal",
+      "columns": 3,
+      "title": ""
+    },
+    "x": {
+      "field": "ingressi_terapia_intensiva_mm",
+      "type": "quantitative",
+      "title": "Ingressi giornalieri in TI",
+      "scale": {
+        "zero": false,
+        "padding": 10
+      }
+    },
+    "y": {
+      "field": "terapia_intensiva_mm",
+      "type": "quantitative",
+      "title": "Totale ricoveri in TI",
+      "scale": {
+        "zero": false,
+        "padding": 10
+      }
+    },
+    "size": {
+      "value": 20,
+      "condition": {
+        "param": "paintbrush",
+        "empty": false,
+        "value": 100
+      }
+    },
+    "tooltip": [
+      {
+        "field": "data",
+        "type": "temporal",
+        "title": "data",
+        "format": "%e %B %Y"
+      }
+    ],
+    "color": {
+      "field": "mese",
+      "type": "nominal",
+      "legend": {
+        "title": "Mesi"
+      },
+      "scale": {
+        "scheme": "tableau10"
+      }
+    }
+  },
+  "resolve": {
+    "scale": {
+      "x": "independent",
+      "y": "independent"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>To be set</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <style media="screen">
+    /* Add space between Vega-Embed links  */
+    .vega-actions a {
+      margin-right: 5px;
+    }
+  </style>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+  <!-- carica bootstrap 4 -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/css.css">
+  <!-- carica bootstrap 4 -->
+
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3>Italia: Regioni: Ingressi giornalieri in Terapia Intensiva (TI) a confronto con ricoveri totali in TI</h3>
+        <div id="visN" class="vl-responsive"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <h3>Regioni: Ingressi giornalieri in Terapia Intensiva (TI) a confronto con ricoveri totali in TI</h3>
+        <div id="visR" class="vl-responsive"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- carica configurazione-->
+  <script src="./js/config.js"></script>
+</body>
+
+</html>
