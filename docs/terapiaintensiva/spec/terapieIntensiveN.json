@@ -65,12 +65,6 @@
       {
         "field": "data",
         "type": "temporal",
-        "title": "mese",
-        "format": "%B"
-      },
-      {
-        "field": "data",
-        "type": "temporal",
         "title": "data",
         "format": "%e %B %Y"
       }
