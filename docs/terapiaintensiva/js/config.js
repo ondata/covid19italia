@@ -1,5 +1,5 @@
 // carica definizione grafico Nazionale
-const specN = "./spec/terapieIntensiveN.json";
+var specN = "./spec/terapieIntensiveN.json";
 // renderizza grafico Nazionale
 vegaEmbed('#visN', specN, {
   theme: "fivethirtyeight",
@@ -16,7 +16,7 @@ vegaEmbed('#visN', specN, {
 })
 
 // carica definizione grafico Regionale
-const specR = "./spec/terapieIntensiveR.json";
+var specR = "./spec/terapieIntensiveR.json";
 // renderizza grafico Regionale
 vegaEmbed('#visR', specR, {
   theme: "fivethirtyeight",
@@ -30,4 +30,7 @@ vegaEmbed('#visR', specR, {
     "months": ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"],
     "shortMonths": ["Gen", "Feb", "Mar", "Apr", "Mag", "Giu", "Lug", "Ago", "Set", "Ott", "Nov", "Dic"]
   }
+}).then(res => {
+  var view = res.view;
+  console.log(view.data('source_0'));
 })
