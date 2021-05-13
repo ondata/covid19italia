@@ -71,12 +71,14 @@
       {
         "field": "ingressi_terapia_intensiva_mm",
         "type": "quantitative",
-        "title": "ingressi"
+        "title": "ingressi",
+        "format": ".0f"
       },
       {
         "field": "terapia_intensiva_mm",
         "type": "quantitative",
-        "title": "ricoverati"
+        "title": "ricoverati",
+        "format": ".0f"
       }
     ],
     "color": {
