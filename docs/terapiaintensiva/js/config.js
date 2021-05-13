@@ -31,6 +31,6 @@ vegaEmbed('#visR', specR, {
     "shortMonths": ["Gen", "Feb", "Mar", "Apr", "Mag", "Giu", "Lug", "Ago", "Set", "Ott", "Nov", "Dic"]
   }
 }).then(res => {
-  var view = res.view;
+  view = res.view;
   console.log(view.data('source_0'));
 })
