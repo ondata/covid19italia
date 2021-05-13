@@ -67,6 +67,16 @@
         "type": "temporal",
         "title": "data",
         "format": "%e %B %Y"
+      },
+      {
+        "field": "ingressi_terapia_intensiva_mm",
+        "type": "quantitative",
+        "title": "ingressi"
+      },
+      {
+        "field": "terapia_intensiva_mm",
+        "type": "quantitative",
+        "title": "ricoverati"
       }
     ],
     "color": {
