@@ -18,7 +18,8 @@
     {
       "calculate": "timeFormat(datum.data, '%B')",
       "as": "Month"
-    }
+    },
+    {"filter": "! test(/^(14|2|21|22)$/, datum.codice_regione)"}
   ],
   "params": [
     {
