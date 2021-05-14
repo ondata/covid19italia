@@ -2,11 +2,6 @@
   width: 100%;
 }
 
-/*commentarlo se si vuole mostrare controller vega*/
-details {
-  display: none !important;
-}
-
 body {
 font-family: 'Roboto', sans-serif;
 }
