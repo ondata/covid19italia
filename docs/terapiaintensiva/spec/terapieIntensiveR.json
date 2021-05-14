@@ -14,6 +14,12 @@
   "data": {
     "url": "https://raw.githubusercontent.com/ondata/covid19italia/master/elaborazioni/dpc_covid19/terapiaIntensiva/processing/terapiaIntensivaReg.csv"
   },
+  "transform": [
+    {
+      "calculate": "timeFormat(datum.data, '%B')",
+      "as": "Month"
+    }
+  ],
   "params": [
     {
       "name": "paintbrush",
@@ -71,11 +77,10 @@
       }
     ],
     "color": {
-      "field": "mese",
+      "field": "Month",
       "type": "nominal",
+      "sort": {"field": "mese"},
       "legend": {
-        "orient": "top",
-        "direction": "horizontal",
         "title": "Mesi"
       },
       "scale": {

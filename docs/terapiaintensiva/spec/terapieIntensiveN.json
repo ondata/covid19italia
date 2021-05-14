@@ -16,7 +16,7 @@
   },
   "transform": [
     {
-      "calculate": "datum.mese+' '+timeFormat(datum.data, '%B')",
+      "calculate": "timeFormat(datum.data, '%B')",
       "as": "Month"
     }
   ],
@@ -84,6 +84,7 @@
     "color": {
       "field": "Month",
       "type": "nominal",
+      "sort": {"field": "mese"},
       "legend": {
         "title": "Mesi"
       },
