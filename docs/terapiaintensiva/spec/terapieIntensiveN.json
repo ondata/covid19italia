@@ -85,6 +85,8 @@
       "field": "Month",
       "type": "nominal",
       "legend": {
+        "orient": "top",
+        "direction": "horizontal",
         "title": "Mesi"
       },
       "scale": {
