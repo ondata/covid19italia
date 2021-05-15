@@ -95,6 +95,9 @@ from tmp"
   # estrai file di insieme
   ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT FID,nomeTesto,datasetIni,datasetFin,designIniz,designFine,nomeAutCom,legNomeBre,legData,legLink,legSpecRif,legLivello,legGU_Link,versionID from "dpc-covid-19-aree-nuove-g"' >"$folder"/processing/areeStorico.csv
 
+  # correggi errore associazione zona lazio https://github.com/pcm-dpc/COVID-19/issues/1045#issuecomment-841725392
+  mlr -I --csv put -S 'if($datasetIni=="15/03/2021" && $nomeTesto=="Lazio" && $legSpecRif=="art.2"){$legSpecRif="art.3";$test="sì"}else{$legSpecRif=$legSpecRif;$test="no"}' "$folder"/processing/areeStorico.csv
+
   mapshaper "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -o format=json "$folder"/processing/areeStorico.json
 
   # classifica le zone
