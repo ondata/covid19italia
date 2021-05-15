@@ -3,12 +3,12 @@
   "name": "trellis_barley",
   "description": "Trellis",
   "title": {
-    "text": "Ingressi giornalieri in Terapia Intensiva (TI) a confronto con ricoveri totali in TI",
+    "text": "",
     "color": "#168CC7",
     "fontSize": 18,
     "anchor": "start",
     "font": "Montserrat",
-    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam convallis enim ac fringilla feugiat",
+    "subtitle": "",
     "subtitleFont": "Montserrat"
   },
   "data": {
