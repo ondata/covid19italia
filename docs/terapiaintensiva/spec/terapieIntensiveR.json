@@ -45,7 +45,7 @@
               "x": {
                 "field": "ingressi_terapia_intensiva_mm",
                 "type": "quantitative",
-                "title": "Ingressi giornalieri in TI",
+                "title": "Ingressi giornalieri in TIA",
                 "scale": {"zero": false, "padding": 10}
               },
               "y": {
@@ -82,7 +82,7 @@
           {
             "mark": {"type": "rule", "color": "red"},
             "encoding": {
-              "y": {"field": "soglia30", "type": "quantitative", "title": null},
+              "y": {"field": "soglia30", "type": "quantitative", "title": ""},
               "size": {"value": 1}
             }
           }
