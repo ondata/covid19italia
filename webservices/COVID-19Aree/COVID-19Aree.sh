@@ -98,7 +98,9 @@ from tmp"
   # correggi errore associazione zona lazio https://github.com/pcm-dpc/COVID-19/issues/1045#issuecomment-841725392
   mlr -I --csv put -S 'if($datasetIni=="15/03/2021" && $nomeTesto=="Lazio" && $legSpecRif=="art.2"){$legSpecRif="art.3"}else{$legSpecRif=$legSpecRif}' "$folder"/processing/areeStorico.csv
 
+  # estrai CSV e JSON grezzi
   mapshaper "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -o format=json "$folder"/processing/areeStorico.json
+  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT * from "dpc-covid-19-aree-nuove-g"' | mlr --csv reorder -f FID,nomeTesto,versionID,datasetIni,datasetFin,legSpecRif,legLink,legGU_Link >"$folder"/processing/areeStorico_raw.csv
 
   # classifica le zone
   mlr -I --csv clean-whitespace \
