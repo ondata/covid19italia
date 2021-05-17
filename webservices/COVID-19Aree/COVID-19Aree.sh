@@ -100,7 +100,7 @@ from tmp"
 
   # estrai CSV e JSON grezzi
   mapshaper "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -o format=json "$folder"/processing/areeStorico.json
-  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT * from "dpc-covid-19-aree-nuove-g"' | mlr --csv reorder -f FID,nomeTesto,versionID,datasetIni,datasetFin,legSpecRif,legLink,legGU_Link >"$folder"/processing/areeStorico_raw.csv
+  ogr2ogr -f CSV "/vsistdout/" "$folder"/rawdata/dpc-covid-19-aree-nuove-g.json -dialect sqlite -sql 'SELECT * from "dpc-covid-19-aree-nuove-g"' | mlr --csv reorder -f FID,nomeTesto,versionID,datasetIni,datasetFin,legDataAbr,legSpecRif,legLink,legGU_Link >"$folder"/processing/areeStorico_raw.csv
 
   # classifica le zone
   mlr -I --csv clean-whitespace \
