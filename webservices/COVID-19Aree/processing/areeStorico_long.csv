@@ -357,11 +357,14 @@ datasetIniISO,NUTS_code,zona
 2021-04-06,ITI3,arancione
 2021-04-07,ITI4,arancione
 2021-04-07,ITF2,arancione
+2021-04-07,ITH2,arancione
 2021-04-07,ITG2,arancione
 2021-04-07,ITG1,arancione
+2021-04-07,ITH3,arancione
 2021-04-07,ITF1,arancione
 2021-04-07,ITF5,arancione
 2021-04-07,ITC3,arancione
+2021-04-07,ITH1,arancione
 2021-04-07,ITI2,arancione
 2021-04-12,ITF6,arancione
 2021-04-12,ITC4,arancione
@@ -401,3 +404,5 @@ datasetIniISO,NUTS_code,zona
 2021-05-10,ITG1,arancione
 2021-05-10,ITC2,arancione
 2021-05-10,ITF5,gialla
+2021-05-17,ITG2,gialla
+2021-05-17,ITG1,gialla
