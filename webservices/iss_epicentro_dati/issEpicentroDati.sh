@@ -22,7 +22,10 @@ if [ $code -eq 200 ]; then
 
   curl -kL --cipher 'DEFAULT:!DH' "https://www.epicentro.iss.it/coronavirus/open-data/covid_19-iss.xlsx" >"$folder"/rawdata/covid_19-iss.xlsx
 
-  rm "$folder"/rawdata/*.csv
+  contaCSV=$(ls "$folder"/rawdata/*.csv | wc -l)
+  if [ "$contaCSV" -gt 0 ]; then
+    rm "$folder"/rawdata/*.csv
+  fi
 
   # leggi lista dei fogli, rimuovendo Contenuto e foglio che contiene spazio nel nome
   in2csv -n "$folder"/rawdata/covid_19-iss.xlsx | grep -vP "( |Contenuto)" >"$folder"/rawdata/listafogli
