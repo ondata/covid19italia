@@ -1,6 +1,9 @@
 #!/bin/bash
 
 set -x
+set -e
+set -u
+set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -23,10 +26,12 @@ if [ $code -eq 200 ]; then
 
   # leggi lista dei fogli, rimuovendo Contenuto e foglio che contiene spazio nel nome
   in2csv -n "$folder"/rawdata/covid_19-iss.xlsx | grep -vP "( |Contenuto)" >"$folder"/rawdata/listafogli
+  #in2csv -n "$folder"/tmp_bad_data.xlsx | grep -vP "( |Contenuto)" >"$folder"/rawdata/listafogli
 
   # crea un CSV per ogni foglio
   while read p; do
-    in2csv -I --sheet "$p" "$folder"/rawdata/covid_19-iss.xlsx >"$folder"/rawdata/"$p".csv
+    #in2csv -I --sheet "$p" "$folder"/rawdata/covid_19-iss.xlsx >"$folder"/rawdata/"$p".csv
+    csvtk xlsx2csv "$folder"/rawdata/covid_19-iss.xlsx -n "$p" >"$folder"/rawdata/"$p".csv
   done <"$folder"/rawdata/listafogli
 
   # se la cartella processing è vuota copia i CSV da rawdata a processing
