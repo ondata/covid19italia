@@ -3,17 +3,17 @@ abruzzo,bianco,Abruzzo,ITF1,2
 basilicata,giallo,Basilicata,ITF5,2
 calabria,giallo,Calabria,ITF6,2
 campania,giallo,Campania,ITF3,2
-emiliaromagna,giallo,Emilia-Romagna,ITH5,2
+emiliaromagna,bianco,Emilia-Romagna,ITH5,2
 friuliveneziagiulia,bianco,Friuli Venezia Giulia,ITH4,2
-lazio,giallo,Lazio,ITI4,2
+lazio,bianco,Lazio,ITI4,2
 liguria,bianco,Liguria,ITC3,2
-lombardia,giallo,Lombardia,ITC4,2
+lombardia,bianco,Lombardia,ITC4,2
 marche,giallo,Marche,ITI3,2
 molise,bianco,Molise,ITF2,2
-piemonte,giallo,Piemonte,ITC1,2
+piemonte,bianco,Piemonte,ITC1,2
 bolzano,giallo,Provincia autonoma Bolzano,ITH1,2
-trento,giallo,Provincia autonoma Trento,ITH2,2
-puglia,giallo,Puglia,ITF4,2
+trento,bianco,Provincia autonoma Trento,ITH2,2
+puglia,bianco,Puglia,ITF4,2
 sardegna,bianco,Sardegna,ITG2,2
 sicilia,giallo,Sicilia,ITG1,2
 toscana,giallo,Toscana,ITI1,2
