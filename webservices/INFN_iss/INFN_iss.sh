@@ -35,12 +35,24 @@ scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="provincia_giornalieri
 
 scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="dati_giornalieri"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' >"$folder"/rawdata/iss_bydate_italia_positivi_dati
 
+scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="regione_giornalieri"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' | grep -Pv 'talia' >"$folder"/rawdata/iss_bydate_italia_positivi_regione
+
 scarica_iss_bydate_italia_positivi="no"
 
+# dati provinciali
 if [ "$scarica_iss_bydate_italia_positivi" = "sì" ]; then
   cat "$folder"/rawdata/iss_bydate_italia_positivi_provincia | while read provincia; do
     cat "$folder"/rawdata/iss_bydate_italia_positivi_dati | while read dati; do
       curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_{$provincia}_{$dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/iss_bydate_"$provincia"_"$dati".json
+    done
+  done
+fi
+
+# dati regionali
+if [ "$scarica_iss_bydate_italia_positivi" = "sì" ]; then
+  cat "$folder"/rawdata/iss_bydate_italia_positivi_regione | while read regione; do
+    cat "$folder"/rawdata/iss_bydate_italia_positivi_dati | while read dati; do
+      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_{$regione}_{$dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/r_iss_bydate_"$regione"_"$dati".json
     done
   done
 fi
