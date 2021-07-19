@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa yq, chrome headless, twurl, capture-website-cli
+    - name: installa chrome e jq
       run: |-
         sudo apt-get install -y jq
         sudo apt-get install -y libappindicator1 fonts-liberation

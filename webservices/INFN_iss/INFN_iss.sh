@@ -12,12 +12,14 @@ mkdir -p "$folder"/rawdata
 
 URL="https://covid19.infn.it/iss/"
 
-#google-chrome-stable --headless --disable-gpu --dump-dom --virtual-time-budget=99999999 --run-all-compositor-stages-before-draw "$URL" >"$folder"/rawdata/INFN_iss.html
+# scarica pagina
+google-chrome-stable --headless --disable-gpu --dump-dom --virtual-time-budget=99999999 --run-all-compositor-stages-before-draw "$URL" >"$folder"/rawdata/INFN_iss.html
 
+# estrai elenco file
 grep <"$folder"/rawdata/INFN_iss.html -Po '"filename": ".+?"' >"$folder"/rawdata/file
-
 sed -i -r 's/^.+ //g;s/"//g' "$folder"/rawdata/file
 
+# scarica file
 cat "$folder"/rawdata/file | while read line; do
   echo "$line"
   curl -kL "https://covid19.infn.it/iss/plots/$line.div" >"$folder"/rawdata/"$line".html
