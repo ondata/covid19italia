@@ -25,3 +25,22 @@ cat "$folder"/rawdata/file | while read line; do
   curl -kL "https://covid19.infn.it/iss/plots/$line.div" >"$folder"/rawdata/"$line".html
   grep <"$folder"/rawdata/"$line".html -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$line".json
 done
+
+### iss_bydate_italia_positivi ###
+
+dataset="iss_bydate_italia_positivi"
+mkdir -p "$folder"/processing/"$dataset"
+
+scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="provincia_giornalieri"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' >"$folder"/rawdata/iss_bydate_italia_positivi_provincia
+
+scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="dati_giornalieri"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' >"$folder"/rawdata/iss_bydate_italia_positivi_dati
+
+scarica_iss_bydate_italia_positivi="no"
+
+if [ "$scarica_iss_bydate_italia_positivi" = "sì" ]; then
+  cat "$folder"/rawdata/iss_bydate_italia_positivi_provincia | while read provincia; do
+    cat "$folder"/rawdata/iss_bydate_italia_positivi_dati | while read dati; do
+      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_{$provincia}_{$dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/iss_bydate_"$provincia"_"$dati".json
+    done
+  done
+fi
