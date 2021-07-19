@@ -142,3 +142,22 @@ if [ "$scarica_iss_age_date" = "sì" ]; then
       curl -kL "https://covid19.infn.it/iss/plots/{$dataset}_{$provincia}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/province/"$dataset"_"$provincia".json
     done
 fi
+
+### iss_byage ###
+
+dataset="iss_byage"
+mkdir -p "$folder"/processing/"$dataset"
+
+scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="regione_eta"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' >"$folder"/rawdata/"$dataset"_regione
+
+scrape <"$folder"/rawdata/INFN_iss.html -be '//select[@id="dati_eta"]' | xq -r '.html.body.select.option[]."@value"' | grep -P '.+' >"$folder"/rawdata/"$dataset"_dati
+
+scarica_iss_byage="no"
+
+if [ "$scarica_iss_byage" = "sì" ]; then
+  cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
+    cat "$folder"/rawdata/"$dataset"_dati | while read dati; do
+      curl -kL "https://covid19.infn.it/iss/plots/{$dataset}_{$regione}_{$dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
+    done
+  done
+fi
