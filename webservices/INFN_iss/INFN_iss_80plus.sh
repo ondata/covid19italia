@@ -29,6 +29,12 @@ find "$folder"/processing/"$dataset"/ -name "*.csv" -size 0 -delete
 
 # merge dei CSV
 
-mlr --csv put '$r=FILENAME;$r=gsub($r,"(.+_80plus_|\.csv)","");$regione=regextract($r,"^(.+_giulia|.+_romagna|.+_daosta|.+_adige|.._[a-z]+|[a-z]+)_");$tipo=sub($r,$regione,"");$regione=sub($regione,"_","")' then cut -x -f r then sort -f regione,tipo,date "$folder"/processing/"$dataset"/ottantaPlus_*.csv >"$folder"/processing/iss_80plus.csv
+mlr --csv put '$r=FILENAME;$r=gsub($r,"(.+_80plus_|\.csv)","");$regione=regextract($r,"^(.+_giulia|.+_romagna|.+_daosta|.+_adige|.._[a-z]+|[a-z]+)_");$tipo=sub($r,$regione,"");$regione=sub($regione,"_","")' then cut -x -f r then sort -f regione,tipo,date "$folder"/processing/"$dataset"/ottantaPlus_*.csv >"$folder"/processing/"$dataset".csv
+# creazione versione wide
+mlr --csv reshape -s tipo,valore then unsparsify then sort -f regione,date "$folder"/processing/"$dataset".csv >"$folder"/processing/"$dataset"_wide.csv
 
-mlr --csv put '$r=FILENAME;$r=gsub($r,"(.+_80plus_|\.csv)","");$regione=regextract($r,"^(.+_giulia|.+_romagna|.+_daosta|.+_adige|.._[a-z]+|[a-z]+)_");$tipo=sub($r,$regione,"");$regione=sub($regione,"_","")' then cut -x -f r then sort -f regione,tipo,date "$folder"/processing/"$dataset"/altri*.csv >"$folder"/processing/iss_80plus_altri.csv
+mlr --csv put '$r=FILENAME;$r=gsub($r,"(.+_80plus_|\.csv)","");$regione=regextract($r,"^(.+_giulia|.+_romagna|.+_daosta|.+_adige|.._[a-z]+|[a-z]+)_");$tipo=sub($r,$regione,"");$regione=sub($regione,"_","")' then cut -x -f r then sort -f regione,tipo,date "$folder"/processing/"$dataset"/altri*.csv >"$folder"/processing/"$dataset"_altri.csv
+# creazione versione wide
+mlr --csv reshape -s tipo,valore then unsparsify then sort -f regione,date "$folder"/processing/"$dataset"_altri.csv >"$folder"/processing/"$dataset"_altri_wide.csv
+
+find "$folder"/processing/"$dataset" -name "*.csv" -delete
