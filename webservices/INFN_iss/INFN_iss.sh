@@ -19,11 +19,15 @@ google-chrome-stable --headless --disable-gpu --dump-dom --virtual-time-budget=9
 grep <"$folder"/rawdata/INFN_iss.html -Po '"filename": ".+?"' >"$folder"/rawdata/file
 sed -i -r 's/^.+ //g;s/"//g' "$folder"/rawdata/file
 
+
+# <tmp.txt grep -oP '\(.+\)' | sed -r 's/, *\{"an.+//g;' |
+
+
 # scarica file
 cat "$folder"/rawdata/file | while read line; do
   echo "$line"
   curl -kL "https://covid19.infn.it/iss/plots/$line.div" >"$folder"/rawdata/"$line".html
-  grep <"$folder"/rawdata/"$line".html -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$line".json
+  grep <"$folder"/rawdata/"$line".html -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$line".json
 done
 
 ### iss_bydate_italia_positivi ###
@@ -45,7 +49,7 @@ mkdir -p "$folder"/processing/"$dataset"/province
 if [ "$scarica_iss_bydate_italia" = "sì" ]; then
   cat "$folder"/rawdata/iss_bydate_italia_provincia | while read provincia; do
     cat "$folder"/rawdata/iss_bydate_italia_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_${provincia}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/province/iss_bydate_"$provincia"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_${provincia}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/province/iss_bydate_"$provincia"_"$dati".json
     done
   done
 fi
@@ -55,7 +59,7 @@ mkdir -p "$folder"/processing/"$dataset"/regioni
 if [ "$scarica_iss_bydate_italia" = "sì" ]; then
   cat "$folder"/rawdata/iss_bydate_italia_regione | while read regione; do
     cat "$folder"/rawdata/iss_bydate_italia_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/regioni/iss_bydate_"$regione"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/iss_bydate_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/regioni/iss_bydate_"$regione"_"$dati".json
     done
   done
 fi
@@ -74,7 +78,7 @@ scarica_iss_opsan_italia="sì"
 if [ "$scarica_iss_opsan_italia" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
     cat "$folder"/rawdata/"$dataset"_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/iss_opsan_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/iss_opsan_"$regione"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/iss_opsan_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/iss_opsan_"$regione"_"$dati".json
     done
   done
 fi
@@ -93,7 +97,7 @@ scarica_iss_80plus="sì"
 if [ "$scarica_iss_80plus" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
     cat "$folder"/rawdata/"$dataset"_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
     done
   done
 fi
@@ -112,7 +116,7 @@ scarica_iss_age_date="sì"
 if [ "$scarica_iss_age_date" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
     cat "$folder"/rawdata/"$dataset"_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
     done
   done
 fi
@@ -131,14 +135,14 @@ scarica_iss_rt="sì"
 mkdir -p "$folder"/processing/"$dataset"/regioni
 if [ "$scarica_iss_age_date" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
-    curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/regioni/"$dataset"_"$regione".json
+    curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/regioni/"$dataset"_"$regione".json
   done
 fi
 
 mkdir -p "$folder"/processing/"$dataset"/province
 if [ "$scarica_iss_age_date" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_provincia | while read provincia; do
-    curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${provincia}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/province/"$dataset"_"$provincia".json
+    curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${provincia}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/province/"$dataset"_"$provincia".json
   done
 fi
 
@@ -156,7 +160,7 @@ scarica_iss_byage="sì"
 if [ "$scarica_iss_byage" = "sì" ]; then
   cat "$folder"/rawdata/"$dataset"_regione | while read regione; do
     cat "$folder"/rawdata/"$dataset"_dati | while read dati; do
-      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
+      curl -kL "https://covid19.infn.it/iss/plots/${dataset}_${regione}_${dati}.div" | grep -P '.+"hoverinfo".+' | grep -oP '\(.+\)' | sed -r 's/, *\{"annot.+//g;' | grep -oP '\[.+\]' >"$folder"/processing/"$dataset"/"$dataset"_"$regione"_"$dati".json
     done
   done
 fi
