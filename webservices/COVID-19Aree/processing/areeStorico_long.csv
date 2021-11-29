@@ -409,7 +409,6 @@ datasetIniISO,NUTS_code,zona
 2021-05-24,ITC2,gialla
 2021-05-31,ITF2,bianca
 2021-05-31,ITG2,bianca
-2021-05-31,ITH4,bianca
 2021-06-07,ITH3,bianca
 2021-06-07,ITF1,bianca
 2021-06-07,ITC3,bianca
@@ -432,3 +431,4 @@ datasetIniISO,NUTS_code,zona
 2021-09-13,ITG1,gialla
 2021-09-27,ITG1,gialla
 2021-10-09,ITG1,bianca
+2021-11-29,ITH4,gialla

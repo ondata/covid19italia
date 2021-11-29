@@ -40,7 +40,7 @@ datasetIniISO,ITF6,ITF3,ITI4,ITC4,ITF2,ITC1,ITH2,ITF4,ITG2,ITG1,ITC2,ITH3,ITF1,I
 2021-05-10,gialla,,,,,,,gialla,,arancione,arancione,,,gialla,,,,,,,,
 2021-05-17,,,,,,,,,gialla,gialla,,,,,,,,,,,,
 2021-05-24,,,,,,,,,,,gialla,,,,,,,,,,,
-2021-05-31,,,,,bianca,,,,bianca,,,,,,,,,,,bianca,,
+2021-05-31,,,,,bianca,,,,bianca,,,,,,,,,,,,,
 2021-06-07,,,,,,,,,,,,bianca,bianca,,bianca,,,bianca,,,,
 2021-06-14,,,bianca,bianca,,bianca,bianca,bianca,,,,,,,,,,,bianca,,,
 2021-06-21,bianca,bianca,,,,,,,,bianca,,,,bianca,,bianca,bianca,,,,bianca,
@@ -49,3 +49,4 @@ datasetIniISO,ITF6,ITF3,ITI4,ITC4,ITF2,ITC1,ITH2,ITF4,ITG2,ITG1,ITC2,ITH3,ITF1,I
 2021-09-13,,,,,,,,,,gialla,,,,,,,,,,,,
 2021-09-27,,,,,,,,,,gialla,,,,,,,,,,,,
 2021-10-09,,,,,,,,,,bianca,,,,,,,,,,,,
+2021-11-29,,,,,,,,,,,,,,,,,,,,gialla,,
