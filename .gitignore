@@ -27,3 +27,4 @@ webservices/INFN_iss/rawdata/*
 webservices/INFN_iss/processing/iss_age_date/*.csv
 webservices/INFN_iss/processing/iss_bydate_italia/regioni/*
 webservices/INFN_iss/processing/iss_80plus/*.csv
+webservices/INFN_iss/processing/*/*.json
