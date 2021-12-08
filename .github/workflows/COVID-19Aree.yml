@@ -5,6 +5,7 @@ on:
   repository_dispatch:
   schedule:
     - cron:  '37 2,7,8,17 * * *'
+  workflow_dispatch:
 
 jobs:
   scheduled:
