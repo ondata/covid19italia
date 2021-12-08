@@ -97,6 +97,8 @@ fill="#e2001a" d="m733.25 763.44c-0.28304 8e-3 -0.56492 0.0313-0.8125 0.0625s-0.
 
 Estraiamo da qui questo CSV: [`areeGov.csv`](./processing/areeGov.csv).
 
+**NOTA BENE**: l'SVG dal 1 dicembre 2021 non è più disponibile, pertanto è stato stoppato il download.
+
 ### La pagina "COVID-19 - Situazione in Italia" del sito del Ministero della Salute
 
 La pagina "[COVID-19 - Situazione in Italia](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?area=nuovoCoronavirus&id=5351&lingua=italiano&menu=vuoto)" del sito del Ministero della Salute, contiene del codice `HTML` da cui è possibile estrarre l'accoppiata colori zone/regioni-province autonome

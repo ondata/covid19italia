@@ -177,21 +177,27 @@ code=$(curl -s -L -o /dev/null -w '%{http_code}' "$URL")
 # se il sito è raggiungibile scarica e "lavora" i dati
 if [ $code -eq 200 ]; then
 
-  # estrai da SVG governativa
-  curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg' | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")' >"$folder"/rawdata/areeGov.csv
+  # dal primo dicembre 2021 l'SVG fonte non è più presente, quindi il download è stato disabilitato
+  estraiColoreFAQ="no"
 
-  mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
+  if [ $estraiColoreFAQ == "si" ]; then
 
-  mlr -I --csv put -S 'if ($colore==""){$colore="bianco"}else{$colore=$colore}' "$folder"/rawdata/tmp.csv
+    # estrai da SVG governativa
+    curl -kL "http://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638" | scrape -be '//svg' | xq '[.html.body.svg.g[].path[]|{id:.["@id"]?,colore:.["@onclick"]?}]' | mlr --j2c skip-trivial-records then put -S '$colore=sub($colore,"^.+[(].","");$colore=sub($colore,".[)]$","")' >"$folder"/rawdata/areeGov.csv
 
-  # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
-  conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
+    mlr --csv join --ul -j id -f "$folder"/rawdata/areeGov.csv then unsparsify "$folder"/risorse/codiciSVGGoverno.csv >"$folder"/rawdata/tmp.csv
 
-  if [[ $conteggio == 22 ]]; then
+    mlr -I --csv put -S 'if ($colore==""){$colore="bianco"}else{$colore=$colore}' "$folder"/rawdata/tmp.csv
 
-    mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
-    dos2unix "$folder"/processing/areeGov.csv
+    # crea file di output soltanto se composto da 21 regioni NUTS2, più intestazione
+    conteggio=$(wc <"$folder"/rawdata/tmp.csv -l)
 
+    if [[ $conteggio == 22 ]]; then
+
+      mv "$folder"/rawdata/tmp.csv "$folder"/processing/areeGov.csv
+      dos2unix "$folder"/processing/areeGov.csv
+
+    fi
   fi
 
   # dati di insieme numero giorni regioni in zone
@@ -215,7 +221,7 @@ if [ $code -eq 200 ]; then
     echo "è minore"
   fi
 
-  mlr --csv reshape -r "[0-9]" -o item,value then sort -f item,datasetIniISO then filter -S '$datasetIniISO>"2020-11-14"' then rename item,NUTS_code,value,zona "$folder"/processing/areeStorico_wide_fill_down.csv | mlr --csv put -S '$c=strptime($datasetIniISO,"%Y-%m-%d")' then step -a delta -f c -g NUTS_code then step -a shift -f zona -g NUTS_code then stats1 -a sum -f c_delta -g NUTS_code,zona_shift then put '$c_delta_sum=int($c_delta_sum/60/60/24)' then rename zona_shift,zona  then filter -x -S '$zona==""' then reshape -s zona,c_delta_sum then unsparsify >"$folder"/processing/areeStorico_giorni_nuts_wide.csv
+  mlr --csv reshape -r "[0-9]" -o item,value then sort -f item,datasetIniISO then filter -S '$datasetIniISO>"2020-11-14"' then rename item,NUTS_code,value,zona "$folder"/processing/areeStorico_wide_fill_down.csv | mlr --csv put -S '$c=strptime($datasetIniISO,"%Y-%m-%d")' then step -a delta -f c -g NUTS_code then step -a shift -f zona -g NUTS_code then stats1 -a sum -f c_delta -g NUTS_code,zona_shift then put '$c_delta_sum=int($c_delta_sum/60/60/24)' then rename zona_shift,zona then filter -x -S '$zona==""' then reshape -s zona,c_delta_sum then unsparsify >"$folder"/processing/areeStorico_giorni_nuts_wide.csv
 
   mlr --csv join --ul -j NUTS_code -f "$folder"/processing/areeStorico_giorni_nuts_wide.csv then unsparsify "$folder"/risorse/codici.csv >"$folder"/processing/tmp.csv
 
