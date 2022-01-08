@@ -1,22 +1,22 @@
 NUTS_code,rossa,arancione,gialla,bianca,nomeTesto,NUTS_level
-ITF3,73,45,100,200,Campania,2
-ITC2,66,73,86,193,Valle d'Aosta,2
-ITC4,59,90,66,203,Lombardia,2
-ITF4,52,65,94,207,Puglia,2
-ITC1,52,62,101,203,Piemonte,2
-ITH1,49,104,97,168,Provincia autonoma Bolzano,2
-ITF5,46,67,105,200,Basilicata,2
-ITI1,45,80,93,200,Toscana,2
-ITF6,38,125,80,175,Calabria,2
-ITH5,38,104,69,207,Emilia-Romagna,2
-ITH4,38,62,136,182,Friuli Venezia Giulia,2
-ITF1,34,106,64,214,Abruzzo,2
-ITG2,34,73,69,242,Sardegna,2
-ITF2,34,45,118,221,Molise,2
-ITH3,33,88,101,196,Veneto,2
-ITH2,33,53,143,189,Provincia autonoma Trento,2
-ITI3,32,75,129,182,Marche,2
-ITI4,32,40,143,203,Lazio,2
-ITG1,28,128,106,156,Sicilia,2
-ITI2,13,122,69,214,Umbria,2
-ITC3,13,102,107,196,Liguria,2
+ITF3,73,45,100,201,Campania,2
+ITC2,66,73,86,194,Valle d'Aosta,2
+ITC4,59,90,67,203,Lombardia,2
+ITF4,52,65,94,208,Puglia,2
+ITC1,52,62,102,203,Piemonte,2
+ITH1,49,104,98,168,Provincia autonoma Bolzano,2
+ITF5,46,67,105,201,Basilicata,2
+ITI1,45,80,93,201,Toscana,2
+ITF6,38,125,81,175,Calabria,2
+ITH5,38,104,69,208,Emilia-Romagna,2
+ITH4,38,62,137,182,Friuli Venezia Giulia,2
+ITF1,34,106,64,215,Abruzzo,2
+ITG2,34,73,69,243,Sardegna,2
+ITF2,34,45,118,222,Molise,2
+ITH3,33,88,102,196,Veneto,2
+ITH2,33,53,144,189,Provincia autonoma Trento,2
+ITI3,32,75,130,182,Marche,2
+ITI4,32,40,144,203,Lazio,2
+ITG1,28,128,107,156,Sicilia,2
+ITI2,13,122,69,215,Umbria,2
+ITC3,13,102,108,196,Liguria,2
