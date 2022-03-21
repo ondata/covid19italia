@@ -115,7 +115,7 @@ from tmp"
         {$zona="bianca"}
       else
         {$zona="NA"}' then \
-    put -S '$datasetIniISO = strftime(strptime($datasetIni, "%d/%m/%Y"),"%Y-%m-%d");$datasetFinISO = if($datasetFin=~"[0-9]{2}/[0-9]{2}/[0-9]{4}"){strftime(strptime($datasetFin, "%d/%m/%Y"),"%Y-%m-%d")}else{""}' then \
+    put -S '$datasetIniISO = strftime(strptime($datasetIni, "%d/%m/%Y"),"%Y-%m-%d");if($datasetFin=~"[0-9]{2}/[0-9]{2}/[0-9]{4}"){$datasetFinISO = strftime(strptime($datasetFin, "%d/%m/%Y"),"%Y-%m-%d")}else{$datasetFinISO = ""}' then \
     sort -f datasetIniISO,nomeTesto then put -S '$versionID=sub($versionID,"^0+","")' "$folder"/processing/areeStorico.csv
 
   # aggiungi codici NUTS
