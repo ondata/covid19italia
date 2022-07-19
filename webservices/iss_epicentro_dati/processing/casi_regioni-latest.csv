@@ -1,22 +1,23 @@
-iss_date,NOME_NUTS2,CASI_CUMULATIVI
-18/07/2022,Abruzzo,475907
-18/07/2022,Basilicata,162469
-18/07/2022,Calabria,411717
-18/07/2022,Campania,2018884
-18/07/2022,Emilia-Romagna,1689567
-18/07/2022,Friuli-Venezia Giulia,418846
-18/07/2022,Lazio,1936025
-18/07/2022,Liguria,512183
-18/07/2022,Lombardia,3253165
-18/07/2022,Marche,518721
-18/07/2022,Molise,77224
-18/07/2022,Piemonte,1315200
-18/07/2022,Provincia Autonoma di Bolzano/Bozen,232759
-18/07/2022,Provincia Autonoma di Trento,187431
-18/07/2022,Puglia,1334127
-18/07/2022,Sardegna,406028
-18/07/2022,Sicilia,1496798
-18/07/2022,Toscana,1352759
-18/07/2022,Umbria,343332
-18/07/2022,Valle d'Aosta/Vallée d'Aoste,40318
-18/07/2022,Veneto,1999323
+NOME_NUTS2,CASI_CUMULATIVI,iss_date
+Abruzzo,480710,19/07/2022
+Basilicata,166039,19/07/2022
+Calabria,420482,19/07/2022
+Campania,2021381,19/07/2022
+Emilia-Romagna,1693740,19/07/2022
+Friuli-Venezia Giulia,420960,19/07/2022
+Lazio,1967204,19/07/2022
+Liguria,516076,19/07/2022
+Lombardia,3256389,19/07/2022
+Marche,519702,19/07/2022
+Molise,78578,19/07/2022
+Piemonte,1319928,19/07/2022
+Provincia Autonoma di Bolzano/Bozen,238976,19/07/2022
+Provincia Autonoma di Trento,187607,19/07/2022
+Puglia,1343965,19/07/2022
+Sardegna,409047,19/07/2022
+Sicilia,1506670,19/07/2022
+Toscana,1358782,19/07/2022
+Umbria,344002,19/07/2022
+Valle d'Aosta/Vallée d'Aoste,33136,19/07/2022
+Veneto,2014416,19/07/2022
+Valle d'Aosta/Vall?e d'Aoste,7846,19/07/2022
