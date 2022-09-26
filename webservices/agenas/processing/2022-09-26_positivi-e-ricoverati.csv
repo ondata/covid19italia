@@ -1,2 +1,23 @@
-name,rows,cols,id,classes,fonte
-links,0,5,#ERR,#ERR,
+Regione/PA,Nuovi positivi,Casi totali,Totale Positivi (Totale attualmente positivi),Totale Positivi (per 100.000 ab),Totale Ospedalizzati,Totale Ospedalizzati COVID-19 / Totale Positivi,Pz attualmente ricoverati con sintomi in AREA NON CRITICA,Pz attualmente ricoverati in AREA NON CRITICA (per 100.000 ab),Var % giornaliera pz attualmente in AREA NON CRITICA,Pz attualmente ricoverati in TERAPIA INTENSIVA,Pz attualmente ricoverati in TERAPIA INTENSIVA (per 100.000 ab),Var % giornaliera pz attualmente pos in TERAPIA INTENSIVA,fonte
+Abruzzo,553,554.363,27.864,2.175,117,0%,115,9,550%,2,016,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Basilicata,117,182.878,4.827,885,16,0%,16,3,000%,0,000,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Calabria,467,553.948,37.811,2.032,120,0%,116,6,360%,4,021,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Campania,1.444,2.221.310,40.900,727,221,1%,212,4,-090%,9,016,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Emilia-Romagna,1.595,1.853.308,16.980,383,592,3%,574,13,090%,18,041,-1000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Friuli Venezia Giulia,501,487.673,6.003,500,114,2%,110,9,1960%,4,033,3330%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Lazio,1.834,2.058.066,40.250,702,358,1%,333,6,-060%,25,044,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Liguria,448,571.783,4.994,329,110,2%,108,7,090%,2,013,-3330%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Lombardia,3.120,3.543.439,39.668,397,451,1%,443,4,-260%,8,008,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Marche,616,617.510,3.560,238,58,2%,54,4,380%,4,027,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Molise,88,89.713,3.701,1.258,7,0%,7,2,-2220%,0,000,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+P.A. Bolzano,229,261.394,2.784,520,63,2%,61,11,1300%,2,037,-3330%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+P.A. Trento,353,210.974,2.806,518,56,2%,55,10,2500%,1,018,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Piemonte,1.590,1.463.103,34.191,800,271,1%,264,6,-400%,7,016,1670%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Puglia,706,1.472.955,9.256,235,103,1%,96,2,-100%,7,018,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Sardegna,232,447.440,4.188,263,57,1%,51,3,200%,6,038,-1430%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Sicilia,779,1.644.138,22.450,464,184,1%,172,4,-170%,12,025,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Toscana,911,1.397.350,82.733,2.240,175,0%,170,5,490%,5,014,2500%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Umbria,472,374.181,3.857,446,108,3%,106,12,600%,2,023,10000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Valle d'Aosta,25,44.330,561,452,6,1%,6,5,000%,0,000,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Veneto,2.717,2.253.750,38.902,799,259,1%,252,5,-310%,7,014,000%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
+Italia,18.797,22.303.606,428.286,723,3.446,1%,3.321,6,090%,125,021,-080%,Dati della Protezione Civile del 25 Settembre 2022 ore 23:45
