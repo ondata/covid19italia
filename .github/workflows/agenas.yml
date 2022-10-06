@@ -17,6 +17,7 @@ jobs:
         fetch-depth: 0
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa visidata, installa chrome headless
       run: |-
+        sudo apt-get install -y visidata
         sudo apt-get install -y libappindicator1 fonts-liberation
         sudo apt-get -f install
         wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -29,7 +30,6 @@ jobs:
         chmod +x scrape
         sudo apt-get install python3-setuptools
         pip3 install wheel
-        pip3 install visidata
         pip3 install lxml
         sudo pip install yq
         sudo apt-get install dateutils
