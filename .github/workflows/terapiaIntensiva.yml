@@ -17,6 +17,7 @@ jobs:
         fetch-depth: 0
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller e installa moreutils
       run: |-
+        sudo apt-get update
         sudo apt-get install miller
         sudo apt-get install dos2unix
     - name: scarica i dati
