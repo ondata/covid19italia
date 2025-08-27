@@ -184,7 +184,7 @@ Ringraziamo Luca Salvioli Mariani ([Il Sole 24 Ore](https://www.ilsole24ore.com/
 - [Guenter Richter](https://twitter.com/grichter) > <https://s3.eu-west-1.amazonaws.com/rc.ixmaps.com/ixmaps/app/Viewer/index.html?project=https://gjrichter.github.io/viz/COVID-19/projects/ixmaps_project_OnData_Prov2019_COVID_shape_numbers_curve.json>
 - [Alessio Passalacqua](https://twitter.com/alessiopassah2o) > <https://alessiopassalacqua.github.io/covid19_italy/>
 - [Riccardo Tasso](https://twitter.com/riccardotasso) > <https://public.flourish.studio/visualisation/1514619/>
-- [Antonio Poggi](https://twitter.com/Pogs_A) > <http://daily.omniscope.me/Demo/Health/Coronavirus.iox/r/Covid-19+Italia/>
+- [Antonio Poggi](https://twitter.com/Pogs_A) > <https://omniscope.me/public/health/Coronavirus.iox/r/Covid-19+Italia/>
 - [Franco Mossotto](https://twitter.com/FMossotto) > <http://bit.ly/CoronaVirusItaliaDataStudio>
 - [Salvatore Fiandaca](https://twitter.com/totofiandaca) > <https://pigrecoinfinito.com/2020/03/10/qgis-creare-grafici-con-incrementi-giornalieri>
 - [Hey, Teacher](https://github.com/heyteacher) > <https://heyteacher.github.io/COVID-19/>
