@@ -1,6 +1,3 @@
-{"data_inizio_sintomi":"2023-06-16T00:00:00.000","casi_totali":"61","st_lieve_pau_severo_grave_g":"61"}
-{"data_inizio_sintomi":"2023-06-17T00:00:00.000","casi_totali":"56","solo_st_guarito":"1","st_lieve_pau_severo_grave_g":"54","st_lieve_pau_severo_grave_d":"1"}
-{"data_inizio_sintomi":"2023-06-18T00:00:00.000","casi_totali":"20","st_lieve_pau_severo_grave_g":"20"}
 {"data_inizio_sintomi":"2023-06-19T00:00:00.000","casi_totali":"49","solo_st_guarito":"1","st_lieve_pau_severo_grave_g":"48"}
 {"data_inizio_sintomi":"2023-06-20T00:00:00.000","casi_totali":"58","solo_st_guarito":"11","st_lieve_pau_severo_grave_g":"47"}
 {"data_inizio_sintomi":"2023-06-21T00:00:00.000","casi_totali":"31","solo_st_guarito":"1","st_lieve_pau_severo_grave_g":"30"}
@@ -148,7 +145,7 @@
 {"data_inizio_sintomi":"2023-11-10T00:00:00.000","casi_totali":"148","st_lieve_pau_severo_grave_g":"133","st_lieve_pau_severo_grave_d":"14","st_asintomatico_g":"1"}
 {"data_inizio_sintomi":"2023-11-11T00:00:00.000","casi_totali":"113","solo_st_guarito":"2","st_lieve_pau_severo_grave_g":"106","st_lieve_pau_severo_grave_d":"3","st_asintomatico_g":"2"}
 {"data_inizio_sintomi":"2023-11-12T00:00:00.000","casi_totali":"79","solo_st_guarito":"4","st_lieve_pau_severo_grave_g":"70","st_lieve_pau_severo_grave_d":"3","st_asintomatico_g":"2"}
-{"data_inizio_sintomi":"2023-11-13T00:00:00.000","casi_totali":"211","solo_st_guarito":"1","st_lieve_pau_severo_grave_g":"189","st_lieve_pau_severo_grave_d":"9","st_asintomatico_g":"12"}
+{"data_inizio_sintomi":"2023-11-13T00:00:00.000","casi_totali":"211","solo_st_guarito":"1","st_lieve_pau_severo_grave_g":"179","st_lieve_pau_severo_grave_d":"19","st_asintomatico_g":"12"}
 {"data_inizio_sintomi":"2023-11-14T00:00:00.000","casi_totali":"188","solo_st_guarito":"11","st_lieve_pau_severo_grave_g":"129","st_lieve_pau_severo_grave_d":"25","st_asintomatico_g":"23"}
 {"data_inizio_sintomi":"2023-11-15T00:00:00.000","casi_totali":"138","solo_st_guarito":"10","st_lieve_pau_severo_grave_g":"119","st_lieve_pau_severo_grave_d":"6","st_asintomatico_g":"3"}
 {"data_inizio_sintomi":"2023-11-16T00:00:00.000","casi_totali":"163","solo_st_guarito":"14","st_lieve_pau_severo_grave_g":"143","st_lieve_pau_severo_grave_d":"6"}
@@ -998,3 +995,6 @@
 {"data_inizio_sintomi":"2026-04-09T00:00:00.000","casi_totali":"2","st_lieve_pau_severo_grave_g":"2"}
 {"data_inizio_sintomi":"2026-04-11T00:00:00.000","casi_totali":"2","st_lieve_pau_severo_grave_g":"2"}
 {"data_inizio_sintomi":"2026-04-12T00:00:00.000","casi_totali":"1","st_lieve_pau_severo_grave_g":"1"}
+{"data_inizio_sintomi":"2026-04-14T00:00:00.000","casi_totali":"1","st_lieve_pau_severo_grave_g":"1"}
+{"data_inizio_sintomi":"2026-04-19T00:00:00.000","casi_totali":"2","st_lieve_pau_severo_grave_g":"2"}
+{"data_inizio_sintomi":"2026-04-20T00:00:00.000","casi_totali":"1","solo_st_lieve_pau_severo":"1"}
